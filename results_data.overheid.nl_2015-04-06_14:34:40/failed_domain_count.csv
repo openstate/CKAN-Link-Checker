@@ -1,0 +1,69 @@
+735,geoservices.provincie-utrecht.nl
+358,ags.prvgld.nl
+163,geoservices.zuid-holland.nl
+135,geoservices.provinciegroningen.nl
+102,ags101.prvgld.nl
+64,lgk.gbo-provincies.nl
+62,geo-portaal.zuid-holland.nl
+60,beta.columby.com
+47,geodata2.prvgld.nl
+42,geo.flevoland.nl
+36,geodata.nationaalgeoregister.nl
+33,www.rijkswaterstaat.nl
+32,www.helpdeskwater.nl
+28,wioninspire.geodan.nl
+28,servicespub.risicokaart.nl
+26,services.inspire-provincies.nl
+18,www.gdngeoservices.nl
+16,Server=b_geomagazijn; Service=sde:oracle11g:b_geomagazijn; User=geo; Version=SDE.DEFAULT
+15,gis.noord-holland.nl
+11,\\Dattero\kgodata\Geo_Data\Metadata\metadata.gdb
+11,geoservice.pbl.nl
+11,geoportaal.fryslan.nl
+8,Server=sde; Service=sde:oracle$sde:oracle11g:geopp; User=verkeer; Version=SDE.DEFAULT
+8,Server=sde; Service=sde:oracle$sde:oracle11g:geopp; User=milieu; Version=SDE.DEFAULT
+8,zldagsontw.zeeland.nl
+6,ec.europa.eu
+5,www.toerismevelsen.nl
+5,zoekdienst.overheid.nl
+5,www.broinspireservices.nl
+5,gisserver1.agro.nl
+4,europa.eu
+4,\\FS-OES-GEOP01\DATA4\GEO\Projecten\Algemeen\Provinciaalgeoregister\metadata\kopie_PGR_datasets_PNBW.gdb
+3,www.amersfoort.nl
+3,data.knmi.nl
+2,maps.noord-holland.nl
+2,Server=sde; Service=sde:oracle$sde:oracle11g:geopp; User=econ_zaken; Version=SDE.DEFAULT
+2,Server=local_oracle; Service=sde:oracle11g:
+2,Server=sde; Service=sde:oracle$sde:oracle11g:geopp; User=nat_land; Version=SDE.DEFAULT
+2,Service=sde:oracle11g:
+2,live.getij.nl
+2,intranet.rijkswaterstaat.nl
+1,Server=sde; Service=sde:oracle$sde:oracle11g:geop; User=recreatie; Version=SDE.DEFAULT
+1,www.denhaag.nl
+1,www.nationaalgeoregister.nl
+1,www.amsterdam.nl
+1,Server=sde; Service=sde:oracle$sde:oracle11g:geop; User=milieu; Version=SDE.DEFAULT
+1,www.liander.nl
+1,geoservices.provincie-utrecht.nl:80
+1,www.arnhem.nl
+1,geoservices.provincie-utrecht.nl:6080
+1,eculture.cs.vu.nl
+1,data.duo.nl
+1,Server=skp10.zwolle.intern; Service=5152; User=geo; Version=SDE.DEFAULT
+1,\\FS_GEO\DATA4\GEO\Projecten\Algemeen\Provinciaalgeoregister\metadata\kopie_PGR_datasets_PNBW.gdb
+1,geoservices2.provinciegroningen.nl
+1,\\provgron\Data\GeoOpslag\Projectdata\Gezondheidskaart.gdb
+1,Server=sde; Service=sde:oracle$sde:oracle11g:geop; User=veiligheid; Version=SDE.DEFAULT
+1,appl.agentschaptelecom.nl
+1,markvastrd
+1,geotestservices.provincie-utrecht.nl
+1,www.aaenmaas.nl
+1,geoinformatie.aaenmaas.nl
+1,ro.delft.nl
+1,Server=sde; Service=sde:oracle$sde:oracle11g:geop; User=wegen; Version=SDE.DEFAULT
+1,www.pianoo.nl
+1,Server=sde; Service=sde:oracle$sde:oracle11g:geopt; User=veiligheid; Version=SDE.DEFAULT
+1,data.waterkwaliteitsportaal.nl
+1,62.112.238.40
+1,648c7b28-13f7-4a5b-b684-e3f4cdf528c5
