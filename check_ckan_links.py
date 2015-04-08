@@ -135,15 +135,16 @@ with open('packages.csv', 'w') as ALL_OUT:
                 time.sleep(timeout)
             try:
                 r = session.get(endpoint + 'package_show?id=' + dataset_name)
+                r.raise_for_status()
                 go = False
-            except requests.exceptions.ConnectionError:
+            except (requests.exceptions.HTTPError,
+                    requests.exceptions.ConnectionError):
                 timeout += 10
                 continue
 
         if timeout > 0:
             timeout -= 1
 
-        r.raise_for_status()
         rjson = r.json()
 
         # Save the returned JSON result for this dataset
@@ -173,11 +174,11 @@ with open('packages.csv', 'w') as ALL_OUT:
                 # failed_resources.csv if it fails
                 try:
                     r = session.get(resource['url'], timeout=60)
-                except (urllib3.exceptions.LocationParseError,
-                        requests.exceptions.ConnectionError,
+                except (socket.timeout,
                         requests.exceptions.Timeout,
                         requests.exceptions.InvalidURL,
-                        socket.timeout) as e:
+                        requests.exceptions.ConnectionError,
+                        urllib3.exceptions.LocationParseError) as e:
                     print str(e) + ' : ' + resource['url']
                     append_csv(
                         'failed_resources.csv',
