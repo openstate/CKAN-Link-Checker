@@ -93,8 +93,10 @@ if rjson['success'] == False:
 
 dataset_names = rjson['result']
 
+parsed_endpoint = urlparse(endpoint)
 # Create folders to save the results in
-folder_name = 'results_%s' % (
+folder_name = 'results_%s_%s' % (
+        parsed_endpoint[1],
         datetime.now().strftime('%Y-%m-%d_%H:%M:%S')
     )
 if not os.path.exists(folder_name):
