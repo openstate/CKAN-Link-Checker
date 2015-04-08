@@ -10,11 +10,10 @@ This little hacky script can be used to check whether the links to data on a CKA
 
 ## Result folder content description
 
-* failed_domain_count.csv lists how many times a domain contained a failed resource
-* failed_packages.csv     list of all packages (i.e. datasets) which failed because none of its resources (i.e. links to data) succeeded
-* failed_resources.csv    list of failed resoures (i.e. links to data)
-* package_list.json       json result showing all packages (i.e. datasets) from https://data.overheid.nl/data/api/3/action/package_list
-* packages.csv            list of all checked packages (i.e. datasets) showing how many of the dataset's resources succeeded with a status code 200 (ok_resources),
-*                         the total number of resources for this dataset (num_resources) and the dataset's id, name and maintainer
-* packages_json/          folder containing all the raw json files returned by the data.overheid.nl API for all packages
-* statistics.txt          contains two statistics, the number of working data links and the number of packages/datasets without any data links
+* **failed_domain_count.csv**: lists how many times a domain contained a failed resource
+* **failed_packages.csv**: list of all packages (i.e. datasets) which failed because none of its resources (i.e. links to data) succeeded
+* **failed_resources.csv**: list of failed resoures (i.e. links to data)
+* **package_list.json**: json result showing all packages (i.e. datasets) from https://data.overheid.nl/data/api/3/action/package_list
+* **packages.csv**: list of all checked packages (i.e. datasets) showing how many of the dataset's resources succeeded with a status code 200 (`ok_resources`), the total number of resources for this dataset (`num_resources)` and the dataset's `id`, `name` and `maintainer`
+* **packages_json/**: folder containing all the raw json files returned by the data.overheid.nl API for all packages
+* **statistics.txt**: contains two statistics, the number of working data links and the number of packages/datasets without any data links
