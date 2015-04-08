@@ -122,7 +122,7 @@ with open('packages.csv', 'w') as ALL_OUT:
         'maintainer'
     ])
 
-    # Process a each dataset/package
+    # Process each dataset/package
     for dataset_name in dataset_names:
         print '\n' + dataset_name
 
