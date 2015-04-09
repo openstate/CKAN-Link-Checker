@@ -122,7 +122,6 @@ with open('packages.csv', 'w') as ALL_OUT:
         'maintainer'
     ])
 
-    dataset_names = dataset_names[dataset_names.index('long-term-average-1981-2010-average-yearly-minimum-temperature-01'):]
     # Process each dataset/package
     for dataset_name in dataset_names:
         print '\n' + dataset_name
