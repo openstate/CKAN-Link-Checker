@@ -1,0 +1,173 @@
+{
+    "owner_org": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+    "maintainer": "http://data.overheid.nl/organisatie/odn", 
+    "relationships_as_object": [], 
+    "md_uri": "", 
+    "private": false, 
+    "maintainer_email": "onbekend@eu.nl", 
+    "num_tags": 8, 
+    "id": "669ba320-e6a1-4c17-9266-b94c5b05a7ff", 
+    "metadata_created": "2015-03-26T15:44:37.505569", 
+    "conforms_to": "", 
+    "metadata_modified": "2015-03-30T14:03:56.925096", 
+    "author": "http://data.overheid.nl/organisatie/ec", 
+    "author_email": "", 
+    "isopen": true, 
+    "state": "active", 
+    "source": "admin", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Europese_zaken", 
+    "version": "", 
+    "maintainer_facet": "http://data.overheid.nl/organisatie/odn", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Internationaal", 
+    "grondslag": "", 
+    "license_id": "cc-0", 
+    "contact_point": "drupal@indicia.nl", 
+    "type": "dataset", 
+    "lod_stars": "3", 
+    "resources": [
+        {
+            "resource_group_id": "e934889c-d400-4e08-8343-694c9d6b7f3f", 
+            "cache_last_updated": null, 
+            "bytesize": "0", 
+            "revision_timestamp": "2015-03-26T15:44:37.505569", 
+            "webstore_last_updated": null, 
+            "id": "4fa98097-ca73-470a-af59-f4a40752c483", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "XML", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Lijst met keywords Europese Commissie", 
+            "created": "2015-03-26T16:44:37.560712", 
+            "url": "http://europa.eu/rapid/syndication/displayXml.do?name=keywords&type=KEYWORD", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "487c668d-31bb-4dea-a562-dec435ca5cc5", 
+            "resource_type": null
+        }
+    ], 
+    "temporal_to": "", 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "commissie", 
+            "name": "commissie", 
+            "revision_timestamp": "2015-03-26T15:44:37.505569", 
+            "state": "active", 
+            "id": "2d53e45d-fa0b-49b1-ba47-cfed7e4aa5c7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "eu", 
+            "name": "eu", 
+            "revision_timestamp": "2015-03-26T15:44:37.505569", 
+            "state": "active", 
+            "id": "f4cefb0c-8ed9-467c-88a3-58c9bc36569b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "europa", 
+            "name": "europa", 
+            "revision_timestamp": "2015-03-26T15:44:37.505569", 
+            "state": "active", 
+            "id": "111fc35c-6de4-46aa-aaf8-ada43326cc3b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "europese", 
+            "name": "europese", 
+            "revision_timestamp": "2015-03-26T15:44:37.505569", 
+            "state": "active", 
+            "id": "8ddae3f0-45fa-44ee-b3c3-bf0dd8c33031"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "keywords", 
+            "name": "keywords", 
+            "revision_timestamp": "2015-03-26T15:44:37.505569", 
+            "state": "active", 
+            "id": "853795ed-9b7f-4ae3-bbcc-dc94a778adfc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "lijst", 
+            "name": "lijst", 
+            "revision_timestamp": "2015-03-26T15:44:37.505569", 
+            "state": "active", 
+            "id": "55a90f3d-cdb2-43f5-b39f-2fab7bab8db0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "schema", 
+            "name": "schema", 
+            "revision_timestamp": "2015-03-26T15:44:37.505569", 
+            "state": "active", 
+            "id": "fcaa4992-fbf9-4ebf-9199-aa032d0ad00b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "unie", 
+            "name": "unie", 
+            "revision_timestamp": "2015-03-26T15:44:37.505569", 
+            "state": "active", 
+            "id": "5a0a5f8d-f075-4a16-a72b-55d56ca39452"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Internationaal", 
+    "maintainer_displayname": "Europa | Europese Commissie", 
+    "theme_displayname": "Internationaal | Europese zaken", 
+    "temporal_from": "", 
+    "grondslag_citeertitel": "", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "f8e76669-0998-4bb2-af74-ebe47f5c8547", 
+    "relationships_as_subject": [], 
+    "version_notes": "", 
+    "revision_timestamp": "2015-03-30T14:03:56.924213", 
+    "organization": {
+        "description": "", 
+        "title": "Data.overheid.nl dataregister", 
+        "created": "2015-03-26T12:55:33.649152", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-28T12:06:47.218165", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115533.618291donl.png", 
+        "revision_id": "5bd836a3-c1bf-4b89-8f4c-dffb9c6ac3ed", 
+        "type": "organization", 
+        "id": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+        "name": "data-overheid-nl"
+    }, 
+    "name": "lijst-met-keywords-europese-commissie", 
+    "language": "nl-NL", 
+    "rights": "", 
+    "accrual_periodicity": "", 
+    "notes": "Een lijst met alle keywords zoals die in de verschillende feeds worden gebruikt door de Europese Commssie.", 
+    "license_title": "CC-0", 
+    "modified": "2015-03-30", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Europese_zaken", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "title": "Lijst met keywords Europese Commissie", 
+    "revision_id": "8d8981dc-68ae-473e-aa7e-0dd86aaa2050", 
+    "landingpage": "http://europa.eu/rapid/syndication/displayXml.do?name=keywords&type=KEYWORD"
+}

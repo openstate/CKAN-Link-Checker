@@ -1,0 +1,167 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://data.overheid.nl/organisatie/agrifood", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=0de5de64-9f53-41aa-b0a6-ea9d5f526949", 
+    "private": false, 
+    "maintainer_email": "communicatie@agrifoodcapital.nl", 
+    "num_tags": 8, 
+    "id": "5f69344d-33df-49b7-8050-5d0e7e11ecdd", 
+    "metadata_created": "2015-04-01T11:13:51.882183", 
+    "metadata_modified": "2015-04-11T01:37:44.333183", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://data.overheid.nl/organisatie/agrifood", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "86a5afb5-a087-4f65-8030-bc334d2b4383", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:37:44.332286", 
+            "webstore_last_updated": null, 
+            "id": "8ad170f1-b767-4120-bfde-78f4654ba9d3", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Groenblauwe structuren Noordoost Brabant", 
+            "created": "2015-04-11T03:37:44.384876", 
+            "url": "http://geoinformatie.aaenmaas.nl/PDF/WBP_2016_2021/194_NOB_structuurkaart_en_gebiedsopgaven_01.jpg", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "3f693b7f-a46f-4ce7-b122-2ae743c49faa", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Agrifood Capital", 
+            "name": "Agrifood Capital", 
+            "revision_timestamp": "2015-04-01T11:13:51.882183", 
+            "state": "active", 
+            "id": "6cee386f-9d94-4967-93e0-3351c6dcdb99"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Gebiedsopgaven", 
+            "name": "Gebiedsopgaven", 
+            "revision_timestamp": "2015-04-01T11:13:51.882183", 
+            "state": "active", 
+            "id": "69ce7701-a8a4-4945-98b1-4ae8e2edee7c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Groenblauwe structuren", 
+            "name": "Groenblauwe structuren", 
+            "revision_timestamp": "2015-04-01T11:13:51.882183", 
+            "state": "active", 
+            "id": "c54b9e43-08b8-44ae-814d-2ba049d299ab"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Integrale gebiedsopgaven", 
+            "name": "Integrale gebiedsopgaven", 
+            "revision_timestamp": "2015-04-01T11:13:51.882183", 
+            "state": "active", 
+            "id": "5f19c66c-3a9b-422b-beef-35b74456a7ab"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Noordoost Brabant", 
+            "name": "Noordoost Brabant", 
+            "revision_timestamp": "2015-04-01T11:13:51.882183", 
+            "state": "active", 
+            "id": "e878e635-76ef-4aa6-a2f1-2095bd41d021"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WBP", 
+            "name": "WBP", 
+            "revision_timestamp": "2015-04-01T11:13:51.882183", 
+            "state": "active", 
+            "id": "e7b9188a-474d-4f9a-ad2f-f79dcd059497"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheerplan", 
+            "name": "Waterbeheerplan", 
+            "revision_timestamp": "2015-04-01T11:13:51.882183", 
+            "state": "active", 
+            "id": "0582ddc6-9331-46fa-b3f3-7aec9a76993b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheersplan", 
+            "name": "Waterbeheersplan", 
+            "revision_timestamp": "2015-04-01T11:13:51.882183", 
+            "state": "active", 
+            "id": "279aebf7-d887-47a8-a26e-36624d0ff15b"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Groenblauwe structuren Noordoost Brabant, Waterbeheerplan", 
+    "maintainer_displayname": "Leveranciers (geen overheid) | AgriFood Capital", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "2016-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-01T11:13:51.882183", 
+    "identifier": "0de5de64-9f53-41aa-b0a6-ea9d5f526949", 
+    "name": "groenblauwe-structuren-noordoost-brabant-waterbeheerplan-01", 
+    "language": "nl-NL", 
+    "temporal_to": "2021-12-31", 
+    "url": null, 
+    "notes": "(Kansrijke) integrale  gebiedsopgaven met een (potentieel) om samen meerdere doelen te bereiken zijn opgenomen in de uitvoeringsstrategie en programma  Groenblauwe structuren Noordoost Brabant (zie bijgaande figuur). Het waterschap koppelt haar waterprojecten binnen zo\u2019n gebiedsopgave aan de projecten van andere partijen", 
+    "license_title": "Publiek Domein", 
+    "modified": "2014-10-01", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "6a58476a-97e6-47fd-bdd3-f1ae271a2c1e", 
+    "landingpage": ""
+}

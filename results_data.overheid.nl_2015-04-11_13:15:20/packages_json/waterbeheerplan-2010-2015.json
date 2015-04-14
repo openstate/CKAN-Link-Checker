@@ -1,0 +1,183 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=3734da3f-5149-4744-823b-5622d1868a37", 
+    "private": false, 
+    "maintainer_email": "info@aaenmaas.nl", 
+    "num_tags": 10, 
+    "id": "a5d79645-d861-42fd-b861-7378ffd4bf2c", 
+    "metadata_created": "2015-03-26T13:15:43.258398", 
+    "metadata_modified": "2015-04-11T01:40:33.425311", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "2d9e596a-1771-435d-a945-74b60bc8e2bd", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:40:33.424335", 
+            "webstore_last_updated": null, 
+            "id": "286e8df2-d3c6-4aed-852a-78d1d8d408ed", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "http://www.aaenmaas.nl/informatie_op_maat/item_161436/item_200595/waterbeheerplan", 
+            "created": "2015-04-11T03:40:33.478141", 
+            "url": "http://www.aaenmaas.nl/informatie_op_maat/item_161436/item_200595/waterbeheerplan", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "782ad451-68c9-4005-b50f-ca7a751da5b8", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Duurzaamheid", 
+            "name": "Duurzaamheid", 
+            "revision_timestamp": "2015-03-26T13:15:43.258398", 
+            "state": "active", 
+            "id": "931b0a03-4b79-4140-bd93-6eaa5f09fbc6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Efficintie", 
+            "name": "Efficintie", 
+            "revision_timestamp": "2015-03-26T13:15:43.258398", 
+            "state": "active", 
+            "id": "cd4c6021-0fd9-4eb5-b3b6-ff27317cefd0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Externe focus", 
+            "name": "Externe focus", 
+            "revision_timestamp": "2015-03-26T13:15:43.258398", 
+            "state": "active", 
+            "id": "8b1a1594-8e9a-4092-9fd6-37f4e2840cf1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Innovatie", 
+            "name": "Innovatie", 
+            "revision_timestamp": "2015-03-26T13:15:43.258398", 
+            "state": "active", 
+            "id": "f54834dd-9bd2-42d0-9f12-eb460e7208d7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Samenwerking", 
+            "name": "Samenwerking", 
+            "revision_timestamp": "2015-03-26T13:15:43.258398", 
+            "state": "active", 
+            "id": "e06b4e23-1bff-4df2-97f5-e5060f22ef3e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Transparantie", 
+            "name": "Transparantie", 
+            "revision_timestamp": "2015-03-26T13:15:43.258398", 
+            "state": "active", 
+            "id": "2c40a6a1-3720-470c-a838-756239e5cc51"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WBP", 
+            "name": "WBP", 
+            "revision_timestamp": "2015-03-26T13:15:43.258398", 
+            "state": "active", 
+            "id": "e7b9188a-474d-4f9a-ad2f-f79dcd059497"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheer", 
+            "name": "Waterbeheer", 
+            "revision_timestamp": "2015-03-26T13:15:43.258398", 
+            "state": "active", 
+            "id": "adb92d18-db86-47ae-bb7f-84e3d9226e31"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheersplan", 
+            "name": "Waterbeheersplan", 
+            "revision_timestamp": "2015-03-26T13:15:43.258398", 
+            "state": "active", 
+            "id": "279aebf7-d887-47a8-a26e-36624d0ff15b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterschap Aa en Maas", 
+            "name": "Waterschap Aa en Maas", 
+            "revision_timestamp": "2015-03-26T13:15:43.258398", 
+            "state": "active", 
+            "id": "d1f42b54-351c-4775-817c-00dd26460d53"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Waterbeheerplan 2010-2015", 
+    "maintainer_displayname": "Waterschappen | Waterschap Aa en Maas", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "1970-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:15:43.258398", 
+    "identifier": "3734da3f-5149-4744-823b-5622d1868a37", 
+    "name": "waterbeheerplan-2010-2015", 
+    "language": "nl-NL", 
+    "temporal_to": "1970-01-01", 
+    "url": null, 
+    "notes": "Gezamenlijke ambities en eigen verantwoordelijkheid.\nKlimaat en maatschappij veranderen momenteel snel. Om hier ook over vijftig jaar nog\nsteeds comfortabel te kunnen wonen, werken en recre?ren moet de komende jaren veel aan\nhet watersysteem gebeuren. Nieuwe doelstellingen zijn ge\u00efntroduceerd als gevolg van het\nNationaal Bestuursakkoord Water (NBW) en de Kader Richtlijn Water (KRW). Samen met\ngemeenten, provincie en Rijk hebben we bepaald welke maatregelen we moeten uitvoeren\nom onze gemeenschappelijke ambities waar te maken. Omdat we niet alles in een keer\nkunnen doen, moeten we keuzes maken: Wat doen we nu en wat doen we later? In dit\nwaterbeheerplan staan de activiteiten die wij in de periode 2010 ? 2015 gaan uitvoeren.\nDit plan is afgestemd met het Provinciaal waterplan, het Nationaal waterplan en het\nStroomgebiedbeheerplan voor de Maas dat naar aanleiding van de KRW is opgesteld.\n\nWaar staan wij voor?\nGebleken is dat de rol van regievoerder voor het regionale watersysteem ons goed past. Wij\nverwachten dat het Rijk en de partners in de regio ons hierop zullen blijven aanspreken.\nDaarom zullen wij deze regierol voortzetten en uitbouwen. Sleutelbegrippen hierbij zijn:\nexterne focus, samenwerking, effici\u00ebntie, transparantie, duurzaamheid en innovatie. Bij het\nuitvoeren van onze taken houden wij terdege rekening met belangen als recreatie en\ncultuurhistorie.\nBinnen ons beheergebied zijn wij verantwoordelijk voor het waterkeringenbeheer, het\nwaterbeheer en het transporteren en zuiveren van afvalwater. De beleidsuitgangspunten en\nprincipes die wij daarbij hanteren staan in het plan. Door de probleemgerichte uitoefening\nvan onze taak zorgen wij in belangrijke mate voor realisatie van de maatschappelijke\ndoelstellingen voor water:\n? veilig en bewoonbaar beheergebied,\n? voldoende water,\n? schoon water en,\n? natuurlijk en recreatief water.\nDit draagt wezenlijk bij aan de leefbaarheid van de regio.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2015-04-11", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "c0a40cc2-0b22-4eeb-b06b-d15924d8523f", 
+    "landingpage": "Dit Waterbeheerplan is geldig van 22 december 2009 tot 22 december 2015. Het plan is 13\nnovember door het Algemeen Bestuur vastgesteld. Gedeputeerde Staten van de provincie\nNoord- Brabant heeft op 21 december zijn goedkeuring aan het plan gegeven.\nIn het plan is op hoofdlijnen opgenomen wat het waterschap in de periode 2010 ? 2015 gaat\ndoen. Het plan is daarmee koersbepalend voor de activiteiten die het waterschap uitvoert.\nDe in het plan opgenomen maatregelen worden in de vorm van vier uitvoeringsprogramma?s\nnader geconcretiseerd. Via de jaarlijkse begrotingscyclus worden deze uitvoeringsprogramma?s\nbewaakt en zo nodig bijgesteld."
+}

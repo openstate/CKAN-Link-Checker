@@ -1,0 +1,99 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Economische_Zaken", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "geodatabeheer.giscc@dlg.nl", 
+    "num_tags": 3, 
+    "id": "8f9aaec9-c1f6-4b52-8f3a-0666ed3283b2", 
+    "metadata_created": "2015-03-26T13:02:24.034099", 
+    "metadata_modified": "2015-04-11T01:39:23.497449", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Economische_Zaken", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=92884061-83C7-4252-85CC-0C4A47D17140", 
+    "resources": [], 
+    "num_resources": 0, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Natuur", 
+            "name": "Natuur", 
+            "revision_timestamp": "2015-03-26T13:02:24.034099", 
+            "state": "active", 
+            "id": "ca300346-5611-4475-98db-3116a148ff53"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Ruimtelijke ordeningplanning", 
+            "name": "Ruimtelijke ordeningplanning", 
+            "revision_timestamp": "2015-03-26T13:02:24.034099", 
+            "state": "active", 
+            "id": "0de695e8-d52f-4278-99a6-73991b94aaae"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Wettelijke begrenzing beleid", 
+            "name": "Wettelijke begrenzing beleid", 
+            "revision_timestamp": "2015-03-26T13:02:24.034099", 
+            "state": "active", 
+            "id": "3b39cb06-08ea-489b-95d2-d39be7074e3f"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Bestuur", 
+    "title": "Natuurmeting Op Kaart 2012: Verwerving en Inrichting", 
+    "maintainer_displayname": "Ministeries | Ministerie van Economische Zaken", 
+    "theme_displayname": "Bestuur | Organisatie en beleid", 
+    "temporal_from": "2012-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:02:24.034099", 
+    "identifier": "92884061-83C7-4252-85CC-0C4A47D17140", 
+    "name": "natuurmeting-op-kaart-2012-verwerving-en-inrichting", 
+    "language": "nl-NL", 
+    "temporal_to": "2012-12-31", 
+    "accrual_periodicity": "http://purl.org/cld/freq/annual", 
+    "notes": "De status van de verwerving en inrichting van de EHS (1-1-2012) zoals aangeleverd door de provincies als onderdeel van de NOK2012. Opgenomen zijn alle concreet begrensde rijksdoelen aangevuld met verworven en/of ingerichte gronden binnen zoekgebieden (exclusief zoekgebied bufferzone).\n\nIn 2009 is er een Nulmeting Op Kaart gemaakt dat de voortgang van de verwerving dat de voortgang van de verwerving, functieverandering en inrichting van de Ecologische Hoofdstructuur (EHS) en Recreatie om de Stad (RodS) per 1 januari 2007 beschrijft. Nulmeting op Kaart (NOK) gaat over de uitgangssituatie bij inwerkingtreding van het ILG. In 2010, 2011 en 2012 zijn er updates gemaakt van dit bestand: Natuurmeting Op Kaart. Dit bestand is de uitkomst van de Natuurmeting Op Kaart 2012. Dit is de vereenvoudigde versie ten behoeve van de mapservices.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2012-10-05", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "aaee558b-4a11-4483-bf53-3ace4c2503c1", 
+    "landingpage": ""
+}

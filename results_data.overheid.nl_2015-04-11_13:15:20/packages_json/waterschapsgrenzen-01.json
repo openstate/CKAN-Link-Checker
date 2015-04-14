@@ -1,0 +1,172 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/wsh", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=7fde6d24-af3d-47a0-a6eb-0b6c7ae7e3b1", 
+    "private": false, 
+    "maintainer_email": "info@hetwaterschapshuis.nl", 
+    "num_tags": 5, 
+    "id": "97e1c16a-d54b-4c23-95a7-799318822253", 
+    "metadata_created": "2015-03-26T13:22:07.795570", 
+    "metadata_modified": "2015-04-11T01:52:51.683254", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/wsh", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "16277c29-df33-4119-8efc-6d90c1ae3a86", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:52:51.682363", 
+            "webstore_last_updated": null, 
+            "id": "adefb879-e251-47ab-9c56-03c0e00db1b9", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "inspire:AU.AdministrativeUnit", 
+            "created": "2015-04-11T03:52:51.734324", 
+            "url": "http://maps.waterschapservices.nl/inspire/wms", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "42dcb500-a298-4dab-885f-76021fc2f3bf", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "16277c29-df33-4119-8efc-6d90c1ae3a86", 
+            "protocol": "INSPIRE Atom", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:52:51.682363", 
+            "webstore_last_updated": null, 
+            "id": "a2e67d4b-4bd3-45fb-88ab-007622b95ab3", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "inspire atom", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Atom feed AU.AdministrativeUnit", 
+            "created": "2015-04-11T03:52:51.734347", 
+            "url": "http://maps.waterschapservices.nl/www/download/data/Waterschapsgrenzen_nl.xml", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "42dcb500-a298-4dab-885f-76021fc2f3bf", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Administratieve eenheden", 
+            "name": "Administratieve eenheden", 
+            "revision_timestamp": "2015-03-26T13:22:07.795570", 
+            "state": "active", 
+            "id": "386e0617-aad4-46ef-9266-d0ad60bd906c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Beheergebied", 
+            "name": "Beheergebied", 
+            "revision_timestamp": "2015-03-26T13:22:07.795570", 
+            "state": "active", 
+            "id": "56d5e61a-1994-4c66-b904-835fa37501b4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Beheersgebied", 
+            "name": "Beheersgebied", 
+            "revision_timestamp": "2015-03-26T13:22:07.795570", 
+            "state": "active", 
+            "id": "afeb466f-7034-4bc5-84c7-c60457d7b884"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Bestuurlijk gebied", 
+            "name": "Bestuurlijk gebied", 
+            "revision_timestamp": "2015-03-26T13:22:07.795570", 
+            "state": "active", 
+            "id": "1b8fe9be-9b63-43f3-b616-27488ddc1b71"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterschap", 
+            "name": "Waterschap", 
+            "revision_timestamp": "2015-03-26T13:22:07.795570", 
+            "state": "active", 
+            "id": "77f80f2b-2d5e-42bb-a8f4-e94b022fc1c2"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Waterschapsgrenzen", 
+    "maintainer_displayname": "Waterschap | Waterschapshuis", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "2010-03-17", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:22:07.795570", 
+    "identifier": "7fde6d24-af3d-47a0-a6eb-0b6c7ae7e3b1", 
+    "name": "waterschapsgrenzen-01", 
+    "language": "nl-NL", 
+    "temporal_to": "1970-01-01", 
+    "url": null, 
+    "notes": "De dataset geeft informatie over de waterschapsgrenzen.\nWaterschapsgrens: Grens van het grondgebied onder het bestuur van een waterschap. Bron: AquoLex v11 (afgeleid) www.aquo.nl \n14 november 2011", 
+    "license_title": "Publiek Domein", 
+    "modified": "2013-07-04", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "07c1c60a-158b-433b-a52b-e29cde4140a2", 
+    "landingpage": ""
+}

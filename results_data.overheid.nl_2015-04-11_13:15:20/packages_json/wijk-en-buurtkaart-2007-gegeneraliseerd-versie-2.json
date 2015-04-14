@@ -1,0 +1,135 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=1c10133c-9896-48b2-8a57-9bb6245e9380", 
+    "private": false, 
+    "maintainer_email": "infoservice@cbs.nl", 
+    "num_tags": 4, 
+    "id": "d0acd52b-1555-4e7c-886e-a058c381e345", 
+    "metadata_created": "2015-04-01T11:17:56.747185", 
+    "metadata_modified": "2015-04-11T01:38:43.477090", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-by3", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "802654bf-7b81-4cba-9b6d-1dd4541c20d8", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:38:43.475984", 
+            "webstore_last_updated": null, 
+            "id": "8a3f29c9-111f-4c90-aae6-615f13a849aa", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "buurt_2007_gen2.zip", 
+            "created": "2015-04-11T03:38:43.552961", 
+            "url": "http://www.cbs.nl/NR/rdonlyres/D9F91637-53AB-4431-B758-E071E2F602C2/0/buurt_2007_gen2.zip", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "793f59e2-f030-4ec6-99aa-2788fb5c5ab1", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "buurten", 
+            "name": "buurten", 
+            "revision_timestamp": "2015-04-01T11:17:56.747185", 
+            "state": "active", 
+            "id": "8348301e-524d-4ecc-ba6f-2a7e9e5386e2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gemeenten", 
+            "name": "gemeenten", 
+            "revision_timestamp": "2015-04-01T11:17:56.747185", 
+            "state": "active", 
+            "id": "d093cac9-7d92-4bc8-87c4-91fd3b62073d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "statistiek", 
+            "name": "statistiek", 
+            "revision_timestamp": "2015-04-01T11:17:56.747185", 
+            "state": "active", 
+            "id": "1f9be5cd-498a-4798-a849-6f4dd7ac07a7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "wijken", 
+            "name": "wijken", 
+            "revision_timestamp": "2015-04-01T11:17:56.747185", 
+            "state": "active", 
+            "id": "1c345a5b-c4fb-44d9-ae21-3f4ebf31761c"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Bestuur", 
+    "title": "Wijk- en Buurtkaart 2007 Gegeneraliseerd versie 2", 
+    "maintainer_displayname": "ZBO | Centraal Bureau voor de Statistiek", 
+    "theme_displayname": "Bestuur | Organisatie en beleid", 
+    "temporal_from": "2007-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-01T11:17:56.747185", 
+    "identifier": "1c10133c-9896-48b2-8a57-9bb6245e9380", 
+    "name": "wijk-en-buurtkaart-2007-gegeneraliseerd-versie-2", 
+    "language": "nl-NL", 
+    "temporal_to": "2008-01-01", 
+    "url": null, 
+    "notes": "Het gegeneraliseerde Bestand Wijken en Buurten bevat gegeneraliseerde geometrie van alle gemeenten, wijken en buurten in Nederland met als attribuut een aantal statistische kerncijfers. De begrenzingen van wijken en buurten zijn voor een groot deel gebaseerd op wat de gemeenten aan het CBS doorgeven.  De gemeentegrens is afkomstig uit het TOPgrenzen bestand van het Kadaster. De eerste versie bevatte een deel van de kerncijfers en was begin van het jaat T+1 beschikbaar. Deze 2e versie is aan het begin van het jaar T+2 beschikbaar gekomen. Van 2007 is geen 3e versie. Hierin is T het jaar uit de titel.", 
+    "license_title": "CC-BY 3.0", 
+    "modified": "2015-04-11", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/licenses/by/3.0/nl/legalcode", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "c45308a2-3112-4038-a8ed-21a75681af17", 
+    "landingpage": ""
+}

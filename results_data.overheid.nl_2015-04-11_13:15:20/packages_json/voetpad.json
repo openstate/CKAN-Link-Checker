@@ -1,0 +1,181 @@
+{
+    "license_title": "CC-0", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=914f9b68-bc57-44b3-a567-4c2cde4648a5", 
+    "private": false, 
+    "maintainer_email": "opendata@denhaag.nl", 
+    "num_tags": 6, 
+    "modified": "2015-04-11", 
+    "id": "25520ce3-37e5-4f07-8c09-6cfa20d0e0a0", 
+    "metadata_created": "2015-03-26T13:20:58.028472", 
+    "metadata_modified": "2015-04-11T01:37:31.100566", 
+    "author": null, 
+    "author_email": null, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+    "version": null, 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-0", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "3cf78cc2-5a9f-4308-9d99-1fc59d16d1a2", 
+            "protocol": "UKST", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:37:31.099650", 
+            "webstore_last_updated": null, 
+            "id": "b0d42576-9060-4546-944d-aa2f0ee1efcd", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ukst", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Webservice voetpad", 
+            "created": "2015-04-11T03:37:31.151250", 
+            "url": "http://www.denhaag.nl/ArcGIS/rest/services/_basisdynamisch/OndergrondvoorThema/MapServer/87", 
+            "webstore_url": null, 
+            "mimetype_inner": null, 
+            "position": 0, 
+            "revision_id": "5f5541bf-3109-4e9f-9574-05d69f4067bc", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "3cf78cc2-5a9f-4308-9d99-1fc59d16d1a2", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:37:31.099650", 
+            "webstore_last_updated": null, 
+            "id": "c95c2a06-754a-4ebf-8db9-4253a442c30e", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "CSV en API voetpad", 
+            "created": "2015-04-11T03:37:31.151279", 
+            "url": "http://beta.columby.com/explore/dataset/463", 
+            "webstore_url": null, 
+            "mimetype_inner": null, 
+            "position": 1, 
+            "revision_id": "5f5541bf-3109-4e9f-9574-05d69f4067bc", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "bereikbaarheid", 
+            "name": "bereikbaarheid", 
+            "revision_timestamp": "2015-03-26T13:20:58.028472", 
+            "state": "active", 
+            "id": "dc2663ab-f813-4a27-b0fe-b601049b2262"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "infrastructuur", 
+            "name": "infrastructuur", 
+            "revision_timestamp": "2015-03-26T13:20:58.028472", 
+            "state": "active", 
+            "id": "00f4f108-93df-4a3d-aaf3-19d8a00683b0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "mobiliteit", 
+            "name": "mobiliteit", 
+            "revision_timestamp": "2015-03-26T13:20:58.028472", 
+            "state": "active", 
+            "id": "1142334d-6016-4145-8fe8-ca9974f4da51"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "openbare ruimte", 
+            "name": "openbare ruimte", 
+            "revision_timestamp": "2015-03-26T13:20:58.028472", 
+            "state": "active", 
+            "id": "a1f3b017-e043-48bb-aa67-f3edc31f2261"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "voetpad", 
+            "name": "voetpad", 
+            "revision_timestamp": "2015-03-26T13:20:58.028472", 
+            "state": "active", 
+            "id": "af120a70-9f51-48be-a7fb-adcf85d0d981"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "voetpad langs de kust", 
+            "name": "voetpad langs de kust", 
+            "revision_timestamp": "2015-03-26T13:20:58.028472", 
+            "state": "active", 
+            "id": "ae7b3cc3-d395-4222-8e60-d9d753f7582b"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "maintainer_displayname": "Gemeente | 's-Gravenhage", 
+    "theme_displayname": "Economie | Transport", 
+    "landingpage": "", 
+    "temporal_from": "2011-05-17", 
+    "language": "nl-NL", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:20:58.028472", 
+    "organization": {
+        "description": "", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "title": "Nationaal Georegister", 
+        "name": "nationaal-georegister", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "approval_status": "approved"
+    }, 
+    "name": "voetpad", 
+    "isopen": true, 
+    "temporal_to": "2099-01-01", 
+    "accrual_periodicity": "http://purl.org/cld/freq/daily", 
+    "notes": "voetpad", 
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "url": null, 
+    "extras": [
+        {
+            "key": "subtheme_facet", 
+            "value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "title": "voetpad", 
+    "revision_id": "4a619941-a4f6-4a8d-8e23-b226c6017d72", 
+    "identifier": "914f9b68-bc57-44b3-a567-4c2cde4648a5"
+}

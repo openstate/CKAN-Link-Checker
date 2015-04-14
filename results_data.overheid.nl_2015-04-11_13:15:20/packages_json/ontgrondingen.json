@@ -1,0 +1,163 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Groningen_(provincie)", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "geoportaal@provinciegroningen.nl", 
+    "num_tags": 4, 
+    "id": "82e23e8a-20f3-4e74-8abc-9e1ba802a01c", 
+    "metadata_created": "2015-03-26T13:04:13.543388", 
+    "metadata_modified": "2015-04-11T01:35:29.395900", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Groningen_(provincie)", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Provincie Groningen", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=83fbf46e-2036-4368-abb7-28c0a1815bca", 
+    "resources": [
+        {
+            "resource_group_id": "18b153be-49b9-4727-a0b9-66c4db82945d", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:35:29.394832", 
+            "webstore_last_updated": null, 
+            "id": "20b70f99-097c-45a0-9439-609b36b34f33", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Ontgrondingen", 
+            "created": "2015-04-11T03:35:29.462554", 
+            "url": "http://geoservices.provinciegroningen.nl/ArcGIS/services/OpenData1/MapServer/WMSServer", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "62a1a98d-0d50-41a2-81e9-8a7f58f321bb", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "18b153be-49b9-4727-a0b9-66c4db82945d", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:35:29.394832", 
+            "webstore_last_updated": null, 
+            "id": "c695387f-cf00-4532-8695-3e8e823c6d85", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "OpenData1:Ontgrondingen", 
+            "created": "2015-04-11T03:35:29.462585", 
+            "url": "http://geoservices.provinciegroningen.nl/ArcGIS/services/OpenData1/MapServer/WFSServer", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "62a1a98d-0d50-41a2-81e9-8a7f58f321bb", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Bodemgebruik", 
+            "name": "Bodemgebruik", 
+            "revision_timestamp": "2015-03-26T13:04:13.543388", 
+            "state": "active", 
+            "id": "c29ee5a3-900b-475b-9df1-bfa3c281977b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "DELFSTOFFENWINNING", 
+            "name": "DELFSTOFFENWINNING", 
+            "revision_timestamp": "2015-03-26T13:04:13.543388", 
+            "state": "active", 
+            "id": "127154b5-9029-49ff-8458-1fa115676668"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "GRONDSTOFFENVOORZIENING", 
+            "name": "GRONDSTOFFENVOORZIENING", 
+            "revision_timestamp": "2015-03-26T13:04:13.543388", 
+            "state": "active", 
+            "id": "e0cc7a01-ef8a-46e5-aa94-da3d09bdbae2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ONTGRONDINGEN", 
+            "name": "ONTGRONDINGEN", 
+            "revision_timestamp": "2015-03-26T13:04:13.543388", 
+            "state": "active", 
+            "id": "c634fcf6-12f1-4348-9912-73588451d8a2"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Ontgrondingen", 
+    "maintainer_displayname": "Provincie | Groningen", 
+    "theme_displayname": "Natuur en milieu | Bodem", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:04:13.543388", 
+    "identifier": "83fbf46e-2036-4368-abb7-28c0a1815bca", 
+    "name": "ontgrondingen", 
+    "language": "nl-NL", 
+    "url": null, 
+    "notes": "Deze dataset bevat de primaire ontgrondingen in de provincie Groningen, waarbij industrie- en/of ophoogzand wordt gewonnen", 
+    "license_title": "Publiek Domein", 
+    "modified": "2013-10-22", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "ec387c58-dddf-42ba-a37b-2a245c8383e2", 
+    "landingpage": ""
+}

@@ -1,0 +1,190 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 7, 
+    "id": "ccd99b3f-4a1e-4445-b6ba-c6b032f98f05", 
+    "metadata_created": "2015-03-26T13:17:24.446606", 
+    "metadata_modified": "2015-04-11T01:50:00.987314", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=1834760e-5248-480e-9c80-3b4d6fc4c964", 
+    "resources": [
+        {
+            "resource_group_id": "cc28e90b-c382-4c0b-9305-9fb85e3c9394", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:50:00.986144", 
+            "webstore_last_updated": null, 
+            "id": "2c7981c8-39bf-44f5-9a07-3d3bfacf3c83", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Vaarwegkenmerken in Nederland waterstand streefpeil", 
+            "created": "2015-04-11T03:50:01.057408", 
+            "url": "http://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/vaarweginformatie_nederland/geogegevens/shape", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "7b1a7c2c-6290-47ef-904e-02dbe9438924", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "cc28e90b-c382-4c0b-9305-9fb85e3c9394", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:50:00.986144", 
+            "webstore_last_updated": null, 
+            "id": "a1416eef-1497-41a9-a4ef-65f0c2e27375", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Documentatie datasets Vaarwegkenmerken in Nederland", 
+            "created": "2015-04-11T03:50:01.057439", 
+            "url": "http://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/vaarweginformatie_nederland/productinfo/beschrijvende_documentatie/", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "7b1a7c2c-6290-47ef-904e-02dbe9438924", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "kanaalpeil", 
+            "name": "kanaalpeil", 
+            "revision_timestamp": "2015-03-26T13:17:24.446606", 
+            "state": "active", 
+            "id": "acbbf733-1dec-4260-affc-fd4db21af787"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "meerpeil", 
+            "name": "meerpeil", 
+            "revision_timestamp": "2015-03-26T13:17:24.446606", 
+            "state": "active", 
+            "id": "1a400fb7-25c5-455a-89c6-57013cbae9dd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "scheepvaart", 
+            "name": "scheepvaart", 
+            "revision_timestamp": "2015-03-26T13:17:24.446606", 
+            "state": "active", 
+            "id": "5da16f64-a470-4e86-bd61-fbfdb5818e37"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "streefpeil", 
+            "name": "streefpeil", 
+            "revision_timestamp": "2015-03-26T13:17:24.446606", 
+            "state": "active", 
+            "id": "ee6ebba5-91d2-4d80-a2b6-b90b154ce54b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "stuwpeil", 
+            "name": "stuwpeil", 
+            "revision_timestamp": "2015-03-26T13:17:24.446606", 
+            "state": "active", 
+            "id": "95bc59bf-6f0e-4c8d-8a05-be454efb70fd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "vaarweg", 
+            "name": "vaarweg", 
+            "revision_timestamp": "2015-03-26T13:17:24.446606", 
+            "state": "active", 
+            "id": "65454bf8-61b3-4b8b-aabe-a206b7142b8a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "waterpeil", 
+            "name": "waterpeil", 
+            "revision_timestamp": "2015-03-26T13:17:24.446606", 
+            "state": "active", 
+            "id": "f3f2398a-bef8-4242-9d57-cdf4c06d594a"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "title": "Vaarwegkenmerken in Nederland waterstand streefpeil", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Economie | Transport", 
+    "temporal_from": "2013-10-28", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:17:24.446606", 
+    "identifier": "1834760e-5248-480e-9c80-3b4d6fc4c964", 
+    "name": "vaarwegkenmerken-in-nederland-waterstand-streefpeil", 
+    "language": "nl-NL", 
+    "temporal_to": "2013-10-03", 
+    "accrual_periodicity": "http://purl.org/cld/freq/monthly", 
+    "notes": "Hierbij zijn de schommelingen van de waterstand ten opzichte van het streefpeil (kanaal-, stuw-en meerpeil) vermeld, die gelden voor een bepaald traject van de vaarweg.", 
+    "license_title": "CC-0", 
+    "modified": "2014-01-01", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "20124b8b-152a-4c09-b7c6-636e0a29aeda", 
+    "landingpage": "www.vaarweginformatie.nl"
+}

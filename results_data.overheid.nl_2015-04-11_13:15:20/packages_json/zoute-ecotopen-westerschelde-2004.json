@@ -1,0 +1,240 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 14, 
+    "id": "0c4be2e0-f0c2-41e1-8158-c13a8ea54a1d", 
+    "metadata_created": "2015-03-26T13:10:44.945073", 
+    "metadata_modified": "2015-04-11T01:44:03.354386", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Westerschelde", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=4c0fa164-b974-4b47-86d5-1d087edf977f", 
+    "resources": [
+        {
+            "resource_group_id": "29a83936-d500-48fc-8839-e0a6ea3f2f2d", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:44:03.353462", 
+            "webstore_last_updated": null, 
+            "id": "f39b1b5d-5cce-48b2-a4a7-9c4b4455043d", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "ecokaart_ws_2004", 
+            "created": "2015-04-11T03:44:03.424299", 
+            "url": "http://geoservices.rijkswaterstaat.nl/ecotopen_westerschelde", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "9585c496-57de-462d-adb3-7052d736f981", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "29a83936-d500-48fc-8839-e0a6ea3f2f2d", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:44:03.353462", 
+            "webstore_last_updated": null, 
+            "id": "fd18d0f4-84c6-442c-a218-585265ef4f90", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "ecokaart_ws_2004", 
+            "created": "2015-04-11T03:44:03.424365", 
+            "url": "http://geoservices.rijkswaterstaat.nl/ecotopen_westerschelde", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "9585c496-57de-462d-adb3-7052d736f981", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Bodemhoogte", 
+            "name": "Bodemhoogte", 
+            "revision_timestamp": "2015-03-26T13:10:44.945073", 
+            "state": "active", 
+            "id": "a8f5fc01-cf0f-4c63-80f5-cd310cc02a48"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Droogvalduur", 
+            "name": "Droogvalduur", 
+            "revision_timestamp": "2015-03-26T13:10:44.945073", 
+            "state": "active", 
+            "id": "2fa20224-ecd3-4b96-9ef2-4eecea2bf7ed"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Eco-elementen", 
+            "name": "Eco-elementen", 
+            "revision_timestamp": "2015-03-26T13:10:44.945073", 
+            "state": "active", 
+            "id": "77ba0732-fb44-43b8-8318-3539671f34e5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Ecotopen", 
+            "name": "Ecotopen", 
+            "revision_timestamp": "2015-03-26T13:10:44.945073", 
+            "state": "active", 
+            "id": "cb4076ef-7a40-414c-9322-00545fea231d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Ecotopenkaart", 
+            "name": "Ecotopenkaart", 
+            "revision_timestamp": "2015-03-26T13:10:44.945073", 
+            "state": "active", 
+            "id": "bb8384b4-2fbb-44ba-ad32-33ad601fc28d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Geomorfologie", 
+            "name": "Geomorfologie", 
+            "revision_timestamp": "2015-03-26T13:10:44.945073", 
+            "state": "active", 
+            "id": "e854a77c-b67e-4a7a-a35b-aaa1ef893270"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Intergetijdegebied", 
+            "name": "Intergetijdegebied", 
+            "revision_timestamp": "2015-03-26T13:10:44.945073", 
+            "state": "active", 
+            "id": "6d792ec2-32be-43d0-9242-1bf123dd9277"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Intergetijdengebied", 
+            "name": "Intergetijdengebied", 
+            "revision_timestamp": "2015-03-26T13:10:44.945073", 
+            "state": "active", 
+            "id": "6b742164-1927-4b17-a626-72120acfc0d9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "MWTL", 
+            "name": "MWTL", 
+            "revision_timestamp": "2015-03-26T13:10:44.945073", 
+            "state": "active", 
+            "id": "f8f7392a-8b25-4cf5-a4f6-b4a2c7145d90"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Natuur en Milieu", 
+            "name": "Natuur en Milieu", 
+            "revision_timestamp": "2015-03-26T13:10:44.945073", 
+            "state": "active", 
+            "id": "eb7e858d-fa85-4b2e-8c82-ca452d8a9342"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Stroming", 
+            "name": "Stroming", 
+            "revision_timestamp": "2015-03-26T13:10:44.945073", 
+            "state": "active", 
+            "id": "7f1ec87f-6894-497f-9049-b3032242b1b6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Zout", 
+            "name": "Zout", 
+            "revision_timestamp": "2015-03-26T13:10:44.945073", 
+            "state": "active", 
+            "id": "a6c09049-1144-4e8e-921c-334183bce25a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Zoute Ecotopenkaart", 
+            "name": "Zoute Ecotopenkaart", 
+            "revision_timestamp": "2015-03-26T13:10:44.945073", 
+            "state": "active", 
+            "id": "5dbbb085-1c1c-4d46-9fa9-253326238220"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Zoute ecotopen", 
+            "name": "Zoute ecotopen", 
+            "revision_timestamp": "2015-03-26T13:10:44.945073", 
+            "state": "active", 
+            "id": "ff70c77c-68ed-4d1d-9317-8437adde5978"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Zoute Ecotopen Westerschelde 2004", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Natuur en milieu", 
+    "temporal_from": "2004-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:10:44.945073", 
+    "identifier": "4c0fa164-b974-4b47-86d5-1d087edf977f", 
+    "name": "zoute-ecotopen-westerschelde-2004", 
+    "language": "nl-NL", 
+    "temporal_to": "2004-12-31", 
+    "accrual_periodicity": "http://purl.org/cld/freq/biennial", 
+    "notes": "Van de Westerschelde is in 2004 een ecotopenkaart gemaakt. Een zoute ecotopenkaart wordt opgebouwd door meerdere informatielagen van het intergetijdengebied samen te voegen: bodemhoogtekaart (hoogte en diepte), geomorfologische kaart, droogvalduurkaart, stromingskaart en zoutkaart. De bodemhoogtekaart is gebaseerd op lodingen (diepte) en laseraltimetrie (hoogte). De geomorfologische kaart wordt met behulp van luchtfoto's geproduceerd en geextrapoleerd naar GLW (4% droogvalduur). De droogvalduur- en stromingskaart worden gemodelleerd. Voor de zoutkaart wordt voor de Westerschelde een vaste (OMES) grens gehanteerd.", 
+    "license_title": "CC-0", 
+    "modified": "2013-01-01", 
+    "url": null, 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "5b8abc32-b918-4a7a-9a10-2cc75641a22d", 
+    "landingpage": "Van elke ecotopenkartering wordt een standaard toelichting (in pdf) vervaardigd. Deze worden op kennisplein ontsloten.\nU kunt zoeken op de naam: &quot;Zoute ecotopen [gebiedsnaam] [jaartal]&quot;"
+}

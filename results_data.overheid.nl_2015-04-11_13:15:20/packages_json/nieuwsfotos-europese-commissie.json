@@ -1,0 +1,149 @@
+{
+    "owner_org": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+    "maintainer": "http://data.overheid.nl/organisatie/odn", 
+    "relationships_as_object": [], 
+    "md_uri": "", 
+    "private": false, 
+    "maintainer_email": "beheerder@opendatanederland.nl", 
+    "num_tags": 5, 
+    "id": "8c4a3227-9830-4cb8-93c3-7450743e9993", 
+    "metadata_created": "2015-03-26T15:45:46.350484", 
+    "conforms_to": "", 
+    "metadata_modified": "2015-04-02T13:43:47.742557", 
+    "author": "http://data.overheid.nl/organisatie/odn", 
+    "author_email": "beheerder@opendatanederland.nl", 
+    "isopen": true, 
+    "state": "active", 
+    "source": "admin", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Europese_zaken", 
+    "version": "", 
+    "maintainer_facet": "http://data.overheid.nl/organisatie/odn", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Internationaal", 
+    "grondslag": "", 
+    "license_id": "cc-0", 
+    "contact_point": "drupal@indicia.nl", 
+    "type": "dataset", 
+    "lod_stars": "3", 
+    "resources": [
+        {
+            "resource_group_id": "54d79ba0-cc78-4893-b9ac-76de4de037c0", 
+            "cache_last_updated": null, 
+            "bytesize": "0", 
+            "revision_timestamp": "2015-03-26T15:45:46.350484", 
+            "webstore_last_updated": null, 
+            "id": "a0ffa892-ff91-4906-ac64-0956ced22ac8", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "XML", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Lijst met stockfotos van bijeenkomsten", 
+            "created": "2015-03-26T16:45:46.392746", 
+            "url": "http://ec.europa.eu/avservices/rss/PhotoEn.xml", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "afb2006c-37d8-4ee0-a470-866a533c36ff", 
+            "resource_type": null
+        }
+    ], 
+    "temporal_to": "2012-11-05T16:17:03+01:00", 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "commissie", 
+            "name": "commissie", 
+            "revision_timestamp": "2015-03-26T15:45:46.350484", 
+            "state": "active", 
+            "id": "2d53e45d-fa0b-49b1-ba47-cfed7e4aa5c7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "eu", 
+            "name": "eu", 
+            "revision_timestamp": "2015-03-26T15:45:46.350484", 
+            "state": "active", 
+            "id": "f4cefb0c-8ed9-467c-88a3-58c9bc36569b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "europa", 
+            "name": "europa", 
+            "revision_timestamp": "2015-03-26T15:45:46.350484", 
+            "state": "active", 
+            "id": "111fc35c-6de4-46aa-aaf8-ada43326cc3b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "europese", 
+            "name": "europese", 
+            "revision_timestamp": "2015-03-26T15:45:46.350484", 
+            "state": "active", 
+            "id": "8ddae3f0-45fa-44ee-b3c3-bf0dd8c33031"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "foto", 
+            "name": "foto", 
+            "revision_timestamp": "2015-03-26T15:45:46.350484", 
+            "state": "active", 
+            "id": "8349f7cd-e64c-492d-84ac-60752eb93376"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Internationaal", 
+    "maintainer_displayname": "Europa | Europese Commissie", 
+    "theme_displayname": "Internationaal | Europese zaken", 
+    "temporal_from": "2012-11-05T16:17:03+01:00", 
+    "grondslag_citeertitel": "", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "f8e76669-0998-4bb2-af74-ebe47f5c8547", 
+    "relationships_as_subject": [], 
+    "version_notes": "", 
+    "revision_timestamp": "2015-04-02T13:43:47.741610", 
+    "organization": {
+        "description": "", 
+        "title": "Data.overheid.nl dataregister", 
+        "created": "2015-03-26T12:55:33.649152", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-28T12:06:47.218165", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115533.618291donl.png", 
+        "revision_id": "5bd836a3-c1bf-4b89-8f4c-dffb9c6ac3ed", 
+        "type": "organization", 
+        "id": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+        "name": "data-overheid-nl"
+    }, 
+    "name": "nieuwsfotos-europese-commissie", 
+    "language": "nl-NL", 
+    "rights": "", 
+    "accrual_periodicity": "", 
+    "notes": "Nieuwsfoto's van de Europese Commissie van deze week.", 
+    "license_title": "CC-0", 
+    "modified": "2012-11-05T15:17:04.012511", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Europese_zaken", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "title": "Nieuwsfoto's Europese Commissie", 
+    "revision_id": "112a5997-5401-4a47-80bf-f758712f1f61", 
+    "landingpage": "http://ec.europa.eu/"
+}

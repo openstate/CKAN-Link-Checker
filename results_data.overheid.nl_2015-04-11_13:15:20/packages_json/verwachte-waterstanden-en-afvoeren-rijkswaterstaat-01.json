@@ -1,0 +1,113 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 1, 
+    "id": "90526b18-6b7b-4f59-b343-e95f5a173a6f", 
+    "metadata_created": "2015-03-26T13:17:52.555406", 
+    "metadata_modified": "2015-04-11T01:50:12.614368", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Lucht", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=6dd6cb74-7b39-4bfc-87b5-d8b352a7b508", 
+    "resources": [
+        {
+            "resource_group_id": "fc0223b9-d283-4703-8318-22409c5d70f8", 
+            "protocol": "INSPIRE Atom", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:50:12.613440", 
+            "webstore_last_updated": null, 
+            "id": "8d196bfc-c994-409e-a62c-33de9a0a3f64", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "inspire atom", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Atom Serice Feed: Verwachte waterstanden en afvoeren - Rijkswaterstaat", 
+            "created": "2015-04-11T03:50:12.643294", 
+            "url": "http://www.rijkswaterstaat.nl/rws/opendata/verwachtingen/H10V.zip", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "019c7b8e-da93-4dd0-998f-7a4cceeb20e9", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "oceanografische geografische kenmerken", 
+            "name": "oceanografische geografische kenmerken", 
+            "revision_timestamp": "2015-03-26T13:17:52.555406", 
+            "state": "active", 
+            "id": "b0116234-97da-444e-8297-784b0547a527"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Verwachte waterstanden en afvoeren - Rijkswaterstaat", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Natuur en milieu | Lucht", 
+    "temporal_from": "2008-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:17:52.555406", 
+    "identifier": "6dd6cb74-7b39-4bfc-87b5-d8b352a7b508", 
+    "name": "verwachte-waterstanden-en-afvoeren-rijkswaterstaat-01", 
+    "language": "nl-NL", 
+    "temporal_to": "2008-12-31", 
+    "accrual_periodicity": "http://purl.org/cld/freq/irregular", 
+    "notes": "Voorspelde waterstanden en andere water gerelateerde metingen. 10-minuten interval.", 
+    "license_title": "CC-0", 
+    "modified": "2014-03-28", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Lucht", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "ed381d1a-4d2f-4e01-b929-c141506a6dd2", 
+    "landingpage": ""
+}

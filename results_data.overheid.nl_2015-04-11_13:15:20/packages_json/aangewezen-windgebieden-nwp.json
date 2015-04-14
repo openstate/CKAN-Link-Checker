@@ -1,0 +1,182 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 6, 
+    "id": "69bf4ce8-7fd2-413a-b6c8-4cb17edef4de", 
+    "metadata_created": "2015-04-03T08:41:50.100919", 
+    "metadata_modified": "2015-04-11T01:49:01.683213", 
+    "author": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "author_email": "servicedesk-data@rws.nl", 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Industrie_(thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=1ddc2091-243f-4457-bc90-429f865ef72c", 
+    "resources": [
+        {
+            "resource_group_id": "d1e47a20-dc74-4cfa-9db9-13632c796991", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:49:01.682151", 
+            "webstore_last_updated": null, 
+            "id": "2e71987f-753d-412d-9b4a-8e3e8319d0ce", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "nz_awnwp", 
+            "created": "2015-04-11T03:49:01.736087", 
+            "url": "http://geoservices.rijkswaterstaat.nl/noordzee_windenergiegebieden", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "bafa5f33-fee8-4edb-84d7-0d9f3e76a792", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "d1e47a20-dc74-4cfa-9db9-13632c796991", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:49:01.682151", 
+            "webstore_last_updated": null, 
+            "id": "cf7abacf-3a56-46f9-b12a-173b2838fcdf", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "nz_awnwp", 
+            "created": "2015-04-11T03:49:01.736115", 
+            "url": "http://geoservices.rijkswaterstaat.nl/noordzee_windenergiegebieden", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "bafa5f33-fee8-4edb-84d7-0d9f3e76a792", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Duurzame energie", 
+            "name": "Duurzame energie", 
+            "revision_timestamp": "2015-04-03T08:41:50.100919", 
+            "state": "active", 
+            "id": "f84fd18f-0b01-47d2-9332-0a9d19235e9e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Nationaal Water Plan", 
+            "name": "Nationaal Water Plan", 
+            "revision_timestamp": "2015-04-03T08:41:50.100919", 
+            "state": "active", 
+            "id": "40c67d63-88fd-4fb0-81bc-2edd7e9107c6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Planologie", 
+            "name": "Planologie", 
+            "revision_timestamp": "2015-04-03T08:41:50.100919", 
+            "state": "active", 
+            "id": "9a0c000c-cf36-4c3f-b5a2-e5ba2ed31392"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Ruimtegebruik", 
+            "name": "Ruimtegebruik", 
+            "revision_timestamp": "2015-04-03T08:41:50.100919", 
+            "state": "active", 
+            "id": "16cdafee-ebbf-4e52-a4a9-4f38ea5062c0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Vergunningen", 
+            "name": "Vergunningen", 
+            "revision_timestamp": "2015-04-03T08:41:50.100919", 
+            "state": "active", 
+            "id": "8fac0968-547a-4201-bdc2-585ddf693085"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Windgebied", 
+            "name": "Windgebied", 
+            "revision_timestamp": "2015-04-03T08:41:50.100919", 
+            "state": "active", 
+            "id": "0b2f5548-83c1-4281-b02e-83fb040bd14d"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "title": "Aangewezen windgebieden NWP", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Economie | Industrie", 
+    "temporal_from": "2009-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-03T08:41:50.100919", 
+    "identifier": "1ddc2091-243f-4457-bc90-429f865ef72c", 
+    "name": "aangewezen-windgebieden-nwp", 
+    "language": "nl-NL", 
+    "temporal_to": "2020-12-31", 
+    "accrual_periodicity": "http://purl.org/cld/freq/irregular", 
+    "notes": "De Rijksoverheid heeft 4 windenergiegebieden aangewezen waar windparken mogen komen: Borssele, IJmuiden Ver, Hollandse Kust en Ten Noorden van de Waddeneilanden. Deze gebieden liggen buiten de 12-mijlszone, minimaal 22 kilometer uit de kust. De windenergiegebieden Borssele en IJmuiden Ver zijn aangewezen in het Nationaal Waterplan 2009-2015. De gebieden Hollandse Kust en Ten Noorden van de Waddeneilanden zijn aangewezen in de Rijksstructuurvisie Windenergie op Zee.In 2015 kan in Borssele worden gestart met de ontwikkeling van een windpark. Daarna is vanaf 2017 de ontwikkeling van windparken voor de Zuid-Hollandse en Noord-Hollandse kust beoogd.", 
+    "license_title": "CC-0", 
+    "modified": "2009-01-01", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Industrie_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "e9a34908-8be3-470c-82c6-a4ee3c41209a", 
+    "landingpage": ""
+}

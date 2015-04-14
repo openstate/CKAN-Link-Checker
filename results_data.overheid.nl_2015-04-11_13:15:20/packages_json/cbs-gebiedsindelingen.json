@@ -1,0 +1,333 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=effe1ab0-073d-437c-af13-df5c5e07d6cd", 
+    "private": false, 
+    "maintainer_email": "infoservice@cbs.nl", 
+    "num_tags": 25, 
+    "id": "3c1d0d50-64de-48af-bfe4-f6fa89788ad3", 
+    "metadata_created": "2015-03-26T13:22:01.798267", 
+    "metadata_modified": "2015-04-11T01:41:00.378185", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-by3", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "be8ff581-b68f-4f7e-acd8-dd212e491c0f", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:41:00.376983", 
+            "webstore_last_updated": null, 
+            "id": "3b8db80a-8997-44f2-9b29-bd8484ca0be7", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "CBSgebiedsindelingen", 
+            "created": "2015-04-11T03:41:00.539807", 
+            "url": "http://geodata.nationaalgeoregister.nl/cbsgebiedsindelingen/wms?", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "2439dc30-2538-498b-aa13-a010da8f9291", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "be8ff581-b68f-4f7e-acd8-dd212e491c0f", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:41:00.376983", 
+            "webstore_last_updated": null, 
+            "id": "4f01cbd2-1c24-4e05-adb1-d2ebb131c4ee", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "CBSgebiedsindelingen", 
+            "created": "2015-04-11T03:41:00.539831", 
+            "url": "http://geodata.nationaalgeoregister.nl/cbsgebiedsindelingen/wfs?", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "2439dc30-2538-498b-aa13-a010da8f9291", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Arondisementsgebied", 
+            "name": "Arondisementsgebied", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "988a2cf5-bce4-441d-a473-afb3de558471"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Brandweerregio", 
+            "name": "Brandweerregio", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "3459d535-309a-4227-b9fb-4d1d710d3136"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "CBS", 
+            "name": "CBS", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "2db8aed8-cafc-440a-8f5d-e4c5df7caba4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "COROP-gebied", 
+            "name": "COROP-gebied", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "2ff2a2a4-ee85-4068-a365-0995e3c658ad"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "GGD-regio", 
+            "name": "GGD-regio", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "b1c8292d-be95-4453-a547-8e09c1257919"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Grootstedelijke aglomeratie", 
+            "name": "Grootstedelijke aglomeratie", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "021f4fb1-1e8d-4eb6-9a31-9c9d16fba4f4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Kamer van Koophandelregio", 
+            "name": "Kamer van Koophandelregio", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "3e25da3e-a670-445e-8da1-835caf16a1a3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Landbouwgebied", 
+            "name": "Landbouwgebied", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "717e65e2-81f6-4527-ba01-b896d92d96fa"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Landbouwgroep", 
+            "name": "Landbouwgroep", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "552758e3-80b0-49b1-8979-a54f8febdf76"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Landsdeel", 
+            "name": "Landsdeel", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "2b790986-e625-4dd8-b2fa-a2a5a14664c7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "NUTS", 
+            "name": "NUTS", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "c2330505-f768-4022-8634-6ecc4a710ca0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Politieregio", 
+            "name": "Politieregio", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "0e5cac46-f411-42c6-8979-210de31e21e7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Provincie", 
+            "name": "Provincie", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "69ee4423-dde2-4188-ab07-68fc6cc940fd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "RPA-gebied", 
+            "name": "RPA-gebied", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "af0167e5-547e-43fb-ae35-09e619405dba"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Regionale Eenheid", 
+            "name": "Regionale Eenheid", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "f5438ef8-cf4f-4b36-9215-0ff131349d7e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Stadsgewest", 
+            "name": "Stadsgewest", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "98f8b4f9-da38-4f97-840d-306b9df6e500"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Statistische eenheden", 
+            "name": "Statistische eenheden", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "c1c2b904-db75-469e-b20f-149b821c1a41"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Toeristengebied", 
+            "name": "Toeristengebied", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "f6618c4c-196d-49ae-94d5-38d146f1e111"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Toeristengroep", 
+            "name": "Toeristengroep", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "17edabca-7a0d-48bb-92b7-73866e5bf62b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Veiligheidsregio", 
+            "name": "Veiligheidsregio", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "a745bd26-646c-4f15-b7c5-83887d4282e0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Zorgkantoorregio", 
+            "name": "Zorgkantoorregio", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "4115213f-a822-4581-be7e-40a29bbb1f1d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "buurten", 
+            "name": "buurten", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "8348301e-524d-4ecc-ba6f-2a7e9e5386e2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gebiedsindeling", 
+            "name": "gebiedsindeling", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "9b47c500-c3fb-4104-a066-ec3b01bc549b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gemeenten", 
+            "name": "gemeenten", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "d093cac9-7d92-4bc8-87c4-91fd3b62073d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "wijken", 
+            "name": "wijken", 
+            "revision_timestamp": "2015-03-26T13:22:01.798267", 
+            "state": "active", 
+            "id": "1c345a5b-c4fb-44d9-ae21-3f4ebf31761c"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Bestuur", 
+    "title": "CBS gebiedsindelingen", 
+    "maintainer_displayname": "ZBO | Centraal Bureau voor de Statistiek", 
+    "theme_displayname": "Bestuur | Organisatie en beleid", 
+    "temporal_from": "2003-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:22:01.798267", 
+    "identifier": "effe1ab0-073d-437c-af13-df5c5e07d6cd", 
+    "name": "cbs-gebiedsindelingen", 
+    "language": "nl-NL", 
+    "temporal_to": "2013-12-31", 
+    "accrual_periodicity": "http://purl.org/cld/freq/annual", 
+    "notes": "Het bestand CBS gebiedsindelingen geeft de gebiedsindelingen die het CBS hanteert.\nDe indelingen zijn gegeven van 2003 t/m 2015 in gegeneraliseerde vorm.\nHet meest recente jaar bevat voorlopige grenzen.\nDe volgende gebiedsindelingen kunnen voorkomen:\n\nGemeente\nLandsdeel\nProvincie\nBuurt\nCOROP-gebied\nGGD-regio\nNUTS3\nNUTS1\nNUTS2\nWijk\nGrootstedelijke aglomeratie\nStadsgewest\nCOROP-plusgebied\nCOROP-subgebied\nLandbouwgebied\nLandbouwgroep\nRPA-gebied\nToeristengroep\nToeristengebied\nArondisementsgebied\nBrandweerregio\nKamer van Koophandelregio\nPolitieregio\nRegionale Eenheid\nVeiligheidsregio\nZorgkantoorregio", 
+    "license_title": "CC-BY 3.0", 
+    "modified": "2015-04-11", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/licenses/by/3.0/nl/legalcode", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "7662fae3-0c24-4afb-8c46-99f05bce7d8b", 
+    "landingpage": ""
+}

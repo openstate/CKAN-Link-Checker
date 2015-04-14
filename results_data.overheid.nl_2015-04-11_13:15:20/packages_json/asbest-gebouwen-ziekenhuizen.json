@@ -1,0 +1,133 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://data.overheid.nl/organisatie/onbekend", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=0fcf2796-5648-4147-bfd3-8bf4589259ff", 
+    "private": false, 
+    "maintainer_email": "http://www.infomil.nl/asbesthelpdesk", 
+    "num_tags": 4, 
+    "id": "70b035d0-8f2d-4b21-8bbf-af10e6fcf64a", 
+    "metadata_created": "2015-04-11T01:50:45.395531", 
+    "metadata_modified": "2015-04-11T01:50:45.437668", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Gezondheidsrisico's", 
+    "version": null, 
+    "maintainer_facet": "http://data.overheid.nl/organisatie/onbekend", 
+    "md_soortwijziging": ":created", 
+    "license_id": "publiek-domein", 
+    "contact_point": "Rijkswaterstaat Leefomgeving", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "a5b42563-9132-450f-a2a5-396287f12e69", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:50:45.395531", 
+            "webstore_last_updated": null, 
+            "id": "3d052065-5b2a-4132-895d-467d6da439d6", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "equus:asbest_Ziekenhuizen_6_449438b4-35ed-4115-a9a5-c3becc4ab6e2", 
+            "created": "2015-04-11T03:50:45.561392", 
+            "url": "http://www.atlasleefomgeving.nl/geoserver/equus/wms?", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "85ae8266-555c-448c-a583-c91e1367d837", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "asbest", 
+            "name": "asbest", 
+            "revision_timestamp": "2015-04-11T01:50:45.395531", 
+            "state": "active", 
+            "id": "4f66de4a-e9cf-46dd-9505-5225c6695068"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gezondheidsrisico", 
+            "name": "gezondheidsrisico", 
+            "revision_timestamp": "2015-04-11T01:50:45.395531", 
+            "state": "active", 
+            "id": "9271bf2e-0652-4b46-af81-f85c4bf81c4f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "inventarisatie", 
+            "name": "inventarisatie", 
+            "revision_timestamp": "2015-04-11T01:50:45.395531", 
+            "state": "active", 
+            "id": "aca5e85c-8c40-4658-a8d3-82260302dba1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ziekenhuis", 
+            "name": "ziekenhuis", 
+            "revision_timestamp": "2015-04-11T01:50:45.395531", 
+            "state": "active", 
+            "id": "671ae2f4-ca7e-417e-9066-e5c8e2eb9632"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid", 
+    "title": "Asbest Gebouwen Ziekenhuizen", 
+    "maintainer_displayname": "Leveranciers (geen overheid)", 
+    "theme_displayname": "Zorg en gezondheid | Gezondheidsrisico's", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-11T01:50:45.395531", 
+    "identifier": "0fcf2796-5648-4147-bfd3-8bf4589259ff", 
+    "name": "asbest-gebouwen-ziekenhuizen", 
+    "language": "nl-NL", 
+    "url": null, 
+    "notes": "Op verzoek van de Tweede Kamer wordt een onderzoek uitgevoerd naar de aanwezigheid van asbest in alle Nederlandse ziekenhuizen gebouwd voor 1 januari 1994. Deze informatie is op nationaal niveau niet bekend. Het is belangrijk om dat inzicht te krijgen omdat de aanwezigheid van asbest in een ziekenhuisgebouw gezondheidsrisico's voor de gebruikers met zich mee kan brengen. \n\nZiekenhuizen zijn niet in alle gevallen op de hoogte van de aanwezigheid van asbest in een ziekenhuisgebouw. In veel gevallen weten de ziekenhuisbesturen wel of er asbest in een ziekenhuisgebouw aanwezig is. Sinds 1994 zijn veel asbestinventarisaties uitgevoerd en waar nodig zijn al asbestsaneringen gedaan. Het is echter niet duidelijk of de asbestinventarisaties uit het verleden voldoen aan de eisen van 2012.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2015-04-11", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Gezondheidsrisico's", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "85ae8266-555c-448c-a583-c91e1367d837", 
+    "landingpage": ""
+}

@@ -1,0 +1,145 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 5, 
+    "id": "5c13e9d8-e7d2-404b-accc-85cb90a90809", 
+    "metadata_created": "2015-03-26T13:17:48.784995", 
+    "metadata_modified": "2015-04-11T01:50:10.721068", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=USOC5HGV-F4MM-OUYO-HZEH-IDIJHCLC1Q11", 
+    "resources": [
+        {
+            "resource_group_id": "1a57f043-775f-43cb-b602-d6ac8b00d7b4", 
+            "protocol": "dataset", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:50:10.720154", 
+            "webstore_last_updated": null, 
+            "id": "4d3d930a-9b49-4c06-a98a-ee7cded73b75", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "dataset", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Astronomische waterstandsreeksen rijkswateren_dataset", 
+            "created": "2015-04-11T03:50:10.765860", 
+            "url": "http://www.rijkswaterstaat.nl/rws/opendata/verwachtingen/H10A.zip", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "2f9e2945-d957-40d1-a7b4-0bbbdfdd1af0", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Hydrografie", 
+            "name": "Hydrografie", 
+            "revision_timestamp": "2015-03-26T13:17:48.784995", 
+            "state": "active", 
+            "id": "be82ced5-d9a5-4e78-a8be-9b9505975b8e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Milieubewakingsvoorzieningen", 
+            "name": "Milieubewakingsvoorzieningen", 
+            "revision_timestamp": "2015-03-26T13:17:48.784995", 
+            "state": "active", 
+            "id": "09815334-c4cd-4c40-8268-0a90364ee1ba"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rijkswateren", 
+            "name": "rijkswateren", 
+            "revision_timestamp": "2015-03-26T13:17:48.784995", 
+            "state": "active", 
+            "id": "4e72df0c-305b-4413-ac00-f4a3a1cc9dfc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "waterstanden", 
+            "name": "waterstanden", 
+            "revision_timestamp": "2015-03-26T13:17:48.784995", 
+            "state": "active", 
+            "id": "6264540a-a499-46e7-801a-f81a78c6b862"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "watertemperatuur", 
+            "name": "watertemperatuur", 
+            "revision_timestamp": "2015-03-26T13:17:48.784995", 
+            "state": "active", 
+            "id": "c9ca6dbb-4948-4341-b0b5-46906afe01cd"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Astronomische waterstandsreeksen rijkswateren", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Natuur en milieu | Bodem", 
+    "temporal_from": "9999-09-09", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:17:48.784995", 
+    "identifier": "USOC5HGV-F4MM-OUYO-HZEH-IDIJHCLC1Q11", 
+    "name": "astronomische-waterstandsreeksen-rijkswateren", 
+    "language": "nl-NL", 
+    "temporal_to": "9999-09-09", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "Astromische waterstandsreeksen voor locaties in de getijde wateren. Voor elke 10 minuten 1 waarde. Tijden in MET. (Geen voorspelling)", 
+    "license_title": "CC-0", 
+    "modified": "2013-12-31", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "5c1cda6a-c6cf-480e-862a-58cd673766d4", 
+    "landingpage": "http://www.rws.nl/water/waterdata_waterberichtgeving/watergegevens/index.aspx"
+}

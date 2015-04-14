@@ -1,0 +1,117 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=7920CB14-534A-E5A2-9D5F-7F8B1FEDFDEC", 
+    "private": false, 
+    "maintainer_email": "info@rivm.nl", 
+    "num_tags": 2, 
+    "id": "42369157-40ae-4844-ad64-f62dced920b5", 
+    "metadata_created": "2015-04-01T11:18:05.296206", 
+    "metadata_modified": "2015-04-11T01:40:20.001434", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Gezondheidsrisico's", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijksinstituut_voor_Volksgezondheid_en_Milieu", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "1f0319e0-1287-4fee-8bba-f26302bd489b", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:40:20.000263", 
+            "webstore_last_updated": null, 
+            "id": "c6a5e85c-e6f0-47de-bfbd-1268a54a58d5", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "licht_hemelhelderheid_2012", 
+            "created": "2015-04-11T03:40:20.038820", 
+            "url": "http://geodata.rivm.nl/geoserver/wms?", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "7635aa24-d9c2-4361-a671-7ac0a203afc4", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "licht", 
+            "name": "licht", 
+            "revision_timestamp": "2015-04-01T11:18:05.296206", 
+            "state": "active", 
+            "id": "3d26e00b-404c-4a56-8c4d-7342b5f8d348"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "sterren", 
+            "name": "sterren", 
+            "revision_timestamp": "2015-04-01T11:18:05.296206", 
+            "state": "active", 
+            "id": "8156ce52-4ec0-4b53-a369-30b9c743270a"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Zorg_en_gezondheid", 
+    "title": "Hemelhelderheid - aantal sterren", 
+    "maintainer_displayname": "Onderzoeksinstellingen | Rijksinstituut voor Volksgezondheid en Milieu", 
+    "theme_displayname": "Zorg en gezondheid | Gezondheidsrisico's", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-01T11:18:05.296206", 
+    "identifier": "7920CB14-534A-E5A2-9D5F-7F8B1FEDFDEC", 
+    "name": "hemelhelderheid-aantal-sterren", 
+    "language": "nl-NL", 
+    "url": null, 
+    "notes": "Deze kaart toont het aantal sterren dat 's nachts in het zenit te zien is", 
+    "license_title": "Publiek Domein", 
+    "modified": "2015-04-11", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Gezondheidsrisico's", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "dfff63e1-33af-4364-be85-7762d98d4e9e", 
+    "landingpage": ""
+}

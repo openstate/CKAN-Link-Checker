@@ -1,0 +1,81 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://data.overheid.nl/organisatie/prorail", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "geo.cartografie", 
+    "num_tags": 1, 
+    "id": "6534e2dc-ef49-4924-8189-be8416ecf9f6", 
+    "metadata_created": "2015-03-26T13:03:52.116846", 
+    "metadata_modified": "2015-04-11T01:38:51.307135", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+    "version": null, 
+    "maintainer_facet": "http://data.overheid.nl/organisatie/prorail", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "http://data.overheid.nl/organisatie/prorail", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=33ca0cbc-6764-4a6c-a5f0-a52237c93c87", 
+    "resources": [], 
+    "num_resources": 0, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Vervoersnetwerken", 
+            "name": "Vervoersnetwerken", 
+            "revision_timestamp": "2015-03-26T13:03:52.116846", 
+            "state": "active", 
+            "id": "35cbdeea-78b2-4be1-92b8-201b28631852"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "title": "Spoorhartlijn", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Prorail", 
+    "theme_displayname": "Economie | Transport", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:03:52.116846", 
+    "identifier": "33ca0cbc-6764-4a6c-a5f0-a52237c93c87", 
+    "name": "spoorhartlijn", 
+    "language": "nl-NL", 
+    "accrual_periodicity": "http://purl.org/cld/freq/quarterly", 
+    "notes": "Deze kaartlaag geeft het midden van het spoortrace weer.", 
+    "license_title": "CC-0", 
+    "modified": "2014-03-26", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "4c1e0ab7-426f-4eea-837d-f2b1b2124b24", 
+    "landingpage": ""
+}

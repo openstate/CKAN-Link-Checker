@@ -1,0 +1,121 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 2, 
+    "id": "364947ab-b046-49d8-b23a-bdb3e07c85d0", 
+    "metadata_created": "2015-03-26T13:17:27.590294", 
+    "metadata_modified": "2015-04-11T01:50:02.634611", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=a30d837a-a69b-4985-ac09-79dd57fcba6e", 
+    "resources": [
+        {
+            "resource_group_id": "03347ec8-9e43-4b31-8f57-ee03b1653729", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:50:02.633651", 
+            "webstore_last_updated": null, 
+            "id": "7b7e0caf-9b87-43f7-93d7-3b0000a56af1", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Werkzaamheden op wegnummer", 
+            "created": "2015-04-11T03:50:02.666578", 
+            "url": "http://www.vananaarbeter.nl/werkzaamheden/wegwerkzaamheden", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "cedc813d-880e-4c11-aa64-782b5fb108b5", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Verkeershinder", 
+            "name": "Verkeershinder", 
+            "revision_timestamp": "2015-03-26T13:17:27.590294", 
+            "state": "active", 
+            "id": "d6fdabb1-6ac4-49c3-ad3e-3091e4b76941"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Wegwerkzaamheden", 
+            "name": "Wegwerkzaamheden", 
+            "revision_timestamp": "2015-03-26T13:17:27.590294", 
+            "state": "active", 
+            "id": "6ab7315c-47b0-4e08-9fc8-634548631c56"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "title": "Werkzaamheden op wegnummer", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Economie | Transport", 
+    "temporal_from": "2013-10-28", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:17:27.590294", 
+    "identifier": "a30d837a-a69b-4985-ac09-79dd57fcba6e", 
+    "name": "werkzaamheden-op-wegnummer", 
+    "language": "nl-NL", 
+    "temporal_to": "2013-10-03", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "Werkzaamheden op Rijkswegen", 
+    "license_title": "CC-0", 
+    "modified": "2014-12-01", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "b5a07b2c-73aa-4127-9ded-f5973c42b04b", 
+    "landingpage": "www.vananaarbeter.nl"
+}

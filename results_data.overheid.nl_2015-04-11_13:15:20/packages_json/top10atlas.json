@@ -1,0 +1,133 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Zaanstad", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=a2643d1d-c507-4250-9d46-482d3bbab58d", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "id": "71ca6a47-c42a-4971-b80c-22c0f9c3ef29", 
+    "metadata_created": "2015-03-26T13:21:57.972536", 
+    "metadata_modified": "2015-04-11T01:51:35.625320", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "source": "ngr", 
+    "state": "active", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Zaanstad", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-by3", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "e8359925-ef8f-4cd4-91c4-7c5da0621f80", 
+            "protocol": "OGC:WMS-1.1.1-http-get-map", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:51:35.624396", 
+            "webstore_last_updated": null, 
+            "id": "59f72c84-1316-4094-b908-f5477aa31c3f", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms-1.1.1-http-get-map", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Top10atlas", 
+            "created": "2015-04-11T03:51:35.665555", 
+            "url": "http://geo.zaanstad.nl/mapproxy/service?", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "6e79eaf2-cd55-4d15-ad37-fa16d6ab9636", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "BEHEERKAART", 
+            "name": "BEHEERKAART", 
+            "revision_timestamp": "2015-03-26T13:21:57.972536", 
+            "state": "active", 
+            "id": "26713950-f3d2-46b6-8402-e606b4c3ffc4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "TOP10ATLAS", 
+            "name": "TOP10ATLAS", 
+            "revision_timestamp": "2015-03-26T13:21:57.972536", 
+            "state": "active", 
+            "id": "7549829c-e075-4ba5-bacc-2a8453c4adb5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "TOP10NL", 
+            "name": "TOP10NL", 
+            "revision_timestamp": "2015-03-26T13:21:57.972536", 
+            "state": "active", 
+            "id": "725692b2-3c2b-4975-8059-12ef321c0211"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "TOPKAART", 
+            "name": "TOPKAART", 
+            "revision_timestamp": "2015-03-26T13:21:57.972536", 
+            "state": "active", 
+            "id": "b604ece5-7e72-444e-8ad7-6587bc180860"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "TOPOGRAFIE", 
+            "name": "TOPOGRAFIE", 
+            "revision_timestamp": "2015-03-26T13:21:57.972536", 
+            "state": "active", 
+            "id": "7eb23b5d-d792-466d-9e5c-98eb219e1d1e"
+        }
+    ], 
+    "title": "Top10atlas", 
+    "maintainer_displayname": "Gemeente | Zaanstad", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:21:57.972536", 
+    "identifier": "a2643d1d-c507-4250-9d46-482d3bbab58d", 
+    "name": "top10atlas", 
+    "language": "nl-NL", 
+    "accrual_periodicity": "http://purl.org/cld/freq/irregular", 
+    "notes": "Topkaart Atlas is gebaseerd op de top10nl, het digitale topografische bestand van het Kadaster. Het bestand is bruikbaar op schaalniveau's tussen 1: 5.000 en\n1: 25000. TOP10NL is ontstaan vanuit luchtfoto\u2019s, veldopnamen en reeds bestaande bestanden. De bijhouding vindt plaats door interpretatie van digitaal beeldmateriaal en gegevens uit externe bronnen. Het bestand is uniform en consistent.", 
+    "license_title": "CC-BY 3.0", 
+    "modified": "2012-06-28", 
+    "url": null, 
+    "license_url": "http://creativecommons.org/licenses/by/3.0/nl/legalcode", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "1a89085c-2c95-45e9-b626-9e146977ccb5", 
+    "landingpage": ""
+}

@@ -1,0 +1,177 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 9, 
+    "id": "ba39178d-0616-496d-9431-2e29ab4cdc29", 
+    "metadata_created": "2015-03-26T13:16:35.382631", 
+    "metadata_modified": "2015-04-11T01:49:30.595277", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=IGLC9WHH-AMX7-CHBR-UFQT-U7HT9KPKR3NF", 
+    "resources": [
+        {
+            "resource_group_id": "20830356-902f-4932-803d-51996d267deb", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:49:30.594384", 
+            "webstore_last_updated": null, 
+            "id": "b5686b0d-b2c9-44a6-9848-91da56e5414f", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "VerkeersInformatie Locatie Database punten", 
+            "created": "2015-04-11T03:49:30.656540", 
+            "url": "http://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/vild/", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "0f2326fa-5d47-4f0d-98a7-3fa38b3eb68a", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "TMC-codering", 
+            "name": "TMC-codering", 
+            "revision_timestamp": "2015-03-26T13:16:35.382631", 
+            "state": "active", 
+            "id": "4f6763e3-9cdc-43ac-aedd-ce298762cf93"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "VILD", 
+            "name": "VILD", 
+            "revision_timestamp": "2015-03-26T13:16:35.382631", 
+            "state": "active", 
+            "id": "923658cb-bfa4-4d80-8983-8a6698a0541c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "aansluitpunten", 
+            "name": "aansluitpunten", 
+            "revision_timestamp": "2015-03-26T13:16:35.382631", 
+            "state": "active", 
+            "id": "4e680fe9-3ebc-48e0-82b3-baf4660d3378"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "afritnummers", 
+            "name": "afritnummers", 
+            "revision_timestamp": "2015-03-26T13:16:35.382631", 
+            "state": "active", 
+            "id": "dea79246-6146-4fb0-aef1-566049e5a221"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "benzinestations", 
+            "name": "benzinestations", 
+            "revision_timestamp": "2015-03-26T13:16:35.382631", 
+            "state": "active", 
+            "id": "b11403f0-cc7d-47b1-bd9a-765330909d14"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "brugnamen", 
+            "name": "brugnamen", 
+            "revision_timestamp": "2015-03-26T13:16:35.382631", 
+            "state": "active", 
+            "id": "1075ee42-0aef-4b83-8560-4f849787feb0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "hectometrering", 
+            "name": "hectometrering", 
+            "revision_timestamp": "2015-03-26T13:16:35.382631", 
+            "state": "active", 
+            "id": "4414ebe8-a24c-4654-818a-a0f78f47ba48"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "parkeerplaatsen", 
+            "name": "parkeerplaatsen", 
+            "revision_timestamp": "2015-03-26T13:16:35.382631", 
+            "state": "active", 
+            "id": "dfb21638-0962-4039-999a-514803e20498"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "verkeersinformatie", 
+            "name": "verkeersinformatie", 
+            "revision_timestamp": "2015-03-26T13:16:35.382631", 
+            "state": "active", 
+            "id": "abd4f78a-5131-419d-8f2d-444c27febb2d"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "title": "VerkeersInformatie Locatie Database punten", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Economie | Transport", 
+    "temporal_from": "2013-10-28", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:16:35.382631", 
+    "identifier": "IGLC9WHH-AMX7-CHBR-UFQT-U7HT9KPKR3NF", 
+    "name": "verkeersinformatie-locatie-database-punten", 
+    "language": "nl-NL", 
+    "temporal_to": "2013-10-03", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "VILD is een basisbestand met gedetailleerde locatiegegevens over de Nederlandse A- en N-wegen. De locatiebeschrijving volgt een CEN-standaard en bevat lijn-, punt- en gebiedsgegevens die van essentieel belang zijn voor het verstrekken van verkeersinformatie. In het basisbestand zijn dan ook herkenningspunten voor weggebruikers opgenomen zoals brugnamen, parkeerplaatsen, benzinestations, afritnummers, aansluitpunten en hectometrering. Al deze punten hebben ten behoeve van RDS/TMC-meldingen een unieke TMC-codering.", 
+    "license_title": "CC-0", 
+    "modified": "2014-11-24", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "e966309b-da2e-4932-9e39-926f6f01506b", 
+    "landingpage": "www.ndw.nu"
+}

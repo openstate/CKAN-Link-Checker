@@ -1,0 +1,181 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=00e02633-0c65-407e-b573-0280c88d6853", 
+    "private": false, 
+    "maintainer_email": "opendata@denhaag.nl", 
+    "num_tags": 6, 
+    "id": "33e2b0e5-63e3-446a-b214-6a3ba3a30e6d", 
+    "metadata_created": "2015-03-26T13:04:21.771503", 
+    "metadata_modified": "2015-04-11T01:35:35.235112", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-0", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "dd156ad1-8a1c-405b-bcba-03c5702604c8", 
+            "protocol": "UKST", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:35:35.234209", 
+            "webstore_last_updated": null, 
+            "id": "7a511254-3db6-4820-a056-cdff80a878b9", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ukst", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Webservice agrarisch gebied", 
+            "created": "2015-04-11T03:35:35.311815", 
+            "url": "http://www.denhaag.nl/ArcGIS/rest/services/_basisdynamisch/OndergrondvoorThema/MapServer/89", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "96e32e0d-a4aa-4111-88dc-9490326bd9de", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "dd156ad1-8a1c-405b-bcba-03c5702604c8", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:35:35.234209", 
+            "webstore_last_updated": null, 
+            "id": "206f0a90-7106-4fcb-9348-0b6bb414e159", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "CSV en API agrarisch gebied", 
+            "created": "2015-04-11T03:35:35.311842", 
+            "url": "http://beta.columby.com/explore/dataset/464", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "96e32e0d-a4aa-4111-88dc-9490326bd9de", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "agrarisch gebied", 
+            "name": "agrarisch gebied", 
+            "revision_timestamp": "2015-03-26T13:04:21.771503", 
+            "state": "active", 
+            "id": "b45718f0-fcf0-4c00-80fb-8e79152c7109"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "agrarisch gebied langs de kust", 
+            "name": "agrarisch gebied langs de kust", 
+            "revision_timestamp": "2015-03-26T13:04:21.771503", 
+            "state": "active", 
+            "id": "f438d3b7-413b-47e1-81e2-587bc3fe015f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "agrarische beroepsbevolking", 
+            "name": "agrarische beroepsbevolking", 
+            "revision_timestamp": "2015-03-26T13:04:21.771503", 
+            "state": "active", 
+            "id": "733f2771-38e3-488b-8a6e-159d1c21aa7b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "boerderij", 
+            "name": "boerderij", 
+            "revision_timestamp": "2015-03-26T13:04:21.771503", 
+            "state": "active", 
+            "id": "baf4497b-1fb9-4e16-9a98-4f000ef9e285"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "land", 
+            "name": "land", 
+            "revision_timestamp": "2015-03-26T13:04:21.771503", 
+            "state": "active", 
+            "id": "79729942-97c7-43c2-9083-597676609ea8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "openbare ruimte", 
+            "name": "openbare ruimte", 
+            "revision_timestamp": "2015-03-26T13:04:21.771503", 
+            "state": "active", 
+            "id": "a1f3b017-e043-48bb-aa67-f3edc31f2261"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "title": "agrarisch gebied", 
+    "maintainer_displayname": "Gemeente | 's-Gravenhage", 
+    "theme_displayname": "Economie | Transport", 
+    "temporal_from": "2011-05-17", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:04:21.771503", 
+    "identifier": "00e02633-0c65-407e-b573-0280c88d6853", 
+    "name": "agrarisch-gebied", 
+    "language": "nl-NL", 
+    "temporal_to": "2099-01-01", 
+    "accrual_periodicity": "http://purl.org/cld/freq/quarterly", 
+    "notes": "agrarisch gebied", 
+    "license_title": "CC-0", 
+    "modified": "2015-04-11", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "d09a78d3-94f2-4dd7-a07b-516b933dab36", 
+    "landingpage": ""
+}

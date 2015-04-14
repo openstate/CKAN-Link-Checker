@@ -1,0 +1,121 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 2, 
+    "id": "2c96d3b2-2cde-42af-bcda-000c5a48b099", 
+    "metadata_created": "2015-03-26T13:16:15.307566", 
+    "metadata_modified": "2015-04-11T01:51:21.862831", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Lauwersmeer", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=J75MPNMQ-O8UI-DW82-APER-KRNVBRJKHHWD", 
+    "resources": [
+        {
+            "resource_group_id": "3bfbefd4-85c1-4b5d-b365-75c73d2741b8", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:51:21.861951", 
+            "webstore_last_updated": null, 
+            "id": "d3043d59-3307-4682-a1ce-3938cf3ed042", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Gebiedsschematisatie Lauwersmeer - SIMONA - website", 
+            "created": "2015-04-11T03:51:21.908263", 
+            "url": "http://www.helpdeskwater.nl/onderwerpen/applicaties-modellen/water_en_ruimte/gebiedsschematisatie/schematisaties/@26884/schematisaties/?PagClsIdt=189447#PagCls_189447", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "e817195c-571f-4087-a192-3d9a24144140", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "LAUWERSMEER", 
+            "name": "LAUWERSMEER", 
+            "revision_timestamp": "2015-03-26T13:16:15.307566", 
+            "state": "active", 
+            "id": "bb74b315-f1e2-4914-b68f-02791c0b4df9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "SIMONA", 
+            "name": "SIMONA", 
+            "revision_timestamp": "2015-03-26T13:16:15.307566", 
+            "state": "active", 
+            "id": "c8342225-8388-4228-933d-85c8b967baf3"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Gebiedsschematisatie Lauwersmeer", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "9999-09-09", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:16:15.307566", 
+    "identifier": "J75MPNMQ-O8UI-DW82-APER-KRNVBRJKHHWD", 
+    "name": "gebiedsschematisatie-lauwersmeer", 
+    "language": "nl-NL", 
+    "temporal_to": "9999-09-09", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "Metadata bij de schematisatie van het gebied Lauwersmeer", 
+    "license_title": "CC-0", 
+    "modified": "2014-12-19", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "10a81bc6-2885-4559-9dfd-c290ee3452c9", 
+    "landingpage": "www.rws.nl/over_ons/organisatiestructuur/verkeer_en_watermanagement"
+}

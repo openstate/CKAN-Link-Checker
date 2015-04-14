@@ -1,0 +1,161 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 7, 
+    "id": "11f81e8b-8871-4e31-9b78-a66b3b60a1ca", 
+    "metadata_created": "2015-03-26T13:17:44.137126", 
+    "metadata_modified": "2015-04-11T01:50:08.721314", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=72GOLAVL-UC7U-SYQZ-PJWU-5QNRIKLA3BAD", 
+    "resources": [
+        {
+            "resource_group_id": "ed9aa8b5-c983-4a49-8a88-bf6884399d3c", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:50:08.719978", 
+            "webstore_last_updated": null, 
+            "id": "07064dc0-0b2f-4eed-98d9-02d44c4d8646", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Waterkwantiteit service Rijkswaterstaat_dataset", 
+            "created": "2015-04-11T03:50:08.771376", 
+            "url": "http://www.rijkswaterstaat.nl/rws/opendata/", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "a6a073b1-2d72-4768-801f-0e9bd1ca3ee1", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Hydrografie", 
+            "name": "Hydrografie", 
+            "revision_timestamp": "2015-03-26T13:17:44.137126", 
+            "state": "active", 
+            "id": "be82ced5-d9a5-4e78-a8be-9b9505975b8e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Milieubewakingsvoorzieningen", 
+            "name": "Milieubewakingsvoorzieningen", 
+            "revision_timestamp": "2015-03-26T13:17:44.137126", 
+            "state": "active", 
+            "id": "09815334-c4cd-4c40-8268-0a90364ee1ba"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "astro", 
+            "name": "astro", 
+            "revision_timestamp": "2015-03-26T13:17:44.137126", 
+            "state": "active", 
+            "id": "fd5a768a-329a-4a78-886a-4160e47f88a9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "chlorisiteit", 
+            "name": "chlorisiteit", 
+            "revision_timestamp": "2015-03-26T13:17:44.137126", 
+            "state": "active", 
+            "id": "f252bff1-58f6-4e72-88b8-47a4a34c8b57"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rijkswateren", 
+            "name": "rijkswateren", 
+            "revision_timestamp": "2015-03-26T13:17:44.137126", 
+            "state": "active", 
+            "id": "4e72df0c-305b-4413-ac00-f4a3a1cc9dfc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "waterstanden", 
+            "name": "waterstanden", 
+            "revision_timestamp": "2015-03-26T13:17:44.137126", 
+            "state": "active", 
+            "id": "6264540a-a499-46e7-801a-f81a78c6b862"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "watertemperatuur", 
+            "name": "watertemperatuur", 
+            "revision_timestamp": "2015-03-26T13:17:44.137126", 
+            "state": "active", 
+            "id": "c9ca6dbb-4948-4341-b0b5-46906afe01cd"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Waterkwantiteit service Rijkswaterstaat", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Natuur en milieu | Bodem", 
+    "temporal_from": "9999-09-09", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:17:44.137126", 
+    "identifier": "72GOLAVL-UC7U-SYQZ-PJWU-5QNRIKLA3BAD", 
+    "name": "waterkwantiteit-service-rijkswaterstaat", 
+    "language": "nl-NL", 
+    "temporal_to": "9999-09-09", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "Actuele en voorspelde waterstanden en andere water gerelateerde metingen en voorspellingen in onbewerkte vorm. In de data wordt met codes gewerkt voor het aanduiden van WAT er gemeten is en WAAR er gemeten is.", 
+    "license_title": "CC-0", 
+    "modified": "2013-12-31", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "ad6eaff2-6927-4795-af0c-780221407e86", 
+    "landingpage": "http://www.rws.nl/water/waterdata_waterberichtgeving/watergegevens/index.aspx"
+}

@@ -1,0 +1,153 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 6, 
+    "id": "5d0b0b3c-5ff8-437b-9ae9-b47da5fa9564", 
+    "metadata_created": "2015-04-09T01:51:44.941825", 
+    "metadata_modified": "2015-04-11T01:51:17.072741", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=D6JECJ1S-BI39-H2C8-XJ89-8EENUQ57UGG9", 
+    "resources": [
+        {
+            "resource_group_id": "ad0936df-9fa6-4ec2-89a7-3fd97f16871d", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:51:17.071895", 
+            "webstore_last_updated": null, 
+            "id": "03252029-f07a-4d19-8f21-a60d8af0e283", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Deltacommissaris - Kennisprogramma - website", 
+            "created": "2015-04-11T03:51:17.107860", 
+            "url": "http://www.deltacommissaris.nl/deltaprogramma/kennisprogramma/", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "bc306898-489b-4e51-95f2-542493bb5c25", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Besluiten", 
+            "name": "Besluiten", 
+            "revision_timestamp": "2015-04-09T01:51:44.941825", 
+            "state": "active", 
+            "id": "808c7741-a4ac-408c-9759-e572111a72b2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Borging", 
+            "name": "Borging", 
+            "revision_timestamp": "2015-04-09T01:51:44.941825", 
+            "state": "active", 
+            "id": "eadb333a-6c70-43e8-84ce-431910134894"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Conferenties", 
+            "name": "Conferenties", 
+            "revision_timestamp": "2015-04-09T01:51:44.941825", 
+            "state": "active", 
+            "id": "f610056b-32ef-498b-af8f-17aa48057096"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Deltacommissiaris", 
+            "name": "Deltacommissiaris", 
+            "revision_timestamp": "2015-04-09T01:51:44.941825", 
+            "state": "active", 
+            "id": "9f7b8478-366a-4efc-96f6-7f09d4119f84"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Deltaprogramma", 
+            "name": "Deltaprogramma", 
+            "revision_timestamp": "2015-04-09T01:51:44.941825", 
+            "state": "active", 
+            "id": "7549fc0e-e18b-42ec-a9ad-2b0acaea7bb7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Kennis", 
+            "name": "Kennis", 
+            "revision_timestamp": "2015-04-09T01:51:44.941825", 
+            "state": "active", 
+            "id": "fcee75fc-d5a9-4d1a-8de9-66aaff7dbbfa"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Deltacommissaris - Kennisprogramma", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "9999-09-09", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-09T01:51:44.941825", 
+    "identifier": "D6JECJ1S-BI39-H2C8-XJ89-8EENUQ57UGG9", 
+    "name": "deltacommissaris-kennisprogramma", 
+    "language": "nl-NL", 
+    "temporal_to": "9999-09-09", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "Deze website geeft alle kennis weer welke tijdens deltaprogramma is opgedaan.", 
+    "license_title": "CC-0", 
+    "modified": "2015-01-13", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "b055ae79-ffe3-4b01-9595-0322908c6553", 
+    "landingpage": "http://www.rws.nl/water/veiligheid/bescherming_tegen_het_water/veiligheidsmaatregelen/deltaprogramma/index.aspx"
+}

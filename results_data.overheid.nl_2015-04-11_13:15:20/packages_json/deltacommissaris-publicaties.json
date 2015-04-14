@@ -1,0 +1,161 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 7, 
+    "id": "aeb620fa-1006-465c-b18e-75334a9052f5", 
+    "metadata_created": "2015-04-09T01:51:45.657007", 
+    "metadata_modified": "2015-04-11T01:51:17.360823", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=3YD4NPFQ-Q1ZA-JXWE-CK0Y-3VRKZRJ0GOLU", 
+    "resources": [
+        {
+            "resource_group_id": "8fcdb85e-82e4-4feb-8932-0838e8cbdbfa", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:51:17.359851", 
+            "webstore_last_updated": null, 
+            "id": "a905c3f2-6200-46dd-832b-2a468d2fe4f5", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Deltacommissaris - Publicaties - website", 
+            "created": "2015-04-11T03:51:17.403819", 
+            "url": "http://www.deltacommissaris.nl/deltaprogramma/publicaties/", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "eedbaa7b-f289-4e65-973d-152e6cf0589d", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "2011", 
+            "name": "2011", 
+            "revision_timestamp": "2015-04-09T01:51:45.657007", 
+            "state": "active", 
+            "id": "1230465c-9ce5-45af-bf2b-da29d8404e50"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "2012", 
+            "name": "2012", 
+            "revision_timestamp": "2015-04-09T01:51:45.657007", 
+            "state": "active", 
+            "id": "161b928b-73a1-475d-a9f7-1f3b2191401a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "2013", 
+            "name": "2013", 
+            "revision_timestamp": "2015-04-09T01:51:45.657007", 
+            "state": "active", 
+            "id": "c9a6c6f7-c68b-4ec0-907c-fdd77cde6599"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "2014", 
+            "name": "2014", 
+            "revision_timestamp": "2015-04-09T01:51:45.657007", 
+            "state": "active", 
+            "id": "e2580f50-17e7-4504-b003-1f5dc343200f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "2015", 
+            "name": "2015", 
+            "revision_timestamp": "2015-04-09T01:51:45.657007", 
+            "state": "active", 
+            "id": "af2c2e6f-3195-4c89-9069-99695fe0f5cb"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Deltaprogramma", 
+            "name": "Deltaprogramma", 
+            "revision_timestamp": "2015-04-09T01:51:45.657007", 
+            "state": "active", 
+            "id": "7549fc0e-e18b-42ec-a9ad-2b0acaea7bb7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Publicatie", 
+            "name": "Publicatie", 
+            "revision_timestamp": "2015-04-09T01:51:45.657007", 
+            "state": "active", 
+            "id": "a4ba7a3a-f324-48b0-bd70-fa9cae637510"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Deltacommissaris - Publicaties", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "9999-09-09", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-09T01:51:45.657007", 
+    "identifier": "3YD4NPFQ-Q1ZA-JXWE-CK0Y-3VRKZRJ0GOLU", 
+    "name": "deltacommissaris-publicaties", 
+    "language": "nl-NL", 
+    "temporal_to": "9999-09-09", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "Deze website geeft informatie over de Publicaties van de Deltaprogramma's van af 2011 t/m 2015 en overige publicaties.", 
+    "license_title": "CC-0", 
+    "modified": "2015-01-13", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "b6f6ba3d-c6d5-40af-ba88-3957c916741d", 
+    "landingpage": "http://www.rws.nl/water/veiligheid/bescherming_tegen_het_water/veiligheidsmaatregelen/deltaprogramma/index.aspx"
+}

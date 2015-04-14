@@ -1,0 +1,125 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=51e20379-7d24-4c9b-af52-8dded2d4061d", 
+    "private": false, 
+    "maintainer_email": "gemeente@heemstede.nl", 
+    "num_tags": 3, 
+    "id": "9e3e2b56-cf4b-4261-b3b2-fd9ac8c0d4e5", 
+    "metadata_created": "2015-03-26T13:01:22.249907", 
+    "metadata_modified": "2015-04-11T01:33:42.311739", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-0", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "ae2f0598-fd6a-4bc4-913c-88e295bceaee", 
+            "protocol": "WWW:DOWNLOAD-1.0-http--download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:33:42.310752", 
+            "webstore_last_updated": null, 
+            "id": "33f7b904-cf5a-49aa-8683-7d8afabfb8d5", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "www:download-1.0-http--download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": null, 
+            "created": "2015-04-11T03:33:42.364796", 
+            "url": "http://www.nationaalgeoregister.nl/geonetwork/srv/en/resources.get?id=486302&fname=Parkeersectoren&access=private", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "092c71ab-fa0f-4ded-b4cc-cf3ec44d9699", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Heemstede", 
+            "name": "Heemstede", 
+            "revision_timestamp": "2015-03-26T13:01:22.249907", 
+            "state": "active", 
+            "id": "9a928414-f89b-4215-9e14-fbe14a7e585b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Landgebruik", 
+            "name": "Landgebruik", 
+            "revision_timestamp": "2015-03-26T13:01:22.249907", 
+            "state": "active", 
+            "id": "82552cb5-c8fb-433f-8d6e-add6fd22109b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Parkeersectoren", 
+            "name": "Parkeersectoren", 
+            "revision_timestamp": "2015-03-26T13:01:22.249907", 
+            "state": "active", 
+            "id": "b6ee2334-da0f-49a1-926c-f29e5e14cd75"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Bestuur", 
+    "title": "Parkeersectoren gemeente Heemstede", 
+    "maintainer_displayname": "Gemeente | Heemstede", 
+    "theme_displayname": "Bestuur | Organisatie en beleid", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:01:22.249907", 
+    "identifier": "51e20379-7d24-4c9b-af52-8dded2d4061d", 
+    "name": "parkeersectoren-gemeente-heemstede", 
+    "language": "nl-NL", 
+    "url": null, 
+    "notes": "Deze dataset bevat de locaties van alle parkeersectoren binnen de gemeente Heemstede.\nNaast de locatie bevat elk record een ID, sector en tarief.\nDe dataset wordt maandelijks bijgewerkt, tenzij er geen wijzigingen zijn doorgevoerd in de brondata.", 
+    "license_title": "CC-0", 
+    "modified": "2013-10-01", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "e1743066-021d-4438-9877-0f08b222ede2", 
+    "landingpage": ""
+}

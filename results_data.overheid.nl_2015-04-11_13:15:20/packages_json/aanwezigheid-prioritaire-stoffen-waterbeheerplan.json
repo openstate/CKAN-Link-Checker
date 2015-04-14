@@ -1,0 +1,159 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=c6d0b3d8-aeb7-49aa-b373-f23f4f261cc7", 
+    "private": false, 
+    "maintainer_email": "info@aaenmaas.nl", 
+    "num_tags": 7, 
+    "id": "726bc379-0ad1-46bc-bee9-f9bdadab02c4", 
+    "metadata_created": "2015-03-26T13:00:30.430943", 
+    "metadata_modified": "2015-04-11T01:33:28.535444", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "c90eae96-131a-400e-bb05-3bb4abf341f4", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:33:28.534569", 
+            "webstore_last_updated": null, 
+            "id": "5b918850-f6fd-4408-b7bf-5fe48ab4b8d2", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "schoon_prioiritaire_stoffen.pdf", 
+            "created": "2015-04-11T03:33:28.598266", 
+            "url": "http://geoinformatie.aaenmaas.nl/PDF/WBP_2010_2015/schoon_prioiritaire_stoffen.pdf", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "652c9956-afec-4bcc-b222-eb3d02de0aa4", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Goede toestand", 
+            "name": "Goede toestand", 
+            "revision_timestamp": "2015-03-26T13:00:30.430943", 
+            "state": "active", 
+            "id": "9110a9ac-420a-4d3c-a50e-dc4175ecbd01"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Normwaarde", 
+            "name": "Normwaarde", 
+            "revision_timestamp": "2015-03-26T13:00:30.430943", 
+            "state": "active", 
+            "id": "43740b2a-8c18-44d3-a126-d86ff242b4ce"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Prioriteitsstoffen", 
+            "name": "Prioriteitsstoffen", 
+            "revision_timestamp": "2015-03-26T13:00:30.430943", 
+            "state": "active", 
+            "id": "901909bc-9f7b-4523-b061-504412506711"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Richtlijn prioritaire stoffen", 
+            "name": "Richtlijn prioritaire stoffen", 
+            "revision_timestamp": "2015-03-26T13:00:30.430943", 
+            "state": "active", 
+            "id": "f4450b91-f434-4f86-9825-e72c4f523955"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WBP", 
+            "name": "WBP", 
+            "revision_timestamp": "2015-03-26T13:00:30.430943", 
+            "state": "active", 
+            "id": "e7b9188a-474d-4f9a-ad2f-f79dcd059497"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheerplan", 
+            "name": "Waterbeheerplan", 
+            "revision_timestamp": "2015-03-26T13:00:30.430943", 
+            "state": "active", 
+            "id": "0582ddc6-9331-46fa-b3f3-7aec9a76993b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheersplan", 
+            "name": "Waterbeheersplan", 
+            "revision_timestamp": "2015-03-26T13:00:30.430943", 
+            "state": "active", 
+            "id": "279aebf7-d887-47a8-a26e-36624d0ff15b"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Aanwezigheid prioritaire stoffen, Waterbeheerplan", 
+    "maintainer_displayname": "Waterschappen | Waterschap Aa en Maas", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "2009-12-22", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:00:30.430943", 
+    "identifier": "c6d0b3d8-aeb7-49aa-b373-f23f4f261cc7", 
+    "name": "aanwezigheid-prioritaire-stoffen-waterbeheerplan", 
+    "language": "nl-NL", 
+    "temporal_to": "2015-12-22", 
+    "url": null, 
+    "notes": "In dit figuur is de huidige waterkwaliteit mbt primairestoffen van ons oppervlaktewater op hoofdlijnen weergegeven. De Kaderrichtlijn water (KRW) heeft het begrip ?goede chemische toestand? geintroduceerd als algemene doelstelling voor schoon water. De goede chemische toestand laat zich beschrijven aan de hand van de normering van 41  prioritair\\ (gevaarlijke) stoffen. Dit zijn stoffen die zodanig schadelijk zijn voor het watermilieu dat zij in principe afwezig moeten zijn. De goede chemische toestand moet uiterlijk in 2015 gehaald zijn. Alleen het zware metaal Cadmium komt nog in te hoge concentraties voor in een groot deel van ons beheergebied.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2015-04-11", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "07cf3ae4-831c-4ab7-be4b-c3e157960e51", 
+    "landingpage": "Dit Waterbeheerplan is geldig van 22 december 2009 tot 22 december 2015. Het plan is 13\nnovember door het Algemeen Bestuur vastgesteld. Gedeputeerde Staten van de provincie\nNoord- Brabant heeft op 21 december zijn goedkeuring aan het plan gegeven.\nIn het plan is op hoofdlijnen opgenomen wat het waterschap in de periode 2010 ? 2015 gaat\ndoen. Het plan is daarmee koersbepalend voor de activiteiten die het waterschap uitvoert.\nDe in het plan opgenomen maatregelen worden in de vorm van vier uitvoeringsprogramma?s\nnader geconcretiseerd. Via de jaarlijkse begrotingscyclus worden deze uitvoeringsprogramma?s\nbewaakt en zo nodig bijgesteld."
+}

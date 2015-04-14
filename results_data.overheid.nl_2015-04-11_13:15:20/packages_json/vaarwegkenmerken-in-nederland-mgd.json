@@ -1,0 +1,182 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 6, 
+    "id": "37489de2-bd8e-4130-af0d-323f28c8999b", 
+    "metadata_created": "2015-03-26T13:17:06.315559", 
+    "metadata_modified": "2015-04-11T01:49:49.478578", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=V148TQ2Q-V2WS-YB6H-GIS2-UDLQD2U9NYPA", 
+    "resources": [
+        {
+            "resource_group_id": "d42a18aa-075e-4871-a729-b2305d140d50", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:49:49.477442", 
+            "webstore_last_updated": null, 
+            "id": "04b4c1b1-f032-4faa-8f4a-d56e092b5fc7", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Vaarwegkenmerken in Nederland MGD", 
+            "created": "2015-04-11T03:49:49.534759", 
+            "url": "http://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/vaarweginformatie_nederland/geogegevens/shape", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "383f2da9-f5b0-44f1-ad3d-e19bf059b1f1", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "d42a18aa-075e-4871-a729-b2305d140d50", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:49:49.477442", 
+            "webstore_last_updated": null, 
+            "id": "22e7612d-6190-4775-99c4-6a87846338ae", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Vaarwegkenmerken in Nederland MGD - website", 
+            "created": "2015-04-11T03:49:49.534788", 
+            "url": "http://www.vaarweginformatie.nl/fdd/main/hydro/overview?contentId=HYDRO_GEPEILDEDIEPTEN", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "383f2da9-f5b0-44f1-ad3d-e19bf059b1f1", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "bodemvlak", 
+            "name": "bodemvlak", 
+            "revision_timestamp": "2015-03-26T13:17:06.315559", 
+            "state": "active", 
+            "id": "901ae930-4b1e-43b2-89a0-ad902659c9c2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "diepte", 
+            "name": "diepte", 
+            "revision_timestamp": "2015-03-26T13:17:06.315559", 
+            "state": "active", 
+            "id": "0453bfb4-b6e2-4869-8432-742d4a58711c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "hoogte", 
+            "name": "hoogte", 
+            "revision_timestamp": "2015-03-26T13:17:06.315559", 
+            "state": "active", 
+            "id": "93eede99-0905-4df0-a0d5-0ecaaf7c5fe6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "hydrografie", 
+            "name": "hydrografie", 
+            "revision_timestamp": "2015-03-26T13:17:06.315559", 
+            "state": "active", 
+            "id": "7da6965d-ecfc-4361-845c-5cb9b504d4a2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rivier", 
+            "name": "rivier", 
+            "revision_timestamp": "2015-03-26T13:17:06.315559", 
+            "state": "active", 
+            "id": "4bc90ff6-d4f0-41f9-b9e2-76daba52404f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "vaarweg", 
+            "name": "vaarweg", 
+            "revision_timestamp": "2015-03-26T13:17:06.315559", 
+            "state": "active", 
+            "id": "65454bf8-61b3-4b8b-aabe-a206b7142b8a"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "title": "Vaarwegkenmerken in Nederland MGD", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Economie | Transport", 
+    "temporal_from": "9999-09-09", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:17:06.315559", 
+    "identifier": "V148TQ2Q-V2WS-YB6H-GIS2-UDLQD2U9NYPA", 
+    "name": "vaarwegkenmerken-in-nederland-mgd", 
+    "language": "nl-NL", 
+    "temporal_to": "9999-09-09", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "Minst Gepeilde Diepte. Aanwijzing voor de ligging van het bodemvlak t.o.v. NAP of streefpeil. Bij sommige vaarwegen kan hier dus een waarde van plus NAP zijn ingevuld. In verband met de snel wijzigende bodemligging van geulen in getijgebieden kan de in ViN opgenomen diepte van deze vaarwegen afwijken van de actuele situatie. Dit geldt tevens voor een aantal rivieren waarvan de bodemligging vrijwel continu verandert na een hoogwaterperiode. Voor de actuele dieptegegevens van deze vaarwegen dient u contact op te nemen met de vaarwegbeheerders. Notatie: Indien er sprake is van een zomer- en een winterpeil dan is de diepte altijd opge geven t.o.v. het win ter peil", 
+    "license_title": "CC-0", 
+    "modified": "2014-12-31", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "d7205bcd-f104-4c6b-a118-6d00d919409c", 
+    "landingpage": "www.vaarweginformatie.nl"
+}

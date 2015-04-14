@@ -1,0 +1,158 @@
+{
+    "license_title": "CC-BY 4.0", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap", 
+    "relationships_as_object": [], 
+    "md_uri": "", 
+    "private": false, 
+    "maintainer_email": "informatieproducten@duo.nl", 
+    "num_tags": 6, 
+    "modified": "2015-03-30", 
+    "id": "f387e21e-a778-44c0-8236-437c2312595f", 
+    "metadata_created": "2015-03-26T15:48:17.991349", 
+    "language": "nl-NL", 
+    "conforms_to": "", 
+    "metadata_modified": "2015-03-30T14:22:10.000614", 
+    "author": "DUO", 
+    "author_email": "", 
+    "state": "active", 
+    "source": "admin", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Hoger_onderwijs_(thema)", 
+    "version": "", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "", 
+    "grondslag": "", 
+    "license_id": "cc-by", 
+    "contact_point": "drupal@indicia.nl", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "8e89f952-6cbb-4024-9c91-d8045e52fa18", 
+            "cache_last_updated": null, 
+            "bytesize": "", 
+            "revision_timestamp": "2015-03-30T14:21:25.981541", 
+            "webstore_last_updated": null, 
+            "id": "3682b424-e0cf-437e-af43-b6af6fd98629", 
+            "size": null, 
+            "download_url": "", 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "CSV", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Aantal hbo ingeschrevenen naar opleidingsvorm", 
+            "created": "2015-03-26T16:48:18.034023", 
+            "url": "http://www.ib-groep.nl/organisatie/open_onderwijsdata/Images/02.%20Ingeschrevenen%20hbo%20naar%20opleidingsvorm_tcm33-32288.csv", 
+            "webstore_url": null, 
+            "mimetype_inner": null, 
+            "position": 0, 
+            "revision_id": "0223204c-fb1f-46e2-9555-10f48577077c", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "hbo", 
+            "name": "hbo", 
+            "revision_timestamp": "2015-03-26T15:48:17.991349", 
+            "state": "active", 
+            "id": "91eae4ae-7538-43ab-bf6c-13e19fee437f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ingeschrevenen", 
+            "name": "ingeschrevenen", 
+            "revision_timestamp": "2015-03-26T15:48:17.991349", 
+            "state": "active", 
+            "id": "368e483f-0597-46d8-b0a1-ec3707ebbf70"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "inschrijvingen", 
+            "name": "inschrijvingen", 
+            "revision_timestamp": "2015-03-26T15:48:17.991349", 
+            "state": "active", 
+            "id": "19eba8ff-7b55-44d7-817b-50bfdda20f8a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ocw", 
+            "name": "ocw", 
+            "revision_timestamp": "2015-03-26T15:48:17.991349", 
+            "state": "active", 
+            "id": "a831124d-cf12-47d9-8465-8cda46b86635"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "onderwijs", 
+            "name": "onderwijs", 
+            "revision_timestamp": "2015-03-26T15:48:17.991349", 
+            "state": "active", 
+            "id": "a9232327-144c-4b1a-9382-6cbe4150ee55"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "studiejaar", 
+            "name": "studiejaar", 
+            "revision_timestamp": "2015-03-26T15:48:17.991349", 
+            "state": "active", 
+            "id": "1a6ad42e-d189-4725-b0f7-095c9c33d925"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap", 
+    "title": "03. HO Aantal hbo ingeschrevenen naar opleidingsvorm (binnen domein soort ho) - Ministerie van OCW", 
+    "maintainer_displayname": "Ministeries | Ministerie van Onderwijs, Cultuur en Wetenschap", 
+    "theme_displayname": "Onderwijs en wetenschap | Hoger onderwijs", 
+    "temporal_from": "", 
+    "grondslag_citeertitel": "", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "a6ddf05a-e455-47b2-ab2b-b703a69d4720", 
+    "relationships_as_subject": [], 
+    "version_notes": "", 
+    "revision_timestamp": "2015-03-30T14:22:09.999759", 
+    "organization": {
+        "description": "", 
+        "created": "2015-03-26T12:55:33.649152", 
+        "title": "Data.overheid.nl dataregister", 
+        "name": "data-overheid-nl", 
+        "revision_timestamp": "2015-03-28T12:06:47.218165", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115533.618291donl.png", 
+        "revision_id": "5bd836a3-c1bf-4b89-8f4c-dffb9c6ac3ed", 
+        "type": "organization", 
+        "id": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+        "approval_status": "approved"
+    }, 
+    "name": "03-ho-aantal-hbo-ingeschrevenen-naar-opleidingsvorm-binnen-domein-soort-ho--ministerie-van-ocw", 
+    "isopen": true, 
+    "rights": "", 
+    "accrual_periodicity": "", 
+    "notes": "Het aantal hbo ingeschrevenen (studenten) naar opleidingsvorm (voltijd, deeltijd, duaal onderwijs). Het gaat om het aantal ingeschrevenen in het laatst beschikbare studiejaar. De gegevens staan weergegeven per instelling, bevoegd gezag, croho onderdeel, plaatsnaam, gemeente en provincie.", 
+    "owner_org": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap", 
+    "url": null, 
+    "extras": [
+        {
+            "key": "subtheme_facet", 
+            "value": "http://standaarden.overheid.nl/owms/terms/Hoger_onderwijs_(thema)"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/licenses/by/4.0/deed.nl", 
+    "temporal_to": "", 
+    "revision_id": "e6219983-ab3c-4da3-8e99-678cc9a9ffae", 
+    "landingpage": "http://www.ib-groep.nl/organisatie/open_onderwijsdata/databestanden/ho/Ingeschreven/ingeschrevenen_hbo/hbo_ingeschrevenen_opleidingsvorm.asp"
+}

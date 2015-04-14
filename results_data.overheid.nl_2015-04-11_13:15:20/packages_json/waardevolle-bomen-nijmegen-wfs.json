@@ -1,0 +1,117 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Nijmegen_(gemeente)", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=4266410f-90dc-4b39-9c1f-7d0435c3190f", 
+    "private": false, 
+    "maintainer_email": "opdrachten.geo@nijmegen.nl", 
+    "num_tags": 2, 
+    "id": "56cdf9c9-378c-4618-be3e-cc25ea74460a", 
+    "metadata_created": "2015-03-26T13:14:34.952163", 
+    "metadata_modified": "2015-04-11T01:36:59.968198", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Nijmegen_(gemeente)", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "bada586a-d032-45cf-bb3a-9707e8876117", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:36:59.967083", 
+            "webstore_last_updated": null, 
+            "id": "c8b75cfe-90cb-416c-a5b8-c1199e64c819", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "", 
+            "created": "2015-04-11T03:37:00.028050", 
+            "url": "http://opendata.nijmegen.nl/WFS_Groen/Request.aspx?", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "a624d00a-b7b2-48bb-b169-482ebba35c24", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Groen bomen", 
+            "name": "Groen bomen", 
+            "revision_timestamp": "2015-03-26T13:14:34.952163", 
+            "state": "active", 
+            "id": "b9cb4abd-2cde-41c9-805b-1daa64dbcdb5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Milieubewakingsvoorzieningen", 
+            "name": "Milieubewakingsvoorzieningen", 
+            "revision_timestamp": "2015-03-26T13:14:34.952163", 
+            "state": "active", 
+            "id": "09815334-c4cd-4c40-8268-0a90364ee1ba"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Bestuur", 
+    "title": "Waardevolle bomen Nijmegen (WFS)", 
+    "maintainer_displayname": "Gemeente | Nijmegen", 
+    "theme_displayname": "Bestuur | Organisatie en beleid", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:14:34.952163", 
+    "identifier": "4266410f-90dc-4b39-9c1f-7d0435c3190f", 
+    "name": "waardevolle-bomen-nijmegen-wfs", 
+    "language": "nl-NL", 
+    "url": null, 
+    "notes": "Deze dataset bevat de volgende gegevensgroepen:\n- Waardevolle bomen\n- Waardevolle bomen particulier\n- Monumentale bomen\n- Monumentale bomen particulier\n- Te herplanten bomen\n- Te rooien bomen", 
+    "license_title": "CC-0", 
+    "modified": "2015-04-11", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "f3202b10-2424-4ed3-87c3-79c19f1e7668", 
+    "landingpage": ""
+}

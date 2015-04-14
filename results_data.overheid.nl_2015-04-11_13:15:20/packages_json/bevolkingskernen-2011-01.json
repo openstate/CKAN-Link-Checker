@@ -1,0 +1,334 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=addb5dc0-e6ec-4b89-a7c5-657db9f98f42", 
+    "private": false, 
+    "maintainer_email": "infoservice@cbs.nl", 
+    "num_tags": 18, 
+    "id": "a8b0ffb1-5049-4d35-9af3-7f417062956d", 
+    "metadata_created": "2015-04-01T11:18:19.363613", 
+    "metadata_modified": "2015-04-11T01:39:35.269971", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Centraal_Bureau_voor_de_Statistiek", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-by3", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "91dd756b-4976-4d2e-8b34-5080a9ddb2a4", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:39:35.268977", 
+            "webstore_last_updated": null, 
+            "id": "76410d4c-7008-459f-a6ee-7744914ed53c", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "2011-bevolkingskern-shape.zip", 
+            "created": "2015-04-11T03:39:35.390581", 
+            "url": "http://www.cbs.nl/nl-NL/menu/themas/dossiers/nederland-regionaal/links/2014-bevolkingskernen-in-nederland-2011-el.htm", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "f85bbbe9-51f4-461c-a649-f964ed62efb0", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "91dd756b-4976-4d2e-8b34-5080a9ddb2a4", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:39:35.268977", 
+            "webstore_last_updated": null, 
+            "id": "9123d7ca-f12b-4e1b-9cfb-1ec5a909e99d", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "bevolkingskernen2011:cbsbevolkingskernen2011", 
+            "created": "2015-04-11T03:39:35.390610", 
+            "url": "http://geodata.nationaalgeoregister.nl/bevolkingskernen2011/wms?", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "f85bbbe9-51f4-461c-a649-f964ed62efb0", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "91dd756b-4976-4d2e-8b34-5080a9ddb2a4", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:39:35.268977", 
+            "webstore_last_updated": null, 
+            "id": "864476de-cc17-48aa-b40a-2cf3536857a9", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "bevolkingskernen2011:cbsbevolkingskernen2011", 
+            "created": "2015-04-11T03:39:35.390617", 
+            "url": "http://geodata.nationaalgeoregister.nl/bevolkingskernen2011/wfs?", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 2, 
+            "revision_id": "f85bbbe9-51f4-461c-a649-f964ed62efb0", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "91dd756b-4976-4d2e-8b34-5080a9ddb2a4", 
+            "protocol": "INSPIRE Atom", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:39:35.268977", 
+            "webstore_last_updated": null, 
+            "id": "e37bb1ec-9218-4575-841b-38402649dc4d", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "inspire atom", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "CBS bevolkingskernen 2011", 
+            "created": "2015-04-11T03:39:35.390623", 
+            "url": "http://geodata.nationaalgeoregister.nl/bevolkingskernen2011/atom/bevolkingskernen2011.xml", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 3, 
+            "revision_id": "f85bbbe9-51f4-461c-a649-f964ed62efb0", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 4, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "CBS", 
+            "name": "CBS", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "2db8aed8-cafc-440a-8f5d-e4c5df7caba4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WOZ", 
+            "name": "WOZ", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "d67c1af2-66a5-4931-8fe0-614ebd94e661"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "afstand", 
+            "name": "afstand", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "ab5eb618-92de-4ee6-9b86-e3b4199d1388"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "allochtonen", 
+            "name": "allochtonen", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "cca92cf1-8d9b-4ec3-9038-3aec0c3814aa"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "bevolkingsdichtheid", 
+            "name": "bevolkingsdichtheid", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "b9b6ca6c-a8b1-40d1-b789-09bc59fac12d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "bevolkingskern", 
+            "name": "bevolkingskern", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "d827227b-0f90-4caa-950f-32b6c9695635"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "detailhandel", 
+            "name": "detailhandel", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "7667afb2-f36c-4a66-9c3f-f9145406ac7a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "dorp", 
+            "name": "dorp", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "a2460438-c669-4e15-8122-9260257b7474"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "inwoners", 
+            "name": "inwoners", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "b6d5c7d7-56fc-49a1-a9ae-54be31133f90"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "leeftijd", 
+            "name": "leeftijd", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "b497fcb2-95a2-450b-b858-6cbcfb7e171f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "locality", 
+            "name": "locality", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "48f8ad17-9691-4c74-80d7-3f6f146aa16b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "scholen", 
+            "name": "scholen", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "52b4f8ed-ab05-40d5-ba30-c35804ec7e15"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "stad", 
+            "name": "stad", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "7cdad0a3-f911-4079-bf22-eb514ffac302"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "statistiek", 
+            "name": "statistiek", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "1f9be5cd-498a-4798-a849-6f4dd7ac07a7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "urban areas", 
+            "name": "urban areas", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "637fc458-22b3-4cc0-ae16-24b5efb69e26"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "voorzieningen", 
+            "name": "voorzieningen", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "ce39d5e2-9baf-44dd-9d34-e7b37d01166d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "wonen", 
+            "name": "wonen", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "16c4cde2-11ee-4145-9e6e-c264a722370b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "zorg", 
+            "name": "zorg", 
+            "revision_timestamp": "2015-04-01T11:18:19.363613", 
+            "state": "active", 
+            "id": "5001ff4e-df63-45b5-9b3f-79caf5da4d40"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Bestuur", 
+    "title": "Bevolkingskernen 2011", 
+    "maintainer_displayname": "ZBO | Centraal Bureau voor de Statistiek", 
+    "theme_displayname": "Bestuur | Organisatie en beleid", 
+    "temporal_from": "2011-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-01T11:18:19.363613", 
+    "identifier": "addb5dc0-e6ec-4b89-a7c5-657db9f98f42", 
+    "name": "bevolkingskernen-2011-01", 
+    "language": "nl-NL", 
+    "temporal_to": "2011-12-31", 
+    "url": null, 
+    "notes": "Het bestand bevolkingskernen 2011 bevat statistische kerncijfers per bevolkingskern.\n\nLees voor meer informatie:\nhttp://www.cbs.nl/NR/rdonlyres/13361B85-7FD0-4614-87F4-6625315E50FC/0/2014BevolkingskerneninNederland2011pub.pdf", 
+    "license_title": "CC-BY 3.0", 
+    "modified": "2015-04-11", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/licenses/by/3.0/nl/legalcode", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "f712af12-8068-470a-b4db-6c7f757e30a5", 
+    "landingpage": ""
+}

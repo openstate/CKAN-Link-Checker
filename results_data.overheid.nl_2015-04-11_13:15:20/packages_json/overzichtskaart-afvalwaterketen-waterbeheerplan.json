@@ -1,0 +1,167 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=6948348e-f22c-4e19-a71f-7ddfc042905c", 
+    "private": false, 
+    "maintainer_email": "info@aaenmaas.nl", 
+    "num_tags": 8, 
+    "id": "1d31a14e-7b02-42a8-9549-614604460c45", 
+    "metadata_created": "2015-03-26T13:14:46.950019", 
+    "metadata_modified": "2015-04-11T01:37:59.706552", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "425297e8-933d-4fbb-8b3e-a8808af13a1b", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:37:59.705611", 
+            "webstore_last_updated": null, 
+            "id": "3e8ade7f-e39c-4966-871f-02343f528a1d", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Overzichtskaart afvalwaterketen", 
+            "created": "2015-04-11T03:37:59.774841", 
+            "url": "http://geoinformatie.aaenmaas.nl/PDF/WBP_2016_2021/4e_Overzichtskaart_zuiveren.pdf", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "8ed64bae-072a-4c27-8acf-6a656a5bd22d", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Afvalwater", 
+            "name": "Afvalwater", 
+            "revision_timestamp": "2015-03-26T13:14:46.950019", 
+            "state": "active", 
+            "id": "efac1bf5-6d35-4e6d-b160-00f2f1b0eac7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Afvalwaterketen", 
+            "name": "Afvalwaterketen", 
+            "revision_timestamp": "2015-03-26T13:14:46.950019", 
+            "state": "active", 
+            "id": "e71a4019-80c3-42d8-a9de-6ba1772497b3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Effluent", 
+            "name": "Effluent", 
+            "revision_timestamp": "2015-03-26T13:14:46.950019", 
+            "state": "active", 
+            "id": "bfe89a6d-3fc4-40e9-9ac5-b397e71568a3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "RWZI", 
+            "name": "RWZI", 
+            "revision_timestamp": "2015-03-26T13:14:46.950019", 
+            "state": "active", 
+            "id": "4786e0a3-64a2-40ed-a07e-d5a3f7535938"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Rioolwaterzuiveringsinstallatie", 
+            "name": "Rioolwaterzuiveringsinstallatie", 
+            "revision_timestamp": "2015-03-26T13:14:46.950019", 
+            "state": "active", 
+            "id": "f77ab7ba-817d-417e-96ad-3358a13c7c9d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WBP", 
+            "name": "WBP", 
+            "revision_timestamp": "2015-03-26T13:14:46.950019", 
+            "state": "active", 
+            "id": "e7b9188a-474d-4f9a-ad2f-f79dcd059497"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheerplan", 
+            "name": "Waterbeheerplan", 
+            "revision_timestamp": "2015-03-26T13:14:46.950019", 
+            "state": "active", 
+            "id": "0582ddc6-9331-46fa-b3f3-7aec9a76993b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheersplan", 
+            "name": "Waterbeheersplan", 
+            "revision_timestamp": "2015-03-26T13:14:46.950019", 
+            "state": "active", 
+            "id": "279aebf7-d887-47a8-a26e-36624d0ff15b"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Overzichtskaart afvalwaterketen, Waterbeheerplan", 
+    "maintainer_displayname": "Waterschappen | Waterschap Aa en Maas", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "2015-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:14:46.950019", 
+    "identifier": "6948348e-f22c-4e19-a71f-7ddfc042905c", 
+    "name": "overzichtskaart-afvalwaterketen-waterbeheerplan", 
+    "language": "nl-NL", 
+    "temporal_to": "2021-12-31", 
+    "url": null, 
+    "notes": "Op het gebied van afvalwatertransport en afvalwaterzuivering voert het waterschap het Bestuursakkoord Water 2011 helemaal uit", 
+    "license_title": "Publiek Domein", 
+    "modified": "2014-08-20", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "6fb316ff-7c56-46fe-9696-3a1b54b581ac", 
+    "landingpage": ""
+}

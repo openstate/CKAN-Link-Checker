@@ -1,0 +1,165 @@
+{
+    "owner_org": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap", 
+    "relationships_as_object": [], 
+    "md_uri": "", 
+    "private": false, 
+    "maintainer_email": "collectieinfo@rijksmuseum.nl", 
+    "num_tags": 7, 
+    "id": "5cad5d5c-66b3-421f-8d98-003fac4ab974", 
+    "metadata_created": "2015-03-26T15:47:13.596144", 
+    "conforms_to": "", 
+    "metadata_modified": "2015-03-30T12:16:49.172187", 
+    "author": "http://data.overheid.nl/organisatie/onbekend", 
+    "author_email": "collectieinfo@rijksmuseum.nl", 
+    "isopen": true, 
+    "state": "active", 
+    "source": "admin", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Kunst_(thema)", 
+    "version": "", 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Internationaal", 
+    "grondslag": "", 
+    "license_id": "cc-0", 
+    "contact_point": "drupal@indicia.nl", 
+    "type": "dataset", 
+    "lod_stars": "4", 
+    "resources": [
+        {
+            "resource_group_id": "82956299-6c95-43f0-90a0-5e28de926dc7", 
+            "cache_last_updated": null, 
+            "bytesize": "0", 
+            "revision_timestamp": "2015-03-26T15:47:13.596144", 
+            "webstore_last_updated": null, 
+            "id": "a7ce5027-b620-4f20-a56c-f5938c8dde3d", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "XML", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Bekijk feed", 
+            "created": "2015-03-26T16:47:13.646587", 
+            "url": "http://www.rijksmuseum.nl/api", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "559c75bd-d91d-4f7f-83ca-c44744f9460b", 
+            "resource_type": null
+        }
+    ], 
+    "temporal_to": "", 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "geschiedenis", 
+            "name": "geschiedenis", 
+            "revision_timestamp": "2015-03-26T15:47:13.596144", 
+            "state": "active", 
+            "id": "24e87725-46ad-4a8a-996f-d174b3322832"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "kunst", 
+            "name": "kunst", 
+            "revision_timestamp": "2015-03-26T15:47:13.596144", 
+            "state": "active", 
+            "id": "b7380114-c48c-4202-868c-970760e0edaf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "nachtwacht", 
+            "name": "nachtwacht", 
+            "revision_timestamp": "2015-03-26T15:47:13.596144", 
+            "state": "active", 
+            "id": "cf95a38d-e981-48dc-9b86-7ba8c04a1146"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "nederland", 
+            "name": "nederland", 
+            "revision_timestamp": "2015-03-26T15:47:13.596144", 
+            "state": "active", 
+            "id": "cfd4f6ff-fa97-42d3-ae81-b89ace491a20"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rembrandt", 
+            "name": "rembrandt", 
+            "revision_timestamp": "2015-03-26T15:47:13.596144", 
+            "state": "active", 
+            "id": "427b357b-626e-4c99-8918-f3b1205ed132"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rijksmuseum", 
+            "name": "rijksmuseum", 
+            "revision_timestamp": "2015-03-26T15:47:13.596144", 
+            "state": "active", 
+            "id": "75f26cca-7ffa-44af-8281-caa084b36a3d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "vermeer", 
+            "name": "vermeer", 
+            "revision_timestamp": "2015-03-26T15:47:13.596144", 
+            "state": "active", 
+            "id": "c171b8e9-23d2-45ed-b05c-368deb6d5489"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Cultuur_en_recreatie", 
+    "maintainer_displayname": "Ministeries | Ministerie van Onderwijs, Cultuur en Wetenschap", 
+    "theme_displayname": "Cultuur en recreatie | kunst", 
+    "temporal_from": "", 
+    "grondslag_citeertitel": "", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "f8e76669-0998-4bb2-af74-ebe47f5c8547", 
+    "relationships_as_subject": [], 
+    "version_notes": "", 
+    "revision_timestamp": "2015-03-30T12:16:49.170917", 
+    "organization": {
+        "description": "", 
+        "title": "Data.overheid.nl dataregister", 
+        "created": "2015-03-26T12:55:33.649152", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-28T12:06:47.218165", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115533.618291donl.png", 
+        "revision_id": "5bd836a3-c1bf-4b89-8f4c-dffb9c6ac3ed", 
+        "type": "organization", 
+        "id": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+        "name": "data-overheid-nl"
+    }, 
+    "name": "rijksmuseum-api", 
+    "language": "nl-NL", 
+    "rights": "", 
+    "accrual_periodicity": "", 
+    "notes": "De Rijksmuseum API (Application Programming Interface) is een service van het Rijksmuseum voor partners en applicatieontwikkelaars.\r\n\r\nJe kunt een API key aanvragen, waarmee je toegang krijgt tot de gestructureerde metadata (OAI_DC) en afbeeldingen van de collectie van het Rijksmuseum. Je kunt deze metadata en afbeeldingen gebruiken om apps of webtoepassingen te ontwikkelen of voor verrijking van de eigen collectie.\r\n\r\nOntwikkelaars krijgen automatisch toegang tot de basiscollectie van het Rijksmuseum, ruim 100.000 objecten. Waaronder de Nachtwacht! Van alle objecten is digitaal beeldmateriaal beschikbaar.\r\n\r\nOp verzoek kunnen specifieke sets/onderwerpen geleverd worden.\r\n\r\nDe datasets in de API komen uit het collectieregistratiesysteem van het Rijksmuseum. Alle informatie wordt dagelijks bijgewerkt en ge\u00fcpdate. Als er nieuw of beter beeldmateriaal van objecten beschikbaar komt, dan wordt deze ook gelijk via de API beschikbaar gemaakt.\r\n\r\nDe data van het rijksmuseum is beschikbaar onder de Creative Commons BY attribution. Dat betekend dat de data herbruikbaar is op basis van naamsvermelding. Als naam dient: 'Rijksmuseum Amsterdam' te worden gebruikt.", 
+    "license_title": "CC-0", 
+    "modified": "2015-03-30", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Kunst_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "title": "Rijksmuseum API", 
+    "revision_id": "680bdf68-522b-4fb0-a708-c350850d763f", 
+    "landingpage": "http://www.rijksmuseum.nl/api/uitleg"
+}

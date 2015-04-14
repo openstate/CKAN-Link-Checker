@@ -1,0 +1,149 @@
+{
+    "owner_org": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap", 
+    "relationships_as_object": [], 
+    "md_uri": "", 
+    "private": false, 
+    "maintainer_email": "informatieproducten@duo.nl", 
+    "num_tags": 5, 
+    "id": "5e4720d4-0d18-47c7-8e6f-4b774a95280c", 
+    "metadata_created": "2015-03-26T15:48:17.640867", 
+    "conforms_to": "", 
+    "metadata_modified": "2015-04-02T13:12:00.737731", 
+    "author": "", 
+    "author_email": "", 
+    "isopen": true, 
+    "state": "active", 
+    "source": "admin", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Beroepsonderwijs_(thema)", 
+    "version": "", 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "", 
+    "grondslag": "", 
+    "license_id": "cc-by", 
+    "contact_point": "drupal@indicia.nl", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "17814cd0-967c-4858-938b-d1c0e613d86a", 
+            "cache_last_updated": null, 
+            "bytesize": "", 
+            "revision_timestamp": "2015-03-26T15:48:17.640867", 
+            "webstore_last_updated": null, 
+            "id": "c53ce91e-74ca-42dc-bc50-187c86e94578", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "CSV", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "", 
+            "created": "2015-03-26T16:48:17.682386", 
+            "url": "http://data.duo.nl/organisatie/open_onderwijsdata/Images/01.%20Crebo%20OCW%202010-2011_tcm33-28033.csv", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "af178b7a-2588-423f-b8a3-93c7c18aab0b", 
+            "resource_type": null
+        }
+    ], 
+    "temporal_to": "", 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "beroepsopleidingen", 
+            "name": "beroepsopleidingen", 
+            "revision_timestamp": "2015-03-26T15:48:17.640867", 
+            "state": "active", 
+            "id": "552880c9-1fee-4374-afae-77351ece7b05"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ocw", 
+            "name": "ocw", 
+            "revision_timestamp": "2015-03-26T15:48:17.640867", 
+            "state": "active", 
+            "id": "a831124d-cf12-47d9-8465-8cda46b86635"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "onderwijs", 
+            "name": "onderwijs", 
+            "revision_timestamp": "2015-03-26T15:48:17.640867", 
+            "state": "active", 
+            "id": "a9232327-144c-4b1a-9382-6cbe4150ee55"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "opleidingen", 
+            "name": "opleidingen", 
+            "revision_timestamp": "2015-03-26T15:48:17.640867", 
+            "state": "active", 
+            "id": "12f868c3-7c57-4a0b-abdf-a5bbaee3ff03"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "opleidingssoort", 
+            "name": "opleidingssoort", 
+            "revision_timestamp": "2015-03-26T15:48:17.640867", 
+            "state": "active", 
+            "id": "91b0c9e1-c6ef-440f-895e-75e2c69dec52"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap", 
+    "maintainer_displayname": "Ministeries | Ministerie van Onderwijs, Cultuur en Wetenschap", 
+    "theme_displayname": "Onderwijs en wetenschap | Beroepsonderwijs", 
+    "temporal_from": "", 
+    "grondslag_citeertitel": "", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "a6ddf05a-e455-47b2-ab2b-b703a69d4720", 
+    "relationships_as_subject": [], 
+    "version_notes": "", 
+    "revision_timestamp": "2015-04-02T08:53:19.563369", 
+    "organization": {
+        "description": "", 
+        "title": "Data.overheid.nl dataregister", 
+        "created": "2015-03-26T12:55:33.649152", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-28T12:06:47.218165", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115533.618291donl.png", 
+        "revision_id": "5bd836a3-c1bf-4b89-8f4c-dffb9c6ac3ed", 
+        "type": "organization", 
+        "id": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+        "name": "data-overheid-nl"
+    }, 
+    "name": "01-bve-crebo--beroepsopleidingen-ministerie-van-ocw-2010-2011-ministerie-van-ocw", 
+    "language": "nl-NL", 
+    "rights": "", 
+    "accrual_periodicity": "", 
+    "notes": "Een overzicht van de beroepsopleidingen erkend door het Ministerie van OCW (Onderwijs, Cultuur en Wetenschap). De opleidingen staan gesorteerd naar opleidingssoort, kwalificatie, niveau en kenniscentrum. Tevens staat vermeld: wettelijke beroepsvereisten, leerweg, studiebelastinguren, bekostigbaar en prijsfactor.", 
+    "license_title": "CC-BY 4.0", 
+    "modified": "2015-03-30", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Beroepsonderwijs_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/licenses/by/4.0/deed.nl", 
+    "title": "01. BVE Crebo - beroepsopleidingen Ministerie van OCW 2010-2011 - Ministerie van OCW", 
+    "revision_id": "b45f52c1-159f-4d72-b284-9122e46ab4af", 
+    "landingpage": "http://data.duo.nl/organisatie/open_onderwijsdata/databestanden/mbo_/Crebo/Crebo/crebo1.asp"
+}

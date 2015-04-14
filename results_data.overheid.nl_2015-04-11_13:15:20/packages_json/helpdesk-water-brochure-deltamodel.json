@@ -1,0 +1,145 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 5, 
+    "id": "2ac39a15-218d-49d1-a793-6b137397df49", 
+    "metadata_created": "2015-03-26T13:16:28.196123", 
+    "metadata_modified": "2015-04-11T01:51:26.918517", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=9U8DUVGI-8CDJ-Y3GG-X7TC-7XPYSCO1SW1W", 
+    "resources": [
+        {
+            "resource_group_id": "d3f5bbc7-7e37-44a9-b155-8c842bdbec02", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:51:26.917698", 
+            "webstore_last_updated": null, 
+            "id": "0b26d7e5-b759-4f4a-b468-ea87bae8189b", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Helpdesk Water - Brochure Deltamodel - website", 
+            "created": "2015-04-11T03:51:26.956342", 
+            "url": "http://www.helpdeskwater.nl/onderwerpen/applicaties-modellen/deltamodel/@31265/brochure-deltamodel-0", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "14a794e6-f675-4e62-885e-78da66093156", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Beleid", 
+            "name": "Beleid", 
+            "revision_timestamp": "2015-03-26T13:16:28.196123", 
+            "state": "active", 
+            "id": "d92eff12-fb65-4fda-b5a8-168861ecba3a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Deltaprogramma", 
+            "name": "Deltaprogramma", 
+            "revision_timestamp": "2015-03-26T13:16:28.196123", 
+            "state": "active", 
+            "id": "7549fc0e-e18b-42ec-a9ad-2b0acaea7bb7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Modelinstrumentarium", 
+            "name": "Modelinstrumentarium", 
+            "revision_timestamp": "2015-03-26T13:16:28.196123", 
+            "state": "active", 
+            "id": "2663c7c6-ca5a-4548-89fa-5c450e79d2c1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterveiligheid", 
+            "name": "Waterveiligheid", 
+            "revision_timestamp": "2015-03-26T13:16:28.196123", 
+            "state": "active", 
+            "id": "12e9c41e-5bd2-4b2b-a7bd-408fe46e9aad"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Zoetwatervoorziening.", 
+            "name": "Zoetwatervoorziening.", 
+            "revision_timestamp": "2015-03-26T13:16:28.196123", 
+            "state": "active", 
+            "id": "8f5a7d11-e841-46dd-8ffc-d3bb95e23da3"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Helpdesk Water - Brochure Deltamodel", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "9999-09-09", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:16:28.196123", 
+    "identifier": "9U8DUVGI-8CDJ-Y3GG-X7TC-7XPYSCO1SW1W", 
+    "name": "helpdesk-water-brochure-deltamodel", 
+    "language": "nl-NL", 
+    "temporal_to": "9999-09-09", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "Deze brochure geeft informatie over het Deltamodel", 
+    "license_title": "CC-0", 
+    "modified": "2014-12-15", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "ccaa8dc9-cd54-405d-9d9a-e407ccfa130f", 
+    "landingpage": "www.rws.nl/over_ons/organisatiestructuur/verkeer_en_watermanagement"
+}

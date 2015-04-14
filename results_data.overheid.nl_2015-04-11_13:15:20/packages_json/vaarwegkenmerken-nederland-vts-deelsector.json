@@ -1,0 +1,190 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 7, 
+    "id": "dd6900f5-9568-49a8-b24b-6825ad2ea710", 
+    "metadata_created": "2015-03-26T13:17:09.417263", 
+    "metadata_modified": "2015-04-11T01:49:50.319856", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=e776494d-19f9-473f-8c0f-4902ee895680", 
+    "resources": [
+        {
+            "resource_group_id": "4224c898-1b81-4c97-b4a4-d3b0f2005fe0", 
+            "protocol": "HTTP", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:49:50.318783", 
+            "webstore_last_updated": null, 
+            "id": "435e86fd-2c36-482c-993b-bda6bcd31164", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "http", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Vaarwegkenmerken Nederland VTS deelsector", 
+            "created": "2015-04-11T03:49:50.414697", 
+            "url": "http://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/vaarweginformatie_nederland/geogegevens/shape", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "85b905a4-1bfa-4ec7-8462-2950f72684f0", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "4224c898-1b81-4c97-b4a4-d3b0f2005fe0", 
+            "protocol": "HTTP", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-11T01:49:50.318783", 
+            "webstore_last_updated": null, 
+            "id": "77643845-3b8f-4ba9-9452-b7096afa58b2", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "http", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Documentatie datasets Vaarweg Informatie Nederland", 
+            "created": "2015-04-11T03:49:50.414737", 
+            "url": "http://www.rijkswaterstaat.nl/apps/geoservices/geodata/dmc/vaarweginformatie_nederland/productinfo/beschrijvende_documentatie/", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "85b905a4-1bfa-4ec7-8462-2950f72684f0", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "VSS", 
+            "name": "VSS", 
+            "revision_timestamp": "2015-03-26T13:17:09.417263", 
+            "state": "active", 
+            "id": "877963af-bc46-4d7e-a926-a9516e2039a4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "loods", 
+            "name": "loods", 
+            "revision_timestamp": "2015-03-26T13:17:09.417263", 
+            "state": "active", 
+            "id": "a73669a1-0b86-4726-b8ae-ff5451ed2cca"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "scheepvaart", 
+            "name": "scheepvaart", 
+            "revision_timestamp": "2015-03-26T13:17:09.417263", 
+            "state": "active", 
+            "id": "5da16f64-a470-4e86-bd61-fbfdb5818e37"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "scheepvaartverkeer", 
+            "name": "scheepvaartverkeer", 
+            "revision_timestamp": "2015-03-26T13:17:09.417263", 
+            "state": "active", 
+            "id": "bfc7bdf2-0a5c-4971-8d74-41610bb220ba"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "vaartuig", 
+            "name": "vaartuig", 
+            "revision_timestamp": "2015-03-26T13:17:09.417263", 
+            "state": "active", 
+            "id": "c00488a9-be78-466f-8d8e-311c351c58fb"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "vaarweg", 
+            "name": "vaarweg", 
+            "revision_timestamp": "2015-03-26T13:17:09.417263", 
+            "state": "active", 
+            "id": "65454bf8-61b3-4b8b-aabe-a206b7142b8a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "verkeersscheidingstelsel", 
+            "name": "verkeersscheidingstelsel", 
+            "revision_timestamp": "2015-03-26T13:17:09.417263", 
+            "state": "active", 
+            "id": "6522bc2c-2ec2-4956-a1e8-b248fc9599e0"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "title": "Vaarwegkenmerken Nederland VTS deelsector", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Economie | Transport", 
+    "temporal_from": "2013-10-28", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:17:09.417263", 
+    "identifier": "e776494d-19f9-473f-8c0f-4902ee895680", 
+    "name": "vaarwegkenmerken-nederland-vts-deelsector", 
+    "language": "nl-NL", 
+    "temporal_to": "2013-10-03", 
+    "accrual_periodicity": "http://purl.org/cld/freq/monthly", 
+    "notes": "Het trajectgegeven van een vaarweg of haven wat valt binnen een Vessel Traffic Service (VTS) sector of werkingsgebied.", 
+    "license_title": "CC-0", 
+    "modified": "2014-01-01", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "a12f4f23-9a6e-47c9-ad4e-de246f93e821", 
+    "landingpage": "www.vaarweginformatie.nl"
+}
