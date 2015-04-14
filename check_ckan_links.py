@@ -132,6 +132,7 @@ with open('packages.csv', 'w') as ALL_OUT:
         go = True
         while go:
             if timeout:
+                print timeout
                 time.sleep(timeout)
             try:
                 r = session.get(endpoint + 'package_show?id=' + dataset_name)
@@ -147,21 +148,21 @@ with open('packages.csv', 'w') as ALL_OUT:
 
         rjson = r.json()
 
+        # Check if the API call returned successfully
+        if rjson['success'] == False:
+            raise ValueError('%s: %s' % (rjson['__type'], rjson['message']))
+
         # Save the returned JSON result for this dataset
         with open('%s/%s.json' % (
                 packages_json_folder, rjson['result']['name']), 'w') as OUT:
             json.dump(rjson['result'], OUT, indent=4)
-
-        # Check if the API call returned successfully
-        if rjson['success'] == False:
-            raise ValueError('%s: %s' % (rjson['__type'], rjson['message']))
 
         package = rjson['result']
         # Counts how many resources' links are ok
         ok_resources = 0
         # Process each resource (i.e. a link to a data source) of the
         # current dataset/package
-        for resource in rjson['result']['resources']:
+        for resource in package['resources']:
             # Sleep at least 1 second between requests to avoid
             # hammering the CKAN endpoint too much
             time.sleep(1)
