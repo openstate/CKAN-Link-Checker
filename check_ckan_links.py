@@ -167,6 +167,13 @@ with open('packages.csv', 'w') as ALL_OUT:
             # hammering the CKAN endpoint too much
             time.sleep(1)
             url = resource['url']
+            res_format = resource['format']
+
+            if res_format == 'ogc:wms':
+                url +='?SERVICE=WMS&REQUEST=GetCapabilities'
+            elif res_format == 'ogc:wfs':
+                url +='?SERVICE=WFS&REQUEST=GetCapabilities'
+            
             parsed_url = urlparse(url)
 
             # Parse HTTP URLs
@@ -174,7 +181,7 @@ with open('packages.csv', 'w') as ALL_OUT:
                 # Try to download the URL and write relevant data to
                 # failed_resources.csv if it fails
                 try:
-                    r = session.get(resource['url'], timeout=60)
+                    r = session.get(url, timeout=60)
                 except (socket.timeout,
                         requests.exceptions.Timeout,
                         requests.exceptions.InvalidURL,
