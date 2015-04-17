@@ -1,0 +1,137 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 4, 
+    "id": "bf215c66-d65f-4deb-8fb7-755b57335e38", 
+    "metadata_created": "2015-03-26T13:16:57.403418", 
+    "metadata_modified": "2015-04-17T01:54:33.998316", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=N7ELH1AP-EWRR-WV31-7TDM-MA5611K0XCPN", 
+    "resources": [
+        {
+            "resource_group_id": "5cadb860-82d5-430b-96ab-92e15a5190b5", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:54:33.997407", 
+            "webstore_last_updated": null, 
+            "id": "dcca2085-2067-4981-beb9-0aaabad7fcf6", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Vaarweg Informatie Nederland waterregime - website", 
+            "created": "2015-04-17T03:54:34.041780", 
+            "url": "http://www.vaarweginformatie.nl/fdd/main/hydro/overview?contentId=HYDRO_REGIMES&pub=Hydro+regimes+-+rapport&menuId=REGIMES", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "46e5793f-52c2-473a-b222-f0556f020331", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "hoogwater", 
+            "name": "hoogwater", 
+            "revision_timestamp": "2015-03-26T13:16:57.403418", 
+            "state": "active", 
+            "id": "e5d5db5c-854d-427b-9fc6-7ac34dd37044"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "scheepvaart", 
+            "name": "scheepvaart", 
+            "revision_timestamp": "2015-03-26T13:16:57.403418", 
+            "state": "active", 
+            "id": "5da16f64-a470-4e86-bd61-fbfdb5818e37"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "vaarweg", 
+            "name": "vaarweg", 
+            "revision_timestamp": "2015-03-26T13:16:57.403418", 
+            "state": "active", 
+            "id": "65454bf8-61b3-4b8b-aabe-a206b7142b8a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "waterbeheer", 
+            "name": "waterbeheer", 
+            "revision_timestamp": "2015-03-26T13:16:57.403418", 
+            "state": "active", 
+            "id": "5176386f-dcb1-4c8d-94e5-938b7309c588"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Vaarweg Informatie Nederland waterregime", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Natuur en milieu | Bodem", 
+    "temporal_from": "9999-09-09", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:16:57.403418", 
+    "identifier": "N7ELH1AP-EWRR-WV31-7TDM-MA5611K0XCPN", 
+    "name": "vaarweg-informatie-nederland-waterregime", 
+    "language": "nl-NL", 
+    "temporal_to": "9999-09-09", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "De waterregimes toont een HTML-tabel met de van normaal beheer afwijkende beheerregimes op Rijkswateren.", 
+    "license_title": "CC-0", 
+    "modified": "2014-12-08", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "10b28e7e-8229-4fb7-a142-f4ef25f93b00", 
+    "landingpage": "http://www.rws.nl/water/waterdata_waterberichtgeving/watergegevens"
+}

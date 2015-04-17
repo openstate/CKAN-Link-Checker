@@ -1,0 +1,213 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=f353df86-5a3b-4d6b-88af-9ad93c3d8179", 
+    "private": false, 
+    "maintainer_email": "opendata@denhaag.nl", 
+    "num_tags": 10, 
+    "id": "8950a9e0-8751-4320-ac51-987baca3f787", 
+    "metadata_created": "2015-03-26T13:01:18.728473", 
+    "metadata_modified": "2015-04-17T01:39:06.113588", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-0", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "f8e9a836-462e-498b-91e0-30af6186ef44", 
+            "protocol": "UKST", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:39:06.112644", 
+            "webstore_last_updated": null, 
+            "id": "8b5a7d07-6f8f-46db-a076-aab4aac43f51", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ukst", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Webservice tramrail traject", 
+            "created": "2015-04-17T03:39:06.188863", 
+            "url": "http://www.denhaag.nl/ArcGIS/rest/services/_basisdynamisch/OndergrondvoorThema/MapServer/79", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "42f36454-defc-4ee5-8975-ae7bdc714818", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "f8e9a836-462e-498b-91e0-30af6186ef44", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:39:06.112644", 
+            "webstore_last_updated": null, 
+            "id": "4794740a-8c65-4ac1-acfa-b4bff919dcc9", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "CSV en API tramrail traject", 
+            "created": "2015-04-17T03:39:06.188892", 
+            "url": "http://beta.columby.com/explore/dataset/456", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "42f36454-defc-4ee5-8975-ae7bdc714818", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "HTM", 
+            "name": "HTM", 
+            "revision_timestamp": "2015-03-26T13:01:18.728473", 
+            "state": "active", 
+            "id": "d3460c2d-eed7-4d9a-8812-d842e604b0d6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "openbaar vervoer", 
+            "name": "openbaar vervoer", 
+            "revision_timestamp": "2015-03-26T13:01:18.728473", 
+            "state": "active", 
+            "id": "c152777b-4fe6-4ec0-be8b-c86049e285db"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "openbaar vervoersmiddel", 
+            "name": "openbaar vervoersmiddel", 
+            "revision_timestamp": "2015-03-26T13:01:18.728473", 
+            "state": "active", 
+            "id": "cacfa9db-be9d-4bb4-8571-a793f67ab1e0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "openbare ruimte", 
+            "name": "openbare ruimte", 
+            "revision_timestamp": "2015-03-26T13:01:18.728473", 
+            "state": "active", 
+            "id": "a1f3b017-e043-48bb-aa67-f3edc31f2261"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "plaatselijk openbaar vervoer", 
+            "name": "plaatselijk openbaar vervoer", 
+            "revision_timestamp": "2015-03-26T13:01:18.728473", 
+            "state": "active", 
+            "id": "b1715a49-6c31-4cb8-b1ae-f2cadb1ef1b0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rail", 
+            "name": "rail", 
+            "revision_timestamp": "2015-03-26T13:01:18.728473", 
+            "state": "active", 
+            "id": "e58bf1b1-77ca-42ac-80c1-3b7c508e4c92"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "traject", 
+            "name": "traject", 
+            "revision_timestamp": "2015-03-26T13:01:18.728473", 
+            "state": "active", 
+            "id": "be33d3a6-2b95-4103-aa93-0ad37387d816"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "tram", 
+            "name": "tram", 
+            "revision_timestamp": "2015-03-26T13:01:18.728473", 
+            "state": "active", 
+            "id": "dc914ddb-262b-4107-90d1-43e2fdec8858"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "tramrail traject", 
+            "name": "tramrail traject", 
+            "revision_timestamp": "2015-03-26T13:01:18.728473", 
+            "state": "active", 
+            "id": "140248f9-71ff-4cdf-a335-39f5313d09bc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "vervoersnetwerk", 
+            "name": "vervoersnetwerk", 
+            "revision_timestamp": "2015-03-26T13:01:18.728473", 
+            "state": "active", 
+            "id": "dbf9c5a1-546b-4a64-9e99-4d8c58f0b5fa"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "title": "tramrail traject", 
+    "maintainer_displayname": "Gemeente | 's-Gravenhage", 
+    "theme_displayname": "Economie | Transport", 
+    "temporal_from": "2011-05-17", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:01:18.728473", 
+    "identifier": "f353df86-5a3b-4d6b-88af-9ad93c3d8179", 
+    "name": "tramrail-traject", 
+    "language": "nl-NL", 
+    "temporal_to": "2099-01-01", 
+    "accrual_periodicity": "http://purl.org/cld/freq/daily", 
+    "notes": "tramrail traject HTM", 
+    "license_title": "CC-0", 
+    "modified": "2015-04-17", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "15abcbdf-5af6-4d24-9ead-23b179d42195", 
+    "landingpage": ""
+}

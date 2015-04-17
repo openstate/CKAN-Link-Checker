@@ -1,0 +1,136 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Noord-Holland", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "kaartendata@noord-holland.nl", 
+    "num_tags": 4, 
+    "id": "90f8b545-47a6-4ddd-816b-3350c35c695f", 
+    "metadata_created": "2015-03-26T13:21:59.241588", 
+    "metadata_modified": "2015-04-17T01:52:41.467371", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Noord-Holland", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Provincie Noord-Holland", 
+    "license_id": "publiek-domein", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/Noord-Holland", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=6245c8f1-0eaa-4cfb-84a0-d173d2421258", 
+    "resources": [
+        {
+            "resource_group_id": "4e2eed93-7284-4f4a-8f06-1894ade975a8", 
+            "protocol": "OGC:WMS-1.1.1-http-get-map", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:52:41.466533", 
+            "webstore_last_updated": null, 
+            "id": "b27a204e-fea8-4823-9124-b03e1d3338ec", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms-1.1.1-http-get-map", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "geo:ecologische_hoofdstructuur", 
+            "created": "2015-04-17T03:52:41.508934", 
+            "url": "http://geo.zaanstad.nl/geoserver/wms?SERVICE=WMS&", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "4dfff0ac-0c79-4610-90fb-2e52f67bc8e8", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "EHS", 
+            "name": "EHS", 
+            "revision_timestamp": "2015-03-26T13:21:59.241588", 
+            "state": "active", 
+            "id": "4a6181aa-a50c-4a30-8bd1-dc8a24310c47"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ecologische hoofdstructuur", 
+            "name": "ecologische hoofdstructuur", 
+            "revision_timestamp": "2015-03-26T13:21:59.241588", 
+            "state": "active", 
+            "id": "4eb40617-7413-46f8-a3ab-969cdc370a33"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "natuur", 
+            "name": "natuur", 
+            "revision_timestamp": "2015-03-26T13:21:59.241588", 
+            "state": "active", 
+            "id": "4d118243-73ba-4fee-b60c-8eb4c47b0a41"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "natuur- en landschapsbeleid", 
+            "name": "natuur- en landschapsbeleid", 
+            "revision_timestamp": "2015-03-26T13:21:59.241588", 
+            "state": "active", 
+            "id": "32a6654c-7e50-4306-9e2d-7648fff382c8"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Bestuur", 
+    "title": "Begrenzingen EHS", 
+    "maintainer_displayname": "Provincie | Noord-Holland", 
+    "theme_displayname": "Bestuur | Organisatie en beleid", 
+    "temporal_from": "2011-09-20", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:21:59.241588", 
+    "identifier": "6245c8f1-0eaa-4cfb-84a0-d173d2421258", 
+    "name": "begrenzingen-ehs", 
+    "language": "nl-NL", 
+    "temporal_to": "2012-10-31", 
+    "url": null, 
+    "notes": "Deze kaartlaag, de Ecologische Verbindigszones van de Provincie Noord-Holland, vormt onderdeel van het bestand van de Begrenzingenkaart. Op 19 maart 2013 heeft Gedeputeerde Staten van Noord-Holland besloten deze kaart op te nemen in de Verordening (PRVS), zaak en documentnummer 135178/160382. Deze kaart werd eerder vastgesteld als onderdeel van het Natuurbeheerplan 2013. De Begrenzingenkaart bestaat uit 'EHS natuur', \u2018EHS zoekgebied\u2019, 'EHS grote wateren', \u2018Natura 2000\u2019 en de en de \u2018Ecologische verbindingszones\u2019. Doel van de EHS is het vormen van een samenhangend netwerk van natuurgebieden om zo de biodiversiteit te beschermen. De \u2018Ecologische verbindingszones\u2019 en \u2018EHS zoekgebied\u2019 zijn opgenomen in aparte kaartlagen. De Begrenzingenkaart vormt de basis voor de Beheertypenkaart.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2013-03-19", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "5d44732f-84b1-4290-9330-d244f1475e37", 
+    "landingpage": "http://www.noord-holland.nl/web/Digitaal-loket/Kaarten-en-data.htm"
+}

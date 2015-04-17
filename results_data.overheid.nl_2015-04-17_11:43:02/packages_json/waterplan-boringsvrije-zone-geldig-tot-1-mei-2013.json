@@ -1,0 +1,247 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=6f3c8299-2b8d-419c-a609-cf65b7c25491", 
+    "private": false, 
+    "maintainer_email": "GIS@provincie-utrecht.nl", 
+    "num_tags": 15, 
+    "id": "5f5d0b82-795e-41f5-b27d-3440d2f75a8e", 
+    "metadata_created": "2015-04-15T01:52:42.155783", 
+    "metadata_modified": "2015-04-17T01:48:52.783490", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "84552d47-9c82-4ccf-9135-e0d0d65ec9c0", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:48:52.782568", 
+            "webstore_last_updated": null, 
+            "id": "fd7d75b2-9dea-45ca-a9af-57f541d41f86", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "27", 
+            "created": "2015-04-17T03:48:52.847847", 
+            "url": "http://geoservices.provincie-utrecht.nl/arcgis/services/w01-2_grondwater/MapServer/WMSServer", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "f5dbfec1-399c-44b6-a4b3-790c1c7da4e8", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "84552d47-9c82-4ccf-9135-e0d0d65ec9c0", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:48:52.782568", 
+            "webstore_last_updated": null, 
+            "id": "0fadd19d-fa76-44a6-90ad-b66c42837e75", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "wfs_w01_water:waterplan_boringsvrije_zone", 
+            "created": "2015-04-17T03:48:52.847877", 
+            "url": "http://geoservices.provincie-utrecht.nl/arcgis/services/wfs_w01_water/MapServer/WFSServer", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "f5dbfec1-399c-44b6-a4b3-790c1c7da4e8", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "DRINKWATER", 
+            "name": "DRINKWATER", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "adbf14b4-03ba-431c-a317-6a1319011ade"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "DRINKWATERONTTREKKINGEN", 
+            "name": "DRINKWATERONTTREKKINGEN", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "9d6f1e00-2b20-47c8-9780-16da41c95723"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "GRONDWATER", 
+            "name": "GRONDWATER", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "3b9a17ca-4fe0-4bbc-9569-de02ebdeba39"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "GRONDWATERBESCHERMING", 
+            "name": "GRONDWATERBESCHERMING", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "ff446b18-6f1f-4666-ae55-aed6c4ec5bd7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "GRONDWATERBESCHERMINGSGEBIEDEN", 
+            "name": "GRONDWATERBESCHERMINGSGEBIEDEN", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "6d7d4eac-0ac9-41f1-9294-7e8a4c41d4a1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "GRONDWATERKAARTEN", 
+            "name": "GRONDWATERKAARTEN", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "fb41b768-fd9a-4670-b99b-b9b82e95c539"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "GRONDWATERONTTREKKINGEN", 
+            "name": "GRONDWATERONTTREKKINGEN", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "c4b42f77-db04-46fb-8060-9079feca9888"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Provinciaal beleid", 
+            "name": "Provinciaal beleid", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "14735b58-3b6e-4e4e-b96c-152f06c0f029"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WATER", 
+            "name": "WATER", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "b87e7131-79fb-4b49-8c58-961d2fea96ce"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WATERBELEID", 
+            "name": "WATERBELEID", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "3a2a4f37-8179-4578-a209-15fce14260c1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WATERCONSERVERING", 
+            "name": "WATERCONSERVERING", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "f787324c-baf5-4396-a0c3-b7949437f40e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WATERHUISHOUDING", 
+            "name": "WATERHUISHOUDING", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "089e092c-492b-4b4b-bc23-18e84449e1c4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WATERVOORZIENING", 
+            "name": "WATERVOORZIENING", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "f56c5183-976f-48e3-bd70-3f43d6bfa7a1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WATERWINGEBIEDEN", 
+            "name": "WATERWINGEBIEDEN", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "c8c5b955-3724-4198-a517-bad443e4f5e9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WATERWINNING", 
+            "name": "WATERWINNING", 
+            "revision_timestamp": "2015-04-15T01:52:42.155783", 
+            "state": "active", 
+            "id": "550434e8-1486-4b79-9ed0-394d6a4f50d7"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Waterplan - Boringsvrije zone (geldig tot 1 mei 2013)", 
+    "maintainer_displayname": "Provincie | Utrecht", 
+    "theme_displayname": "Natuur en milieu", 
+    "temporal_from": "2010-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-15T01:52:42.155783", 
+    "identifier": "6f3c8299-2b8d-419c-a609-cf65b7c25491", 
+    "name": "waterplan-boringsvrije-zone-geldig-tot-1-mei-2013", 
+    "language": "nl-NL", 
+    "temporal_to": "2015-12-31", 
+    "accrual_periodicity": "unknown", 
+    "notes": "Grenzen van boringsvrije zones m.b.t. winningen van grondwater.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2009-07-27", 
+    "url": null, 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "451648c5-8783-4695-abd9-7adf346a5241", 
+    "landingpage": ""
+}

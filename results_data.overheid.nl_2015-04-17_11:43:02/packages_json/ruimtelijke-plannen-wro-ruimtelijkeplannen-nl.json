@@ -1,0 +1,410 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=17716ed7-ce0d-4bfd-8868-a398e5578a36", 
+    "private": false, 
+    "maintainer_email": "ruimtelijkeplannen@kadaster.nl", 
+    "num_tags": 36, 
+    "id": "59cc65de-8e65-48e3-9161-085315ef7e27", 
+    "metadata_created": "2015-03-26T13:15:56.463053", 
+    "metadata_modified": "2015-04-17T01:51:33.959361", 
+    "author": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers", 
+    "author_email": "ruimtelijkeplannen@kadaster.nl", 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "planningCadastre", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "6c57fb1d-328c-43f4-9646-fecb856f8b0b", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:51:33.958432", 
+            "webstore_last_updated": null, 
+            "id": "c3743b2f-cce2-4426-8368-7a2123fb8b5d", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Besluitgebied, Besluitgebied_A, Besluitgebied_P, Besluitgebied_X, Besluitsubvlak_A, Besluitsubvlak_P, Besluitsubvlak_X, Besluitvlak_A, Besluitvlak_P, Besluitvlak_X, Bestemmingsplangebied, Bouwaanduiding, Bouwvlak, Dubbelbestemming, Enkelbestemming, Figuur, Functieaanduiding, Gebiedsaanduiding, Lettertekenaanduiding, Maatvoering, NationaalComplex, NationaalGebied, NationaalPlangebied, NationaalVerbinding, Onthoudingsgebied, Plangebied, Plangebied_PCP, ProvinciaalComplex, ProvinciaalGebied, ProvinciaalPlangebied, ProvinciaalVerbinding, Structuurvisiecomplex_G, Structuurvisiecomplex_P, Structuurvisiecomplex_R, Structuurvisiegebied_G, Structuurvisiegebied_P, Structuurvisiegebied_R, Structuurvisieplangebied_G, Structuurvisieplangebied_P, Structuurvisieplangebied_R, Structuurvisieverklaring_P", 
+            "created": "2015-04-17T03:51:34.102938", 
+            "url": "http://geodata.nationaalgeoregister.nl/plu/wms?service=wms&", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "d7c3c52e-475e-4e0a-95f7-c7a16f8f0a24", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "6c57fb1d-328c-43f4-9646-fecb856f8b0b", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:51:33.958432", 
+            "webstore_last_updated": null, 
+            "id": "30750cea-135c-4d46-8f8b-0318118773da", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "", 
+            "created": "2015-04-17T03:51:34.102966", 
+            "url": "http://geodata.nationaalgeoregister.nl/plu/atom/plu.xml", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "d7c3c52e-475e-4e0a-95f7-c7a16f8f0a24", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Algemene Maatregel van Bestuur", 
+            "name": "Algemene Maatregel van Bestuur", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "4f3cb649-3fa1-40ea-a45c-371744734c8d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Landgebruik", 
+            "name": "Landgebruik", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "82552cb5-c8fb-433f-8d6e-add6fd22109b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "aanwijzingsbesluit", 
+            "name": "aanwijzingsbesluit", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "9fff4575-b8b6-419d-ad6a-ac679e4b01b7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "beheersverordening", 
+            "name": "beheersverordening", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "aa85368f-51b5-4882-9bf8-9ae6b3d511ca"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "besluiten", 
+            "name": "besluiten", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "1052e5bf-6deb-45f5-a13d-c797ced4a8b0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "bestemmingsplan", 
+            "name": "bestemmingsplan", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "10ec568e-0fb9-4285-a5d7-a6b1d9650121"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "bestemmingsplannen", 
+            "name": "bestemmingsplannen", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "f4a11f1c-6569-47f7-a2b4-feb0cf186980"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "exploitatieplan", 
+            "name": "exploitatieplan", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "f36351eb-2c65-4c17-95b5-8c7df34a953e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gemeentelijke visie", 
+            "name": "gemeentelijke visie", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "7baf8d20-5823-45b3-9fde-4a7281c316ea"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gerechtelijke uitspraak", 
+            "name": "gerechtelijke uitspraak", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "310b9c05-f6ac-4168-b2d1-6576079b68c1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "inpassingsplan", 
+            "name": "inpassingsplan", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "0d4251c9-5e6f-44b1-ab52-e403ff539365"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "nationaal plan", 
+            "name": "nationaal plan", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "156d8ed2-a1b0-43e3-9a71-9f0e5c10035c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "nationaal structuurschema", 
+            "name": "nationaal structuurschema", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "f870b824-7112-461c-b910-285590f3e468"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "nationale nota", 
+            "name": "nationale nota", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "8172e019-ddee-4597-a481-07b101cf8536"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "omgevingsplan", 
+            "name": "omgevingsplan", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "a8bef746-33a0-4158-a5f4-f5806b916e5c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "omgevingsvergunning", 
+            "name": "omgevingsvergunning", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "55e9c481-0a4c-41d9-b45b-2c1a98ec2c06"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "projectbesluit", 
+            "name": "projectbesluit", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "2782756a-c285-4bc8-9f45-ecbf5e4f5c71"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "provinciaal plan", 
+            "name": "provinciaal plan", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "500b6a43-5773-469d-934d-326117afcda0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "provinciaal sectorplan", 
+            "name": "provinciaal sectorplan", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "013b3ff2-fbb2-46e7-9772-85314cca844c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "provinciale verordening", 
+            "name": "provinciale verordening", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "81f111f1-4536-4764-8bc9-cbad29888e0b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "provinciale visie", 
+            "name": "provinciale visie", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "982d5ce6-10bd-43c1-8b31-70f9da3dad15"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "reactieve aanwijzing", 
+            "name": "reactieve aanwijzing", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "361807c4-f3a7-4f60-96a4-191f3d26e57b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rijksbestemmingsplan", 
+            "name": "rijksbestemmingsplan", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "347d3560-4580-4ab7-abe5-89fbefce3f74"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rijksvisie", 
+            "name": "rijksvisie", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "ed97c081-4d65-4640-aa1d-68acb6e02346"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ruimtelijk besluit", 
+            "name": "ruimtelijk besluit", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "869630a4-b7fd-4b0a-9e78-bcf552590cdc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ruimtelijk plan", 
+            "name": "ruimtelijk plan", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "10238b3d-1620-4d12-a31d-615aebede9dd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ruimtelijke verordening", 
+            "name": "ruimtelijke verordening", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "d8f21de7-3fad-46fe-a417-094ed6759957"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ruimtelijkeplannen.nl", 
+            "name": "ruimtelijkeplannen.nl", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "ac1c2144-89ef-4dcf-a0d8-138c449f5b6c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "streekplan", 
+            "name": "streekplan", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "5b36fb84-6e7e-4824-bdf3-f01337ef17a7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "structuurvisie", 
+            "name": "structuurvisie", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "5fa065c1-df42-4bea-968a-d499bb78e3e7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "structuurvisies", 
+            "name": "structuurvisies", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "2656983f-addd-496d-b0ff-9ec86226d0d0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "tijdelijke ontheffing buitenplans", 
+            "name": "tijdelijke ontheffing buitenplans", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "f83ddae0-a6b8-49d2-a26f-107129cea430"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "uitwerking provinciaal plan", 
+            "name": "uitwerking provinciaal plan", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "ab5e3c04-5d63-4df9-aa67-d09254c8090c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "uitwerkingsplan", 
+            "name": "uitwerkingsplan", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "ea419a1a-9076-4751-bc2b-d4a3a3ac65af"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "voorbereidingsbesluit", 
+            "name": "voorbereidingsbesluit", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "bc393697-91d0-4822-9eec-847d6991a34c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "wijzigingsplan", 
+            "name": "wijzigingsplan", 
+            "revision_timestamp": "2015-03-26T13:15:56.463053", 
+            "state": "active", 
+            "id": "304c1e2f-1299-4066-a06b-ce444f9005a2"
+        }
+    ], 
+    "title": "Ruimtelijke plannen Wro: Ruimtelijkeplannen.nl", 
+    "maintainer_displayname": "ZBO | Kadaster", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:15:56.463053", 
+    "identifier": "17716ed7-ce0d-4bfd-8868-a398e5578a36", 
+    "name": "ruimtelijke-plannen-wro-ruimtelijkeplannen-nl", 
+    "language": "nl-NL", 
+    "url": null, 
+    "notes": "Officieel gepubliceerde digitale ruimtelijke plannen op basis van de Wro/Bro. \n \nLet op: De gegevens in deze dataset worden maandelijks geactualiseerd. Voor het raadplegen van de meest actuele planinformatie op de wettelijk vastgestelde wijze is Ruimtelijkeplannen.nl het offici\u00eble portaal.", 
+    "license_title": "CC-0", 
+    "modified": "2015-04-01", 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "16d9914c-6ffc-4615-abeb-9ff50735ca67", 
+    "landingpage": ""
+}

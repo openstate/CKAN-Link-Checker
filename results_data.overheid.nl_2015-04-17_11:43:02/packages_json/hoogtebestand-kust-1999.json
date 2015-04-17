@@ -1,0 +1,190 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 7, 
+    "id": "4cd4e63e-7dac-4a1e-97ee-c5d03373728a", 
+    "metadata_created": "2015-03-26T13:06:37.694563", 
+    "metadata_modified": "2015-04-17T01:41:32.651156", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Kaartblad 02cn1", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=d79147c5-b7ec-4097-bd3c-ee4f996e4993", 
+    "resources": [
+        {
+            "resource_group_id": "890f04aa-15f1-4396-9de8-cd58a05c3124", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:41:32.650133", 
+            "webstore_last_updated": null, 
+            "id": "7d898def-48cf-4be1-b37d-d8c106409651", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "AAA1500", 
+            "created": "2015-04-17T03:41:32.721643", 
+            "url": "http://geoservices.rijkswaterstaat.nl/kusthoogte", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "fba4a93f-938d-4f55-84e4-43ddfe916255", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "890f04aa-15f1-4396-9de8-cd58a05c3124", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:41:32.650133", 
+            "webstore_last_updated": null, 
+            "id": "3cfd2b23-92da-4b3b-89c3-b61e3e4c04a5", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "AAA1500", 
+            "created": "2015-04-17T03:41:32.721674", 
+            "url": "http://geoservices.rijkswaterstaat.nl/kusthoogte", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "fba4a93f-938d-4f55-84e4-43ddfe916255", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Elevation", 
+            "name": "Elevation", 
+            "revision_timestamp": "2015-03-26T13:06:37.694563", 
+            "state": "active", 
+            "id": "9157f886-eb82-4ca0-ad92-5b6ad78ece66"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Flora en Fauna", 
+            "name": "Flora en Fauna", 
+            "revision_timestamp": "2015-03-26T13:06:37.694563", 
+            "state": "active", 
+            "id": "94fc6ca8-b307-40bf-bf79-28001750c19c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Fysische geografie", 
+            "name": "Fysische geografie", 
+            "revision_timestamp": "2015-03-26T13:06:37.694563", 
+            "state": "active", 
+            "id": "f1f22934-1a36-47bc-9cbb-ea6514b0844e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Hoogte", 
+            "name": "Hoogte", 
+            "revision_timestamp": "2015-03-26T13:06:37.694563", 
+            "state": "active", 
+            "id": "e7a5163f-9597-4003-977f-740b34d33bee"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Landbouw", 
+            "name": "Landbouw", 
+            "revision_timestamp": "2015-03-26T13:06:37.694563", 
+            "state": "active", 
+            "id": "3e8e62b5-8b87-4a87-bddb-39736614817b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Ruimtelijke ordening", 
+            "name": "Ruimtelijke ordening", 
+            "revision_timestamp": "2015-03-26T13:06:37.694563", 
+            "state": "active", 
+            "id": "85f4916f-7392-4a33-be0e-a7ca18318d57"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Water", 
+            "name": "Water", 
+            "revision_timestamp": "2015-03-26T13:06:37.694563", 
+            "state": "active", 
+            "id": "b39ab73a-a50b-4fb1-9499-d14d4e112efb"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Hoogtebestand Kust 1999", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Natuur en milieu | Bodem", 
+    "temporal_from": "1999-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:06:37.694563", 
+    "identifier": "d79147c5-b7ec-4097-bd3c-ee4f996e4993", 
+    "name": "hoogtebestand-kust-1999", 
+    "language": "nl-NL", 
+    "temporal_to": "1999-12-31", 
+    "accrual_periodicity": "notPlanned", 
+    "notes": "Hoogtemodel van de kust in de vorm van een grid met een resolutie van 5 meter waarbij de hoogtewaarde is opgenomen in meters. Delen van de zandige kust van Nederland worden elk jaar in hoogte vastgelegd t.b.v. het vervaardigen van strandprofielen t.b.v. monitoring kustlijn.\n\nEen digitaal hoogte model (DHM) is een bestand waarbij de hoogte wordt weergegeven volgens een regelmatig, rechthoekig raster. Iedere cel van het raster (ook wel een gridcel genoemd) krijgt een hoogtewaarde. Deze hoogtewaarde wordt berekend uit de omliggende laserpunten van het gefilterde basisbestand. De hiervoor gebruikte techniek is een zogenaamde \"gewogen gemiddelde interpolatie\". Meer informatie en uitleg over de interpolatie vindt U in de handleiding \"de grids van het AHN\" te vinden op www.ahn.nl. Als er geen laserpunten in de buurt van een gridcel liggen blijft de cel leeg (de cel krijgt een \"nodata\" waarde).\nBelangrijk om te weten is dat de waarde van een 5x5 meter gridcel wordt berekend uit meerdere laserpunten (het aantal is afhankelijk van de puntdichtheid van het basisbestand). Hierdoor neemt de invloed van de meetruis en uitschieters af en treedt er een lichte mate van vervlakking op.", 
+    "license_title": "CC-0", 
+    "modified": "2015-04-17", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "34795781-11c7-479d-9dca-790202d27ef9", 
+    "landingpage": ""
+}

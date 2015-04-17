@@ -1,0 +1,83 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 1, 
+    "id": "399cb7b3-7265-434d-b460-2a015079b9b9", 
+    "metadata_created": "2015-03-26T13:07:31.648219", 
+    "metadata_modified": "2015-04-17T01:44:59.869338", 
+    "author": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "author_email": "servicedesk-data@rws.nl", 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=99b5d058-53af-4bee-a963-1c5272fdfbf1", 
+    "resources": [], 
+    "num_resources": 0, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Hoogte Oost Nederland legger", 
+            "name": "Hoogte Oost Nederland legger", 
+            "revision_timestamp": "2015-03-26T13:07:31.648219", 
+            "state": "active", 
+            "id": "efbf34a2-b85e-4575-ba16-4128adbb923a"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Hoogtebeeld rivieren Oost Nederland", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Natuur en milieu | Bodem", 
+    "temporal_from": "2011-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:07:31.648219", 
+    "identifier": "99b5d058-53af-4bee-a963-1c5272fdfbf1", 
+    "name": "hoogtebeeld-rivieren-oost-nederland", 
+    "language": "nl-NL", 
+    "temporal_to": "2013-12-31", 
+    "accrual_periodicity": "http://purl.org/cld/freq/annual", 
+    "notes": "Hoogtebeeld van de rivieren in Oost Nederland op basis van het AHN.", 
+    "license_title": "CC-0", 
+    "modified": "2012-02-12", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "53229562-6986-42be-871d-703f9d1d8b1b", 
+    "landingpage": ""
+}

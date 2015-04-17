@@ -1,0 +1,148 @@
+{
+    "owner_org": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap", 
+    "relationships_as_object": [], 
+    "md_uri": "", 
+    "private": false, 
+    "maintainer_email": "informatieproducten@duo.nl", 
+    "num_tags": 5, 
+    "id": "cbede749-d815-4573-9118-c789a4239867", 
+    "metadata_created": "2015-03-26T15:48:10.558004", 
+    "metadata_modified": "2015-03-30T15:13:22.292201", 
+    "author": "DUO", 
+    "author_email": "informatieproducten@duo.nl", 
+    "isopen": true, 
+    "state": "active", 
+    "source": "admin", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Voortgezet_onderwijs_(thema)", 
+    "version": "", 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Onderwijs,_Cultuur_en_Wetenschap", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "", 
+    "grondslag": "", 
+    "license_id": "cc-by", 
+    "contact_point": "drupal@indicia.nl", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "dc5db39a-5d68-442c-8277-85e413b2c6f7", 
+            "cache_last_updated": null, 
+            "bytesize": "", 
+            "revision_timestamp": "2015-03-30T15:13:22.291075", 
+            "webstore_last_updated": null, 
+            "id": "ba9d9cc5-727a-4c3b-9f3d-1c3e39869163", 
+            "size": null, 
+            "download_url": "", 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Onderwijspersoneel in aantal personen", 
+            "created": "2015-03-26T16:48:10.597773", 
+            "url": "http://www.ib-groep.nl/organisatie/open_onderwijsdata/Images/01.%20Onderwijspersoneel%20vo%20in%20personen_tcm33-39982.xls", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "40161580-0b9b-429a-9a25-61399da78c5f", 
+            "resource_type": null
+        }
+    ], 
+    "temporal_to": "", 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "ocw", 
+            "name": "ocw", 
+            "revision_timestamp": "2015-03-26T15:48:10.558004", 
+            "state": "active", 
+            "id": "a831124d-cf12-47d9-8465-8cda46b86635"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "onderwijs", 
+            "name": "onderwijs", 
+            "revision_timestamp": "2015-03-26T15:48:10.558004", 
+            "state": "active", 
+            "id": "a9232327-144c-4b1a-9382-6cbe4150ee55"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "onderwijspersoneel", 
+            "name": "onderwijspersoneel", 
+            "revision_timestamp": "2015-03-26T15:48:10.558004", 
+            "state": "active", 
+            "id": "0e8dfb9d-21cf-4bd0-98e0-b62c41e7e22e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "personeel", 
+            "name": "personeel", 
+            "revision_timestamp": "2015-03-26T15:48:10.558004", 
+            "state": "active", 
+            "id": "e1165173-b933-4abe-989b-ed1f99667dba"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "voortgezet", 
+            "name": "voortgezet", 
+            "revision_timestamp": "2015-03-26T15:48:10.558004", 
+            "state": "active", 
+            "id": "4fbbe4fa-4ae8-4edc-ac15-de46ee608081"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap", 
+    "maintainer_displayname": "Ministeries | Ministerie van Onderwijs, Cultuur en Wetenschap", 
+    "theme_displayname": "Onderwijs en wetenschap | Voortgezet onderwijs", 
+    "temporal_from": "", 
+    "grondslag_citeertitel": "", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "a6ddf05a-e455-47b2-ab2b-b703a69d4720", 
+    "relationships_as_subject": [], 
+    "version_notes": "", 
+    "revision_timestamp": "2015-03-30T15:12:20.737493", 
+    "organization": {
+        "description": "", 
+        "title": "Data.overheid.nl dataregister", 
+        "created": "2015-03-26T12:55:33.649152", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-28T12:06:47.218165", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115533.618291donl.png", 
+        "revision_id": "5bd836a3-c1bf-4b89-8f4c-dffb9c6ac3ed", 
+        "type": "organization", 
+        "id": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+        "name": "data-overheid-nl"
+    }, 
+    "name": "01-vo-onderwijspersoneel-in-aantal-personen--ministerie-van-ocw", 
+    "language": "nl-NL", 
+    "rights": "", 
+    "url": null, 
+    "notes": "Het onderwijspersoneel in het voortgezet onderwijs uitgedrukt in aantal personen per instelling, bestuur (bevoegd gezag) en functiegroep. Het aandeel mannen en vrouwen wordt inzichtelijk gemaakt, evenals de gemiddelde leeftijd van het personeel. De gegevens staan weergegeven over meerdere jaren.", 
+    "license_title": "CC-BY 4.0", 
+    "modified": "2015-03-30", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Voortgezet_onderwijs_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/licenses/by/4.0/deed.nl", 
+    "title": "01. VO Onderwijspersoneel in aantal personen - Ministerie van OCW", 
+    "revision_id": "020dcfb1-d260-4b34-941f-7953859923a3", 
+    "landingpage": "http://www.ib-groep.nl/organisatie/open_onderwijsdata/databestanden/vo/personeel/Personeel/vo_personeel_personen.asp"
+}

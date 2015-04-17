@@ -1,0 +1,161 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Economische_Zaken", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "w.s.vwingerden@dlg.nl", 
+    "num_tags": 8, 
+    "id": "87118580-a076-4175-aa0d-c36a7469820e", 
+    "metadata_created": "2015-03-26T13:09:29.170100", 
+    "metadata_modified": "2015-04-17T01:38:28.873979", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Ministerie_van_Economische_Zaken", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=667ad9b8-5d0e-4e17-ae87-e33de76d1bf1", 
+    "resources": [
+        {
+            "resource_group_id": "d209bd3c-532a-4f9e-b091-f9136bea5ba6", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:38:28.873091", 
+            "webstore_last_updated": null, 
+            "id": "f5d41f70-c894-423b-8f7f-143b34ad6df2", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "nok2007:rods", 
+            "created": "2015-04-17T03:38:28.925420", 
+            "url": "http://geodata.nationaalgeoregister.nl/nok2007/ows?", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "dd25cd9e-13e0-4252-a473-4e0f29b1713d", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Bos", 
+            "name": "Bos", 
+            "revision_timestamp": "2015-03-26T13:09:29.170100", 
+            "state": "active", 
+            "id": "89ba9e96-e559-4ddc-ac55-1dbada1764d4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Grondverwervinggrondzaken", 
+            "name": "Grondverwervinggrondzaken", 
+            "revision_timestamp": "2015-03-26T13:09:29.170100", 
+            "state": "active", 
+            "id": "eb1ce44e-9088-4563-b3ed-1154c4c96397"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Kadastrale grenzen", 
+            "name": "Kadastrale grenzen", 
+            "revision_timestamp": "2015-03-26T13:09:29.170100", 
+            "state": "active", 
+            "id": "672fb859-689d-4964-b931-167e435718bf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Landbouw", 
+            "name": "Landbouw", 
+            "revision_timestamp": "2015-03-26T13:09:29.170100", 
+            "state": "active", 
+            "id": "3e8e62b5-8b87-4a87-bddb-39736614817b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Landschap", 
+            "name": "Landschap", 
+            "revision_timestamp": "2015-03-26T13:09:29.170100", 
+            "state": "active", 
+            "id": "5b4d7819-d62e-452a-b046-64f7a4efeb5a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Natuur", 
+            "name": "Natuur", 
+            "revision_timestamp": "2015-03-26T13:09:29.170100", 
+            "state": "active", 
+            "id": "ca300346-5611-4475-98db-3116a148ff53"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Recreatie", 
+            "name": "Recreatie", 
+            "revision_timestamp": "2015-03-26T13:09:29.170100", 
+            "state": "active", 
+            "id": "ee145616-b6dc-43c4-ba6b-07bd56db2c04"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Wettelijke begrenzing beleid", 
+            "name": "Wettelijke begrenzing beleid", 
+            "revision_timestamp": "2015-03-26T13:09:29.170100", 
+            "state": "active", 
+            "id": "3b39cb06-08ea-489b-95d2-d39be7074e3f"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Nulmeting Op Kaart 2007: begrenzing, verwerving en inrichting RodS", 
+    "maintainer_displayname": "Ministeries | Ministerie van Economische Zaken", 
+    "theme_displayname": "Natuur en milieu", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:09:29.170100", 
+    "identifier": "667ad9b8-5d0e-4e17-ae87-e33de76d1bf1", 
+    "name": "nulmeting-op-kaart-2007-begrenzing-verwerving-en-inrichting-rods", 
+    "language": "nl-NL", 
+    "accrual_periodicity": "http://purl.org/cld/freq/annual", 
+    "notes": "De Nulmeting op Kaart 2007 (NOK2007) geeft een landelijk beeld van de realisatie van de Ecologische Hoofdstructuur (EHS) en Recreatie om de Stad (RodS) op 1 januari 2007. Het betreft realisatie van de begrenzing, verwerving en inrichting. Het is het gezamenlijke vertrekpunt van LNV en de provincies van de stand van het Investeringsbudget Landelijk Gebied (ILG) bij de start op 1 januari 2007. De NOK2007-kaart bestaat uit drie onderdelen: voortgang van de EHS, voortgang van RodS en eigendommen van BBL buiten de begrenzingen van EHS en RodS.\nVoor de begrenzing van de RodS is de begrenzing uit de Agenda Vitaal Platteland overgenomen.\nVoor meer informatie: zie het rapport 'Eindrapportage Nulmeting op Kaart (NOK) - november 2009'.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2015-04-17", 
+    "url": null, 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "8c58f8a8-8feb-4508-a63a-9caa203cc621", 
+    "landingpage": "http://www.minlnv.nl/cdlpub/servlet/CDLServlet?p_file_id=46302|"
+}

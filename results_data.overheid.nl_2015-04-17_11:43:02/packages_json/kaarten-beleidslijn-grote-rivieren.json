@@ -1,0 +1,129 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 3, 
+    "id": "f4339205-eb90-429c-b546-40c5105b2d64", 
+    "metadata_created": "2015-03-26T13:16:29.844422", 
+    "metadata_modified": "2015-04-17T01:54:17.156720", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=XV2D8WJE-6U16-WHNR-UE34-Y6IJVCPI8RH7", 
+    "resources": [
+        {
+            "resource_group_id": "edb24def-a8c3-41dc-a5c5-000f9e462ae5", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:54:17.155681", 
+            "webstore_last_updated": null, 
+            "id": "998d305e-5d7f-4e19-85f5-679ccc1f032f", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Helpdesk Water - Kaarten Beleidslijn Grote Rivieren - website", 
+            "created": "2015-04-17T03:54:17.199433", 
+            "url": "http://www.helpdeskwater.nl/onderwerpen/applicaties-modellen/deltamodel/@31265/brochure-deltamodel-0", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "c49087dc-af0d-4c68-b1ea-7b929a1d2995", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Beleid", 
+            "name": "Beleid", 
+            "revision_timestamp": "2015-03-26T13:16:29.844422", 
+            "state": "active", 
+            "id": "d92eff12-fb65-4fda-b5a8-168861ecba3a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Grote rivieren", 
+            "name": "Grote rivieren", 
+            "revision_timestamp": "2015-03-26T13:16:29.844422", 
+            "state": "active", 
+            "id": "979c3692-33ac-494f-8f17-16d6b65f01bc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Regelgeving", 
+            "name": "Regelgeving", 
+            "revision_timestamp": "2015-03-26T13:16:29.844422", 
+            "state": "active", 
+            "id": "88dfb9a8-2ef5-4283-9c25-43a6853c34e9"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Kaarten Beleidslijn Grote Rivieren", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "9999-09-09", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:16:29.844422", 
+    "identifier": "XV2D8WJE-6U16-WHNR-UE34-Y6IJVCPI8RH7", 
+    "name": "kaarten-beleidslijn-grote-rivieren", 
+    "language": "nl-NL", 
+    "temporal_to": "9999-09-09", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "In de Beleidslijn grote rivieren wordt voor de gebieden rond de grote rivieren aangegeven welke activiteiten toegestaan zijn.", 
+    "license_title": "CC-0", 
+    "modified": "2014-12-15", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "c2205bee-08d4-4b5d-bd65-70dbbddae9a8", 
+    "landingpage": "www.helpdeskwater.nl"
+}

@@ -1,0 +1,173 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=7ce475b5-e9df-4474-90c5-82a547d0490c", 
+    "private": false, 
+    "maintainer_email": "GIS@provincie-utrecht.nl", 
+    "num_tags": 5, 
+    "id": "969ba959-b482-492f-b382-cc4af15aec59", 
+    "metadata_created": "2015-04-15T01:53:24.135772", 
+    "metadata_modified": "2015-04-17T01:49:13.013930", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "daaf7ca7-b19d-4473-a494-cd2ba45d6c34", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:49:13.012898", 
+            "webstore_last_updated": null, 
+            "id": "e1d1571b-9a2f-4178-bb4f-57559e5f1bac", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "9", 
+            "created": "2015-04-17T03:49:13.054206", 
+            "url": "http://geoservices.provincie-utrecht.nl/arcgis/services/r01-4_ro_algemeen/MapServer/WMSServer", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "46af5c52-ef09-4aa4-8912-3c5331195a76", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "daaf7ca7-b19d-4473-a494-cd2ba45d6c34", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:49:13.012898", 
+            "webstore_last_updated": null, 
+            "id": "3e8784b5-55e2-42bb-9bc5-f623a7e41b90", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "wfs_r01_ro_volkshuisvesting:oude_grenzen", 
+            "created": "2015-04-17T03:49:13.054234", 
+            "url": "http://geoservices.provincie-utrecht.nl/arcgis/services/wfs_r01_ro_volkshuisvesting/MapServer/WFSServer", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "46af5c52-ef09-4aa4-8912-3c5331195a76", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "ADMINISTRATIEVE GRENZEN", 
+            "name": "ADMINISTRATIEVE GRENZEN", 
+            "revision_timestamp": "2015-04-15T01:53:24.135772", 
+            "state": "active", 
+            "id": "8ed6d261-041c-40de-ad45-493b2a86bb92"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "BELEID", 
+            "name": "BELEID", 
+            "revision_timestamp": "2015-04-15T01:53:24.135772", 
+            "state": "active", 
+            "id": "2dfea21d-b2b1-437e-99d8-6ea76f18c967"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Beleid van anderen", 
+            "name": "Beleid van anderen", 
+            "revision_timestamp": "2015-04-15T01:53:24.135772", 
+            "state": "active", 
+            "id": "4665d2b2-30b2-4b74-89c7-1b9cd2b5fd13"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "RUIMTELIJKE ORDENING", 
+            "name": "RUIMTELIJKE ORDENING", 
+            "revision_timestamp": "2015-04-15T01:53:24.135772", 
+            "state": "active", 
+            "id": "2967485d-c70e-4ec3-8a0a-5f372b5b52b2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WETGEVING LAGERE OVERHEDEN", 
+            "name": "WETGEVING LAGERE OVERHEDEN", 
+            "revision_timestamp": "2015-04-15T01:53:24.135772", 
+            "state": "active", 
+            "id": "20ed6e10-d64a-41fc-bc3e-234a04b74f8c"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Bestuur", 
+    "title": "Bestemmingsplannen", 
+    "maintainer_displayname": "Provincie | Utrecht", 
+    "theme_displayname": "Bestuur | Organisatie en beleid", 
+    "temporal_from": "1900-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-15T01:53:24.135772", 
+    "identifier": "7ce475b5-e9df-4474-90c5-82a547d0490c", 
+    "name": "bestemmingsplannen", 
+    "language": "nl-NL", 
+    "temporal_to": "2099-01-01", 
+    "accrual_periodicity": "notPlanned", 
+    "notes": "In Rebes ingetekende begrenzingen van bestemmingsplannen. Let op: bijgehouden totdat Ruimtelijkeplannen.nl online is gegaan.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2010-06-01", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "ec1a80e5-e995-47d7-bfa4-5aa777a68aef", 
+    "landingpage": ""
+}

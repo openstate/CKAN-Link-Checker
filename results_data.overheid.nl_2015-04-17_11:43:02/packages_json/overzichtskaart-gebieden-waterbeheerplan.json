@@ -1,0 +1,175 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=a46b3400-9f4d-41f4-9ff2-1d0a1bbdf2d0", 
+    "private": false, 
+    "maintainer_email": "info@aaenmaas.nl", 
+    "num_tags": 9, 
+    "id": "27b20206-e33b-449c-8539-dc1bea9b197b", 
+    "metadata_created": "2015-03-26T13:00:21.233122", 
+    "metadata_modified": "2015-04-17T01:37:26.955127", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "f449c559-7f88-4e25-b0a5-d5b92dffcf4e", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:37:26.914509", 
+            "webstore_last_updated": null, 
+            "id": "bc58547b-4d2f-4ce1-baea-b47947e53eae", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Overzichtskaart gebieden", 
+            "created": "2015-04-17T03:37:27.007731", 
+            "url": "http://geoinformatie.aaenmaas.nl/PDF/WBP_2016_2021/1b_overzichtskaart_gebieden v2.pdf", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "1bd53676-8c8d-43bd-a026-59ed8434d534", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Aa", 
+            "name": "Aa", 
+            "revision_timestamp": "2015-03-26T13:00:21.233122", 
+            "state": "active", 
+            "id": "b6595b40-8c32-4a12-8e75-8a8ae3ac8b2e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Land en Maas", 
+            "name": "Land en Maas", 
+            "revision_timestamp": "2015-03-26T13:00:21.233122", 
+            "state": "active", 
+            "id": "5a66521a-caf5-46e2-b475-25ee9a43be63"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Peel", 
+            "name": "Peel", 
+            "revision_timestamp": "2015-03-26T13:00:21.233122", 
+            "state": "active", 
+            "id": "c3d06a8e-5667-46a9-8d69-f529e46d5bce"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Peelhost", 
+            "name": "Peelhost", 
+            "revision_timestamp": "2015-03-26T13:00:21.233122", 
+            "state": "active", 
+            "id": "3f1ddf7d-ceac-4130-8740-e50384ff9c60"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Raam", 
+            "name": "Raam", 
+            "revision_timestamp": "2015-03-26T13:00:21.233122", 
+            "state": "active", 
+            "id": "14f7b4b8-3b26-4044-aaae-723a38b98663"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WBP", 
+            "name": "WBP", 
+            "revision_timestamp": "2015-03-26T13:00:21.233122", 
+            "state": "active", 
+            "id": "e7b9188a-474d-4f9a-ad2f-f79dcd059497"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheergebied", 
+            "name": "Waterbeheergebied", 
+            "revision_timestamp": "2015-03-26T13:00:21.233122", 
+            "state": "active", 
+            "id": "e623deb5-354a-4b0e-8d18-65ebc477cae2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheerplan", 
+            "name": "Waterbeheerplan", 
+            "revision_timestamp": "2015-03-26T13:00:21.233122", 
+            "state": "active", 
+            "id": "0582ddc6-9331-46fa-b3f3-7aec9a76993b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheersplan", 
+            "name": "Waterbeheersplan", 
+            "revision_timestamp": "2015-03-26T13:00:21.233122", 
+            "state": "active", 
+            "id": "279aebf7-d887-47a8-a26e-36624d0ff15b"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Overzichtskaart gebieden, Waterbeheerplan", 
+    "maintainer_displayname": "Waterschappen | Waterschap Aa en Maas", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "2015-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:00:21.233122", 
+    "identifier": "a46b3400-9f4d-41f4-9ff2-1d0a1bbdf2d0", 
+    "name": "overzichtskaart-gebieden-waterbeheerplan", 
+    "language": "nl-NL", 
+    "temporal_to": "2021-12-31", 
+    "url": null, 
+    "notes": "Het beheergebied van Aa en Maas betreft het oostelijk deel van de provincie Noord-Brabant en is in te delen in de gebieden De Peelhorst en de Peel, het stroomgebied van de Raam, het stroomgebied van de Aa, Land van Maas", 
+    "license_title": "Publiek Domein", 
+    "modified": "2014-08-20", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "7fdb4918-a697-43c7-8e4c-0ea1c25b7e62", 
+    "landingpage": ""
+}

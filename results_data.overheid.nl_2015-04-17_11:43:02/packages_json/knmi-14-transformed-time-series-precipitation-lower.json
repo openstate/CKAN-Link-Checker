@@ -1,0 +1,145 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Koninklijk_Nederlands_Meteorologisch_Instituut", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "datacentrum@knmi.nl", 
+    "num_tags": 5, 
+    "id": "19e118af-759d-4d4e-9032-cafd2d3eaa0d", 
+    "metadata_created": "2015-03-26T13:22:16.371603", 
+    "metadata_modified": "2015-04-17T01:55:24.471875", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Lucht", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Koninklijk_Nederlands_Meteorologisch_Instituut", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "", 
+    "license_id": "publiek-domein", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/Koninklijk_Nederlands_Meteorologisch_Instituut", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=4055b4fa-30fa-4331-9ed5-39fab9d6469e", 
+    "resources": [
+        {
+            "resource_group_id": "93e85ca4-93da-4744-9391-9e304771b610", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:55:24.469955", 
+            "webstore_last_updated": null, 
+            "id": "aba52a94-34f0-46ba-b22e-28817d1fc07f", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "KDC_download_service", 
+            "created": "2015-04-17T03:55:24.517553", 
+            "url": "ftp://data.knmi.nl/download/KNMI14_neerslag_lower/3.0", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "e1c3c3ba-2ea7-4c63-b7b8-fafecae58164", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "KNMI14", 
+            "name": "KNMI14", 
+            "revision_timestamp": "2015-03-26T13:22:16.371603", 
+            "state": "active", 
+            "id": "8fbb2c70-bca5-42c8-a382-cfdb3064de34"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "climate scenarios", 
+            "name": "climate scenarios", 
+            "revision_timestamp": "2015-03-26T13:22:16.371603", 
+            "state": "active", 
+            "id": "6783502e-5ecd-4bb7-a421-7a64abeb96df"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "lower limit change", 
+            "name": "lower limit change", 
+            "revision_timestamp": "2015-03-26T13:22:16.371603", 
+            "state": "active", 
+            "id": "cfe3a743-0f53-430d-87f4-98d425aae1f3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "precipitationc", 
+            "name": "precipitationc", 
+            "revision_timestamp": "2015-03-26T13:22:16.371603", 
+            "state": "active", 
+            "id": "0022815e-296a-4009-80e7-ef8b20b92510"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "time series", 
+            "name": "time series", 
+            "revision_timestamp": "2015-03-26T13:22:16.371603", 
+            "state": "active", 
+            "id": "c93d3387-f243-40e6-951c-2327b8a7d1a5"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "KNMI'14 transformed time series: precipitation (lower)", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Koninklijk Nederlands Meteorologisch Instituut", 
+    "theme_displayname": "Natuur en milieu | Lucht", 
+    "temporal_from": "1981-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:22:16.371603", 
+    "identifier": "4055b4fa-30fa-4331-9ed5-39fab9d6469e", 
+    "name": "knmi-14-transformed-time-series-precipitation-lower", 
+    "language": "en-UK", 
+    "temporal_to": "2100-12-31", 
+    "accrual_periodicity": "http://purl.org/cld/freq/irregular", 
+    "notes": "Transformed time series on daily basis for the KNMI'14 climate scenarios for the time horizons 2030, 2050 and 2085 for precipitation (lower limit change extreme precipitation) for various stations in the Netherlands\ncan also be downloaded through  http://www.klimaatscenarios.nl/toekomstig_weer/transformatie/index.html", 
+    "license_title": "Publiek Domein", 
+    "modified": "2014-11-25", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Lucht", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "ae29666e-1a63-49d7-815c-cece964bf445", 
+    "landingpage": "http://www.klimaatscenarios.nl/toekomstig_weer/transformatie/index.html"
+}

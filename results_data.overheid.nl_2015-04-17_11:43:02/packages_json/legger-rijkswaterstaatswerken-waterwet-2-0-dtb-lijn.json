@@ -1,0 +1,197 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 8, 
+    "id": "a3969fe7-9cd3-4d16-a77b-2f1927e74c47", 
+    "metadata_created": "2015-04-03T08:49:16.768142", 
+    "metadata_modified": "2015-04-17T01:52:21.985431", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=7c8e0f80-e9a7-4148-98fd-acbb4eac1dd8", 
+    "resources": [
+        {
+            "resource_group_id": "1fa6bff3-9e95-4a0b-88d8-090fc76be750", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:52:21.984522", 
+            "webstore_last_updated": null, 
+            "id": "352f4ef5-c1ba-48fc-91b1-97b99c1472ef", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "dtb_lijn", 
+            "created": "2015-04-17T03:52:22.045076", 
+            "url": "http://geoservices.rijkswaterstaat.nl/rws_legger_2.0", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "593e02ee-1145-47a9-a4af-b15c36890dac", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "1fa6bff3-9e95-4a0b-88d8-090fc76be750", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:52:21.984522", 
+            "webstore_last_updated": null, 
+            "id": "50f643d3-12f8-411c-b091-d2a5a70e42a3", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "dtb_lijn", 
+            "created": "2015-04-17T03:52:22.045105", 
+            "url": "http://geoservices.rijkswaterstaat.nl/rws_legger_2.0", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "593e02ee-1145-47a9-a4af-b15c36890dac", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "hoogwaterveiligheid", 
+            "name": "hoogwaterveiligheid", 
+            "revision_timestamp": "2015-04-03T08:49:16.768142", 
+            "state": "active", 
+            "id": "9cc88140-4f29-4df9-8e22-1e6d61ec7174"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "kunstwerken", 
+            "name": "kunstwerken", 
+            "revision_timestamp": "2015-04-03T08:49:16.768142", 
+            "state": "active", 
+            "id": "860c6014-9057-4285-8fd7-acb13d687f09"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "legger", 
+            "name": "legger", 
+            "revision_timestamp": "2015-04-03T08:49:16.768142", 
+            "state": "active", 
+            "id": "2d1cb6b8-6330-4a0e-a236-80c59b50e3c3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "oppervlaktewaterlichamen", 
+            "name": "oppervlaktewaterlichamen", 
+            "revision_timestamp": "2015-04-03T08:49:16.768142", 
+            "state": "active", 
+            "id": "800f428e-7436-426a-b963-8471da28fa8a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "regionale keringen", 
+            "name": "regionale keringen", 
+            "revision_timestamp": "2015-04-03T08:49:16.768142", 
+            "state": "active", 
+            "id": "571bf3b5-c7f8-480e-b542-a78152170627"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rijkswaterstaatswerken", 
+            "name": "rijkswaterstaatswerken", 
+            "revision_timestamp": "2015-04-03T08:49:16.768142", 
+            "state": "active", 
+            "id": "68bde28f-8a51-4b4b-8688-008e73454439"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "waterstaatswerken", 
+            "name": "waterstaatswerken", 
+            "revision_timestamp": "2015-04-03T08:49:16.768142", 
+            "state": "active", 
+            "id": "7f6ba39f-91ff-42b2-8833-b6c123934e9d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "waterwet", 
+            "name": "waterwet", 
+            "revision_timestamp": "2015-04-03T08:49:16.768142", 
+            "state": "active", 
+            "id": "57479fc3-9e25-4b19-9655-36f4281f68e9"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Legger Rijkswaterstaatswerken Waterwet 2.0 - DTB_lijn", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "2014-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-03T08:49:16.768142", 
+    "identifier": "7c8e0f80-e9a7-4148-98fd-acbb4eac1dd8", 
+    "name": "legger-rijkswaterstaatswerken-waterwet-2-0-dtb-lijn", 
+    "language": "nl-NL", 
+    "temporal_to": "2015-12-31", 
+    "url": null, 
+    "notes": "Conform de Waterwet moet voor waterstaatswerken door de beheerder een legger worden opgesteld. Met de 'Legger Rijkswaterstaatswerken Waterwet' legt Rijkswaterstaat voor zijn beheergebied vast waaraan waterstaatswerken naar ligging, vorm, afmetingen en constructie moeten voldoen.  Er zijn drie typen waterstaatswerken die in de legger zijn opgenomen: oppervlaktewaterlichamen, regionale keringen en ondersteunende kunstwerken en objecten. Er zijn geen bergingsgebieden in beheer bij Rijkswaterstaat en derhalve zijn die dus niet opgenomen. De legger bevat in essentie een beschrijving van de fysiek in stand te houden elementen en constructies, waarbij vaarwegen, oevers en hoogwaterveiligheid het meest wezenlijk zijn. De karakteristieke dimensies worden beschreven in gestandaardiseerde, schematische weergaven van bovenaanzichten, dwars- en lengtedoorsneden, tabellen en systeembeschrijvingen. De legger ontsluit alle informatie over de rijkswateren op uniforme wijze, met een geografisch informatiesysteem.", 
+    "license_title": "CC-0", 
+    "modified": "2014-10-13", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "b4e6a89a-b227-4891-ab23-f2b9a6c404e5", 
+    "landingpage": ""
+}

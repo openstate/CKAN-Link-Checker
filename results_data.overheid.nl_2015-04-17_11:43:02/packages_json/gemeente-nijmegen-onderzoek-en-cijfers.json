@@ -1,0 +1,142 @@
+{
+    "owner_org": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Nijmegen_(gemeente)", 
+    "relationships_as_object": [], 
+    "md_uri": "", 
+    "private": false, 
+    "maintainer_email": "ia@nijmegen.nl", 
+    "num_tags": 4, 
+    "id": "df3a5ad8-b0ee-4156-9a34-e2c007349fa8", 
+    "metadata_created": "2015-03-26T15:47:31.845086", 
+    "conforms_to": "", 
+    "metadata_modified": "2015-04-02T12:57:27.374556", 
+    "author": "http://standaarden.overheid.nl/owms/terms/Nijmegen_(gemeente)", 
+    "author_email": "", 
+    "isopen": true, 
+    "state": "active", 
+    "source": "admin", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Onderzoek_en_wetenschap", 
+    "version": "", 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Nijmegen_(gemeente)", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Gelderland", 
+    "grondslag": "", 
+    "license_id": "cc-0", 
+    "contact_point": "drupal@indicia.nl", 
+    "type": "dataset", 
+    "lod_stars": "3", 
+    "resources": [
+        {
+            "resource_group_id": "077710b1-43a6-4647-988d-81b228f8dbeb", 
+            "cache_last_updated": null, 
+            "bytesize": "0", 
+            "revision_timestamp": "2015-04-02T12:21:49.560471", 
+            "webstore_last_updated": null, 
+            "id": "6d89814e-93d7-4fa1-a978-bc84fe9901d8", 
+            "size": null, 
+            "download_url": "", 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "XML", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Onderzoek en Cijfers RSS feed Gemeente Nijmegen", 
+            "created": "2015-03-26T16:47:33.851962", 
+            "url": "http://www2.nijmegen.nl/rss/Onderzoek_en_Cijfers", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "8719b607-7c7c-410d-929c-d8767f8460e3", 
+            "resource_type": null
+        }
+    ], 
+    "temporal_to": "2012-11-05T00:00:00+01:00", 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "cijfers", 
+            "name": "cijfers", 
+            "revision_timestamp": "2015-03-26T15:47:31.845086", 
+            "state": "active", 
+            "id": "f46e495e-d3c8-477b-a67e-56c811c6e92e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gemeente", 
+            "name": "gemeente", 
+            "revision_timestamp": "2015-03-26T15:47:31.845086", 
+            "state": "active", 
+            "id": "27fcff22-1896-4dcc-91fd-7fe2c90259a1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "nijmegen", 
+            "name": "nijmegen", 
+            "revision_timestamp": "2015-03-26T15:47:31.845086", 
+            "state": "active", 
+            "id": "19f3436d-c975-41ef-a79e-1649b0df5e8c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "onderzoek", 
+            "name": "onderzoek", 
+            "revision_timestamp": "2015-03-26T15:47:31.845086", 
+            "state": "active", 
+            "id": "ae605cbd-c9df-4577-b857-3a9ea7d55433"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Onderwijs_en_wetenschap", 
+    "maintainer_displayname": "Gemeente | Nijmegen", 
+    "theme_displayname": "Onderwijs en wetenschap | Onderzoek en wetenschap", 
+    "temporal_from": "2012-11-05T00:00:00+01:00", 
+    "grondslag_citeertitel": "", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "f8e76669-0998-4bb2-af74-ebe47f5c8547", 
+    "relationships_as_subject": [], 
+    "version_notes": "", 
+    "revision_timestamp": "2015-04-02T12:57:27.373598", 
+    "organization": {
+        "description": "", 
+        "title": "Data.overheid.nl dataregister", 
+        "created": "2015-03-26T12:55:33.649152", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-28T12:06:47.218165", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115533.618291donl.png", 
+        "revision_id": "5bd836a3-c1bf-4b89-8f4c-dffb9c6ac3ed", 
+        "type": "organization", 
+        "id": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+        "name": "data-overheid-nl"
+    }, 
+    "name": "gemeente-nijmegen-onderzoek-en-cijfers", 
+    "language": "nl-NL", 
+    "rights": "", 
+    "accrual_periodicity": "", 
+    "notes": "Onderzoek en Cijfers van de Gemeente Nijmegen RSS feed", 
+    "license_title": "CC-0", 
+    "modified": "2014-06-30T09:08:04.697903", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Onderzoek_en_wetenschap", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "title": "Onderzoek en Cijfers Gemeente Nijmegen", 
+    "revision_id": "a7eff22e-a4b5-4f62-9e88-e01294f09315", 
+    "landingpage": "http://www2.nijmegen.nl/toolbar/RSS"
+}

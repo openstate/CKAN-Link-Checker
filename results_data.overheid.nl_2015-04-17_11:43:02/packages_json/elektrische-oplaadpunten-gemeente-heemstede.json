@@ -1,0 +1,133 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=65aa0fbb-5397-4286-803e-2552a36e1d97", 
+    "private": false, 
+    "maintainer_email": "gemeente@heemstede.nl", 
+    "num_tags": 4, 
+    "id": "cb012c98-3d9f-4e1b-92b9-3af2b10018b7", 
+    "metadata_created": "2015-03-26T13:05:07.682378", 
+    "metadata_modified": "2015-04-17T01:38:21.591360", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-0", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/Heemstede_(gemeente)", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "b7a26e67-0cbe-47b7-9cb8-f2941cac1be3", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:38:21.590512", 
+            "webstore_last_updated": null, 
+            "id": "f7aed978-099b-4b47-a9b2-1c894f4e2eb1", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Elektrische oplaadpunten", 
+            "created": "2015-04-17T03:38:21.635767", 
+            "url": "http://www.heemstede.nl/open-data", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "967ebbaf-5f29-496f-8a81-1d97a5d5fa56", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Elektrische oplaadpunten", 
+            "name": "Elektrische oplaadpunten", 
+            "revision_timestamp": "2015-03-26T13:05:07.682378", 
+            "state": "active", 
+            "id": "d08f04ee-415b-4b40-b608-7e2f11180415"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Heemstede", 
+            "name": "Heemstede", 
+            "revision_timestamp": "2015-03-26T13:05:07.682378", 
+            "state": "active", 
+            "id": "9a928414-f89b-4215-9e14-fbe14a7e585b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Landgebruik", 
+            "name": "Landgebruik", 
+            "revision_timestamp": "2015-03-26T13:05:07.682378", 
+            "state": "active", 
+            "id": "82552cb5-c8fb-433f-8d6e-add6fd22109b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Oplaadpunten", 
+            "name": "Oplaadpunten", 
+            "revision_timestamp": "2015-03-26T13:05:07.682378", 
+            "state": "active", 
+            "id": "7137c5da-95f7-4c72-b97a-6b82863f3aa5"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Bestuur", 
+    "title": "Elektrische oplaadpunten gemeente Heemstede", 
+    "maintainer_displayname": "Gemeente | Heemstede", 
+    "theme_displayname": "Bestuur | Organisatie en beleid", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:05:07.682378", 
+    "identifier": "65aa0fbb-5397-4286-803e-2552a36e1d97", 
+    "name": "elektrische-oplaadpunten-gemeente-heemstede", 
+    "language": "nl-NL", 
+    "url": null, 
+    "notes": "Deze dataset bevat de locaties van alle elektrische oplaadpunten binnen de gemeente Heemstede.\nElk record bevat een nummer, een locatie en een X- en Y-coordinaat.\nDe dataset wordt maandelijks bijgewerkt, tenzij er geen wijzigingen zijn doorgevoerd in de brondata.", 
+    "license_title": "CC-0", 
+    "modified": "2013-10-01", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "1bf091c9-ed58-4e8b-9dad-4f8425f11e5e", 
+    "landingpage": ""
+}

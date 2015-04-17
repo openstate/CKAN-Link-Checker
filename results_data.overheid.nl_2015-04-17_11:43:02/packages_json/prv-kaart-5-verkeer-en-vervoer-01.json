@@ -1,0 +1,151 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=a4d30f17-3466-4728-aeca-e911f2e4ab1e", 
+    "private": false, 
+    "maintainer_email": "GIS@provincie-utrecht.nl", 
+    "num_tags": 7, 
+    "id": "bf6922b3-a3cd-48ff-acc6-fa0867884a61", 
+    "metadata_created": "2015-04-15T01:54:01.999002", 
+    "metadata_modified": "2015-04-17T01:49:35.003279", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "planningCadastre", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "d2dabe98-244d-4c2a-b625-12a9fc3067bf", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:49:35.002379", 
+            "webstore_last_updated": null, 
+            "id": "e6c139e1-bf24-4c16-a4e6-3d3d4ddadac7", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "NL.IMRO.9926.PV1402PRVph-VA01/4", 
+            "created": "2015-04-17T03:49:35.043774", 
+            "url": "http://afnemers.ruimtelijkeplannen.nl/vvvp-wms/NL.IMRO.9926.PV1402PRVph-VA01?REQUEST=GetCapabilities&service=WMS", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "5c518b8b-9365-4a5f-90ae-963756743672", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "INFRASTRUCTUUR", 
+            "name": "INFRASTRUCTUUR", 
+            "revision_timestamp": "2015-04-15T01:54:01.999002", 
+            "state": "active", 
+            "id": "3666308c-8779-481f-81ab-b87cb6ec5f1a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Kaderstellend", 
+            "name": "Kaderstellend", 
+            "revision_timestamp": "2015-04-15T01:54:01.999002", 
+            "state": "active", 
+            "id": "c4113200-7f74-49c0-902c-0abc56b97d56"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "PROVINCIALE WEGEN", 
+            "name": "PROVINCIALE WEGEN", 
+            "revision_timestamp": "2015-04-15T01:54:01.999002", 
+            "state": "active", 
+            "id": "2f2ea576-c3b3-4bea-b328-d9e45f854c67"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "VERKEER EN VERVOER", 
+            "name": "VERKEER EN VERVOER", 
+            "revision_timestamp": "2015-04-15T01:54:01.999002", 
+            "state": "active", 
+            "id": "406f9d43-7c84-44fd-a77b-60f8a57e622b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "VERKEERSMOBILITEIT", 
+            "name": "VERKEERSMOBILITEIT", 
+            "revision_timestamp": "2015-04-15T01:54:01.999002", 
+            "state": "active", 
+            "id": "fe770ed4-9833-45a7-ae1b-3c751d7739cf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WEGEN", 
+            "name": "WEGEN", 
+            "revision_timestamp": "2015-04-15T01:54:01.999002", 
+            "state": "active", 
+            "id": "f956eb00-d3c4-4597-8350-d1b3497d1fe4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WEGVERKEER", 
+            "name": "WEGVERKEER", 
+            "revision_timestamp": "2015-04-15T01:54:01.999002", 
+            "state": "active", 
+            "id": "fe0c27fd-bfe3-42fe-bd9b-ee14e207cca9"
+        }
+    ], 
+    "title": "PRV kaart 5 Verkeer en vervoer", 
+    "maintainer_displayname": "Provincie | Utrecht", 
+    "temporal_from": "2013-02-13", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-15T01:54:01.999002", 
+    "identifier": "a4d30f17-3466-4728-aeca-e911f2e4ab1e", 
+    "name": "prv-kaart-5-verkeer-en-vervoer-01", 
+    "language": "nl-NL", 
+    "temporal_to": "2028-12-31", 
+    "url": null, 
+    "notes": "Provinciale Ruimtelijke Verordening 2013 (parti\u00eble herziening), kaart 5: Verkeer en vervoer.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2015-04-17", 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "eb2e9be4-8f77-4cab-93a3-35d791797b70", 
+    "landingpage": "http://ruimtelijkeplannen.provincie-utrecht.nl/#s=141275;459000;1;pdok;1;4:10:v.xp"
+}

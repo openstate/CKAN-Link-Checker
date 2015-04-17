@@ -1,0 +1,129 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 3, 
+    "id": "7af6cf97-1ade-4ab6-ac94-730a9ae185c1", 
+    "metadata_created": "2015-04-09T01:51:41.593297", 
+    "metadata_modified": "2015-04-17T01:54:04.827472", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=L3MMQWNJ-2LKH-3GQ5-1NHT-DX5TJ5YHBPPR", 
+    "resources": [
+        {
+            "resource_group_id": "1d08d6f3-e1c9-429b-93a2-c4d97c2c1cca", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:54:04.826631", 
+            "webstore_last_updated": null, 
+            "id": "8b4292bc-93dd-49c8-a8a6-f82a1267b52f", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Deltacommissaris - Gebied Rijnmond-Drechtsteden - website", 
+            "created": "2015-04-17T03:54:04.859001", 
+            "url": "http://www.deltacommissaris.nl/deltaprogramma/gebieden-en-generieke-themas/rijnmond-drechtsteden/", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "efa24b28-8843-4c57-8ab0-2384c7651003", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Deltaprogramma", 
+            "name": "Deltaprogramma", 
+            "revision_timestamp": "2015-04-09T01:51:41.593297", 
+            "state": "active", 
+            "id": "7549fc0e-e18b-42ec-a9ad-2b0acaea7bb7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Publicatie", 
+            "name": "Publicatie", 
+            "revision_timestamp": "2015-04-09T01:51:41.593297", 
+            "state": "active", 
+            "id": "a4ba7a3a-f324-48b0-bd70-fa9cae637510"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Rijnmond-Drechtsteden", 
+            "name": "Rijnmond-Drechtsteden", 
+            "revision_timestamp": "2015-04-09T01:51:41.593297", 
+            "state": "active", 
+            "id": "0ff3c2f7-954a-4e59-b2b9-f745d85f132c"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Gebied Rijnmond-Drechtsteden", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "9999-09-09", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-09T01:51:41.593297", 
+    "identifier": "L3MMQWNJ-2LKH-3GQ5-1NHT-DX5TJ5YHBPPR", 
+    "name": "gebied-rijnmond-drechtsteden", 
+    "language": "nl-NL", 
+    "temporal_to": "9999-09-09", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "Deze website het Gebied Rijnmond-Drechtsteden binnen het Deltaprogramma.", 
+    "license_title": "CC-0", 
+    "modified": "2015-01-13", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "a87cd7d7-d811-44f5-8e85-20c4031aecdc", 
+    "landingpage": "http://www.rws.nl/water/veiligheid/bescherming_tegen_het_water/veiligheidsmaatregelen/deltaprogramma/index.aspx"
+}

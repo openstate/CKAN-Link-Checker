@@ -1,0 +1,287 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=86b7d1c1-0726-4a82-be33-fd505fc060b9", 
+    "private": false, 
+    "maintainer_email": "opendata@denhaag.nl", 
+    "num_tags": 20, 
+    "id": "4916904c-cbee-440a-ad96-bf8f954b1684", 
+    "metadata_created": "2015-03-26T13:02:01.726968", 
+    "metadata_modified": "2015-04-17T01:50:32.738877", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-0", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "e3774ff1-159d-4f92-99bf-2ca934021119", 
+            "protocol": "UKST", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:50:32.737996", 
+            "webstore_last_updated": null, 
+            "id": "6d32b28a-66d3-432a-9daa-0e0815dd4cbf", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ukst", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Webservice geluidkaart railverkeer", 
+            "created": "2015-04-17T03:50:32.840230", 
+            "url": "http://www.denhaag.nl/ArcGIS/rest/services/DsbBeheer/Geluid/MapServer/2", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "f994c8a0-7faf-445a-9234-4755a9f4934f", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "e3774ff1-159d-4f92-99bf-2ca934021119", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:50:32.737996", 
+            "webstore_last_updated": null, 
+            "id": "d1e94730-0f64-45df-9453-cd109fb63018", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "CSV en API geluidsbelasting wegverkeer", 
+            "created": "2015-04-17T03:50:32.840260", 
+            "url": "http://beta.columby.com/explore/dataset/408", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "f994c8a0-7faf-445a-9234-4755a9f4934f", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "aanhoudend geluid", 
+            "name": "aanhoudend geluid", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "31a3dd09-1a22-4f4e-9b72-6b6ac22f2b94"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "achtergrondgeluid", 
+            "name": "achtergrondgeluid", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "c88aaf0a-3f2a-4e55-b23f-dd50811b811a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "afwisselend geluid", 
+            "name": "afwisselend geluid", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "1a581f40-cac8-4059-8531-11e50c847d0c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "geluid", 
+            "name": "geluid", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "74faf923-21a5-400a-83ca-b5b75eae2043"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "geluidsanalyse", 
+            "name": "geluidsanalyse", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "9ef166e3-b1fb-4060-b01c-d0f8eb715a63"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "geluidsbeperking", 
+            "name": "geluidsbeperking", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "6382f462-f368-459e-b2d6-93630e03d6cc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "geluidscomfort", 
+            "name": "geluidscomfort", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "9b9f64d4-3a48-4148-97d7-3478324ad95c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "geluidseigenschap", 
+            "name": "geluidseigenschap", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "dc79493b-bc1a-475a-9ecd-de3f20bbade8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "geluidsemissie", 
+            "name": "geluidsemissie", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "24ffd9ae-2adc-46e7-a022-b856a7b14c1b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "geluidshinder", 
+            "name": "geluidshinder", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "38bf5221-4b29-41d0-a4b3-802e94d9d7a1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "geluidsmeting", 
+            "name": "geluidsmeting", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "b1e865be-340f-4365-9766-563d086dc8d3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "geluidsniveau", 
+            "name": "geluidsniveau", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "e0cdbfe8-bcaa-4a8d-be3c-2265af6ff298"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "geluidssterkte", 
+            "name": "geluidssterkte", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "19dc5c99-acd9-4ab1-a0fb-ec84ff1f069b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "geluidswetgeving", 
+            "name": "geluidswetgeving", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "b965aad6-2032-46ee-9a90-054cca2ad7cd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "leefomgeving", 
+            "name": "leefomgeving", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "6ee6a516-7ab9-49f0-9787-a1c84cd47425"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "milieu", 
+            "name": "milieu", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "e273f9df-62da-4f9c-b4ff-6e25d8e3f2aa"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "omgevingsgeluid", 
+            "name": "omgevingsgeluid", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "bd93bcaf-3cfb-4b34-9ae0-446a3c47e00f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "overlast", 
+            "name": "overlast", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "8c0e78ca-73f1-45e5-8a31-bfdc7d654836"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "storend geluid", 
+            "name": "storend geluid", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "a064ae50-32f5-41b8-a097-25ec5e1a691b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "vermindering van geluidshinder", 
+            "name": "vermindering van geluidshinder", 
+            "revision_timestamp": "2015-03-26T13:02:01.726968", 
+            "state": "active", 
+            "id": "7ca9ad55-0440-4f75-a8b1-30110f2c9e1b"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Geluidsbelasting wegverkeer", 
+    "maintainer_displayname": "Gemeente | 's-Gravenhage", 
+    "theme_displayname": "Natuur en milieu", 
+    "temporal_from": "2011-05-17", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:02:01.726968", 
+    "identifier": "86b7d1c1-0726-4a82-be33-fd505fc060b9", 
+    "name": "geluidsbelasting-wegverkeer", 
+    "language": "nl-NL", 
+    "temporal_to": "2099-01-01", 
+    "accrual_periodicity": "http://purl.org/cld/freq/daily", 
+    "notes": "Het wegverkeer in Den Haag is de belangrijkste oorzaak van geluidsoverlast. De meerderheid van de Hagenaars (60%) woont in gebieden waar de geluidsbelasting niet meer is dan 55 dB (Lden). 40% procent van de Hagenaars woont in gebieden met een geluidsbelasting van minder dan 50 dB (Lden). Dit bestand geeft inzicht in de lokale geluidsbelasting van wegverkeer.", 
+    "license_title": "CC-0", 
+    "modified": "2015-04-17", 
+    "url": null, 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "da4de1d8-a9c0-418b-a86b-e4a4c90248c8", 
+    "landingpage": ""
+}

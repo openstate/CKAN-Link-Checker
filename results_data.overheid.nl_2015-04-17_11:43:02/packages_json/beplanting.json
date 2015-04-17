@@ -1,0 +1,189 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=2f69edec-4b14-4518-a647-e8fed3e14f43", 
+    "private": false, 
+    "maintainer_email": "opendata@denhaag.nl", 
+    "num_tags": 7, 
+    "id": "7dd955af-6db4-433f-b957-5ed415347858", 
+    "metadata_created": "2015-03-26T13:03:53.773263", 
+    "metadata_modified": "2015-04-17T01:39:10.936020", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-0", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "ac9e36e9-7c2d-4bac-b03f-9da1420e6f9c", 
+            "protocol": "UKST", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:39:10.935103", 
+            "webstore_last_updated": null, 
+            "id": "8dcb34a6-aa5b-44f5-a4a2-ca11077c621b", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ukst", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Webservice beplanting", 
+            "created": "2015-04-17T03:39:10.996429", 
+            "url": "http://www.denhaag.nl/ArcGIS/rest/services/_basisdynamisch/OndergrondvoorThema/MapServer/91", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "aeed3787-7600-43d1-8e11-f0af56dabe57", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "ac9e36e9-7c2d-4bac-b03f-9da1420e6f9c", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:39:10.935103", 
+            "webstore_last_updated": null, 
+            "id": "aa96f0e8-80db-4307-a69a-91e165432ec3", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "CSV en API beplanting", 
+            "created": "2015-04-17T03:39:10.996464", 
+            "url": "http://beta.columby.com/explore/dataset/466", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "aeed3787-7600-43d1-8e11-f0af56dabe57", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "beplanting", 
+            "name": "beplanting", 
+            "revision_timestamp": "2015-03-26T13:03:53.773263", 
+            "state": "active", 
+            "id": "7ebd1c45-f4f1-468b-9d4c-4d42f692a45d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "groen", 
+            "name": "groen", 
+            "revision_timestamp": "2015-03-26T13:03:53.773263", 
+            "state": "active", 
+            "id": "cdf5a940-f2d6-4eec-8f60-644a4ad1b05d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "groene zoom", 
+            "name": "groene zoom", 
+            "revision_timestamp": "2015-03-26T13:03:53.773263", 
+            "state": "active", 
+            "id": "ef8b4846-c4e9-4a23-a96f-81b9f558976b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "groenvoorziening", 
+            "name": "groenvoorziening", 
+            "revision_timestamp": "2015-03-26T13:03:53.773263", 
+            "state": "active", 
+            "id": "5cc021e2-adde-4ee3-a87b-ec8c1b175add"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "openbare ruimte", 
+            "name": "openbare ruimte", 
+            "revision_timestamp": "2015-03-26T13:03:53.773263", 
+            "state": "active", 
+            "id": "a1f3b017-e043-48bb-aa67-f3edc31f2261"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "stedelijk groen", 
+            "name": "stedelijk groen", 
+            "revision_timestamp": "2015-03-26T13:03:53.773263", 
+            "state": "active", 
+            "id": "a136a1c0-fb38-460b-98bf-b1a1d224f36a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "struik", 
+            "name": "struik", 
+            "revision_timestamp": "2015-03-26T13:03:53.773263", 
+            "state": "active", 
+            "id": "c925ba4e-97e2-43e1-9b9a-1e3cc5342018"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "title": "beplanting", 
+    "maintainer_displayname": "Gemeente | 's-Gravenhage", 
+    "theme_displayname": "Economie | Transport", 
+    "temporal_from": "2011-05-17", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:03:53.773263", 
+    "identifier": "2f69edec-4b14-4518-a647-e8fed3e14f43", 
+    "name": "beplanting", 
+    "language": "nl-NL", 
+    "temporal_to": "2099-01-01", 
+    "accrual_periodicity": "http://purl.org/cld/freq/daily", 
+    "notes": "beplantingen in de openbare ruimte", 
+    "license_title": "CC-0", 
+    "modified": "2015-04-17", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "1a775b04-8585-45f5-ac63-e8904e7e6ca7", 
+    "landingpage": ""
+}

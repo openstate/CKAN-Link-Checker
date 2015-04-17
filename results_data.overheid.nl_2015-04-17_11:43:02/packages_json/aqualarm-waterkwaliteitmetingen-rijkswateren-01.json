@@ -1,0 +1,185 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 10, 
+    "id": "17cd2085-954b-4165-aa95-32b9bb9348e2", 
+    "metadata_created": "2015-03-26T13:17:39.918780", 
+    "metadata_modified": "2015-04-17T01:54:50.765010", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=204f8387-3696-46f4-b3b9-9626a80d2fc7", 
+    "resources": [
+        {
+            "resource_group_id": "99211d12-d4c1-4b0e-b18e-b98551520f8c", 
+            "protocol": "dataset", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:54:50.764148", 
+            "webstore_last_updated": null, 
+            "id": "4232b249-d234-42f9-af6d-c1d350770af3", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "dataset", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "AQUALARM waterkwaliteitmeetlokaties rijkswateren", 
+            "created": "2015-04-17T03:54:50.827931", 
+            "url": "http://www.rws.nl/rws/opendata/aqualarm.kml", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "30d549e1-a5a1-4ebc-963a-87699919aaaf", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Hydrografie", 
+            "name": "Hydrografie", 
+            "revision_timestamp": "2015-03-26T13:17:39.918780", 
+            "state": "active", 
+            "id": "be82ced5-d9a5-4e78-a8be-9b9505975b8e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Milieubewakingsvoorzieningen", 
+            "name": "Milieubewakingsvoorzieningen", 
+            "revision_timestamp": "2015-03-26T13:17:39.918780", 
+            "state": "active", 
+            "id": "09815334-c4cd-4c40-8268-0a90364ee1ba"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "aanvoeren", 
+            "name": "aanvoeren", 
+            "revision_timestamp": "2015-03-26T13:17:39.918780", 
+            "state": "active", 
+            "id": "ee291a68-f260-4a8a-a0c5-07d8b641701a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "chlorositeit", 
+            "name": "chlorositeit", 
+            "revision_timestamp": "2015-03-26T13:17:39.918780", 
+            "state": "active", 
+            "id": "32180740-6953-4a2b-8fe2-209a070e68e3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "meetlocaties", 
+            "name": "meetlocaties", 
+            "revision_timestamp": "2015-03-26T13:17:39.918780", 
+            "state": "active", 
+            "id": "020e688a-4608-413c-8004-2dc5b344d9c0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rijkswateren", 
+            "name": "rijkswateren", 
+            "revision_timestamp": "2015-03-26T13:17:39.918780", 
+            "state": "active", 
+            "id": "4e72df0c-305b-4413-ac00-f4a3a1cc9dfc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "water", 
+            "name": "water", 
+            "revision_timestamp": "2015-03-26T13:17:39.918780", 
+            "state": "active", 
+            "id": "0b60ece9-3e99-4a61-be62-65f304304af5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "waterkwaliteit", 
+            "name": "waterkwaliteit", 
+            "revision_timestamp": "2015-03-26T13:17:39.918780", 
+            "state": "active", 
+            "id": "9f0bfb07-943c-4519-beff-dfde5532a411"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "watertemperatuur", 
+            "name": "watertemperatuur", 
+            "revision_timestamp": "2015-03-26T13:17:39.918780", 
+            "state": "active", 
+            "id": "c9ca6dbb-4948-4341-b0b5-46906afe01cd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "zuurstofgehalte", 
+            "name": "zuurstofgehalte", 
+            "revision_timestamp": "2015-03-26T13:17:39.918780", 
+            "state": "active", 
+            "id": "741e70d9-bc82-42ed-b750-9bfee8519611"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "AQUALARM waterkwaliteitmetingen rijkswateren", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "1990-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:17:39.918780", 
+    "identifier": "204f8387-3696-46f4-b3b9-9626a80d2fc7", 
+    "name": "aqualarm-waterkwaliteitmetingen-rijkswateren-01", 
+    "language": "nl-NL", 
+    "temporal_to": "2013-02-04", 
+    "accrual_periodicity": "http://purl.org/cld/freq/irregular", 
+    "notes": "Directconnect naar waterkwaliteitmetingen bij de grenslocaties Rijn (Lobith), (Maas) Eijsden en de lokatie Keizersveer. Diverse in het kader van de bewaking van de waterkwaliteit gemeten waterkwaliteitsparameters. Chemisch en fysische Parameters; Chloride, Geleidendheid (20\ufffdC), Zuurgraad, Troebelheid, Ammonium, Zuurstofgehalte, Fluoride. Biologische monitoring; Algenbewaking, Dapnia Cel rechts, Dapnia Cel links. Meetsystemen voor organische verbindingen; Vluchtige verbindingen, Matig polaire verbindingen, Polaire verbindingen. Meetsysteem voor radioactiviteit; Radioactiviteit. Zware Metalen; Cadmium, Koper, Lood, Zink", 
+    "license_title": "CC-0", 
+    "modified": "2013-12-31", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "74b02f33-ad69-4a33-83a7-22b2af7c4ed8", 
+    "landingpage": ""
+}

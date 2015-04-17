@@ -1,0 +1,154 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=a12fbec2-a454-40d4-ab0d-5505f31d9bea", 
+    "private": false, 
+    "maintainer_email": "info@cultureelerfgoed.nl", 
+    "num_tags": 11, 
+    "id": "a2973650-2177-4c51-94f8-21dbc53106bd", 
+    "metadata_created": "2015-03-26T13:21:32.252092", 
+    "metadata_modified": "2015-04-17T01:50:52.380765", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "structure", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijksdienst_voor_het_Cultureel_Erfgoed", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [], 
+    "num_resources": 0, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "MIP", 
+            "name": "MIP", 
+            "revision_timestamp": "2015-03-26T13:21:32.252092", 
+            "state": "active", 
+            "id": "aa09d167-3075-41a4-affc-261a603a9fb9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Monumenten Inventarisatie Project", 
+            "name": "Monumenten Inventarisatie Project", 
+            "revision_timestamp": "2015-03-26T13:21:32.252092", 
+            "state": "active", 
+            "id": "86a22dab-e91b-4f89-89c8-a03757c781f6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "architectuurgeschiedenis", 
+            "name": "architectuurgeschiedenis", 
+            "revision_timestamp": "2015-03-26T13:21:32.252092", 
+            "state": "active", 
+            "id": "408cdeab-ec98-48b2-9ea4-bee5c7dbd6b4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "bouwkunde", 
+            "name": "bouwkunde", 
+            "revision_timestamp": "2015-03-26T13:21:32.252092", 
+            "state": "active", 
+            "id": "89ee7cc8-8399-481c-95e3-efd33bf91eb0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "historische geografie", 
+            "name": "historische geografie", 
+            "revision_timestamp": "2015-03-26T13:21:32.252092", 
+            "state": "active", 
+            "id": "dbef17c9-a146-4554-8304-82de7064b358"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "jonge bouwkunst", 
+            "name": "jonge bouwkunst", 
+            "revision_timestamp": "2015-03-26T13:21:32.252092", 
+            "state": "active", 
+            "id": "44e0c11a-a140-4f57-9a93-4b07422cd4b4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "jongere stedenbouw", 
+            "name": "jongere stedenbouw", 
+            "revision_timestamp": "2015-03-26T13:21:32.252092", 
+            "state": "active", 
+            "id": "0d5d6e91-c5d2-44fb-b96e-b774312229bc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "kunstgeschiedenis", 
+            "name": "kunstgeschiedenis", 
+            "revision_timestamp": "2015-03-26T13:21:32.252092", 
+            "state": "active", 
+            "id": "5ac4b179-af99-4bea-8b25-b3e4dcc14805"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "monumentenzorg", 
+            "name": "monumentenzorg", 
+            "revision_timestamp": "2015-03-26T13:21:32.252092", 
+            "state": "active", 
+            "id": "6cefbe94-895f-4fd8-8b77-39be709589b6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "planologie", 
+            "name": "planologie", 
+            "revision_timestamp": "2015-03-26T13:21:32.252092", 
+            "state": "active", 
+            "id": "50bb0472-81e4-4f98-9a64-033d843fc6df"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "stedenbouw", 
+            "name": "stedenbouw", 
+            "revision_timestamp": "2015-03-26T13:21:32.252092", 
+            "state": "active", 
+            "id": "25146377-3791-4564-b081-dccd88d8803c"
+        }
+    ], 
+    "title": "Monumenten Inventarisatie Project (MIP) Gemeentebeschrijvingen", 
+    "maintainer_displayname": "Ministerie van Onderwijs, Cultuur en Wetenschap | Rijksdienst voor het Cultureel Erfgoed", 
+    "temporal_from": "1850-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:21:32.252092", 
+    "identifier": "a12fbec2-a454-40d4-ab0d-5505f31d9bea", 
+    "name": "monumenten-inventarisatie-project-mip-gemeentebeschrijvingen", 
+    "language": "nl-NL", 
+    "temporal_to": "1940-01-01", 
+    "accrual_periodicity": "notPlanned", 
+    "notes": "De MIP Gemeentebeschrijvingen vormen een verzameling beschrijvingen van de historischgeografische, sociaaleconomische, architectuurhistorische, bouwhistorische en stedenbouwkundige ontwikkelingen van gemeenten in de periode 1850-1940. Deze beschrijvingen zijn samengesteld in het kader van het Monumenten Inventarisatie Project (MIP). Dit project was een initiatief van het Ministerie van Welzijn, Volksgezondheid en Cultuur om een landelijk overzicht te krijgen van de bouwkunst en stedenbouw uit de periode 1850-1940. Het MIP werd in de periode 1987-1994 uitgevoerd door de provincies en de vier grote steden, in samenwerking met de Rijksdienst voor de Monumentenzorg. \n\nDe RCE MIP Gemeentebeschrijvingen bestaan uit (delen van) oorspronkelijke MIP-rapporten. Deze rapporten zijn in 2006 gescand en opgeslagen als PDF bestanden. De beschrijvingen kunnen worden benaderd via de gemeentekaart anno 1983.\n\nDe gemeentebeschrijvingen vormden de achtergrondkennis voor het inventariseren van de waardevolle cultuurhistorische gebouwen en gebieden uit de periode 1850-1940. De gebouwen uit deze inventarisatie zijn in 2006 als aparte objecten opgenomen in de RCE MIP Objecten database. \n\nTijdens het MIP zijn ook beschrijvingen van regio\u2019s opgesteld. Hiertoe was Nederland verdeeld in 59 regio\u2019s. Deze beschrijvingen zijn nog niet digitaal ontsloten.\n\nAansluitend op het MIP is het Monumenten Selectie Project (MSP) gestart. In dit project vormde de MIP inventarisatie de basis voor het selecteren en aanwijzen van gebouwen en gebieden uit de periode 1850-1940 als respectievelijk rijksmonument en rijksbeschermd stads- of dorpsgezicht.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2006-12-01", 
+    "url": null, 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "9fa020db-cbd7-4151-8bb2-f58ed37aa4f4", 
+    "landingpage": "Van de gemeenten Groningen, Loenen, Goedereede, Strijen, en Valburg is geen digitale gemeentebeschrijving beschikbaar. Gezien de onderzochte periode geldt dit ook logischerwijs voor de gemeenten in Oostelijk en Zuidelijk Flevoland. \n\nIn aanvulling op de gemeentebeschrijvingen zijn van sommige wijken in de gemeenten Groningen, Amsterdam en Utrecht aparte beschrijvingen beschikbaar. Deze beschrijvingen zijn echter nog niet digitaal ontsloten. Dit zelfde geldt voor de meer thematische beschrijvingen van enkele gemeenten.\n\nHet ontsluiten van de gemeentebeschrijvingen via een kaart blijkt een lastige en risicovolle opgave. Enerzijds is er geen nauwkeurige digitale kaart beschikbaar van de gemeentelijke indeling ten tijde van de start van het MIP. Anderzijds zijn er tijdens het MIP talrijke gemeentelijke herindelingen geweest waardoor moeilijk de gemeentekaart van &eacute;&eacute;n jaar kan worden gebruikt. Uiteindelijk is er voor gekozen om de gemeentebeschrijvingen te ontsluiten via de gemeentekaart anno 1983, afkomstig van de GISdesk van de Radboud Universiteit Nijmegen. Deze kaart geeft weliswaar een volledig beeld van de gemeenten ten tijde van de start van het MIP maar is veel minder nauwkeurig dan bijvoorbeeld de actuele digitale gemeentekaarten van de Topografische Dienst Kadaster. Er dient rekening mee te worden gehouden dat de ligging van de grenzen op de gemeentekaart anno 1983 enkele honderden meters afwijkt van de werkelijke ligging.\n\nDaar waar tijdens het MIP een gemeentelijke herindeling heeft plaatsgevonden die ook gehanteerd is in de gemeentebeschrijving, is deze gemeentebeschrijving gekoppeld aan alle gemeenten anno 1983 waar de nieuwe gemeente uit is opgebouwd."
+}

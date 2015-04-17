@@ -1,0 +1,177 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 9, 
+    "id": "dc2e6f50-e333-4eb4-b679-eb3b5ac48545", 
+    "metadata_created": "2015-04-09T01:52:06.995302", 
+    "metadata_modified": "2015-04-17T01:54:21.134250", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=EXM0P7ZL-I3JG-JXZM-OVPZ-GNTFDEDZ60HS", 
+    "resources": [
+        {
+            "resource_group_id": "057d77f8-ed4f-42cb-944e-87601f7e5dc8", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:54:21.133349", 
+            "webstore_last_updated": null, 
+            "id": "727c86ce-e4f7-49a2-89f1-26054bb16090", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Beeldbank Rijkswaterstaat", 
+            "created": "2015-04-17T03:54:21.181886", 
+            "url": "https://beeldbank.rws.nl", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "d28f05fb-4049-4205-a0cf-6e6815ff4a0d", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "historie", 
+            "name": "historie", 
+            "revision_timestamp": "2015-04-09T01:52:06.995302", 
+            "state": "active", 
+            "id": "e0f92828-9392-46cc-865c-2693af36c19e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "infrastructuur", 
+            "name": "infrastructuur", 
+            "revision_timestamp": "2015-04-09T01:52:06.995302", 
+            "state": "active", 
+            "id": "00f4f108-93df-4a3d-aaf3-19d8a00683b0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "kunstwerken", 
+            "name": "kunstwerken", 
+            "revision_timestamp": "2015-04-09T01:52:06.995302", 
+            "state": "active", 
+            "id": "860c6014-9057-4285-8fd7-acb13d687f09"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "landschap", 
+            "name": "landschap", 
+            "revision_timestamp": "2015-04-09T01:52:06.995302", 
+            "state": "active", 
+            "id": "cb404d73-a5ec-4f3a-a86f-e910e55e22a7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "milieu", 
+            "name": "milieu", 
+            "revision_timestamp": "2015-04-09T01:52:06.995302", 
+            "state": "active", 
+            "id": "e273f9df-62da-4f9c-b4ff-6e25d8e3f2aa"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "recreatie", 
+            "name": "recreatie", 
+            "revision_timestamp": "2015-04-09T01:52:06.995302", 
+            "state": "active", 
+            "id": "2d2c448a-3aae-45ae-b1d9-bade3953d434"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "verkeer en vervoer", 
+            "name": "verkeer en vervoer", 
+            "revision_timestamp": "2015-04-09T01:52:06.995302", 
+            "state": "active", 
+            "id": "c72cdda0-634a-4598-909c-0edf968d4cae"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "waterbeheer", 
+            "name": "waterbeheer", 
+            "revision_timestamp": "2015-04-09T01:52:06.995302", 
+            "state": "active", 
+            "id": "5176386f-dcb1-4c8d-94e5-938b7309c588"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "werk in uitvoering", 
+            "name": "werk in uitvoering", 
+            "revision_timestamp": "2015-04-09T01:52:06.995302", 
+            "state": "active", 
+            "id": "271780c6-d0c1-4f0b-bbf6-ae90af287868"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Beeldarchief Rijkswaterstaat", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Natuur en milieu | Bodem", 
+    "temporal_from": "9999-09-09", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-09T01:52:06.995302", 
+    "identifier": "EXM0P7ZL-I3JG-JXZM-OVPZ-GNTFDEDZ60HS", 
+    "name": "beeldarchief-rijkswaterstaat-01", 
+    "language": "nl-NL", 
+    "temporal_to": "9999-09-09", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "Het Beeldarchief Rijkswaterstaat is h\u00e9t beeldarchief van het Ministerie van Infrastructuur en Milieu. Het archief bevat duizenden foto's, film- en videofragmenten van Rijkswaterstaat.", 
+    "license_title": "CC-0", 
+    "modified": "2014-12-08", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "1aaffa0b-adc5-4303-bd96-a3d7262220e7", 
+    "landingpage": "https://beeldbank.rws.nl"
+}

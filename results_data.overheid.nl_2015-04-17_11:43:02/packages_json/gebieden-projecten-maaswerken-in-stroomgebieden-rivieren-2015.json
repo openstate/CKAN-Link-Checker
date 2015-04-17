@@ -1,0 +1,190 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 7, 
+    "id": "dd194fde-f86d-4649-8ca4-da289b02a647", 
+    "metadata_created": "2015-04-03T08:49:04.043091", 
+    "metadata_modified": "2015-04-17T01:44:54.245630", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Stroombaan", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=7B02EB3B-4DF7-4D06-8AC9-08D78E04E06j", 
+    "resources": [
+        {
+            "resource_group_id": "ad7cc669-ee4a-4f88-803a-f3d703ee8740", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:44:54.244744", 
+            "webstore_last_updated": null, 
+            "id": "b8efe205-7015-4b2d-85fe-7349ad6cbfbd", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "maa06", 
+            "created": "2015-04-17T03:44:54.310746", 
+            "url": "http://geoservices.rijkswaterstaat.nl/zuid_holland_stroombaan", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "2e5b9286-f2df-4918-8ec6-8c427cef9560", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "ad7cc669-ee4a-4f88-803a-f3d703ee8740", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:44:54.244744", 
+            "webstore_last_updated": null, 
+            "id": "06fcbdc2-9563-44fd-8774-95827b3589af", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "maa06", 
+            "created": "2015-04-17T03:44:54.310773", 
+            "url": "http://geoservices.rijkswaterstaat.nl/zuid_holland_stroombaan", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "2e5b9286-f2df-4918-8ec6-8c427cef9560", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "aardrijkskunde", 
+            "name": "aardrijkskunde", 
+            "revision_timestamp": "2015-04-03T08:49:04.043091", 
+            "state": "active", 
+            "id": "1289e979-db68-47f2-b7ba-9c3b7952b4ed"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ecology", 
+            "name": "ecology", 
+            "revision_timestamp": "2015-04-03T08:49:04.043091", 
+            "state": "active", 
+            "id": "18f13956-2e88-42c7-bdbf-758a6f5b65fe"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "hydrology", 
+            "name": "hydrology", 
+            "revision_timestamp": "2015-04-03T08:49:04.043091", 
+            "state": "active", 
+            "id": "74af3036-6e21-4c76-9fa2-06ff9acbe583"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "landschap", 
+            "name": "landschap", 
+            "revision_timestamp": "2015-04-03T08:49:04.043091", 
+            "state": "active", 
+            "id": "cb404d73-a5ec-4f3a-a86f-e910e55e22a7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "stroombaan", 
+            "name": "stroombaan", 
+            "revision_timestamp": "2015-04-03T08:49:04.043091", 
+            "state": "active", 
+            "id": "6e104758-d360-47a4-8b1a-dc3edeb9805a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "transport", 
+            "name": "transport", 
+            "revision_timestamp": "2015-04-03T08:49:04.043091", 
+            "state": "active", 
+            "id": "f3c2da2c-0c34-4f4d-b87f-a3311bc90b9a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "water", 
+            "name": "water", 
+            "revision_timestamp": "2015-04-03T08:49:04.043091", 
+            "state": "active", 
+            "id": "0b60ece9-3e99-4a61-be62-65f304304af5"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Gebieden Projecten Maaswerken in stroomgebieden rivieren 2015", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Natuur en milieu | Bodem", 
+    "temporal_from": "1970-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-03T08:49:04.043091", 
+    "identifier": "7B02EB3B-4DF7-4D06-8AC9-08D78E04E06j", 
+    "name": "gebieden-projecten-maaswerken-in-stroomgebieden-rivieren-2015", 
+    "language": "nl-NL", 
+    "temporal_to": "2012-07-08", 
+    "accrual_periodicity": "http://purl.org/cld/freq/irregular", 
+    "notes": "Hulpbestand projectgebied(en) Maaswerken voor het vaststellen van projectgebeid Stroomlijn, de stroombaan plus het stroom luwe deel van de rivier binnen de waterkerende dijken. De Stroombaan is deel van onze wateren binnen de waterkerende dijken dat niet stroomluw is en dus waar de stroming plaats vindt. Deze baan is in principe glad om de stroming te bevorderen. Als vegetatietype wordt Gras en Akker na gestreefd.", 
+    "license_title": "CC-0", 
+    "modified": "2012-07-08", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "30ae1706-37c6-4191-8151-26e3bd81f274", 
+    "landingpage": ""
+}

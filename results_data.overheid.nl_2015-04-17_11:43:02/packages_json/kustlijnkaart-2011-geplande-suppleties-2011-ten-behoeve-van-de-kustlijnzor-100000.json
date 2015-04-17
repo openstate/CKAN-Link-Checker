@@ -1,0 +1,173 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 5, 
+    "id": "a74bb335-0b41-4bb4-86e8-1a245b1efc2f", 
+    "metadata_created": "2015-03-26T13:12:22.808108", 
+    "metadata_modified": "2015-04-17T01:43:41.252517", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=6f658896-c0ff-4ad3-9aa8-8b77c686fec4", 
+    "resources": [
+        {
+            "resource_group_id": "84a98d99-a8de-48c6-a523-7256770ed478", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:43:41.251649", 
+            "webstore_last_updated": null, 
+            "id": "d3b4d675-ad92-4def-9745-baefe7237d68", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "sup_100_11", 
+            "created": "2015-04-17T03:43:41.306185", 
+            "url": "http://geoservices.rijkswaterstaat.nl/nis_kustlijnkaart", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "ec0165eb-2b19-4ffd-b6f8-ffee253ed24a", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "84a98d99-a8de-48c6-a523-7256770ed478", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:43:41.251649", 
+            "webstore_last_updated": null, 
+            "id": "0b478160-f46e-42a1-80be-040509363c0f", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "sup_100_11", 
+            "created": "2015-04-17T03:43:41.306212", 
+            "url": "http://geoservices.rijkswaterstaat.nl/nis_kustlijnkaart", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "ec0165eb-2b19-4ffd-b6f8-ffee253ed24a", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Bescherming tegen water", 
+            "name": "Bescherming tegen water", 
+            "revision_timestamp": "2015-03-26T13:12:22.808108", 
+            "state": "active", 
+            "id": "4592f538-08f7-494a-a5b2-0fdae7f79ece"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Kust en Zee", 
+            "name": "Kust en Zee", 
+            "revision_timestamp": "2015-03-26T13:12:22.808108", 
+            "state": "active", 
+            "id": "286fb772-897b-40cb-be20-6c3d9aac3ed8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Kustlijnzorg", 
+            "name": "Kustlijnzorg", 
+            "revision_timestamp": "2015-03-26T13:12:22.808108", 
+            "state": "active", 
+            "id": "7ca17ee5-fbf1-4052-a587-0f1ed0933287"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "NIS", 
+            "name": "NIS", 
+            "revision_timestamp": "2015-03-26T13:12:22.808108", 
+            "state": "active", 
+            "id": "dc0da510-ca5a-41ef-8f92-5fe97e212717"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Veiligheid", 
+            "name": "Veiligheid", 
+            "revision_timestamp": "2015-03-26T13:12:22.808108", 
+            "state": "active", 
+            "id": "1f858f26-5eee-4710-8a1a-3ce49e3b4240"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Bestuur", 
+    "title": "Kustlijnkaart 2011: Geplande suppleties 2011 ten behoeve van de Kustlijnzor (100000)", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Bestuur | Organisatie en beleid", 
+    "temporal_from": "2010-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:12:22.808108", 
+    "identifier": "6f658896-c0ff-4ad3-9aa8-8b77c686fec4", 
+    "name": "kustlijnkaart-2011-geplande-suppleties-2011-ten-behoeve-van-de-kustlijnzor-100000", 
+    "language": "nl-NL", 
+    "temporal_to": "2011-12-31", 
+    "url": null, 
+    "notes": "Geplande suppleties 2011 ten behoeve van de Kustlijnzorg met als doel het instandhouden van de Basiskustlijn. Suppleties zijn bepaald op grond van expertjudgement gebruik makend van de toetsresultaten van 2010 en data van 2009. Suppleties worden weergegeven in het kustlijnkaartenboek dat jaarlijks wordt uitgegeven door de Waterdienst.", 
+    "license_title": "CC-0", 
+    "modified": "2010-01-01", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "e37eaefa-499e-402d-ace1-9e315d33ac5d", 
+    "landingpage": ""
+}

@@ -1,0 +1,149 @@
+{
+    "owner_org": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Amsterdam", 
+    "relationships_as_object": [], 
+    "md_uri": "", 
+    "private": false, 
+    "maintainer_email": "mschoneveld@centrum.amsterdam.nl", 
+    "num_tags": 5, 
+    "id": "1cda822c-d06f-44a0-9c5c-c0a913494614", 
+    "metadata_created": "2015-03-26T15:47:01.433863", 
+    "conforms_to": "", 
+    "metadata_modified": "2015-04-02T13:48:28.378149", 
+    "author": "http://standaarden.overheid.nl/owms/terms/Amsterdam", 
+    "author_email": "", 
+    "isopen": true, 
+    "state": "active", 
+    "source": "admin", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+    "version": "", 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Amsterdam", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Noord-Holland", 
+    "grondslag": "", 
+    "license_id": "cc-0", 
+    "contact_point": "drupal@indicia.nl", 
+    "type": "dataset", 
+    "lod_stars": "3", 
+    "resources": [
+        {
+            "resource_group_id": "66e5b39b-cde2-47eb-b5d7-d2a92dfc2dd1", 
+            "cache_last_updated": null, 
+            "bytesize": "0", 
+            "revision_timestamp": "2015-03-26T15:47:01.433863", 
+            "webstore_last_updated": null, 
+            "id": "6a790449-fc8d-49a4-866e-4552be6caba5", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "CSV", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Plaskruizen", 
+            "created": "2015-03-26T16:47:01.475348", 
+            "url": "http://www.centrum.amsterdam.nl/publish/pages/407988/plaskruis.csv", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "8b8e4888-0b61-4722-95b3-b7aa6b443567", 
+            "resource_type": null
+        }
+    ], 
+    "temporal_to": "2012-11-07T00:00:00+01:00", 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "openbare", 
+            "name": "openbare", 
+            "revision_timestamp": "2015-03-26T15:47:01.433863", 
+            "state": "active", 
+            "id": "ca2d7e32-735e-49d8-a6a5-1a4363502fec"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "plaskruizen", 
+            "name": "plaskruizen", 
+            "revision_timestamp": "2015-03-26T15:47:01.433863", 
+            "state": "active", 
+            "id": "313c2c62-3aa3-4f34-8a63-d32c5cd0db1a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "toilet", 
+            "name": "toilet", 
+            "revision_timestamp": "2015-03-26T15:47:01.433863", 
+            "state": "active", 
+            "id": "90bd011c-dfb2-4e78-a0dc-49a1909403fd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "weekeinde", 
+            "name": "weekeinde", 
+            "revision_timestamp": "2015-03-26T15:47:01.433863", 
+            "state": "active", 
+            "id": "5e31cfbf-a8da-4222-b917-07aed0e727a6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "weekend", 
+            "name": "weekend", 
+            "revision_timestamp": "2015-03-26T15:47:01.433863", 
+            "state": "active", 
+            "id": "16d9847a-f0d4-4ffc-a197-0fecfbbbebc3"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "maintainer_displayname": "Gemeente | Amsterdam", 
+    "theme_displayname": "Natuur en milieu | Bodem", 
+    "temporal_from": "2012-11-07T00:00:00+01:00", 
+    "grondslag_citeertitel": "", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "f8e76669-0998-4bb2-af74-ebe47f5c8547", 
+    "relationships_as_subject": [], 
+    "version_notes": "", 
+    "revision_timestamp": "2015-04-02T13:48:28.377073", 
+    "organization": {
+        "description": "", 
+        "title": "Data.overheid.nl dataregister", 
+        "created": "2015-03-26T12:55:33.649152", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-28T12:06:47.218165", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115533.618291donl.png", 
+        "revision_id": "5bd836a3-c1bf-4b89-8f4c-dffb9c6ac3ed", 
+        "type": "organization", 
+        "id": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+        "name": "data-overheid-nl"
+    }, 
+    "name": "weekend-plaskruizen-centrum--gemeente-amsterdam", 
+    "language": "nl-NL", 
+    "rights": "", 
+    "accrual_periodicity": "", 
+    "notes": "In het weekend worden een aantal extra plastic plaskruizen in het centrum neergezet, op vaste lokaties. Deze plaskruizen worden vrijdagmiddag tussen 15.00 uur en 18.00 uur neergezet, zaterdag geleegd en schoongemaakt en zondagmorgen tussen 7.00 en 11.00 uur opgehaald", 
+    "license_title": "CC-0", 
+    "modified": "2014-07-01T14:36:47.572635", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "title": "weekend plaskruizen centrum - Gemeente Amsterdam", 
+    "revision_id": "54d5d8ed-3ce8-4098-aba7-ac1dc01a40bb", 
+    "landingpage": "http://www.centrum.amsterdam.nl/algemene_onderdelen/overigen/open-data-stadsdeel/open-data-weekend/"
+}

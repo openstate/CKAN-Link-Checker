@@ -1,0 +1,149 @@
+{
+    "owner_org": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Amersfoort_(gemeente)", 
+    "relationships_as_object": [], 
+    "md_uri": "", 
+    "private": false, 
+    "maintainer_email": "hj.schriemer@amersfoort.nl", 
+    "num_tags": 5, 
+    "id": "c6967671-09f9-463c-a080-9aec563fcc6c", 
+    "metadata_created": "2015-03-26T15:47:07.686333", 
+    "conforms_to": "", 
+    "metadata_modified": "2015-04-15T13:48:45.110823", 
+    "author": "http://standaarden.overheid.nl/owms/terms/Amersfoort_(gemeente)", 
+    "author_email": "", 
+    "isopen": true, 
+    "state": "active", 
+    "source": "admin", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Kunst_(thema)", 
+    "version": "", 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Amersfoort_(gemeente)", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Gelderland", 
+    "grondslag": "", 
+    "license_id": "cc-0", 
+    "contact_point": "drupal@indicia.nl", 
+    "type": "dataset", 
+    "lod_stars": "3", 
+    "resources": [
+        {
+            "resource_group_id": "4f40400f-a8a4-4130-a41a-196324803059", 
+            "cache_last_updated": null, 
+            "bytesize": "0", 
+            "revision_timestamp": "2015-04-15T13:48:45.109847", 
+            "webstore_last_updated": null, 
+            "id": "5722540f-7a09-4707-8c66-25ff655750ef", 
+            "size": null, 
+            "download_url": "", 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "application/vnd.ms-excel", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Kunstwerken", 
+            "created": "2015-03-26T16:47:07.726321", 
+            "url": "http://www.amersfoort.nl/4/opendataamersfoort/Gemeentelijke-monumenten.html", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "0bd7defc-774e-427d-a6bb-1b635a09517c", 
+            "resource_type": null
+        }
+    ], 
+    "temporal_to": "", 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "amersfoort", 
+            "name": "amersfoort", 
+            "revision_timestamp": "2015-03-26T15:47:07.686333", 
+            "state": "active", 
+            "id": "df6e22f2-eeeb-446f-8502-b89fa09649a3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "artistieke", 
+            "name": "artistieke", 
+            "revision_timestamp": "2015-03-26T15:47:07.686333", 
+            "state": "active", 
+            "id": "0b7bae77-76d3-4787-9c8f-8fdb1dbcc51c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gemeente", 
+            "name": "gemeente", 
+            "revision_timestamp": "2015-03-26T15:47:07.686333", 
+            "state": "active", 
+            "id": "27fcff22-1896-4dcc-91fd-7fe2c90259a1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "kunst", 
+            "name": "kunst", 
+            "revision_timestamp": "2015-03-26T15:47:07.686333", 
+            "state": "active", 
+            "id": "b7380114-c48c-4202-868c-970760e0edaf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "kunstwerk", 
+            "name": "kunstwerk", 
+            "revision_timestamp": "2015-03-26T15:47:07.686333", 
+            "state": "active", 
+            "id": "fd26b047-068f-49c7-9d2e-04c66fef750c"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Cultuur_en_recreatie", 
+    "maintainer_displayname": "Gemeente | Amersfoort", 
+    "theme_displayname": "Cultuur en recreatie | kunst", 
+    "temporal_from": "", 
+    "grondslag_citeertitel": "", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "28962981-1c21-40e5-b019-02caa436c7c6", 
+    "relationships_as_subject": [], 
+    "version_notes": "", 
+    "revision_timestamp": "2015-03-30T09:40:10.834195", 
+    "organization": {
+        "description": "", 
+        "title": "Data.overheid.nl dataregister", 
+        "created": "2015-03-26T12:55:33.649152", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-28T12:06:47.218165", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115533.618291donl.png", 
+        "revision_id": "5bd836a3-c1bf-4b89-8f4c-dffb9c6ac3ed", 
+        "type": "organization", 
+        "id": "aad71148-8b2c-417e-9e61-0f4b6c84478a", 
+        "name": "data-overheid-nl"
+    }, 
+    "name": "kunstwerken-gemeente-amersfoort", 
+    "language": "nl-NL", 
+    "rights": "", 
+    "url": null, 
+    "notes": "Alle in gemeente Amersfoort aanwezige artistieke kunstwerken.\r\ndatum: april 2012\r\nupdatefrequentie: nog te bepalen; eerste levering ", 
+    "license_title": "CC-0", 
+    "modified": "2015-03-30", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Kunst_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "title": "Kunstwerken - Gemeente Amersfoort", 
+    "revision_id": "b69d7e62-7ddb-4b56-8a55-473905f0f6c9", 
+    "landingpage": "http://www.amersfoort.nl/opendataamersfoort.html?highlight=open%2c%20data"
+}

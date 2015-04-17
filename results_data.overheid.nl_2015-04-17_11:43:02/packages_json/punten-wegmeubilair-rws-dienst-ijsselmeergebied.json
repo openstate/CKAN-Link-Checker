@@ -1,0 +1,83 @@
+{
+    "license_title": "CC-0", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 1, 
+    "modified": "2015-04-17", 
+    "id": "73a13da4-1838-4957-91b8-cd08016750c8", 
+    "metadata_created": "2015-04-03T08:45:05.811987", 
+    "metadata_modified": "2015-04-17T01:40:49.300905", 
+    "author": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "author_email": "servicedesk-data@rws.nl", 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+    "version": null, 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=381af428-ca94-4dab-8a0d-1d87c48dc4ac", 
+    "resources": [], 
+    "num_resources": 0, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Wegen", 
+            "name": "Wegen", 
+            "revision_timestamp": "2015-04-03T08:45:05.811987", 
+            "state": "active", 
+            "id": "85a7ce98-4604-4dc9-9ef6-9cd2a9a28ec5"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Economie | Transport", 
+    "landingpage": "", 
+    "temporal_from": "2000-01-01", 
+    "language": "nl-NL", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-03T08:45:05.811987", 
+    "organization": {
+        "description": "", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "title": "Nationaal Georegister", 
+        "name": "nationaal-georegister", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "approval_status": "approved"
+    }, 
+    "name": "punten-wegmeubilair-rws-dienst-ijsselmeergebied", 
+    "isopen": true, 
+    "temporal_to": "2011-12-31", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "Objecten op of langs de weg, die een directe relatie met de weg hebben. Zoals aankondigingsborden, drip's, matrixborden, praatpalen, slagbomen, verkeerslichten, verkeersborden, wegwijzers.", 
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "url": null, 
+    "extras": [
+        {
+            "key": "subtheme_facet", 
+            "value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "title": "Punten wegmeubilair RWS dienst IJsselmeergebied", 
+    "revision_id": "5b415179-809d-4746-9e65-cdece44030a5", 
+    "identifier": "381af428-ca94-4dab-8a0d-1d87c48dc4ac"
+}

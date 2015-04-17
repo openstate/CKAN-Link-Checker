@@ -1,0 +1,167 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=ad401ce6-5294-49f3-a7a0-ad9ad2399354", 
+    "private": false, 
+    "maintainer_email": "info@aaenmaas.nl", 
+    "num_tags": 8, 
+    "id": "78a5ba59-506a-4ba2-86ba-9cf8f7c39caf", 
+    "metadata_created": "2015-03-26T13:03:39.359636", 
+    "metadata_modified": "2015-04-17T01:39:15.054603", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "5de38570-d908-425a-bdf4-618a016f55ae", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:39:15.053635", 
+            "webstore_last_updated": null, 
+            "id": "0e75ea4a-2643-44e0-ac0e-3ac5a4602ac2", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "eind_opgave_vismigratie.pdf", 
+            "created": "2015-04-17T03:39:15.105325", 
+            "url": "http://geoinformatie.aaenmaas.nl/PDF/WBP_2010_2015/eind_opgave_vismigratie.pdf", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "2db6840b-8500-42b5-9341-12a5b2d01ba2", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Barrires", 
+            "name": "Barrires", 
+            "revision_timestamp": "2015-03-26T13:03:39.359636", 
+            "state": "active", 
+            "id": "137e71e3-5798-46dc-8d01-6413125c088a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Gemaal", 
+            "name": "Gemaal", 
+            "revision_timestamp": "2015-03-26T13:03:39.359636", 
+            "state": "active", 
+            "id": "c999150e-6f12-4dc2-bb61-7976ef781811"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Stuw", 
+            "name": "Stuw", 
+            "revision_timestamp": "2015-03-26T13:03:39.359636", 
+            "state": "active", 
+            "id": "225c7d3a-b7f9-4ca9-b5d2-ebd65561f0de"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Vismigratie", 
+            "name": "Vismigratie", 
+            "revision_timestamp": "2015-03-26T13:03:39.359636", 
+            "state": "active", 
+            "id": "3193d045-47bb-4359-9f63-79ae0c5bd2a2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Visstandbeheer", 
+            "name": "Visstandbeheer", 
+            "revision_timestamp": "2015-03-26T13:03:39.359636", 
+            "state": "active", 
+            "id": "dde24390-70e5-44b3-8ac9-4099c569336d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WBP", 
+            "name": "WBP", 
+            "revision_timestamp": "2015-03-26T13:03:39.359636", 
+            "state": "active", 
+            "id": "e7b9188a-474d-4f9a-ad2f-f79dcd059497"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheerplan", 
+            "name": "Waterbeheerplan", 
+            "revision_timestamp": "2015-03-26T13:03:39.359636", 
+            "state": "active", 
+            "id": "0582ddc6-9331-46fa-b3f3-7aec9a76993b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheersplan", 
+            "name": "Waterbeheersplan", 
+            "revision_timestamp": "2015-03-26T13:03:39.359636", 
+            "state": "active", 
+            "id": "279aebf7-d887-47a8-a26e-36624d0ff15b"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Opgave voor opheffen van barri\u00e8res voor vistrek, Waterbeheerplan", 
+    "maintainer_displayname": "Waterschappen | Waterschap Aa en Maas", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "2009-12-22", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:03:39.359636", 
+    "identifier": "ad401ce6-5294-49f3-a7a0-ad9ad2399354", 
+    "name": "opgave-voor-opheffen-van-barrieres-voor-vistrek-waterbeheerplan", 
+    "language": "nl-NL", 
+    "temporal_to": "2015-12-22", 
+    "url": null, 
+    "notes": "Voor een gezonde visstand moet vis zich vrijelijk kunnen verplaatsen. In de huidige situatie is dat niet het geval doordat er te veel obstakels in het watersysteem zitten zoals stuwen en gemalen. In totaal willen we 270 barri\u00e8res voor vistrek opheffen. In de planperiode werkt het waterschap hiervan 50 weg, door hier vispassages aan te leggen. De realisatie hiervan koppelen we zoveel mogelijk aan de uitvoering van andere maatregelen, zoals beekherstel.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2015-04-17", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "1ff7442f-f69e-41bc-80c9-218ab29b78fd", 
+    "landingpage": "Dit Waterbeheerplan is geldig van 22 december 2009 tot 22 december 2015. Het plan is 13\nnovember door het Algemeen Bestuur vastgesteld. Gedeputeerde Staten van de provincie\nNoord- Brabant heeft op 21 december zijn goedkeuring aan het plan gegeven.\nIn het plan is op hoofdlijnen opgenomen wat het waterschap in de periode 2010 ? 2015 gaat\ndoen. Het plan is daarmee koersbepalend voor de activiteiten die het waterschap uitvoert.\nDe in het plan opgenomen maatregelen worden in de vorm van vier uitvoeringsprogramma?s\nnader geconcretiseerd. Via de jaarlijkse begrotingscyclus worden deze uitvoeringsprogramma?s\nbewaakt en zo nodig bijgesteld."
+}
