@@ -170,8 +170,10 @@ with open('packages.csv', 'w') as ALL_OUT:
             res_format = resource['format']
 
             if res_format == 'ogc:wms':
+                url = url.rstrip('?')
                 url +='?SERVICE=WMS&REQUEST=GetCapabilities'
             elif res_format == 'ogc:wfs':
+                url = url.rstrip('?')
                 url +='?SERVICE=WFS&REQUEST=GetCapabilities'
             
             parsed_url = urlparse(url)
