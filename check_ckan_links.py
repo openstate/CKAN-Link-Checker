@@ -50,7 +50,7 @@ class UnicodeWriter:
             self.writerow(row)
 
 # Append data to a specified CSV
-def append_csv(filename, data):
+def append_csslv(filename, data):
     with open(filename, 'a') as OUT:
         writer = UnicodeWriter(OUT)
         writer.writerow(data)
@@ -165,17 +165,30 @@ with open('packages.csv', 'w') as ALL_OUT:
         for resource in package['resources']:
             # Sleep at least 1 second between requests to avoid
             # hammering the CKAN endpoint too much
-            time.sleep(1)
+            # ndkv: resources are downloaded from own source hence
+            # endpoint isn't hammered that much
+            #time.sleep(1)
             url = resource['url']
             res_format = resource['format']
 
-            if res_format == 'ogc:wms':
+            if 'ogc' in res_format:
+                # Harmonize parameterless OGC URLs 
                 url = url.rstrip('?')
-                url +='?SERVICE=WMS&REQUEST=GetCapabilities'
-            elif res_format == 'ogc:wfs':
-                url = url.rstrip('?')
-                url +='?SERVICE=WFS&REQUEST=GetCapabilities'
-            
+
+                # Check if URL lacks parameters
+                if (len(url.split('?')) == 1):
+                    if res_format == 'ogc:wms':
+                        ogc_service = 'WMS'
+                    elif res_format == 'ogc:wfs':
+                        ogc_service = 'WFS'
+                    elif res_format == 'ogc:wmts':
+                        ogc_service = 'WMTS'
+                    elif res_format == 'ogc:wcs':
+                        ogc_service = 'WCS'
+
+                    # Construct valid OGC request
+                    url += '?SERVICE=%s&REQUEST=GetCapabilities' % ogc_service
+                
             parsed_url = urlparse(url)
 
             # Parse HTTP URLs
@@ -194,7 +207,8 @@ with open('packages.csv', 'w') as ALL_OUT:
                         'failed_resources.csv',
                         [
                             package['name'],
-                            resource['url'],
+                            #resource['url'],
+                            url,
                             '0',
                             str(e)
                         ]
