@@ -1,0 +1,112 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=3eebf700-5abf-42e4-826c-03cfb497e366", 
+    "private": false, 
+    "maintainer_email": "kcc@kadaster.nl", 
+    "num_tags": 1, 
+    "id": "39b71e9e-2275-4bd9-b02d-a8d711672c99", 
+    "metadata_created": "2015-03-26T13:21:53.984284", 
+    "metadata_modified": "2015-04-17T01:51:08.655740", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Dienst_voor_het_kadaster_en_de_openbare_registers", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "f64e4a9c-eb68-4aa3-a646-2c8dc8462153", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:51:08.654846", 
+            "webstore_last_updated": null, 
+            "id": "04b1396f-ec21-469f-8aed-209eee7c02b7", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "inspire:TN.RoadTransportNetwork.RoadArea", 
+            "created": "2015-04-17T03:51:08.689123", 
+            "url": "http://geodata.nationaalgeoregister.nl/top10nlv2/wms", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "60b50c98-ed20-4401-a1a8-fda68655e645", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Vervoersnetwerken", 
+            "name": "Vervoersnetwerken", 
+            "revision_timestamp": "2015-03-26T13:21:53.984284", 
+            "state": "active", 
+            "id": "35cbdeea-78b2-4be1-92b8-201b28631852"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "title": "Transport Netwerken", 
+    "maintainer_displayname": "ZBO | Kadaster", 
+    "theme_displayname": "Economie | Transport", 
+    "temporal_from": "1996-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:21:53.984284", 
+    "identifier": "3eebf700-5abf-42e4-826c-03cfb497e366", 
+    "name": "transport-netwerken", 
+    "language": "nl-NL", 
+    "temporal_to": "2025-12-31", 
+    "accrual_periodicity": "http://purl.org/cld/freq/quarterly", 
+    "notes": "INSPIRE Transport Netwerken themalaag, gevuld met relevante objecten uit TOP10NL.", 
+    "license_title": "CC-0", 
+    "modified": "2015-04-17", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "46284db2-0c33-4c6f-834d-6f23bc651a1c", 
+    "landingpage": "http://www.kadaster.nl/"
+}

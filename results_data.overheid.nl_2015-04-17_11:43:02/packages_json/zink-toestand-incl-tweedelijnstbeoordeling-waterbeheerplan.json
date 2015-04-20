@@ -1,0 +1,175 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=6eaaa449-69a9-4bfb-b8c2-012d4d177f95", 
+    "private": false, 
+    "maintainer_email": "info@aaenmaas.nl", 
+    "num_tags": 9, 
+    "id": "366e9014-3226-4c96-a1f2-aabaaa3a9ac4", 
+    "metadata_created": "2015-03-26T13:01:48.315677", 
+    "metadata_modified": "2015-04-17T01:37:27.995142", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "644d762e-15e2-4454-97b3-e6e39f0024a9", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:37:27.994357", 
+            "webstore_last_updated": null, 
+            "id": "fd6f3629-da1f-40b1-86d3-6e1472133374", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Zink (incl tweedelijnsbeoordeling)", 
+            "created": "2015-04-17T03:37:28.047121", 
+            "url": "http://geoinformatie.aaenmaas.nl/PDF/WBP_2016_2021/4a_Zink 2elijns.pdf", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "6955767a-fba6-4a7e-9900-6872c2333bea", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Goede chemische toestand GCT", 
+            "name": "Goede chemische toestand GCT", 
+            "revision_timestamp": "2015-03-26T13:01:48.315677", 
+            "state": "active", 
+            "id": "55c9da36-798e-47bb-93d9-a22bd8238801"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Goede toestand", 
+            "name": "Goede toestand", 
+            "revision_timestamp": "2015-03-26T13:01:48.315677", 
+            "state": "active", 
+            "id": "9110a9ac-420a-4d3c-a50e-dc4175ecbd01"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "KRW", 
+            "name": "KRW", 
+            "revision_timestamp": "2015-03-26T13:01:48.315677", 
+            "state": "active", 
+            "id": "f833b732-a30b-48f4-9562-54226920d856"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Kaderrichtlijn water", 
+            "name": "Kaderrichtlijn water", 
+            "revision_timestamp": "2015-03-26T13:01:48.315677", 
+            "state": "active", 
+            "id": "48ed1317-745d-4771-8918-9865e4e793f4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Normwaarde", 
+            "name": "Normwaarde", 
+            "revision_timestamp": "2015-03-26T13:01:48.315677", 
+            "state": "active", 
+            "id": "43740b2a-8c18-44d3-a126-d86ff242b4ce"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WBP", 
+            "name": "WBP", 
+            "revision_timestamp": "2015-03-26T13:01:48.315677", 
+            "state": "active", 
+            "id": "e7b9188a-474d-4f9a-ad2f-f79dcd059497"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheerplan", 
+            "name": "Waterbeheerplan", 
+            "revision_timestamp": "2015-03-26T13:01:48.315677", 
+            "state": "active", 
+            "id": "0582ddc6-9331-46fa-b3f3-7aec9a76993b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheersplan", 
+            "name": "Waterbeheersplan", 
+            "revision_timestamp": "2015-03-26T13:01:48.315677", 
+            "state": "active", 
+            "id": "279aebf7-d887-47a8-a26e-36624d0ff15b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Zinklaag", 
+            "name": "Zinklaag", 
+            "revision_timestamp": "2015-03-26T13:01:48.315677", 
+            "state": "active", 
+            "id": "e91d6549-b34e-4c02-9035-250dd720712b"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Zink toestand (incl tweedelijnstbeoordeling), Waterbeheerplan", 
+    "maintainer_displayname": "Waterschappen | Waterschap Aa en Maas", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "2015-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:01:48.315677", 
+    "identifier": "6eaaa449-69a9-4bfb-b8c2-012d4d177f95", 
+    "name": "zink-toestand-incl-tweedelijnstbeoordeling-waterbeheerplan", 
+    "language": "nl-NL", 
+    "temporal_to": "2021-12-31", 
+    "url": null, 
+    "notes": "Ook zink maakt onderdeel uit van de goede chemische toestand die uiterlijk in 2027 bereikt dient te zijn (overige relevante verontreinigende stoffen KRW)", 
+    "license_title": "Publiek Domein", 
+    "modified": "2014-08-20", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "97272401-8dbf-4be7-aff2-9c5c4192c429", 
+    "landingpage": ""
+}

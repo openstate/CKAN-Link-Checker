@@ -1,0 +1,134 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=aa56cc48-2d90-46b0-9dc0-0301494d750e", 
+    "private": false, 
+    "maintainer_email": "Olaf.van.der.Sluis@provincie-utrecht.nl", 
+    "num_tags": 4, 
+    "id": "7640db49-fdc1-4ccd-b2fc-d9166c953564", 
+    "metadata_created": "2015-04-15T01:54:38.012648", 
+    "metadata_modified": "2015-04-17T01:49:48.675233", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "c2cdfec7-b5b5-4258-aaad-263415f2e732", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:49:48.674328", 
+            "webstore_last_updated": null, 
+            "id": "f20be80c-f9d6-4472-93e1-b498caf17708", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "7", 
+            "created": "2015-04-17T03:49:48.728224", 
+            "url": "http://Server=sde; Service=sde:oracle$sde:oracle11g:geopp; User=verkeer; Version=SDE.DEFAULT", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "2319b97e-91ef-4091-920f-c5f1283c08c7", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Informatief", 
+            "name": "Informatief", 
+            "revision_timestamp": "2015-04-15T01:54:38.012648", 
+            "state": "active", 
+            "id": "38af878d-12ce-43d7-8864-527576446e20"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "SPOORLIJNEN", 
+            "name": "SPOORLIJNEN", 
+            "revision_timestamp": "2015-04-15T01:54:38.012648", 
+            "state": "active", 
+            "id": "70c99a85-6c71-458e-a759-700e86dd5886"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "SPOORWEGVAKKEN", 
+            "name": "SPOORWEGVAKKEN", 
+            "revision_timestamp": "2015-04-15T01:54:38.012648", 
+            "state": "active", 
+            "id": "26e1ec25-4179-4535-93ee-92da3ab47779"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "VERKEER EN VERVOER", 
+            "name": "VERKEER EN VERVOER", 
+            "revision_timestamp": "2015-04-15T01:54:38.012648", 
+            "state": "active", 
+            "id": "406f9d43-7c84-44fd-a77b-60f8a57e622b"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "title": "(Inter)nationale knooppunten", 
+    "maintainer_displayname": "Provincie | Utrecht", 
+    "theme_displayname": "Economie | Transport", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-15T01:54:38.012648", 
+    "identifier": "aa56cc48-2d90-46b0-9dc0-0301494d750e", 
+    "name": "inter-nationale-knooppunten", 
+    "language": "nl-NL", 
+    "accrual_periodicity": "notPlanned", 
+    "notes": "Nationale knooppunten: knooppunten met een hoge concentratie aan activiteiten en een nationale (of zelfsinternationale) schakel in de verkeer- en vervoersnetwerken.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2014-05-23", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "76bb1ed3-d07d-4ebc-90e7-95c2c24b0344", 
+    "landingpage": "http://www.dataportal.nl/^Mobiliteitsplan|https://www.provincie-utrecht.nl/onderwerpen/alle-onderwerpen/mobiliteitsplan2015/"
+}

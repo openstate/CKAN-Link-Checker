@@ -1,0 +1,145 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 5, 
+    "id": "28dee187-30f9-46f5-b836-423354af3cde", 
+    "metadata_created": "2015-03-26T13:16:53.097894", 
+    "metadata_modified": "2015-04-17T01:54:32.263593", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=X64OXT8H-KA5I-2V6K-3K50-AWB91BDQJPS0", 
+    "resources": [
+        {
+            "resource_group_id": "b2cea7df-4b4b-48ef-acf7-fcc084d73a3a", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:54:32.262624", 
+            "webstore_last_updated": null, 
+            "id": "ead377cd-7ce9-4f0d-b1c5-02a1ae233ba3", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Vaarweg Informatie Nederland geplande werkzaamheden - website", 
+            "created": "2015-04-17T03:54:32.308760", 
+            "url": "http://www.vaarweginformatie.nl/fdd/main/berichtgeving/plov", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "a5b54893-5942-4d2a-8de2-2579821e5289", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "maatregelen", 
+            "name": "maatregelen", 
+            "revision_timestamp": "2015-03-26T13:16:53.097894", 
+            "state": "active", 
+            "id": "d951aef6-964e-4c5c-9ad2-2ce2a1911e98"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "scheepvaart", 
+            "name": "scheepvaart", 
+            "revision_timestamp": "2015-03-26T13:16:53.097894", 
+            "state": "active", 
+            "id": "5da16f64-a470-4e86-bd61-fbfdb5818e37"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "stremming", 
+            "name": "stremming", 
+            "revision_timestamp": "2015-03-26T13:16:53.097894", 
+            "state": "active", 
+            "id": "57bbfc0b-f9f3-4fe2-a485-7694e47aff0f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "vaarweg", 
+            "name": "vaarweg", 
+            "revision_timestamp": "2015-03-26T13:16:53.097894", 
+            "state": "active", 
+            "id": "65454bf8-61b3-4b8b-aabe-a206b7142b8a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "werkzaamheden", 
+            "name": "werkzaamheden", 
+            "revision_timestamp": "2015-03-26T13:16:53.097894", 
+            "state": "active", 
+            "id": "004e7e45-345b-49ab-9f7f-bf63dd57f77d"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Vaarweg Informatie Nederland geplande werkzaamheden", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Natuur en milieu | Bodem", 
+    "temporal_from": "9999-09-09", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:16:53.097894", 
+    "identifier": "X64OXT8H-KA5I-2V6K-3K50-AWB91BDQJPS0", 
+    "name": "vaarweg-informatie-nederland-geplande-werkzaamheden", 
+    "language": "nl-NL", 
+    "temporal_to": "9999-09-09", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "De geplande werkzaamheden op de hoofdvaarwegen geeft een overzicht van verwachte en lopende en geplande werkzaamheden uit Berichten aan de Scheepvaart (BAS-berichten). Als voorbeeld de renovatie van een brug of onderhoud aan kribben", 
+    "license_title": "CC-0", 
+    "modified": "2014-12-08", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "052783f0-ab2d-4858-8817-a50cfde3a35a", 
+    "landingpage": "http://www.vaarweginformatie.nl/fdd/main/berichtgeving"
+}

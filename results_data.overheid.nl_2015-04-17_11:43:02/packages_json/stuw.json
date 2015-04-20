@@ -1,0 +1,111 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/wsh", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=7c10c7e9-bb74-4ace-a471-ffbdd57d554b", 
+    "private": false, 
+    "maintainer_email": "info@hetwaterschapshuis.nl", 
+    "num_tags": 1, 
+    "id": "a74a4f9b-6680-40d0-a27c-cf638b3d606e", 
+    "metadata_created": "2015-03-26T13:04:28.913520", 
+    "metadata_modified": "2015-04-17T01:50:14.571114", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/wsh", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "d7b93ce2-9645-496d-bb3b-51128f04192b", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:50:14.570271", 
+            "webstore_last_updated": null, 
+            "id": "966c87e7-52fa-4d78-866f-6178d162c117", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "inspire:Sluice", 
+            "created": "2015-04-17T03:50:14.603013", 
+            "url": "http://maps.waterschapservices.nl/inspire/wms", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "17aebe6e-7803-430a-99b7-710ed8f29029", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Hydrografie", 
+            "name": "Hydrografie", 
+            "revision_timestamp": "2015-03-26T13:04:28.913520", 
+            "state": "active", 
+            "id": "be82ced5-d9a5-4e78-a8be-9b9505975b8e"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Stuw", 
+    "maintainer_displayname": "Waterschap | Waterschapshuis", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "2010-03-17", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:04:28.913520", 
+    "identifier": "7c10c7e9-bb74-4ace-a471-ffbdd57d554b", 
+    "name": "stuw", 
+    "language": "nl-NL", 
+    "temporal_to": "1970-01-01", 
+    "url": null, 
+    "notes": "Het bestand geeft van ieder waterschap informatie over stuwen.Stuw: Vaste of beweegbare constructie die dient om het peil bovenstrooms van de constructie te verhogen c.q. te regelen.Bron: www. Idsw.nl 17 maart 2010", 
+    "license_title": "Publiek Domein", 
+    "modified": "2013-09-16", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "18438309-22ed-48ef-b9b1-ce18d894129e", 
+    "landingpage": ""
+}

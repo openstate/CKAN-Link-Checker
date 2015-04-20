@@ -1,0 +1,246 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Gelderland", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "provincieloket@gelderland.nl", 
+    "num_tags": 14, 
+    "id": "6494a7f1-cc61-412c-b9b0-302ad55fcb44", 
+    "metadata_created": "2015-03-26T13:05:39.596679", 
+    "metadata_modified": "2015-04-17T01:51:57.401427", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Natuur-_en_landschapsbeheer", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Gelderland", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Provincie Gelderland", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=2e1d45bd-a6a0-4fd9-9363-48adcd783118", 
+    "resources": [
+        {
+            "resource_group_id": "bd369898-8d68-45be-b197-d70e02249f16", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:51:57.400567", 
+            "webstore_last_updated": null, 
+            "id": "4849e6e6-8638-41b8-88ff-379ce62030fe", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "2", 
+            "created": "2015-04-17T03:51:57.495822", 
+            "url": "http://ags.prvgld.nl/ArcGIS/services/inspire/MapServer/WMSServer", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "42818a2f-e18a-43a0-aee7-1b3660c80693", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "bd369898-8d68-45be-b197-d70e02249f16", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:51:57.400567", 
+            "webstore_last_updated": null, 
+            "id": "2e96545d-d3dc-4c6e-85a1-0a0ab604af50", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "NationaleLandschappen", 
+            "created": "2015-04-17T03:51:57.495858", 
+            "url": "http://ags.prvgld.nl/ArcGIS/services/inspire/MapServer/WFSServer", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "42818a2f-e18a-43a0-aee7-1b3660c80693", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Archeologie", 
+            "name": "Archeologie", 
+            "revision_timestamp": "2015-03-26T13:05:39.596679", 
+            "state": "active", 
+            "id": "a7136d87-27b6-4bd4-bf79-7931090ed2f3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Beschermde gebieden", 
+            "name": "Beschermde gebieden", 
+            "revision_timestamp": "2015-03-26T13:05:39.596679", 
+            "state": "active", 
+            "id": "6e61f8a8-ad8f-41f8-927c-52e3345183c6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Cultureel erfgoed", 
+            "name": "Cultureel erfgoed", 
+            "revision_timestamp": "2015-03-26T13:05:39.596679", 
+            "state": "active", 
+            "id": "c9077fd6-9d65-40d9-9883-886acc8f3c03"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Geologie", 
+            "name": "Geologie", 
+            "revision_timestamp": "2015-03-26T13:05:39.596679", 
+            "state": "active", 
+            "id": "e4944cc2-c28a-49cb-9155-2cbb34b1a374"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Landbouw", 
+            "name": "Landbouw", 
+            "revision_timestamp": "2015-03-26T13:05:39.596679", 
+            "state": "active", 
+            "id": "3e8e62b5-8b87-4a87-bddb-39736614817b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Landschap", 
+            "name": "Landschap", 
+            "revision_timestamp": "2015-03-26T13:05:39.596679", 
+            "state": "active", 
+            "id": "5b4d7819-d62e-452a-b046-64f7a4efeb5a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Milieu", 
+            "name": "Milieu", 
+            "revision_timestamp": "2015-03-26T13:05:39.596679", 
+            "state": "active", 
+            "id": "b930c4c1-f641-4bae-b658-40bbbf416bbe"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Natuurbescherming", 
+            "name": "Natuurbescherming", 
+            "revision_timestamp": "2015-03-26T13:05:39.596679", 
+            "state": "active", 
+            "id": "c5c69998-bbc6-4e4b-a622-1f4cc5b226d3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Ontspanning", 
+            "name": "Ontspanning", 
+            "revision_timestamp": "2015-03-26T13:05:39.596679", 
+            "state": "active", 
+            "id": "c492226c-16d6-4a47-88be-765ef74f19e4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Wetenschappelijke ecologie", 
+            "name": "Wetenschappelijke ecologie", 
+            "revision_timestamp": "2015-03-26T13:05:39.596679", 
+            "state": "active", 
+            "id": "de396bf0-b911-4f43-aca7-be838423538e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "landschappen", 
+            "name": "landschappen", 
+            "revision_timestamp": "2015-03-26T13:05:39.596679", 
+            "state": "active", 
+            "id": "933a6a91-2451-4733-9b88-a65835d45619"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "landschapsbeheer", 
+            "name": "landschapsbeheer", 
+            "revision_timestamp": "2015-03-26T13:05:39.596679", 
+            "state": "active", 
+            "id": "26e4369b-79f0-4f35-b6ec-07af2156981d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "natuur- en landschapsbeleid", 
+            "name": "natuur- en landschapsbeleid", 
+            "revision_timestamp": "2015-03-26T13:05:39.596679", 
+            "state": "active", 
+            "id": "32a6654c-7e50-4306-9e2d-7648fff382c8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "streekplannen", 
+            "name": "streekplannen", 
+            "revision_timestamp": "2015-03-26T13:05:39.596679", 
+            "state": "active", 
+            "id": "133b7046-e87f-4852-8bf9-1edfe6df9b17"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Streekplan 2005 Uitwerking- Nationaal landschap, Inspire Gelderland", 
+    "maintainer_displayname": "Provincie | Gelderland", 
+    "theme_displayname": "Natuur en milieu | Natuur- en landschapsbeheer", 
+    "temporal_from": "2007-07-03", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:05:39.596679", 
+    "identifier": "2e1d45bd-a6a0-4fd9-9363-48adcd783118", 
+    "name": "streekplan-2005-uitwerking-nationaal-landschap-inspire-gelderland", 
+    "language": "nl-NL", 
+    "temporal_to": "2015-12-31", 
+    "accrual_periodicity": "unknown", 
+    "notes": "Het bestand geeft de nadere uitwerking van de begrenzing van de nationale landschappen in provincie Gelderland weer. Deze begrenzing is een uitwerking van het streekplan 2005 en is vastgesteld door Gedeputeerde Staten van provincie Gelderland op 3 juli 2007.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2015-04-17", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Natuur-_en_landschapsbeheer", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "f39c7ab1-8736-4e8c-a667-601e577a3df2", 
+    "landingpage": ""
+}

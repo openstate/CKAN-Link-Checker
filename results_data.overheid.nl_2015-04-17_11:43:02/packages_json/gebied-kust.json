@@ -1,0 +1,129 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 3, 
+    "id": "05f6676b-61d2-490e-9cfc-87e55ac11918", 
+    "metadata_created": "2015-04-09T01:51:40.992388", 
+    "metadata_modified": "2015-04-17T01:54:03.678638", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=VGA6JLUI-S0QC-8AF4-2K84-JFW38YEMR15G", 
+    "resources": [
+        {
+            "resource_group_id": "f8a59ab0-85da-4a5f-bf5c-bc5fdbf9bb2e", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:54:03.677602", 
+            "webstore_last_updated": null, 
+            "id": "a117329a-e3c1-4686-ac75-f3e131668580", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Deltacommissaris - Gebied Kust - website", 
+            "created": "2015-04-17T03:54:03.727210", 
+            "url": "http://www.deltacommissaris.nl/deltaprogramma/gebieden-en-generieke-themas/kust/", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "f820ef96-b4a8-4cbc-8a52-28a0cc3a2287", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Deltaprogramma", 
+            "name": "Deltaprogramma", 
+            "revision_timestamp": "2015-04-09T01:51:40.992388", 
+            "state": "active", 
+            "id": "7549fc0e-e18b-42ec-a9ad-2b0acaea7bb7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Kust", 
+            "name": "Kust", 
+            "revision_timestamp": "2015-04-09T01:51:40.992388", 
+            "state": "active", 
+            "id": "be7395f2-fa5e-4406-b96a-1f19ecacaabf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Publicatie", 
+            "name": "Publicatie", 
+            "revision_timestamp": "2015-04-09T01:51:40.992388", 
+            "state": "active", 
+            "id": "a4ba7a3a-f324-48b0-bd70-fa9cae637510"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Gebied Kust", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "9999-09-09", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-09T01:51:40.992388", 
+    "identifier": "VGA6JLUI-S0QC-8AF4-2K84-JFW38YEMR15G", 
+    "name": "gebied-kust", 
+    "language": "nl-NL", 
+    "temporal_to": "9999-09-09", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "Deze website het Gebied Kust binnen het Deltaprogramma.", 
+    "license_title": "CC-0", 
+    "modified": "2015-01-13", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "65e86787-22a4-4f54-acf0-3a6d2e8d7ea5", 
+    "landingpage": "http://www.rws.nl/water/veiligheid/bescherming_tegen_het_water/veiligheidsmaatregelen/deltaprogramma/index.aspx"
+}

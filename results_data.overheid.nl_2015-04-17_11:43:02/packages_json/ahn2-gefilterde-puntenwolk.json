@@ -1,0 +1,169 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 8, 
+    "id": "3ed1dfe9-052a-46c2-a7a7-55c290a86fe4", 
+    "metadata_created": "2015-03-26T13:22:37.819822", 
+    "metadata_modified": "2015-04-17T01:55:34.029203", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=9ca6f842-9482-4f5a-ad87-5307723cfe11", 
+    "resources": [
+        {
+            "resource_group_id": "7ae425fc-f9eb-4bd6-9d8c-76e147180318", 
+            "protocol": "UKST", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:55:34.028307", 
+            "webstore_last_updated": null, 
+            "id": "abf27cc9-d90b-43c7-87fe-5f44d7cbdb73", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ukst", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "AHN2 gefilterde puntenwolk als Atom Feed Service", 
+            "created": "2015-04-17T03:55:34.080009", 
+            "url": "http://geodata.nationaalgeoregister.nl/ahn2/atom/ahn2_gefilterd.xml", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "1db0655c-d455-466d-ac21-72488f41031c", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Elevation", 
+            "name": "Elevation", 
+            "revision_timestamp": "2015-03-26T13:22:37.819822", 
+            "state": "active", 
+            "id": "9157f886-eb82-4ca0-ad92-5b6ad78ece66"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Hoogte", 
+            "name": "Hoogte", 
+            "revision_timestamp": "2015-03-26T13:22:37.819822", 
+            "state": "active", 
+            "id": "e7a5163f-9597-4003-977f-740b34d33bee"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Hoogtegegevens", 
+            "name": "Hoogtegegevens", 
+            "revision_timestamp": "2015-03-26T13:22:37.819822", 
+            "state": "active", 
+            "id": "82424d4a-cbc0-4b42-a52b-a9deee2464b6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "LiDAR", 
+            "name": "LiDAR", 
+            "revision_timestamp": "2015-03-26T13:22:37.819822", 
+            "state": "active", 
+            "id": "3e99a313-4766-4cf7-a912-8f7a34462c1a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ahn", 
+            "name": "ahn", 
+            "revision_timestamp": "2015-03-26T13:22:37.819822", 
+            "state": "active", 
+            "id": "27261ef4-aa2d-487d-83a9-e05423b5812b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "laseraltimetrie", 
+            "name": "laseraltimetrie", 
+            "revision_timestamp": "2015-03-26T13:22:37.819822", 
+            "state": "active", 
+            "id": "ff459d38-8cb9-4802-b7f0-ebf400129b57"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "maaiveld", 
+            "name": "maaiveld", 
+            "revision_timestamp": "2015-03-26T13:22:37.819822", 
+            "state": "active", 
+            "id": "3e15d622-4a40-408d-a067-3e00d759f6c3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "puntenwolk", 
+            "name": "puntenwolk", 
+            "revision_timestamp": "2015-03-26T13:22:37.819822", 
+            "state": "active", 
+            "id": "24c02fc1-7b1d-48e3-94c0-74bcc0e81e09"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "AHN2 gefilterde puntenwolk", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Natuur en milieu | Bodem", 
+    "temporal_from": "2007-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:22:37.819822", 
+    "identifier": "9ca6f842-9482-4f5a-ad87-5307723cfe11", 
+    "name": "ahn2-gefilterde-puntenwolk", 
+    "language": "nl-NL", 
+    "temporal_to": "2012-04-01", 
+    "accrual_periodicity": "http://purl.org/cld/freq/irregular", 
+    "notes": "Het Actueel Hoogtebestand Nederland (AHN) is een hoogtebestand vervaardigd door middel van laseraltimetrie. Van de gemeten hoogtes zijn een aantal producten gemaakt, welke grofweg zijn te verdelen in twee categorie\ufffdn; 3D-puntenwolken en rasters. De gefilterde puntenwolk is een maaiveldbestand, waarbij alle niet-maaiveld objecten (bomen, gebouwen, bruggen en andere objecten) uit de puntenwolk zijn verwijderd. NB Door samenvoeging van de gefilterde en de uitgefilterde puntenwolk wordt een ruwe puntenwolk verkregen, waarbij naast het maaiveld en de niet-maaiveldobjecten samenkomen. De puntenwolk is een LAZ file (een gecomprimeerde LAS file, ofwel LASzip). LAS is standaard binair formaat om LiDAR data op te slaan en uit te wisselen. Door de compressie toe te passen wordt de originele LAS file gereduceerd tot ca. 10% waarbij geen kwaliteitsverlies optreedt. Meer informatie vindt u op www.ahn.nl.", 
+    "license_title": "CC-0", 
+    "modified": "2013-03-01", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "64593db8-9b17-4341-961f-71dc10f7a332", 
+    "landingpage": ""
+}

@@ -1,0 +1,61 @@
+59,beta.columby.com
+54,maps.noord-holland.nl
+47,geodata2.prvgld.nl
+35,geodata.nationaalgeoregister.nl
+32,www.helpdeskwater.nl
+31,www.rijkswaterstaat.nl
+28,wioninspire.geodan.nl
+16,Server=b_geomagazijn; Service=sde:oracle11g:b_geomagazijn; User=geo; Version=SDE.DEFAULT
+12,geoservices.provincie-utrecht.nl
+12,portal.prvlimburg.nl
+11,opendata.cbs.nl
+11,\\Dattero\kgodata\Geo_Data\Metadata\metadata.gdb
+10,afnemers.ruimtelijkeplannen.nl
+8,Server=sde; Service=sde:oracle$sde:oracle11g:geopp; User=milieu; Version=SDE.DEFAULT
+8,geoservices.zuid-holland.nl
+6,Server=sde; Service=sde:oracle$sde:oracle11g:geopp; User=verkeer; Version=SDE.DEFAULT
+6,gis.noord-holland.nl
+4,geo-portaal.zuid-holland.nl
+4,zoekdienst.overheid.nl
+4,\\FS-OES-GEOP01\DATA4\GEO\Projecten\Algemeen\Provinciaalgeoregister\metadata\kopie_PGR_datasets_PNBW.gdb
+3,ags101.prvgld.nl
+3,www2.nijmegen.nl
+3,geo.flevoland.nl
+3,data.knmi.nl
+2,intranet.rijkswaterstaat.nl
+2,Server=sde; Service=sde:oracle$sde:oracle11g:geopp; User=nat_land; Version=SDE.DEFAULT
+2,Service=sde:oracle11g:
+2,Server=sde; Service=sde:oracle$sde:oracle11g:geopp; User=econ_zaken; Version=SDE.DEFAULT
+2,live.getij.nl
+2,www.nijmegen.nl
+2,Server=local_oracle; Service=sde:oracle11g:
+2,geoportaal.fryslan.nl
+1,Server=sde; Service=sde:oracle$sde:oracle11g:geop; User=recreatie; Version=SDE.DEFAULT
+1,ec.europa.eu
+1,www.nationaalgeoregister.nl
+1,Server=sde; Service=sde:oracle$sde:oracle11g:geop; User=milieu; Version=SDE.DEFAULT
+1,www.amersfoort.nl
+1,eculture.cs.vu.nl
+1,www.arnhem.nl
+1,geoservices.provincie-utrecht.nl:6080
+1,gisopenbaar.overijssel.nl
+1,Server=sde; Service=sde:oracle$sde:oracle11g:geopt; User=veiligheid; Version=SDE.DEFAULT
+1,Server=skp10.zwolle.intern; Service=5152; User=geo; Version=SDE.DEFAULT
+1,\\provgron\Data\GeoOpslag\Projectdata\Gezondheidskaart.gdb
+1,\\FS_GEO\DATA4\GEO\Projecten\Algemeen\Provinciaalgeoregister\metadata\kopie_PGR_datasets_PNBW.gdb
+1,geoservices2.provinciegroningen.nl
+1,www.denhaag.nl
+1,Server=sde; Service=sde:oracle$sde:oracle11g:geop; User=veiligheid; Version=SDE.DEFAULT
+1,appl.agentschaptelecom.nl
+1,gisserver1.agro.nl
+1,geoservices.rijkswaterstaat.nl
+1,www.aaenmaas.nl
+1,atlas.brabant.nl
+1,acg-prd:9093
+1,geoinformatie.aaenmaas.nl
+1,www.pianoo.nl
+1,ro.delft.nl
+1,Server=sde; Service=sde:oracle$sde:oracle11g:geop; User=wegen; Version=SDE.DEFAULT
+1,62.112.238.40
+1,648c7b28-13f7-4a5b-b684-e3f4cdf528c5
+1,markvastrd

@@ -1,0 +1,173 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=d715138b-50be-4cda-89b7-809a077ae8d9", 
+    "private": false, 
+    "maintainer_email": "GIS@provincie-utrecht.nl", 
+    "num_tags": 5, 
+    "id": "162480d4-a620-4883-8678-ce5f579d4395", 
+    "metadata_created": "2015-04-15T01:53:49.047091", 
+    "metadata_modified": "2015-04-17T01:49:25.149903", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Natuur-_en_landschapsbeheer", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "19560f7a-cd47-4d4f-9db9-f91783c1962e", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:49:25.149016", 
+            "webstore_last_updated": null, 
+            "id": "3786dea0-a5f1-4188-b896-b4daffc72d91", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "17", 
+            "created": "2015-04-17T03:49:25.187340", 
+            "url": "http://geoservices.provincie-utrecht.nl/arcgis/services/w01-2_grondwatersysteembenadering/MapServer/WMSServer", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "f875258d-3e5d-499a-b2d4-159c213cdc7e", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "19560f7a-cd47-4d4f-9db9-f91783c1962e", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:49:25.149016", 
+            "webstore_last_updated": null, 
+            "id": "c3dd302f-6189-4d23-8c2f-d9a4192c318a", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "wfs_w01_water:gwsb_grondwaterafhankelijke_waterplanten", 
+            "created": "2015-04-17T03:49:25.187369", 
+            "url": "http://geoservices.provincie-utrecht.nl/arcgis/services/wfs_w01_water/MapServer/WFSServer", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "f875258d-3e5d-499a-b2d4-159c213cdc7e", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "FLORA", 
+            "name": "FLORA", 
+            "revision_timestamp": "2015-04-15T01:53:49.047091", 
+            "state": "active", 
+            "id": "27cdb978-4147-4c62-bca1-65996dd476aa"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Informatief", 
+            "name": "Informatief", 
+            "revision_timestamp": "2015-04-15T01:53:49.047091", 
+            "state": "active", 
+            "id": "38af878d-12ce-43d7-8864-527576446e20"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "NATUURBESCHERMING", 
+            "name": "NATUURBESCHERMING", 
+            "revision_timestamp": "2015-04-15T01:53:49.047091", 
+            "state": "active", 
+            "id": "9809b8a2-27c1-414c-bf8e-6f489a7b2caf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "NATUURONTWIKKELING", 
+            "name": "NATUURONTWIKKELING", 
+            "revision_timestamp": "2015-04-15T01:53:49.047091", 
+            "state": "active", 
+            "id": "46eb5ea9-c6dc-4eb2-970f-0375ea64337e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "VEGETATIE", 
+            "name": "VEGETATIE", 
+            "revision_timestamp": "2015-04-15T01:53:49.047091", 
+            "state": "active", 
+            "id": "2472d67a-2688-483b-bb31-36eb21855b88"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Soortenrijkdom grondwaterafhankelijke waterplanten per kilometerhok", 
+    "maintainer_displayname": "Provincie | Utrecht", 
+    "theme_displayname": "Natuur en milieu | Natuur- en landschapsbeheer", 
+    "temporal_from": "2007-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-15T01:53:49.047091", 
+    "identifier": "d715138b-50be-4cda-89b7-809a077ae8d9", 
+    "name": "soortenrijkdom-grondwaterafhankelijke-waterplanten-per-kilometerhok", 
+    "language": "nl-NL", 
+    "temporal_to": "2099-01-01", 
+    "accrual_periodicity": "notPlanned", 
+    "notes": "Soortenrijkdom grondwaterafhankelijke waterplanten per kilometerhok", 
+    "license_title": "Publiek Domein", 
+    "modified": "2007-01-01", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Natuur-_en_landschapsbeheer", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "82e26e1f-8dce-4bbc-9d79-af128d45c156", 
+    "landingpage": ""
+}

@@ -1,0 +1,197 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=bdb9acc9-1db1-441f-a9a3-be4052a6c4cb", 
+    "private": false, 
+    "maintainer_email": "opendata@denhaag.nl", 
+    "num_tags": 8, 
+    "id": "e3acff52-263e-4ae9-89b3-2575280c051d", 
+    "metadata_created": "2015-03-26T13:00:06.351317", 
+    "metadata_modified": "2015-04-17T01:39:07.741929", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "cc-0", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/'s-Gravenhage", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "2081d79c-8710-49b7-98bd-ae0eac5992cd", 
+            "protocol": "UKST", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:39:07.740946", 
+            "webstore_last_updated": null, 
+            "id": "aa1d5896-7a5b-4eaa-9270-4e1ef01b6449", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ukst", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Webservice huisvuilcontainer", 
+            "created": "2015-04-17T03:39:07.805580", 
+            "url": "http://www.denhaag.nl/ArcGIS/rest/services/_basisdynamisch/OndergrondvoorThema/MapServer/85", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "9aa61824-9f6f-4f16-90cf-1d734c855502", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "2081d79c-8710-49b7-98bd-ae0eac5992cd", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:39:07.740946", 
+            "webstore_last_updated": null, 
+            "id": "73c56d9e-91d6-4138-b944-8c658432bcb9", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "CSV en API treinrail traject", 
+            "created": "2015-04-17T03:39:07.805606", 
+            "url": "http://beta.columby.com/explore/dataset/462", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "9aa61824-9f6f-4f16-90cf-1d734c855502", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "afval", 
+            "name": "afval", 
+            "revision_timestamp": "2015-03-26T13:00:06.351317", 
+            "state": "active", 
+            "id": "93d6360c-912f-4902-800f-499b08f32e00"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "afvalbak", 
+            "name": "afvalbak", 
+            "revision_timestamp": "2015-03-26T13:00:06.351317", 
+            "state": "active", 
+            "id": "e2338399-bf08-4a2f-8ff4-ffbabadebe88"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "afvalbeheer", 
+            "name": "afvalbeheer", 
+            "revision_timestamp": "2015-03-26T13:00:06.351317", 
+            "state": "active", 
+            "id": "00613b8e-5f01-453b-9e89-1b0964064e76"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "afvalverwerking", 
+            "name": "afvalverwerking", 
+            "revision_timestamp": "2015-03-26T13:00:06.351317", 
+            "state": "active", 
+            "id": "b039035e-cbee-4c4b-a3ac-017a49426364"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "container", 
+            "name": "container", 
+            "revision_timestamp": "2015-03-26T13:00:06.351317", 
+            "state": "active", 
+            "id": "9f427986-e376-44ea-84dc-cbfee698f9ca"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "huis", 
+            "name": "huis", 
+            "revision_timestamp": "2015-03-26T13:00:06.351317", 
+            "state": "active", 
+            "id": "78f42052-e3de-4fd8-baaa-2cd270936e0f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "huisvuilcontainer", 
+            "name": "huisvuilcontainer", 
+            "revision_timestamp": "2015-03-26T13:00:06.351317", 
+            "state": "active", 
+            "id": "4fc692e9-9dcc-499b-be41-8e3cfb4c1149"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "openbare ruimte", 
+            "name": "openbare ruimte", 
+            "revision_timestamp": "2015-03-26T13:00:06.351317", 
+            "state": "active", 
+            "id": "a1f3b017-e043-48bb-aa67-f3edc31f2261"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Economie", 
+    "title": "huisvuilcontainer", 
+    "maintainer_displayname": "Gemeente | 's-Gravenhage", 
+    "theme_displayname": "Economie | Transport", 
+    "temporal_from": "2011-05-17", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:00:06.351317", 
+    "identifier": "bdb9acc9-1db1-441f-a9a3-be4052a6c4cb", 
+    "name": "huisvuilcontainer", 
+    "language": "nl-NL", 
+    "temporal_to": "2099-01-01", 
+    "accrual_periodicity": "http://purl.org/cld/freq/daily", 
+    "notes": "Afsluitbare, niet verplaatsbare bak, voor het verzamelen van\nhuisvuil/glas/papier/textiel.", 
+    "license_title": "CC-0", 
+    "modified": "2015-04-17", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Transport_(thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "f0a4df11-f995-4458-a220-8539b4556e9e", 
+    "landingpage": ""
+}

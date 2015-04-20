@@ -1,0 +1,159 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=853517e9-2b91-491c-9bd3-8ff7c8f63b4b", 
+    "private": false, 
+    "maintainer_email": "info@aaenmaas.nl", 
+    "num_tags": 7, 
+    "id": "e2c9d57b-bddb-44dc-9d18-108e0f90b411", 
+    "metadata_created": "2015-03-26T13:03:11.483015", 
+    "metadata_modified": "2015-04-17T01:37:23.350914", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Waterschap_Aa_en_Maas", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "b0920659-9b86-46ff-a5fd-fa5f9cd906be", 
+            "protocol": "download", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:37:23.349946", 
+            "webstore_last_updated": null, 
+            "id": "de3f6c0e-84d8-41b4-ab19-5ec81ee96d1c", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "download", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "7 jaars cyclus groot onderhoud", 
+            "created": "2015-04-17T03:37:23.400103", 
+            "url": "http://geoinformatie.aaenmaas.nl/PDF/WBP_2016_2021/3a_extra_grootonderhoud_v2.pdf", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "5db762b1-bb6e-4e7b-a53f-25b38d1ebe85", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Baggeren", 
+            "name": "Baggeren", 
+            "revision_timestamp": "2015-03-26T13:03:11.483015", 
+            "state": "active", 
+            "id": "67fdcc59-bb10-4f9f-96b6-f8f23b4f3e20"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Groot onderhoud", 
+            "name": "Groot onderhoud", 
+            "revision_timestamp": "2015-03-26T13:03:11.483015", 
+            "state": "active", 
+            "id": "f28e385a-44e7-43f4-b3bc-ea77a142b6fe"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Meerjaarlijks onderhoud", 
+            "name": "Meerjaarlijks onderhoud", 
+            "revision_timestamp": "2015-03-26T13:03:11.483015", 
+            "state": "active", 
+            "id": "96564f0a-bbd2-4ea2-9051-62887942142a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Onderhoud", 
+            "name": "Onderhoud", 
+            "revision_timestamp": "2015-03-26T13:03:11.483015", 
+            "state": "active", 
+            "id": "28158b49-4be7-404e-a88b-dc6502b6d5e3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "WBP", 
+            "name": "WBP", 
+            "revision_timestamp": "2015-03-26T13:03:11.483015", 
+            "state": "active", 
+            "id": "e7b9188a-474d-4f9a-ad2f-f79dcd059497"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheerplan", 
+            "name": "Waterbeheerplan", 
+            "revision_timestamp": "2015-03-26T13:03:11.483015", 
+            "state": "active", 
+            "id": "0582ddc6-9331-46fa-b3f3-7aec9a76993b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Waterbeheersplan", 
+            "name": "Waterbeheersplan", 
+            "revision_timestamp": "2015-03-26T13:03:11.483015", 
+            "state": "active", 
+            "id": "279aebf7-d887-47a8-a26e-36624d0ff15b"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "7 jaars cyclus groot onderhoud, Waterbeheerplan", 
+    "maintainer_displayname": "Waterschappen | Waterschap Aa en Maas", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "2015-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:03:11.483015", 
+    "identifier": "853517e9-2b91-491c-9bd3-8ff7c8f63b4b", 
+    "name": "7-jaars-cyclus-groot-onderhoud-waterbeheerplan", 
+    "language": "nl-NL", 
+    "temporal_to": "2021-12-31", 
+    "url": null, 
+    "notes": "Inzet op zo effectief en effici\u00ebnt mogelijk onderhouden van de bestaande natte infrastructuur middels een 7 jaars cyclus groot onderhoud.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2014-09-04", 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "f956d443-8efa-46e1-8c0c-877ad74ad9c0", 
+    "landingpage": ""
+}

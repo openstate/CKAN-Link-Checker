@@ -1,0 +1,190 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 7, 
+    "id": "e90e5d61-eda3-4e04-8099-20fa8d00d0ba", 
+    "metadata_created": "2015-03-26T13:08:11.619082", 
+    "metadata_modified": "2015-04-17T01:45:36.756150", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Stroombaan", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=7B02EB3B-4DF7-4D06-8AC9-08D78E04E11n", 
+    "resources": [
+        {
+            "resource_group_id": "9f6db65e-d146-48fb-a5a1-48a2d73d9abb", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:45:36.755190", 
+            "webstore_last_updated": null, 
+            "id": "483721dd-c610-4b6e-b17c-e4eea7c6b043", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "wat01", 
+            "created": "2015-04-17T03:45:36.816295", 
+            "url": "http://geoservices.rijkswaterstaat.nl/zuid_holland_stroombaan", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "16495b6a-3bd9-4a61-9703-408b1ce311e3", 
+            "resource_type": null
+        }, 
+        {
+            "resource_group_id": "9f6db65e-d146-48fb-a5a1-48a2d73d9abb", 
+            "protocol": "OGC:WFS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:45:36.755190", 
+            "webstore_last_updated": null, 
+            "id": "ea7d7cc7-ee41-49d4-8e52-e00b04b54610", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wfs", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "wat01", 
+            "created": "2015-04-17T03:45:36.816333", 
+            "url": "http://geoservices.rijkswaterstaat.nl/zuid_holland_stroombaan", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 1, 
+            "revision_id": "16495b6a-3bd9-4a61-9703-408b1ce311e3", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 2, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "aardrijkskunde", 
+            "name": "aardrijkskunde", 
+            "revision_timestamp": "2015-03-26T13:08:11.619082", 
+            "state": "active", 
+            "id": "1289e979-db68-47f2-b7ba-9c3b7952b4ed"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ecology", 
+            "name": "ecology", 
+            "revision_timestamp": "2015-03-26T13:08:11.619082", 
+            "state": "active", 
+            "id": "18f13956-2e88-42c7-bdbf-758a6f5b65fe"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "hydrology", 
+            "name": "hydrology", 
+            "revision_timestamp": "2015-03-26T13:08:11.619082", 
+            "state": "active", 
+            "id": "74af3036-6e21-4c76-9fa2-06ff9acbe583"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "landschap", 
+            "name": "landschap", 
+            "revision_timestamp": "2015-03-26T13:08:11.619082", 
+            "state": "active", 
+            "id": "cb404d73-a5ec-4f3a-a86f-e910e55e22a7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "stroombaan", 
+            "name": "stroombaan", 
+            "revision_timestamp": "2015-03-26T13:08:11.619082", 
+            "state": "active", 
+            "id": "6e104758-d360-47a4-8b1a-dc3edeb9805a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "transport", 
+            "name": "transport", 
+            "revision_timestamp": "2015-03-26T13:08:11.619082", 
+            "state": "active", 
+            "id": "f3c2da2c-0c34-4f4d-b87f-a3311bc90b9a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "water", 
+            "name": "water", 
+            "revision_timestamp": "2015-03-26T13:08:11.619082", 
+            "state": "active", 
+            "id": "0b60ece9-3e99-4a61-be62-65f304304af5"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Natuur_en_milieu", 
+    "title": "Gebied waterkwantiteit uit Waterwet, 07-2012", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Natuur en milieu | Bodem", 
+    "temporal_from": "1970-01-01", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:08:11.619082", 
+    "identifier": "7B02EB3B-4DF7-4D06-8AC9-08D78E04E11n", 
+    "name": "gebied-waterkwantiteit-uit-waterwet-07-2012", 
+    "language": "nl-NL", 
+    "temporal_to": "2012-07-08", 
+    "accrual_periodicity": "http://purl.org/cld/freq/irregular", 
+    "notes": "Hulpbestand waterkwantiteit uit gebieden Waterwet dat de buitengrens van vormt voor het werkgebied van het project Stroomlijn.", 
+    "license_title": "CC-0", 
+    "modified": "2012-07-08", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Bodem", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "de4dc239-8c61-4681-b9d7-ff6ff38089ad", 
+    "landingpage": ""
+}

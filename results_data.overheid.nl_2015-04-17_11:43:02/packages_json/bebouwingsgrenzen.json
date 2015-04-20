@@ -1,0 +1,144 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=8dfb588b-7bcc-441b-8e3a-da301e57b07e", 
+    "private": false, 
+    "maintainer_email": "GIS@provincie-utrecht.nl", 
+    "num_tags": 5, 
+    "id": "296221fa-c4aa-4532-8020-fd1e04b08868", 
+    "metadata_created": "2015-04-15T01:54:57.295669", 
+    "metadata_modified": "2015-04-17T01:50:01.411354", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "7b2a7230-d212-4a80-9d5c-ccc310bd1f3f", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:50:01.409939", 
+            "webstore_last_updated": null, 
+            "id": "480f551b-f90d-4efd-8cf1-e07e15500de8", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "1", 
+            "created": "2015-04-17T03:50:01.464159", 
+            "url": "http://geoservices.provincie-utrecht.nl/arcgis/services/c01-3-3_topografie/MapServer/WMSServer", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "816a56b1-5256-48d3-8c70-05f69db3e421", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "CARTOGRAFIE", 
+            "name": "CARTOGRAFIE", 
+            "revision_timestamp": "2015-04-15T01:54:57.295669", 
+            "state": "active", 
+            "id": "cf808869-544f-4a8e-891d-3fa369dfda90"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "GEOGRAFIE", 
+            "name": "GEOGRAFIE", 
+            "revision_timestamp": "2015-04-15T01:54:57.295669", 
+            "state": "active", 
+            "id": "6fe90b2a-cadb-4d30-8598-1ab7585c8842"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Informatief", 
+            "name": "Informatief", 
+            "revision_timestamp": "2015-04-15T01:54:57.295669", 
+            "state": "active", 
+            "id": "38af878d-12ce-43d7-8864-527576446e20"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "STEDELIJKE GEBIEDEN", 
+            "name": "STEDELIJKE GEBIEDEN", 
+            "revision_timestamp": "2015-04-15T01:54:57.295669", 
+            "state": "active", 
+            "id": "4da53f1f-339b-430d-b807-131d0d768635"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "STEDEN", 
+            "name": "STEDEN", 
+            "revision_timestamp": "2015-04-15T01:54:57.295669", 
+            "state": "active", 
+            "id": "fe2bbab7-ff60-4abf-9949-fdb131fe60a6"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Bestuur", 
+    "title": "Bebouwingsgrenzen", 
+    "maintainer_displayname": "Provincie | Utrecht", 
+    "theme_displayname": "Bestuur | Organisatie en beleid", 
+    "temporal_from": "2008-12-11", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-15T01:54:57.295669", 
+    "identifier": "8dfb588b-7bcc-441b-8e3a-da301e57b07e", 
+    "name": "bebouwingsgrenzen", 
+    "language": "nl-NL", 
+    "temporal_to": "2011-12-11", 
+    "accrual_periodicity": "http://purl.org/cld/freq/irregular", 
+    "notes": "Thematisch bestand. Begrenzing van een hoge concentratie van bebouwing, zgn. kernbebouwing. Bestand is samengesteld bij gebrek aan een actueel bebouwingsbestand uit de top250. Gebaseerd op:- oude bebouwingsbestand GRB en cartografisch bebouwingsbestand uit Freehand- alle kantoor- en bedrijfslocaties liggen binnen bebouwingsgrens- sluit aan bij top50vector (huizen en bebouwingsvlak).Bestand is om laatste reden ook goed te gebruiken voor viewers voor een meer vloeiende overgang bij in/uitzoomen.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2008-04-11", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Organisatie_en_beleid", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "0ea45649-1bcb-45ec-a2b5-d8f966dd84ae", 
+    "landingpage": ""
+}

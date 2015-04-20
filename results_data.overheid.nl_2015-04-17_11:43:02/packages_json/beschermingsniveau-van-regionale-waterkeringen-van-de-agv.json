@@ -1,0 +1,136 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "relationships_as_object": [], 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=d60ec8fa-3056-4f4c-bf6f-4721c1c1fb4b", 
+    "private": false, 
+    "maintainer_email": "GIS@provincie-utrecht.nl", 
+    "num_tags": 4, 
+    "id": "29582407-1eb4-4c54-9eb4-f36eca90a415", 
+    "metadata_created": "2015-04-15T01:51:31.682801", 
+    "metadata_modified": "2015-04-17T01:48:28.027148", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "md_soortwijziging": ":updated", 
+    "license_id": "publiek-domein", 
+    "contact_point": "http://standaarden.overheid.nl/owms/terms/Utrecht_(provincie)", 
+    "type": "dataset", 
+    "lod_stars": "0", 
+    "resources": [
+        {
+            "resource_group_id": "375ba120-332b-4148-bdca-479faa26f0a3", 
+            "protocol": "OGC:WMS", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:48:28.026248", 
+            "webstore_last_updated": null, 
+            "id": "f0cb6acf-bafd-4862-88e6-b699f3f4774a", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "ogc:wms", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "wfs_w01_water:veiligheid_waterkeringen_AGV", 
+            "created": "2015-04-17T03:48:28.056755", 
+            "url": "http://geoservices.provincie-utrecht.nl/arcgis/services/wfs_w01_water/MapServer/WFSServer", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "ed629eab-d482-488d-8383-d472fa07e14a", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "DIJKEN", 
+            "name": "DIJKEN", 
+            "revision_timestamp": "2015-04-15T01:51:31.682801", 
+            "state": "active", 
+            "id": "50645332-1aed-414d-b46e-50f16cd9b24a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Kaderstellend", 
+            "name": "Kaderstellend", 
+            "revision_timestamp": "2015-04-15T01:51:31.682801", 
+            "state": "active", 
+            "id": "c4113200-7f74-49c0-902c-0abc56b97d56"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "OVERSTROMINGEN", 
+            "name": "OVERSTROMINGEN", 
+            "revision_timestamp": "2015-04-15T01:51:31.682801", 
+            "state": "active", 
+            "id": "755fb74c-5ab4-452e-9bc2-a315dad5d8f8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "VEILIGHEIDSEISEN", 
+            "name": "VEILIGHEIDSEISEN", 
+            "revision_timestamp": "2015-04-15T01:51:31.682801", 
+            "state": "active", 
+            "id": "d09d2d52-2566-40fa-8f4b-18eb348972e7"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Beschermingsniveau van regionale waterkeringen van de AGV", 
+    "maintainer_displayname": "Provincie | Utrecht", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "2009-12-22", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-04-15T01:51:31.682801", 
+    "identifier": "d60ec8fa-3056-4f4c-bf6f-4721c1c1fb4b", 
+    "name": "beschermingsniveau-van-regionale-waterkeringen-van-de-agv", 
+    "language": "nl-NL", 
+    "temporal_to": "2011-06-22", 
+    "accrual_periodicity": "unknown", 
+    "notes": "De provincie Utrecht legt een norm vast voor het beschermingsniveau van regionale waterkeringen. Deze keringen zijn in beheer bij het waterschap (Hoogheemraadschap Amstel, Gooi en Vecht). Dit is gedaan in het besluit van Utrecht van 26 oktober 2009, Noord-Holland van 9 november 2009 en van Zuid-Holland van 14 oktober 2009 tot algehele herziening van de regelgeving voor het Hoogheemraadschap Amstel, Gooi en Vecht met betrekking tot het waterbeheer.", 
+    "license_title": "Publiek Domein", 
+    "modified": "2011-10-26", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/mark/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "6633d144-fbe5-4ac1-a801-739fd9a4e5c8", 
+    "landingpage": ""
+}

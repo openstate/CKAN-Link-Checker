@@ -1,0 +1,201 @@
+{
+    "owner_org": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+    "maintainer": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "relationships_as_object": [], 
+    "lod_stars": "0", 
+    "private": false, 
+    "maintainer_email": "servicedesk-data@rws.nl", 
+    "num_tags": 12, 
+    "id": "51ce8d39-cc3a-42a5-b832-70419bb3a143", 
+    "metadata_created": "2015-03-26T13:21:02.032281", 
+    "metadata_modified": "2015-04-17T01:54:53.377298", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "state": "active", 
+    "source": "ngr", 
+    "theme": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+    "version": null, 
+    "maintainer_facet": "http://standaarden.overheid.nl/owms/terms/Rijkswaterstaat", 
+    "md_soortwijziging": ":updated", 
+    "spatial": "Nederland", 
+    "license_id": "cc-0", 
+    "contact_point": "ngr@test.com", 
+    "type": "dataset", 
+    "md_uri": "http://nationaalgeoregister.nl/geonetwork?uuid=DC000005", 
+    "resources": [
+        {
+            "resource_group_id": "8b3c57e7-8179-45ff-8c5b-35c53baa8a3e", 
+            "protocol": "website", 
+            "cache_last_updated": null, 
+            "revision_timestamp": "2015-04-17T01:54:53.376382", 
+            "webstore_last_updated": null, 
+            "id": "bd1897dd-61f3-4e60-9361-a1d71bbf7809", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "", 
+            "format": "website", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "Portaal naar Watergerelateerde gegevens Rijkswateren", 
+            "created": "2015-04-17T03:54:53.439974", 
+            "url": "http://live.waterbase.nl", 
+            "webstore_url": null, 
+            "last_modified": null, 
+            "position": 0, 
+            "revision_id": "bc5ceaec-c7cb-4497-856e-4d979197de03", 
+            "resource_type": null
+        }
+    ], 
+    "num_resources": 1, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "MWTL", 
+            "name": "MWTL", 
+            "revision_timestamp": "2015-03-26T13:21:02.032281", 
+            "state": "active", 
+            "id": "f8f7392a-8b25-4cf5-a4f6-b4a2c7145d90"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "afvoer", 
+            "name": "afvoer", 
+            "revision_timestamp": "2015-03-26T13:21:02.032281", 
+            "state": "active", 
+            "id": "1b4c1bd5-a85f-4e73-ba33-180e3d869edf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "fysisch", 
+            "name": "fysisch", 
+            "revision_timestamp": "2015-03-26T13:21:02.032281", 
+            "state": "active", 
+            "id": "9296f4b2-9478-4272-a261-a15a56097391"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "golven", 
+            "name": "golven", 
+            "revision_timestamp": "2015-03-26T13:21:02.032281", 
+            "state": "active", 
+            "id": "6ea313ad-c396-467f-8800-6fa17f25a23b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "meetgegevens", 
+            "name": "meetgegevens", 
+            "revision_timestamp": "2015-03-26T13:21:02.032281", 
+            "state": "active", 
+            "id": "38d8340a-70cf-45e2-bca6-32b2fee65054"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "monitoring", 
+            "name": "monitoring", 
+            "revision_timestamp": "2015-03-26T13:21:02.032281", 
+            "state": "active", 
+            "id": "ea4f613f-982c-4995-a712-6811cec616ec"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "oppervlaktewater", 
+            "name": "oppervlaktewater", 
+            "revision_timestamp": "2015-03-26T13:21:02.032281", 
+            "state": "active", 
+            "id": "1657b6b0-577d-473f-8484-f90fb13c3acd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rijkswateren", 
+            "name": "rijkswateren", 
+            "revision_timestamp": "2015-03-26T13:21:02.032281", 
+            "state": "active", 
+            "id": "4e72df0c-305b-4413-ac00-f4a3a1cc9dfc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "stroomsnelheid", 
+            "name": "stroomsnelheid", 
+            "revision_timestamp": "2015-03-26T13:21:02.032281", 
+            "state": "active", 
+            "id": "a45067e9-1332-45ba-a2f6-29104ee57809"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "waterkwantiteit", 
+            "name": "waterkwantiteit", 
+            "revision_timestamp": "2015-03-26T13:21:02.032281", 
+            "state": "active", 
+            "id": "2c3e484a-8836-4ce9-bfeb-08af7c35e81d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "waterstand", 
+            "name": "waterstand", 
+            "revision_timestamp": "2015-03-26T13:21:02.032281", 
+            "state": "active", 
+            "id": "3c45ae44-f344-4452-b902-6fab6f094b1d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "watertemperatuur", 
+            "name": "watertemperatuur", 
+            "revision_timestamp": "2015-03-26T13:21:02.032281", 
+            "state": "active", 
+            "id": "c9ca6dbb-4948-4341-b0b5-46906afe01cd"
+        }
+    ], 
+    "theme_facet": "http://standaarden.overheid.nl/owms/terms/Verkeer_(thema)", 
+    "title": "Waterkwantiteit - Rijkswaterstaat", 
+    "maintainer_displayname": "Ministerie van Infrastructuur en Milieu | Rijkswaterstaat", 
+    "theme_displayname": "Verkeer | Water", 
+    "temporal_from": "2013-10-28", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [], 
+    "creator_user_id": "53359fa1-154d-4d03-8408-3582c9e0dcbc", 
+    "relationships_as_subject": [], 
+    "revision_timestamp": "2015-03-26T13:21:02.032281", 
+    "identifier": "DC000005", 
+    "name": "waterkwantiteit-rijkswaterstaat", 
+    "language": "nl-NL", 
+    "temporal_to": "2013-10-03", 
+    "accrual_periodicity": "http://purl.org/cld/freq/continuous", 
+    "notes": "Meetgegevens betreffende de fysische componenten van de rijkswateren. De resultaten zijn afkomstig van de landelijke monitoringsprogramma's van Rijkswaterstaat. Fysische meetgegevens zijn afvoeren, golven, stroomsnelheden, waterstanden en watertemperaturen. Afhankelijk van de soort meting en locatie wordt er incidenteel, eenmaal per jaar tot dagelijks gemeten.", 
+    "license_title": "CC-0", 
+    "modified": "2014-11-17", 
+    "url": null, 
+    "extras": [
+        {
+            "value": "http://standaarden.overheid.nl/owms/terms/Water_(verkeer-thema)", 
+            "key": "subtheme_facet"
+        }
+    ], 
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.nl", 
+    "organization": {
+        "description": "", 
+        "title": "Nationaal Georegister", 
+        "created": "2015-03-26T12:56:19.147623", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-03-26T11:56:19.121612", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "20150326-115619.119226ngr.png", 
+        "revision_id": "918c4dfd-7496-4ac4-8b0d-a95fe2682aa9", 
+        "type": "organization", 
+        "id": "a9a8e392-9f69-493e-8b44-4a1586725a66", 
+        "name": "nationaal-georegister"
+    }, 
+    "revision_id": "ea020e5e-83f7-4607-a037-47e45c695927", 
+    "landingpage": "http://www.rws.nl/water/waterdata_waterberichtgeving/watergegevens/index.aspx"
+}
