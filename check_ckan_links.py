@@ -171,12 +171,13 @@ with open('packages.csv', 'w') as ALL_OUT:
             url = resource['url']
             res_format = resource['format']
 
-            if 'ogc' in res_format:
-                # Harmonize parameterless OGC URLs 
-                url = url.rstrip('?')
+            parsed_url = urlparse(url)
 
-                # Check if URL lacks parameters
-                if (len(url.split('?')) == 1):
+            if 'ogc' in res_format:
+                # Valid URLs require two parameters, however,
+                # some resources have only one hence we
+                # check whether URL lacks 1 on more parameters
+                if len(parsed_url[3].split('=')) < 2:
                     if res_format == 'ogc:wms':
                         ogc_service = 'WMS'
                     elif res_format == 'ogc:wfs':
@@ -187,9 +188,9 @@ with open('packages.csv', 'w') as ALL_OUT:
                         ogc_service = 'WCS'
 
                     # Construct valid OGC request
-                    url += '?SERVICE=%s&REQUEST=GetCapabilities' % ogc_service
+                    url = url.split('?')[0] + '?SERVICE=%s&REQUEST=GetCapabilities' % ogc_service
                 
-            parsed_url = urlparse(url)
+            
 
             # Parse HTTP URLs
             if parsed_url[0] == 'http':
