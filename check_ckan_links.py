@@ -50,7 +50,7 @@ class UnicodeWriter:
             self.writerow(row)
 
 # Append data to a specified CSV
-def append_csslv(filename, data):
+def append_csv(filename, data):
     with open(filename, 'a') as OUT:
         writer = UnicodeWriter(OUT)
         writer.writerow(data)
