@@ -130,130 +130,131 @@ with open('packages.csv', 'w') as ALL_OUT:
         # to retry failed requests without hammering the CKAN endpoint
         timeout = 0
         go = True
+        rjson = {}
         while go:
             if timeout:
-                print timeout
+                print 'Sleep ' + timeout + ' seconds'
                 time.sleep(timeout)
             try:
                 r = session.get(endpoint + 'package_show?id=' + dataset_name)
-                r.raise_for_status()
+                rjson = r.json()
                 go = False
-            except (requests.exceptions.HTTPError,
-                    requests.exceptions.ConnectionError):
+            except (ValueError):
                 timeout += 10
                 continue
 
         if timeout > 0:
             timeout -= 1
 
-        rjson = r.json()
-
-        # Check if the API call returned successfully
-        if rjson['success'] == False:
-            raise ValueError('%s: %s' % (rjson['__type'], rjson['message']))
-
-        # Save the returned JSON result for this dataset
-        with open('%s/%s.json' % (
-                packages_json_folder, rjson['result']['name']), 'w') as OUT:
-            json.dump(rjson['result'], OUT, indent=4)
-
-        package = rjson['result']
         # Counts how many resources' links are ok
         ok_resources = 0
-        # Process each resource (i.e. a link to a data source) of the
-        # current dataset/package
-        for resource in package['resources']:
-            # Sleep at least 1 second between requests to avoid
-            # hammering the CKAN endpoint too much
-            time.sleep(1)
-            url = resource['url']
-            parsed_url = urlparse(url)
+        num_resources = 0
+        dataset_id = ''
+        dataset_maintainer = ''
+        # Save the returned JSON result for this dataset
+        OUT = open('%s/%s.json' % (packages_json_folder, dataset_name), 'w')
+        if 'error' in rjson:
+            json.dump(rjson['error'], OUT, indent=4)
+        else:
+            json.dump(rjson['result'], OUT, indent=4)
+            package = rjson['result']
+            num_resources = package['num_resources']
+            dataset_id = package['id']
+            dataset_maintainer = package['maintainer']
+            # Process each resource (i.e. a link to a data source) of the
+            # current dataset/package
+            for resource in package['resources']:
+                # Sleep at least 0.25 second between requests to avoid
+                # hammering the CKAN endpoint too much
+                time.sleep(0.25)
+                url = resource['url']
+                parsed_url = urlparse(url)
 
-            # Parse HTTP URLs
-            if parsed_url[0] == 'http':
-                # Try to download the URL and write relevant data to
-                # failed_resources.csv if it fails
-                try:
-                    r = session.get(resource['url'], timeout=60)
-                except (socket.timeout,
-                        requests.exceptions.Timeout,
-                        requests.exceptions.InvalidURL,
-                        requests.exceptions.ConnectionError,
-                        urllib3.exceptions.LocationParseError) as e:
-                    print str(e) + ' : ' + resource['url']
-                    append_csv(
-                        'failed_resources.csv',
-                        [
-                            package['name'],
-                            resource['url'],
-                            '0',
-                            str(e)
-                        ]
-                    )
-                    continue
+                # Parse HTTP URLs
+                if parsed_url[0] == 'http':
+                    # Try to download the URL and write relevant data to
+                    # failed_resources.csv if it fails
+                    try:
+                        r = session.get(resource['url'], timeout=20)
+                    except (socket.timeout,
+                            requests.exceptions.Timeout,
+                            requests.exceptions.InvalidURL,
+                            requests.exceptions.ConnectionError,
+                            urllib3.exceptions.LocationParseError) as e:
+                        print str(e) + ' : ' + resource['url']
+                        append_csv(
+                            'failed_resources.csv',
+                            [
+                                package['name'],
+                                resource['url'],
+                                '0',
+                                str(e)
+                            ]
+                        )
+                        continue
 
-                # If the HTTP status code is not 200 then save the
-                # results to failed_resources.csv
-                if r.status_code != 200:
-                    print 'Got status code %i instead of 200 for: %s' % (
-                        r.status_code,
-                        resource['url']
-                    )
-                    append_csv(
-                        'failed_resources.csv',
-                        [
-                            package['name'],
-                            resource['url'],
-                            str(r.status_code),
-                            r.reason
-                        ]
-                    )
-                    continue
+                    # If the HTTP status code is not 200 then save the
+                    # results to failed_resources.csv
+                    if r.status_code != 200:
+                        print 'Got status code %i instead of 200 for: %s' % (
+                            r.status_code,
+                            resource['url']
+                        )
+                        append_csv(
+                            'failed_resources.csv',
+                            [
+                                package['name'],
+                                resource['url'],
+                                str(r.status_code),
+                                r.reason
+                            ]
+                        )
+                        continue
 
-            # Parse FTP URLs
-            elif parsed_url[0] == 'ftp':
-                # Try to connect to the FTP URL and write relevant data
-                # to failed_resources.csv if it fails
-                try:
-                    ftp = ftplib.FTP(parsed_url[1])
-                    ftp.login()
-                    # Check if we can access the specified path
-                    ftp.cwd(''.join(parsed_url[2:]))
-                except ftplib.all_errors as e:
-                    print str(e) + ' : ' + resource['url']
-                    append_csv(
-                        'failed_resources.csv',
-                        [
-                            package['name'],
-                            resource['url'],
-                            '0',
-                            str(e)
-                        ]
-                    )
-                    continue
+                # Parse FTP URLs
+                elif parsed_url[0] == 'ftp':
+                    # Try to connect to the FTP URL and write relevant data
+                    # to failed_resources.csv if it fails
+                    try:
+                        ftp = ftplib.FTP(parsed_url[1])
+                        ftp.login()
+                        # Check if we can access the specified path
+                        ftp.cwd(''.join(parsed_url[2:]))
+                    except ftplib.all_errors as e:
+                        print str(e) + ' : ' + resource['url']
+                        append_csv(
+                            'failed_resources.csv',
+                            [
+                                package['name'],
+                                resource['url'],
+                                '0',
+                                str(e)
+                            ]
+                        )
+                        continue
 
-            # If we got to this place then the resource's URL is
-            # accessible
-            ok_resources += 1
+                # If we got to this place then the resource's URL is
+                # accessible
+                ok_resources += 1
 
         # For each package save the following info
         all_writer.writerow(
             [
                 str(ok_resources),
-                str(package['num_resources']),
-                package['id'],
-                package['name'],
-                package['maintainer']
+                str(num_resources),
+                dataset_id,
+                dataset_name,
+                dataset_maintainer
             ]
         )
     
         # If the number of ok resources is 0, then output save the
         # package name to failed_packages.csv
         if ok_resources == 0:
-            print 'FOUND NO RESOURCES FOR: ' + package['name']
+            print 'FOUND NO RESOURCES FOR: ' + dataset_name
             with open('failed_packages.csv', 'a') as OUT:
                 writer = UnicodeWriter(OUT)
-                writer.writerow([package['name']])
+                writer.writerow([dataset_name])
 
 # Perform analysis
 os.chdir('..')

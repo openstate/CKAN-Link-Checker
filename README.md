@@ -6,7 +6,7 @@ This little hacky script can be used to check whether the links to data on a CKA
 
 ## Usage example
 * download check_ckan_links.py and analyze_results.py (or clone, but then you'll also get all the data.overheid.nl results ;D)
-* `./check_ckan_links.py http://data.overheid.nl/data/api/3`
+* `./check_ckan_links.py https://data.overheid.nl/data/api/3`
 
 ## Result folder content description
 
