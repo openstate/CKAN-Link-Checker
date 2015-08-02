@@ -172,9 +172,9 @@ with open('packages.csv', 'w') as ALL_OUT:
             # Process each resource (i.e. a link to a data source) of the
             # current dataset/package
             for resource in package['resources']:
-                # Sleep at least 0.25 second between requests to avoid
+                # Sleep at least 1 second between requests to avoid
                 # hammering the CKAN endpoint too much
-                time.sleep(0.25)
+                time.sleep(1)
                 url = resource['url']
                 parsed_url = urlparse(url)
 
