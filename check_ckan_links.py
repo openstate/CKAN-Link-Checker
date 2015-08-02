@@ -145,7 +145,7 @@ with open('packages.csv', 'w') as ALL_OUT:
                 )
                 rjson = r.json()
                 go = False
-            except (ValueError):
+            except (ValueError, requests.exceptions.Timeout):
                 timeout += 10
                 continue
 
