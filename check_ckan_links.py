@@ -133,7 +133,7 @@ with open('packages.csv', 'w') as ALL_OUT:
         rjson = {}
         while go:
             if timeout:
-                print 'Sleep ' + timeout + ' seconds'
+                print 'Sleep ' + str(timeout) + ' seconds'
                 time.sleep(timeout)
             try:
                 url = endpoint + 'package_show'
