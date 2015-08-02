@@ -136,7 +136,13 @@ with open('packages.csv', 'w') as ALL_OUT:
                 print 'Sleep ' + timeout + ' seconds'
                 time.sleep(timeout)
             try:
-                r = session.get(endpoint + 'package_show?id=' + dataset_name)
+                url = endpoint + 'package_show'
+                body = {"id": dataset_name}
+                r = session.post(
+                    url,
+                    data=json.dumps(body),
+                    headers={'content-type': 'application/json'}
+                )
                 rjson = r.json()
                 go = False
             except (ValueError):
@@ -161,6 +167,8 @@ with open('packages.csv', 'w') as ALL_OUT:
             num_resources = package['num_resources']
             dataset_id = package['id']
             dataset_maintainer = package['maintainer']
+            if not dataset_maintainer:
+                dataset_maintainer = ''
             # Process each resource (i.e. a link to a data source) of the
             # current dataset/package
             for resource in package['resources']:
