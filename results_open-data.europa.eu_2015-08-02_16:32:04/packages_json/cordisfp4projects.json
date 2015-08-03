@@ -1,0 +1,274 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 21, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/TUR", 
+        "http://publications.europa.eu/resource/authority/country/USA", 
+        "http://publications.europa.eu/resource/authority/country/THA", 
+        "http://publications.europa.eu/resource/authority/country/NOR", 
+        "http://publications.europa.eu/resource/authority/country/EU27", 
+        "http://publications.europa.eu/resource/authority/country/KAZ", 
+        "http://publications.europa.eu/resource/authority/country/ALB", 
+        "http://publications.europa.eu/resource/authority/country/DZA", 
+        "http://publications.europa.eu/resource/authority/country/CHE", 
+        "http://publications.europa.eu/resource/authority/country/HRV"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "contact_name": "CORDIS Help Desk", 
+    "id": "6669bd9d-329b-4ac6-bc16-da616dfd9e76", 
+    "metadata_created": "2015-07-27T14:53:07.119546", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-29T12:33:38.664662", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "1.0", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/225", 
+            "name": "http://eurovoc.europa.eu/225", 
+            "revision_timestamp": "2015-03-06T09:18:59.234181", 
+            "state": "active", 
+            "id": "07573a38-7d87-449e-9c12-41a423956296"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3489", 
+            "name": "http://eurovoc.europa.eu/3489", 
+            "revision_timestamp": "2015-03-06T09:18:59.234181", 
+            "state": "active", 
+            "id": "b4cb560c-4372-47c4-970b-de2aa0edcf59"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5237", 
+            "name": "http://eurovoc.europa.eu/5237", 
+            "revision_timestamp": "2015-03-06T09:18:59.234181", 
+            "state": "active", 
+            "id": "5c00b1fc-d1d3-4125-bf2b-e4e40188292a"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3656", 
+            "name": "http://eurovoc.europa.eu/3656", 
+            "revision_timestamp": "2015-03-06T09:18:59.234181", 
+            "state": "active", 
+            "id": "2cb4ad97-ae7e-41e4-b8a7-61e70de107b5"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/223", 
+            "name": "http://eurovoc.europa.eu/223", 
+            "revision_timestamp": "2015-03-06T09:18:59.234181", 
+            "state": "active", 
+            "id": "e9bc158d-9037-4161-b2c5-7456b64d3f12"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/8454", 
+            "name": "http://eurovoc.europa.eu/8454", 
+            "revision_timestamp": "2015-03-06T09:18:59.234181", 
+            "state": "active", 
+            "id": "35976480-61bf-42bb-b68b-ce72f7e27e67"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2914", 
+            "name": "http://eurovoc.europa.eu/2914", 
+            "revision_timestamp": "2015-03-06T09:18:59.234181", 
+            "state": "active", 
+            "id": "fd0f5924-858b-406b-b5e5-6cf1616e1a37"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5122", 
+            "name": "http://eurovoc.europa.eu/5122", 
+            "revision_timestamp": "2015-03-06T09:18:59.234181", 
+            "state": "active", 
+            "id": "eb1e569d-1cbd-4949-a79b-a86b1cfc2b65"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "0f47b513-e3df-47ee-bf15-19953176d382", 
+            "revision_timestamp": "2013-12-17T16:29:40.225454", 
+            "datastore_active": false, 
+            "id": "ac1e690e-b203-4210-b95e-7df0e72012c7", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "This dataset contains all projects funded by the European Union under the fourth framework programme for research and technological development (FP4) from 1994 to 1998.\r\nGrant information is provided for each project, including reference, acronym, dates, funding, programmes, participant countries, subjects and objectives. A smaller file is also provided without the texts for objectives.\r\n", 
+            "format": "application/vnd.ms-excel", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2013-10-21T00:00:00", 
+            "url_type": null, 
+            "mimetype": "", 
+            "cache_url": null, 
+            "name": "FP4 Projects (no objectives)", 
+            "created": "2013-10-21T16:47:41.390333", 
+            "url": "http://cordis.europa.eu/data/cordisfp4projectsnoobjectives.xls", 
+            "webstore_url": "enabled", 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "0905c362-75cb-498f-bfa6-5fc67600e005", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation"
+        }, 
+        {
+            "resource_group_id": "0f47b513-e3df-47ee-bf15-19953176d382", 
+            "revision_timestamp": "2013-12-17T16:29:40.225454", 
+            "datastore_active": false, 
+            "id": "616b471a-db31-43af-aa9e-d7142ce10561", 
+            "size": "5300000", 
+            "state": "active", 
+            "hash": "", 
+            "description": "Extraction of all FP4 projects from the CORDIS public repository, containing the following fields: RCN (CORDIS record number), Reference (grant agreement number),  Acronym,  Title,  Start Date, End Date, Total Cost, EC Contribution, Programme (Acronym),  Sub-programme (Activity Code),  Funding Scheme (contract type), Subject (SIC codes), Keywords,  Coordinator country (code), Participant countries (comma-separated codes), Objectives  (concatenating Objectives, Achievements and General Information)", 
+            "format": "text/csv", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2013-10-09T00:00:00", 
+            "url_type": null, 
+            "mimetype": "", 
+            "cache_url": null, 
+            "name": "FP4 Projects (no objectives)", 
+            "created": "2013-11-20T16:23:05.337597", 
+            "url": "http://cordis.europa.eu/data/cordisfp4noobjectives.csv", 
+            "webstore_url": "enabled", 
+            "mimetype_inner": "", 
+            "position": 1, 
+            "revision_id": "0905c362-75cb-498f-bfa6-5fc67600e005", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "This dataset contains all projects funded by the European Union under the fourth framework programme for research and technological development (FP4) from 1994 to 1998. Grant information is provided for each project, including reference, acronym, dates, funding, programmes, participant countries, subjects and objectives.", 
+            "format": "application/vnd.ms-excel", 
+            "url": "http://cordis.europa.eu/data/cordisfp4projectscomplete.xls", 
+            "datastore_active": false, 
+            "created": "2013-10-28T17:11:24.029038", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": "enabled", 
+            "revision_timestamp": "2013-12-17T16:29:40.225454", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "0905c362-75cb-498f-bfa6-5fc67600e005", 
+            "size": "33000000", 
+            "resource_group_id": "0f47b513-e3df-47ee-bf15-19953176d382", 
+            "id": "5d260ef1-9db8-41bd-bbbd-06224f3fd8b0", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "FP4 Projects complete list (with objectives)"
+        }, 
+        {
+            "resource_group_id": "0f47b513-e3df-47ee-bf15-19953176d382", 
+            "revision_timestamp": "2015-07-27T14:53:07.119546", 
+            "datastore_active": false, 
+            "id": "638a7ff1-d3c7-4fa4-b2eb-1dc1440c72da", 
+            "size": "31200000", 
+            "state": "active", 
+            "hash": "", 
+            "description": "Extraction of all FP4 projects from the CORDIS public repository, containing the following fields: RCN (CORDIS record number), Reference (grant agreement number),  Acronym,  Title,  Start Date, End Date, Total Cost, EC Contribution, Programme (Acronym),  Sub-programme (Activity Code),  Funding Scheme (contract type), Subject (SIC codes), Keywords,  Coordinator country (code), Participant countries (comma-separated codes), Objectives  ", 
+            "format": "text/csv", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2013-10-09T00:00:00", 
+            "url_type": null, 
+            "mimetype": "", 
+            "cache_url": null, 
+            "name": "FP4 Projects complete list (with objectives)", 
+            "created": "2013-11-20T18:15:29.516822", 
+            "url": "http://cordis.europa.eu/data/cordisfp4complete.csv", 
+            "webstore_url": "enabled", 
+            "mimetype_inner": "", 
+            "position": 3, 
+            "revision_id": "5beee203-effc-498d-9d34-07bfc3f7b352", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 4, 
+    "description": "This dataset contains all projects funded by the European Union under the fourth framework programme for research and technological development (FP4) from 1994 to 1998.\r\nGrant information is provided for each project, including reference, acronym, dates, funding, programmes, participant countries, subjects and objectives. A smaller file is also provided without the texts for objectives.\r\n", 
+    "title": "CORDIS - EU research projects under FP4 (1994-1998)", 
+    "tracking_summary": {
+        "total": 605, 
+        "recent": 6
+    }, 
+    "contact_email": "cordis-helpdesk@publications.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100158", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100158", 
+            "image_display_url": "", 
+            "id": "361d621d-3400-4cfe-a1f2-e54e38653a17", 
+            "name": "eurovoc_domain_100158"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100162", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100162", 
+            "image_display_url": "", 
+            "id": "0dc3cc03-e600-4d01-8e73-a428fa5280e9", 
+            "name": "eurovoc_domain_100162"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T14:53:07.119546", 
+    "name": "cordisfp4projects", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "FP4 research projects", 
+    "accrual_periodicity": "", 
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+    "contact_address": "", 
+    "contact_telephone": "+352 2929 42210 ", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://cordis.europa.eu/guidance/helpdesk/home_en.html", 
+    "url": "http://cordis.europa.eu/guidance/fp4_en.html", 
+    "organization": {
+        "description": "", 
+        "title": "Publications Office", 
+        "created": "2012-12-12T13:50:56.476905", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:56.451833", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "702713e9-905d-4061-9847-18d42c3d395d", 
+        "type": "organization", 
+        "id": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+        "name": "publ"
+    }, 
+    "revision_id": "5beee203-effc-498d-9d34-07bfc3f7b352", 
+    "identifier": "", 
+    "version_description": ""
+}

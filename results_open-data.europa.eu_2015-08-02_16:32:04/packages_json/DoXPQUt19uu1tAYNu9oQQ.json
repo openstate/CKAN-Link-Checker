@@ -1,0 +1,222 @@
+{
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 3, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "46bd622e-3731-4688-a5e0-35a6e7cc15fe", 
+    "metadata_created": "2014-12-22T07:13:40.406653", 
+    "modified_date": "2014-08-21", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T09:22:23.000689", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "interoperability_level": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/56", 
+            "name": "http://eurovoc.europa.eu/56", 
+            "revision_timestamp": "2015-03-03T18:53:42.833260", 
+            "state": "active", 
+            "id": "e11c40fd-4749-49a0-934e-4d4f391248e8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "name": null, 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nasq_ki.tsv.gz", 
+            "created": "2015-07-31T11:22:23.148496", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:22:22.999416", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "resource_group_id": "1754d1ea-8d50-4065-b9a5-bf8d76b73df3", 
+            "revision_id": "5229d7c4-2d5a-4918-a29c-2c9a1a7e6739", 
+            "id": "9b6a9e92-df87-458a-b924-7c9266f523ed", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "name": null, 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nasq_ki.sdmx.zip", 
+            "created": "2015-07-31T11:22:23.148505", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:22:22.999416", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "resource_group_id": "1754d1ea-8d50-4065-b9a5-bf8d76b73df3", 
+            "revision_id": "5229d7c4-2d5a-4918-a29c-2c9a1a7e6739", 
+            "id": "4fde7e80-3e30-402c-b83e-e192c2f5cdd5", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "nasq_esms.htm", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/nasq_esms.htm", 
+            "created": "2015-07-31T11:22:23.148451", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:22:22.999416", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "resource_group_id": "1754d1ea-8d50-4065-b9a5-bf8d76b73df3", 
+            "revision_id": "5229d7c4-2d5a-4918-a29c-2c9a1a7e6739", 
+            "id": "4c501192-c9a2-42f4-a5b3-313b72b8d60f", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/nasq_esms.sdmx.zip", 
+            "created": "2015-07-31T11:22:23.148470", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:22:22.999416", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "resource_group_id": "1754d1ea-8d50-4065-b9a5-bf8d76b73df3", 
+            "revision_id": "5229d7c4-2d5a-4918-a29c-2c9a1a7e6739", 
+            "id": "abf5bf96-52cb-49e0-855a-5c16c16bf80a", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "name": "More information on Eurostat Website", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/nasq_ki", 
+            "created": "2015-07-31T11:22:23.148479", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:22:22.999416", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "resource_group_id": "1754d1ea-8d50-4065-b9a5-bf8d76b73df3", 
+            "revision_id": "5229d7c4-2d5a-4918-a29c-2c9a1a7e6739", 
+            "id": "7c6d6fd8-9f48-4b50-90c2-102e66cadb4f", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "size": null
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Key indicators", 
+    "temporal_coverage_from": "1999", 
+    "language": [], 
+    "tracking_summary": {
+        "total": 2, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "image_display_url": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "image_display_url": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "relationships_as_subject": [], 
+    "license_title": "Legal Notice", 
+    "revision_timestamp": "2014-12-22T07:13:40.406653", 
+    "organization": {
+        "description": "", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "title": "Eurostat", 
+        "name": "estat", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "approval_status": "approved"
+    }, 
+    "name": "DoXPQUt19uu1tAYNu9oQQ", 
+    "isopen": true, 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/nasq_ki", 
+    "temporal_granularity": [], 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/nasq_ki\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/56\"/>\n    <dct:title xml:lang=\"en\">Key indicators</dct:title>\n    <dct:title xml:lang=\"fr\">Principaux indicateurs</dct:title>\n    <dct:title xml:lang=\"de\">Schl&#252;sselindikatoren</dct:title>\n    <dct:identifier>nasq_ki</dct:identifier>\n    <dct:description xml:lang=\"en\">Key indicators</dct:description>\n    <dct:description xml:lang=\"fr\">Principaux indicateurs</dct:description>\n    <dct:description xml:lang=\"de\">Schl&#252;sselindikatoren</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/nasq_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/nasq_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/nasq_ki</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nasq_ki.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/nasq_ki.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2014-08-21</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>1999</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/DoXPQUt19uu1tAYNu9oQQ\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/nasq_ki</foaf:primaryTopic><dct:modified>2015-07-30T11:36:33.811919</dct:modified><dct:issued>2014-12-22T07:13:40.406653</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "title": "Key indicators", 
+    "revision_id": "767a8656-ae21-4949-bc73-8804d35273a0", 
+    "identifier": "nasq_ki"
+}

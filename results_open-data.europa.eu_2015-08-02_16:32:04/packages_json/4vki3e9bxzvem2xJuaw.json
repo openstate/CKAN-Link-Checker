@@ -1,0 +1,245 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015-05", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "import", 
+            "name": "import", 
+            "revision_timestamp": "2014-12-22T08:18:02.876441", 
+            "state": "active", 
+            "id": "7b2d07ad-6975-407f-a14a-2347636b5dc7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "import of goods", 
+            "name": "import of goods", 
+            "revision_timestamp": "2014-12-22T08:18:02.876441", 
+            "state": "active", 
+            "id": "68e7d773-966a-490c-adf4-c12067a5dfad"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "raw material", 
+            "name": "raw material", 
+            "revision_timestamp": "2014-12-22T08:18:02.876441", 
+            "state": "active", 
+            "id": "7c8f3cf0-a0af-42f0-a68f-979a61f16cf6"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "3f82e5ee-1184-49d3-9137-539bab9fa192", 
+    "metadata_created": "2015-07-27T14:23:13.683193", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T09:09:04.063564", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/11", 
+            "name": "http://eurovoc.europa.eu/11", 
+            "revision_timestamp": "2015-03-03T19:28:23.026536", 
+            "state": "active", 
+            "id": "ad627f0a-d3aa-4e96-89b3-4ff358688083"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teiet130.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:09:04.153523", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:09:04.062579", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "1baa5639-e03b-4d64-b2ac-88e8e6963d11", 
+            "size": null, 
+            "resource_group_id": "940a7e6f-fc35-4df1-b0e9-c6b2f89ad40f", 
+            "id": "9e5123da-a569-4800-be91-d3a355b1a66a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teiet130.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:09:04.153530", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:09:04.062579", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "1baa5639-e03b-4d64-b2ac-88e8e6963d11", 
+            "size": null, 
+            "resource_group_id": "940a7e6f-fc35-4df1-b0e9-c6b2f89ad40f", 
+            "id": "92b66be7-e35e-404c-8e39-fb51327f6f42", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ei_et_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ei_et_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:09:04.153488", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:09:04.062579", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "1baa5639-e03b-4d64-b2ac-88e8e6963d11", 
+            "size": null, 
+            "resource_group_id": "940a7e6f-fc35-4df1-b0e9-c6b2f89ad40f", 
+            "id": "79b10119-ae25-41ec-80af-54bf33b8fc69", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_et_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:09:04.153507", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:09:04.062579", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "1baa5639-e03b-4d64-b2ac-88e8e6963d11", 
+            "size": null, 
+            "resource_group_id": "940a7e6f-fc35-4df1-b0e9-c6b2f89ad40f", 
+            "id": "8e43fb63-b503-4ecb-bbce-29cfd93bdcac", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teiet130", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:09:04.153516", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:09:04.062579", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "1baa5639-e03b-4d64-b2ac-88e8e6963d11", 
+            "size": null, 
+            "resource_group_id": "940a7e6f-fc35-4df1-b0e9-c6b2f89ad40f", 
+            "id": "af40ef0f-7db8-4817-98fb-8dab0cd3b566", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "International trade statistics cover any movements of goods between the EU Member States and non-member countries (extra-EU trade), and from one Member State to another (intra-EU trade). Goods are physical, produced items over which ownership rights can be established and whose economic ownership can be passed from one institutional unit to another by engaging in transactions. The product breakdowns available in Newcronos/Euro-indicators are based on aggregates derived from the Broad Economic Categories (BEC) classification and the Standard International Trade Classification (SITC).", 
+    "title": "Imports of goods - raw materials", 
+    "temporal_coverage_from": "2014-06", 
+    "tracking_summary": {
+        "total": 9, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100147", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100147", 
+            "image_display_url": "", 
+            "id": "0b3e112c-4a87-450a-8212-dd997bd8ffaf", 
+            "name": "eurovoc_domain_100147"
+        }
+    ], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-27T14:23:13.683193", 
+    "name": "4vki3e9bxzvem2xJuaw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teiet130", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teiet130\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100147\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/11\"/>\n    <dct:title xml:lang=\"en\">Imports of goods - raw materials</dct:title>\n    <dct:title xml:lang=\"fr\">Importations de biens - mati&#232;res premi&#232;res</dct:title>\n    <dct:title xml:lang=\"de\">Warenimporte insgesamt - Rohstoffe</dct:title>\n    <ecodp:keyword xml:lang=\"en\">import of goods</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">import</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">raw material</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">importation de biens</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">importation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">mati&#232;re premi&#232;re</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Einfuhr</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Rohstoff</ecodp:keyword>\n    <dct:identifier>teiet130</dct:identifier>\n    <dct:description xml:lang=\"en\">International trade statistics cover any movements of goods between the EU Member States and non-member countries (extra-EU trade), and from one Member State to another (intra-EU trade). Goods are physical, produced items over which ownership rights can be established and whose economic ownership can be passed from one institutional unit to another by engaging in transactions. The product breakdowns available in Newcronos/Euro-indicators are based on aggregates derived from the Broad Economic Categories (BEC) classification and the Standard International Trade Classification (SITC).</dct:description>\n    <dct:description xml:lang=\"fr\">Les statistiques du commerce international couvrent l'ensemble des mouvements de marchandises entre les &#201;tats membres de l&#8217;UE et les pays tiers (commerce extra-UE) ainsi qu'entre &#201;tats membres (commerce intra-UE). Par marchandises, on entend les biens physiques qui ont &#233;t&#233; produits, dont les droits de propri&#233;t&#233; peuvent &#234;tre &#233;tablis et dont la propri&#233;t&#233; &#233;conomique peut passer d'une unit&#233; institutionnelle &#224; l&#8217;autre par le biais de transactions. Les ventilations de produits disponibles dans Newcronos/Euro-indicateurs reposent sur des agr&#233;gats tir&#233;s de la classification par grandes cat&#233;gories &#233;conomiques (GCE) et de la classification type pour le commerce international (CTCI).</dct:description>\n    <dct:description xml:lang=\"de\">Mit der Au&#223;enhandelsstatistik werden Warenbewegungen zwischen den Mitgliedstaaten der EU und Nichtmitgliedstaaten (Extra-EU-Handel) sowie zwischen einem Mitgliedstaat und einem anderen (Intra-EU-Handel) erfasst. Waren sind materielle, hergestellte Artikel, an denen Eigentumsrechte begr&#252;ndet werden k&#246;nnen; das wirtschaftliche Eigentum an ihnen kann durch Transaktionen von einer institutionellen Einheit auf eine andere &#252;bertragen werden. Die Aufgliederungen nach Produkten in NewCronos/Euroindikatoren beruhen auf Aggregaten, die von den gro&#223;en Wirtschaftskategorien (BEC) und dem Internationalen Warenverzeichnis f&#252;r den Au&#223;enhandel (SITC) abgeleitet werden.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ei_et_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_et_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teiet130</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teiet130.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teiet130.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2014-06</ecodp:periodStart>\n        <ecodp:periodEnd>2015-05</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/4vki3e9bxzvem2xJuaw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teiet130</foaf:primaryTopic><dct:modified>2015-07-30T10:31:01.417691</dct:modified><dct:issued>2015-07-18T02:42:57.602566</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "31599e57-f99d-48c9-ae2d-338e882ceb4a", 
+    "identifier": "teiet130"
+}

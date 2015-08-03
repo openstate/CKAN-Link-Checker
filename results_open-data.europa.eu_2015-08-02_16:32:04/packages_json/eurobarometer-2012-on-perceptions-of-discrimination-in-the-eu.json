@@ -1,0 +1,283 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2012-11-22", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 27, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU27"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "age", 
+            "name": "age", 
+            "revision_timestamp": "2013-07-09T09:45:59.072668", 
+            "state": "active", 
+            "id": "51c8dae9-0d3c-4f69-9203-4032027c4205"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "awareness-raising", 
+            "name": "awareness-raising", 
+            "revision_timestamp": "2013-07-11T07:41:30.824753", 
+            "state": "active", 
+            "id": "16f60470-dc85-4001-88f3-5e1a7b32fd30"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "disability", 
+            "name": "disability", 
+            "revision_timestamp": "2013-07-09T09:45:59.072668", 
+            "state": "active", 
+            "id": "ebb66c1d-4575-4c4d-9f90-04a12bbad7b4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "discrimination", 
+            "name": "discrimination", 
+            "revision_timestamp": "2013-07-09T09:45:59.072668", 
+            "state": "active", 
+            "id": "af2f3531-73e3-471a-8022-d35c11e804c6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "equal opportunities", 
+            "name": "equal opportunities", 
+            "revision_timestamp": "2013-07-11T07:41:30.824753", 
+            "state": "active", 
+            "id": "e0390369-0cb8-4daa-a84f-918ec13fae17"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "eurobarometer", 
+            "name": "eurobarometer", 
+            "revision_timestamp": "2013-07-09T09:45:59.072668", 
+            "state": "active", 
+            "id": "6a8fc240-2d71-4a84-b43a-4e7e87eb40f1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gender", 
+            "name": "gender", 
+            "revision_timestamp": "2013-07-09T09:45:59.072668", 
+            "state": "active", 
+            "id": "714be2f1-7258-493a-9d0d-84cf360756e0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "justice", 
+            "name": "justice", 
+            "revision_timestamp": "2013-07-09T09:45:59.072668", 
+            "state": "active", 
+            "id": "b2bdd73f-173d-4c06-8030-cc595b40a572"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "non-discrimination legislation", 
+            "name": "non-discrimination legislation", 
+            "revision_timestamp": "2013-07-11T07:41:30.824753", 
+            "state": "active", 
+            "id": "65d9509a-e1d0-4772-9126-b384789b3344"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "race or ethnic origine", 
+            "name": "race or ethnic origine", 
+            "revision_timestamp": "2013-07-09T09:45:59.072668", 
+            "state": "active", 
+            "id": "179af74f-ee5a-48c9-b02d-e0934bfa31f3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "religion or belief", 
+            "name": "religion or belief", 
+            "revision_timestamp": "2013-07-09T09:45:59.072668", 
+            "state": "active", 
+            "id": "0a4883e7-d505-491d-a966-9596f1911f50"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "roma", 
+            "name": "roma", 
+            "revision_timestamp": "2013-07-09T09:45:59.072668", 
+            "state": "active", 
+            "id": "f721886d-13a4-40fb-b918-e283be0c7295"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "sexual orientation", 
+            "name": "sexual orientation", 
+            "revision_timestamp": "2013-07-09T09:45:59.072668", 
+            "state": "active", 
+            "id": "58f75b76-8dff-4b47-a3ed-592cb7d27ead"
+        }
+    ], 
+    "contact_name": "DG Justice, antidiscrimination unit", 
+    "id": "26e855ac-96a7-48a7-b41c-637e35d147b0", 
+    "metadata_created": "2015-07-27T14:04:23.273731", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:04:23.274751", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/454", 
+            "name": "http://eurovoc.europa.eu/454", 
+            "revision_timestamp": "2015-03-04T15:47:47.263496", 
+            "state": "active", 
+            "id": "008c954a-65c9-453b-9c75-7dca9c12d4ec"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/459", 
+            "name": "http://eurovoc.europa.eu/459", 
+            "revision_timestamp": "2015-03-04T15:47:47.263496", 
+            "state": "active", 
+            "id": "505177e0-5567-4b15-b295-fe39d9fa6fe8"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3910", 
+            "name": "http://eurovoc.europa.eu/3910", 
+            "revision_timestamp": "2015-03-04T15:47:47.263496", 
+            "state": "active", 
+            "id": "f8a9ca26-f28c-423d-9330-093d33639863"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6230", 
+            "name": "http://eurovoc.europa.eu/6230", 
+            "revision_timestamp": "2015-03-04T15:47:47.263496", 
+            "state": "active", 
+            "id": "2114f957-6af4-46ce-9a4b-c5948e1e443d"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/458", 
+            "name": "http://eurovoc.europa.eu/458", 
+            "revision_timestamp": "2015-03-04T15:47:47.263496", 
+            "state": "active", 
+            "id": "23cb8f52-b15b-4ac7-a875-a15fca7ab5e2"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5592", 
+            "name": "http://eurovoc.europa.eu/5592", 
+            "revision_timestamp": "2015-03-04T15:47:47.263496", 
+            "state": "active", 
+            "id": "f22ddf74-b332-47de-893f-9f066a467e68"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6231", 
+            "name": "http://eurovoc.europa.eu/6231", 
+            "revision_timestamp": "2015-03-04T15:47:47.263496", 
+            "state": "active", 
+            "id": "ae93aac8-f837-4e49-8fda-885f50270e36"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6254", 
+            "name": "http://eurovoc.europa.eu/6254", 
+            "revision_timestamp": "2015-03-04T15:47:47.263496", 
+            "state": "active", 
+            "id": "71512e4a-a3ac-4deb-a7d4-eb5d54308235"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "f30705fe-2b94-454e-9c59-f11724a2fda3", 
+            "revision_timestamp": "2015-03-04T15:36:08.402309", 
+            "datastore_active": false, 
+            "id": "e6a20e20-3ff9-4f5d-af48-1cb5d7541a88", 
+            "size": "21074", 
+            "state": "active", 
+            "hash": "", 
+            "description": "The survey looks into attitudes and perceptions of Europeans towards discrimination, based on different grounds (gender, ethnic origin, religion or beliefs, age, disability, sexual orientation and gender identity). It also includes several questions on the impact of the crisis on the implementation of anti-discrimination policies and efforts. New questions have been added to cover important or emerging topics, such as the situation of the Roma in Europe, discrimination outside the workplace or the links between discrimination and accessibility. Perceptions on discrimination against transsexual and transgender persons are also explored for the first time.", 
+            "format": "application/pdf", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2013-03-29T09:11:17", 
+            "url_type": null, 
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "name": "Special Eurobarometer 393 - Discrimination in the EU in 2012", 
+            "created": "2013-07-09T11:53:04.834941", 
+            "url": "http://ec.europa.eu/justice/discrimination/files/eurobarometer393summary_en.pdf", 
+            "webstore_url": "enabled", 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "039eef25-6f7b-42f1-a3f8-87b804fff025", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "The survey looks into attitudes and perceptions of Europeans towards discrimination, based on different grounds (gender, ethnic origin, religion or beliefs, age, disability, sexual orientation and gender identity). It also includes several questions on the impact of the crisis on the implementation of anti-discrimination policies and efforts. New questions have been added to cover important or emerging topics, such as the situation of the Roma in Europe, discrimination outside the workplace or the links between discrimination and accessibility. Perceptions on discrimination against transsexual and transgender persons are also explored for the first time.", 
+    "title": "Eurobarometer 2012 on perceptions of discrimination in the EU", 
+    "temporal_coverage_from": "2011-11-22", 
+    "tracking_summary": {
+        "total": 417, 
+        "recent": 7
+    }, 
+    "contact_email": "JUST-D4-UNITE@ec.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100145", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100145", 
+            "image_display_url": "", 
+            "id": "b4c18652-77ac-48e0-a2c3-b431695009b8", 
+            "name": "eurovoc_domain_100145"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T14:04:23.273731", 
+    "name": "eurobarometer-2012-on-perceptions-of-discrimination-in-the-eu", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/DEU", 
+        "http://publications.europa.eu/resource/authority/language/ENG", 
+        "http://publications.europa.eu/resource/authority/language/FRA"
+    ], 
+    "alternative_title": "Special Eurobarometer 393 - Discrimination in the EU in 2012", 
+    "accrual_periodicity": "", 
+    "release_date": "2012-11-22", 
+    "owner_org": "0e80965c-f618-4708-91bd-55e2231a3c3d", 
+    "contact_address": "", 
+    "contact_telephone": "+3222951036", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/antidiscrimination", 
+    "url": "http://ec.europa.eu/justice/newsroom/discrimination/news/121122_en.htm", 
+    "organization": null, 
+    "revision_id": "4bd7e408-3d00-4d27-a308-7985c791237e", 
+    "identifier": "", 
+    "version_description": ""
+}

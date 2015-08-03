@@ -1,0 +1,89 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "AIFMD", 
+            "name": "AIFMD", 
+            "revision_timestamp": "2014-02-26T11:00:29.527422", 
+            "state": "active", 
+            "id": "b7f3d7ac-4d5c-4520-ab4f-e2e7426dc452"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "MoU", 
+            "name": "MoU", 
+            "revision_timestamp": "2014-02-26T10:59:59.224853", 
+            "state": "active", 
+            "id": "22e0ef57-eb5d-4321-b9f6-d9dd814af433"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "f2b682ba-2bb0-49be-af47-0dda13b296e9", 
+    "metadata_created": "2015-07-27T17:39:14.735414", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:39:14.736465", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 0, 
+    "description": "A table showing the state of play of Memoranda of Understanding (MoUs) signed by EU national supervisors. ESMA had negotiated the template MoUs regarding the Alternative Investment Fund Directive (AIFMD) with non-EU regulators around the globe. The AIFMD MoUs allow the exchange of information between EU and non-EU supervisors thus enabling non-EU fund managers to market alternative funds within the European Union. The AIFMD covers hedge funds, private equity and real estate funds", 
+    "title": "AIFMD MoUs signed by the EU authorities", 
+    "tracking_summary": {
+        "total": 285, 
+        "recent": 4
+    }, 
+    "contact_email": "", 
+    "groups": [], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T17:39:14.735414", 
+    "name": "aifmd-mous-signed-by-the-eu-authorities", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://www.esma.europa.eu/system/files/2013-1491_aifmd_mous_2013_m10_d17.pdf", 
+    "organization": {
+        "description": "", 
+        "title": "European Securities and Markets Authority", 
+        "created": "2012-12-12T13:50:52.497925", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.471964", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "0d60eb1d-b406-43d3-94ad-26f3bea3f39b", 
+        "type": "organization", 
+        "id": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+        "name": "esma"
+    }, 
+    "revision_id": "8b5c72ef-5f15-4157-86b9-3928f75c71ec", 
+    "identifier": "", 
+    "version_description": ""
+}

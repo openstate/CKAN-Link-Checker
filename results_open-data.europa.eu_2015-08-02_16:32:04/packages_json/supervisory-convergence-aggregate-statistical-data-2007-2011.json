@@ -1,0 +1,364 @@
+{
+    "temporal_granularity": [
+        "year"
+    ], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 22, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU27"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Credit", 
+            "name": "Credit", 
+            "revision_timestamp": "2013-07-18T10:10:20.447157", 
+            "state": "active", 
+            "id": "52d26b9f-8e1e-4903-98af-9ec5ecf7429b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Credit and financial institutions", 
+            "name": "Credit and financial institutions", 
+            "revision_timestamp": "2013-07-18T10:10:20.447157", 
+            "state": "active", 
+            "id": "9ba9fba8-87d3-433f-9b5b-aa4a16a8033a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European banking", 
+            "name": "European banking", 
+            "revision_timestamp": "2013-07-18T10:10:20.447157", 
+            "state": "active", 
+            "id": "12002d35-bdb5-41b3-8dd9-f2a171e7e55f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Financial market", 
+            "name": "Financial market", 
+            "revision_timestamp": "2013-07-18T10:10:20.447157", 
+            "state": "active", 
+            "id": "f45e21ed-a509-4b65-9d42-1eded6fbfe73"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Market risk", 
+            "name": "Market risk", 
+            "revision_timestamp": "2013-07-18T10:10:20.447157", 
+            "state": "active", 
+            "id": "61a0c047-2026-4e0d-9498-9c3a084db37f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Market supervision", 
+            "name": "Market supervision", 
+            "revision_timestamp": "2013-07-18T10:10:20.447157", 
+            "state": "active", 
+            "id": "1b918286-904e-4404-aded-636a29399bcc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Monetary and financial indicators", 
+            "name": "Monetary and financial indicators", 
+            "revision_timestamp": "2013-07-18T10:10:20.447157", 
+            "state": "active", 
+            "id": "1bbd296d-aa2a-4ec6-9b47-d940fc9740c9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Regulation and policy", 
+            "name": "Regulation and policy", 
+            "revision_timestamp": "2013-07-18T10:10:20.447157", 
+            "state": "active", 
+            "id": "cc14d192-188f-4a7f-9f01-04166bf961ce"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Risk analysis", 
+            "name": "Risk analysis", 
+            "revision_timestamp": "2013-07-18T10:10:20.447157", 
+            "state": "active", 
+            "id": "0227a47d-cc41-44ca-988a-5f4cb3db8c03"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Supervisory convergence", 
+            "name": "Supervisory convergence", 
+            "revision_timestamp": "2013-07-18T10:10:20.447157", 
+            "state": "active", 
+            "id": "9cba6a6e-9471-4ab9-819b-45fb95fe0a8c"
+        }
+    ], 
+    "contact_name": "EBA - European Banking Authority", 
+    "id": "4316a298-5ab7-43ed-b5de-c630de396b4c", 
+    "metadata_created": "2015-07-27T14:25:55.621581", 
+    "modified_date": "2011", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:25:55.622684", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2149", 
+            "name": "http://eurovoc.europa.eu/2149", 
+            "revision_timestamp": "2015-03-04T14:13:42.876932", 
+            "state": "active", 
+            "id": "e829297b-6b7c-4b20-afbc-ebc1f63d1e45"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3099", 
+            "name": "http://eurovoc.europa.eu/3099", 
+            "revision_timestamp": "2015-03-04T14:13:42.876932", 
+            "state": "active", 
+            "id": "8b5d36c6-d03f-459e-96c7-d9b5c500d710"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/285", 
+            "name": "http://eurovoc.europa.eu/285", 
+            "revision_timestamp": "2015-03-04T14:13:42.876932", 
+            "state": "active", 
+            "id": "50e49d57-85b4-4a4b-a986-3edf31f55796"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1786", 
+            "name": "http://eurovoc.europa.eu/1786", 
+            "revision_timestamp": "2015-03-04T14:13:42.876932", 
+            "state": "active", 
+            "id": "95049222-b902-475b-93a5-ab85542a9298"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1804", 
+            "name": "http://eurovoc.europa.eu/1804", 
+            "revision_timestamp": "2015-03-04T14:13:42.876932", 
+            "state": "active", 
+            "id": "6a93dbab-785a-4293-a785-9869c0aea6c9"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1795", 
+            "name": "http://eurovoc.europa.eu/1795", 
+            "revision_timestamp": "2015-03-04T14:13:42.876932", 
+            "state": "active", 
+            "id": "8d3d8c8a-9b4f-4c01-855a-a04502557378"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2447", 
+            "name": "http://eurovoc.europa.eu/2447", 
+            "revision_timestamp": "2015-03-04T14:13:42.876932", 
+            "state": "active", 
+            "id": "0104d5f2-3e6b-4d63-9801-747c19776ad1"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "b9e5ff36-0cde-4549-ab41-978d87f1127b", 
+            "revision_timestamp": "2013-12-17T15:54:43.123128", 
+            "datastore_active": false, 
+            "id": "405d7565-1a84-41b1-b75b-3ce498de3ff8", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "Aggregate statistical data on key aspects of the implementation of prudential framework in each Member State. The disclosure provided includes national statistical data on the banking sector, credit risk, operational risk, market risk, and supervisory actions and measures", 
+            "format": "application/vnd.ms-excel", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "mimetype": "", 
+            "cache_url": null, 
+            "name": "Data on national banking sectors - 2007 - XLS", 
+            "created": "2013-07-18T11:55:09.570043", 
+            "url": "http://www.eba.europa.eu/documents/10180/15917/national_data_2007.xls/17d17f8b-bce2-4bcd-90d8-6ed3c03eefac", 
+            "url_error": "URL unobtainable", 
+            "webstore_url": "enabled", 
+            "position": 0, 
+            "revision_id": "0647581a-79be-4788-b9f5-c5f18db8d6d3", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "b9e5ff36-0cde-4549-ab41-978d87f1127b", 
+            "revision_timestamp": "2013-12-17T15:54:43.123128", 
+            "datastore_active": false, 
+            "id": "1f44cfc0-4afe-42ce-9db8-b2ee2307c8ea", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "Aggregate statistical data on key aspects of the implementation of prudential framework in each Member State. The disclosure provided includes national statistical data on the banking sector, credit risk, operational risk, market risk, and supervisory actions and measures.", 
+            "format": "application/vnd.ms-excel", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "mimetype": "", 
+            "cache_url": null, 
+            "name": "Data on national banking sectors - 2008 - XLS", 
+            "created": "2013-07-18T11:57:04.937220", 
+            "url": "http://www.eba.europa.eu/documents/10180/0/national-banking-data-2008.xls/927e205d-40da-408c-89fe-e3794e215d82", 
+            "url_error": "URL unobtainable", 
+            "webstore_url": "enabled", 
+            "position": 1, 
+            "revision_id": "0647581a-79be-4788-b9f5-c5f18db8d6d3", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "b9e5ff36-0cde-4549-ab41-978d87f1127b", 
+            "revision_timestamp": "2013-12-17T15:54:43.123128", 
+            "datastore_active": false, 
+            "id": "48c18b0d-3426-4899-9ecb-f29fb6b2a5df", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "Aaggregate statistical data on key aspects of the implementation of prudential framework in each Member State. The disclosure provided includes national statistical data on the banking sector, credit risk, operational risk, market risk, and supervisory actions and measures.", 
+            "format": "application/vnd.ms-excel", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "mimetype": "", 
+            "cache_url": null, 
+            "name": "Data on national banking sectors - 2009 - XLS", 
+            "created": "2013-07-18T11:58:40.452413", 
+            "url": "http://www.eba.europa.eu/documents/10180/0/national_banking_data-2009.xls/8dab0663-c491-44f2-9510-de5ce4c51ec2", 
+            "url_error": "URL unobtainable", 
+            "webstore_url": "enabled", 
+            "position": 2, 
+            "revision_id": "0647581a-79be-4788-b9f5-c5f18db8d6d3", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "b9e5ff36-0cde-4549-ab41-978d87f1127b", 
+            "revision_timestamp": "2013-12-17T15:54:43.123128", 
+            "datastore_active": false, 
+            "id": "49d00ec9-512d-420e-a7c2-e6f3638105a6", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "Aaggregate statistical data on key aspects of the implementation of prudential framework in each Member State. The disclosure provided includes national statistical data on the banking sector, credit risk, operational risk, market risk, and supervisory actions and measures.", 
+            "format": "application/vnd.ms-excel", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "mimetype": "", 
+            "cache_url": null, 
+            "name": "Data on national banking sectors - 2010 - XLS", 
+            "created": "2013-07-18T12:00:00.707101", 
+            "url": "http://www.eba.europa.eu/documents/10180/0/national_banking_data-2010.xls/7877836c-b3c6-498d-802e-fd3642487fd2", 
+            "url_error": "URL unobtainable", 
+            "webstore_url": "enabled", 
+            "position": 3, 
+            "revision_id": "0647581a-79be-4788-b9f5-c5f18db8d6d3", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "b9e5ff36-0cde-4549-ab41-978d87f1127b", 
+            "revision_timestamp": "2013-12-17T15:54:43.123128", 
+            "datastore_active": false, 
+            "id": "af95178e-f2b3-494e-921d-783e5e9102f5", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "Aggregate statistical data on key aspects of the implementation of prudential framework in each Member State. The disclosure provided includes national statistical data on the banking sector, credit risk, operational risk, market risk, and supervisory actions and measures.", 
+            "format": "application/vnd.ms-excel", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "mimetype": "", 
+            "cache_url": null, 
+            "name": "Data on national banking sectors - 2011 - XLS", 
+            "created": "2013-07-18T12:01:24.235237", 
+            "url": "http://www.eba.europa.eu/documents/10180/0/national_banking-data-2011.xls/41d7792a-9529-4cdd-b09c-7cebc49a9af7", 
+            "url_error": "URL unobtainable", 
+            "webstore_url": "enabled", 
+            "position": 4, 
+            "revision_id": "0647581a-79be-4788-b9f5-c5f18db8d6d3", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Supervisory disclosure provides information regarding the laws, regulations, administrative rules and general guidance adopted by the Member States in the field of prudential regulation and supervision. \r\nThe aggregate statistical datasets inform on key aspects of the implementation of the prudential framework in each Member State.\r\n\r\nThe supervisory practice disclosed here include the way in which each Member State exercises the options and national discretions available in EU banking legislation and the general criteria and methodologies used by national authorities in the Supervisory Review and Evaluation Process (SREP).\r\n", 
+    "title": "Supervisory convergence - Aggregate statistical data 2007 - 2011", 
+    "temporal_coverage_from": "2007", 
+    "tracking_summary": {
+        "total": 251, 
+        "recent": 0
+    }, 
+    "contact_email": "info@eba.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T14:25:55.621581", 
+    "name": "supervisory-convergence-aggregate-statistical-data-2007-2011", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "EBA - Supervisory convergence - Aggregate statistical data", 
+    "accrual_periodicity": "Yearly", 
+    "release_date": "2007", 
+    "owner_org": "cf3914bb-892c-47ea-b804-70a7b25139e0", 
+    "contact_address": "EBA Tower 42 (level 18) 25 Old Broad Street London EC2N 1HQ|UK", 
+    "contact_telephone": "+44 (0)207 382 1770", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://www.eba.europa.eu/contacts", 
+    "url": "http://www.eba.europa.eu/supervisory-convergence/supervisory-disclosure/aggregate-statistical-data", 
+    "organization": {
+        "description": "", 
+        "title": "European Banking Authority", 
+        "created": "2012-12-12T13:50:47.925177", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:47.900198", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "13acb372-b070-49ff-bf7b-6993fae5935b", 
+        "type": "organization", 
+        "id": "cf3914bb-892c-47ea-b804-70a7b25139e0", 
+        "name": "eba"
+    }, 
+    "revision_id": "9901f913-5e75-46e5-8e18-48e964bb9cc5", 
+    "identifier": "", 
+    "version_description": ""
+}

@@ -1,0 +1,243 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "671feef5-fece-4f57-87e6-77e48e7fb57d", 
+    "metadata_created": "2014-12-22T10:05:07.387161", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T08:32:06.692100", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3659", 
+            "name": "http://eurovoc.europa.eu/3659", 
+            "revision_timestamp": "2015-03-03T16:46:32.694170", 
+            "state": "active", 
+            "id": "594c40af-ba49-4b83-b3df-c57038596f66"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/83", 
+            "name": "http://eurovoc.europa.eu/83", 
+            "revision_timestamp": "2015-03-03T16:46:32.694170", 
+            "state": "active", 
+            "id": "854914bb-6c6b-43b3-8947-3359b3212b78"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1469", 
+            "name": "http://eurovoc.europa.eu/1469", 
+            "revision_timestamp": "2015-03-03T16:46:32.694170", 
+            "state": "active", 
+            "id": "98a6a5ca-9d52-43fa-a102-0d8561bdd067"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4050", 
+            "name": "http://eurovoc.europa.eu/4050", 
+            "revision_timestamp": "2015-03-03T16:46:32.694170", 
+            "state": "active", 
+            "id": "1978694c-2b0b-4111-af02-57cf5e045e44"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsdsc100.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:32:06.758134", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:32:06.691056", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "a2d7b11d-1485-41fe-aa51-ed72ac553a93", 
+            "size": null, 
+            "resource_group_id": "543d6457-d075-41c4-95b6-e3003ae2fdee", 
+            "id": "83ac401f-ba0c-4794-8587-74b5b2ecf9da", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsdsc100.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:32:06.758141", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:32:06.691056", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "a2d7b11d-1485-41fe-aa51-ed72ac553a93", 
+            "size": null, 
+            "resource_group_id": "543d6457-d075-41c4-95b6-e3003ae2fdee", 
+            "id": "62bf574b-5e15-4126-8127-55019b2e8cb5", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "t2020_50_esmsip.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/t2020_50_esmsip.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:32:06.758085", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:32:06.691056", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "a2d7b11d-1485-41fe-aa51-ed72ac553a93", 
+            "size": null, 
+            "resource_group_id": "543d6457-d075-41c4-95b6-e3003ae2fdee", 
+            "id": "3d0a0ca5-3ad5-48bf-94c8-2492ea1e235c", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/t2020_50_esmsip.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:32:06.758118", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:32:06.691056", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "a2d7b11d-1485-41fe-aa51-ed72ac553a93", 
+            "size": null, 
+            "resource_group_id": "543d6457-d075-41c4-95b6-e3003ae2fdee", 
+            "id": "28a5f272-cc19-4540-9fcf-78dcde2d7e1d", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tsdsc100", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:32:06.758126", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:32:06.691056", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "a2d7b11d-1485-41fe-aa51-ed72ac553a93", 
+            "size": null, 
+            "resource_group_id": "543d6457-d075-41c4-95b6-e3003ae2fdee", 
+            "id": "f24581a0-370f-42f6-924e-94dd67170cf3", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The Europe 2020 strategy promotes social inclusion, in particular through the reduction of poverty, by aiming to lift at least 20 million people out of the risk of poverty and social exclusion. This indicator corresponds to the sum of persons who are: at risk of poverty or severely materially deprived or living in households with very low work intensity. Persons are only counted once even if they are present in several sub-indicators. At risk-of-poverty are persons with an equivalised disposable income below the risk-of-poverty threshold, which is set at 60 % of the national median equivalised disposable income (after social transfers). Material deprivation covers indicators relating to economic strain and durables. Severely materially deprived persons have living conditions severely constrained by a lack of resources, they experience at least 4 out of 9 following deprivations items: cannot afford i) to pay rent or utility bills, ii) keep home adequately warm, iii) face unexpected expenses, iv) eat meat, fish or a protein equivalent every second day, v) a week holiday away from home, vi) a car, vii) a washing machine, viii) a colour TV, or ix) a telephone. People living in households with very low work intensity are those aged 0-59 living in households where the adults (aged 18-59) work less than 20% of their total work potential during the past year.", 
+    "title": "People at risk of poverty or social exclusion", 
+    "temporal_coverage_from": "2004", 
+    "tracking_summary": {
+        "total": 11, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T10:05:07.387161", 
+    "name": "ENlV5RgKrD8WKgaIRgpsw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tsdsc100", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tsdsc100\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100149\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1469\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4050\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/3659\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/83\"/>\n    <dct:title xml:lang=\"en\">People at risk of poverty or social exclusion</dct:title>\n    <dct:title xml:lang=\"fr\">Personnes en risque de pauvret&#233; ou d'exclusion sociale</dct:title>\n    <dct:title xml:lang=\"de\">Von Armut oder sozialer Ausgrenzung bedrohte Personen</dct:title>\n    <dct:identifier>tsdsc100</dct:identifier>\n    <dct:description xml:lang=\"en\">The Europe 2020 strategy promotes social inclusion, in particular through the reduction of poverty, by aiming to lift at least 20 million people out of the risk of poverty and social exclusion. This indicator corresponds to the sum of persons who are: at risk of poverty or severely materially deprived or living in households with very low work intensity. Persons are only counted once even if they are present in several sub-indicators. At risk-of-poverty are persons with an equivalised disposable income below the risk-of-poverty threshold, which is set at 60 % of the national median equivalised disposable income (after social transfers). Material deprivation covers indicators relating to economic strain and durables. Severely materially deprived persons have living conditions severely constrained by a lack of resources, they experience at least 4 out of 9 following deprivations items: cannot afford i) to pay rent or utility bills, ii) keep home adequately warm, iii) face unexpected expenses, iv) eat meat, fish or a protein equivalent every second day, v) a week holiday away from home, vi) a car, vii) a washing machine, viii) a colour TV, or ix) a telephone. People living in households with very low work intensity are those aged 0-59 living in households where the adults (aged 18-59) work less than 20% of their total work potential during the past year.</dct:description>\n    <dct:description xml:lang=\"fr\">La strat&#233;gie Europe 2020 promeut l&#8217;inclusion sociale, en particulier par la r&#233;duction de la pauvret&#233;, en cherchant &#224; ce que 20 millions de personnes au moins cessent d&#8217;&#234;tre confront&#233;es au risque de pauvret&#233; et d&#8217;exclusion. Cet indicateur r&#233;sume le nombre de personnes qui sont menac&#233;es par la pauvret&#233; et/ou vivent dans le d&#233;nuement mat&#233;riel et/ou vivent dans des m&#233;nages &#224; tr&#232;s faible intensit&#233; de travail. Les interactions entre les indicateurs sont exclues. Les personnes qui sont menac&#233;es par la pauvret&#233; sont les personnes dont le revenu disponible &#233;quivalent se situe en dessous du seuil de pauvret&#233; fix&#233; &#224; 60 % du revenu disponible &#233;quivalent m&#233;dian national (apr&#232;s transferts sociaux). La collection &#171;privation mat&#233;rielle&#187; couvre des indicateurs relatifs aux difficult&#233;s &#233;conomiques, aux biens durables, au logement et &#224; l&#8217;environnement de l&#8217;habitation. Les personnes en situation de privation mat&#233;rielle grave ont des conditions de vie fortement affect&#233;es par le manque de ressources; quatre des neuf indicateurs de privation s&#8217;appliquent &#224; elles: impossibilit&#233; i) de r&#233;gler le loyer ou les factures pour les services d&#8217;utilit&#233; publique, ii) de chauffer convenablement le domicile, iii) de faire face &#224; des d&#233;penses impr&#233;vues, iv) de consommer de la viande, du poisson ou un &#233;quivalent prot&#233;in&#233; tous les deux jours, v) de partir en vacances hors du domicile une semaine par an, vi) d&#8217;acheter une voiture, vii) d&#8217;acheter une machine &#224; laver le linge, viii) d&#8217;acheter une t&#233;l&#233;vision couleur ou ix) de payer une connexion t&#233;l&#233;phonique. Les personnes vivant dans des m&#233;nages &#224; tr&#232;s faible intensit&#233; de travail sont les personnes &#226;g&#233;es de 0 &#224; 59 ans vivant dans des m&#233;nages dans lesquels les adultes ont travaill&#233; moins de 20 % de leur potentiel de travail total au cours de l&#8217;ann&#233;e &#233;coul&#233;e.</dct:description>\n    <dct:description xml:lang=\"de\">Mit der Strategie 'Europa 2020' sollen die soziale Eingliederung gef&#246;rdert und, insbesondere durch Armutsbek&#228;mpfung, mindestens 20 Mio. Menschen vom Armuts- und Ausgrenzungsrisiko befreit werden. Dieser Indikator entspricht der Summe der Personen, die armutsgef&#228;hrdet sind oder unter materieller Deprivation leiden oder in Haushalten mit sehr niedriger Erwerbst&#228;tigkeit leben. Alle Personen werden nur einmal gez&#228;hlt, auch wenn sie in mehreren Sub-Indikatoren vertreten sind. Als von Armut bedroht gelten Personen mit einem verf&#252;gbaren &#196;quivalenzeinkommen unterhalb der Armutsgef&#228;hrdungsschwelle, die bei 60 % des nationalen verf&#252;gbaren medianen &#196;quivalenzeinkommens (nach Sozialtransfers) liegt. Unter &#8222;materieller Deprivation&#8220; werden Indikatoren zu wirtschaftlicher Belastung und Gebrauchsg&#252;tern zusammengefasst. Bei Personen, die unter erheblicher materieller Deprivation leiden, sind die Lebensbedingungen aufgrund fehlender Mittel stark eingeschr&#228;nkt, und sie sind nicht in der Lage, f&#252;r mindestens sechs der folgenden neun Ausgaben aufzukommen: i) Miete und Versorgungsleistungen, ii) angemessene Beheizung der Wohnung, iii) unerwartete Ausgaben, iv) jeden zweiten Tag eine Mahlzeit mit Fleisch, Fisch oder gleichwertiger Proteinzufuhr, v) einen einw&#246;chigen Urlaub an einem anderen Ort, vi) ein Auto, vii) eine Waschmaschine, viii) einen Farbfernseher oder ix) ein Telefon. Als in Haushalten mit niedriger Erwerbst&#228;tigkeit lebend gelten Personen im Alter von 0-59 Jahren, die in Haushalten leben, in denen die Erwachsenen (18-59 Jahre) im vorhergehenden Jahr insgesamt weniger als 20 % gearbeitet haben.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/t2020_50_esmsip.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/t2020_50_esmsip.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tsdsc100</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsdsc100.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsdsc100.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2004</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/ENlV5RgKrD8WKgaIRgpsw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tsdsc100</foaf:primaryTopic><dct:modified>2015-07-30T12:09:46.077951</dct:modified><dct:issued>2014-12-22T10:05:07.387161</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "a7b37393-0533-4508-9f78-0ab8104f284c", 
+    "identifier": "tsdsc100"
+}

@@ -1,0 +1,223 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014-04", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 15, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU28"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "CRPD", 
+            "name": "CRPD", 
+            "revision_timestamp": "2014-09-03T10:44:52.851601", 
+            "state": "active", 
+            "id": "8e5db282-e514-42c8-99aa-4beb4a0d2ac3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "accessibility", 
+            "name": "accessibility", 
+            "revision_timestamp": "2014-09-03T10:44:52.851601", 
+            "state": "active", 
+            "id": "316cdc1c-81db-4ba7-9968-027367588a82"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "disability", 
+            "name": "disability", 
+            "revision_timestamp": "2014-09-01T11:44:00.571093", 
+            "state": "active", 
+            "id": "ebb66c1d-4575-4c4d-9f90-04a12bbad7b4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "disabled person", 
+            "name": "disabled person", 
+            "revision_timestamp": "2014-09-01T11:44:45.590845", 
+            "state": "active", 
+            "id": "73a5c6b8-2402-4bec-b1e9-f6c0a5274fcc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "elections", 
+            "name": "elections", 
+            "revision_timestamp": "2014-09-01T11:44:00.571093", 
+            "state": "active", 
+            "id": "2d450660-ef7e-4270-a927-28fd617ad9d4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "human rights", 
+            "name": "human rights", 
+            "revision_timestamp": "2014-09-01T14:24:30.314101", 
+            "state": "active", 
+            "id": "f5bb33b4-3744-4edb-8784-65aef9099d5c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "human rights indicators", 
+            "name": "human rights indicators", 
+            "revision_timestamp": "2014-09-01T11:44:00.571093", 
+            "state": "active", 
+            "id": "0546eb08-345d-4cbe-a168-87a795a17d7e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "legal capacity", 
+            "name": "legal capacity", 
+            "revision_timestamp": "2014-09-03T10:44:52.851601", 
+            "state": "active", 
+            "id": "67714d17-d454-40e6-ab4a-89030fd0d66f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "political group", 
+            "name": "political group", 
+            "revision_timestamp": "2014-09-01T14:24:30.314101", 
+            "state": "active", 
+            "id": "c090fa49-792f-42d1-8d6b-3cb48ba642f3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "political involvement", 
+            "name": "political involvement", 
+            "revision_timestamp": "2014-09-01T14:24:30.314101", 
+            "state": "active", 
+            "id": "49be4ea7-3095-479b-b4a9-a7d5aab6db3e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "right to vote", 
+            "name": "right to vote", 
+            "revision_timestamp": "2014-09-03T10:44:52.851601", 
+            "state": "active", 
+            "id": "a00174de-d6f6-4508-94c6-118732460e99"
+        }
+    ], 
+    "contact_name": "FRA - Disability team", 
+    "id": "eafc125a-cbb0-45d3-98a6-ba52a81d0dd6", 
+    "metadata_created": "2015-07-27T17:27:42.464886", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:27:42.465956", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "eb494bb9-b42b-4384-bb4e-4985f5828551", 
+            "revision_timestamp": "2014-09-01T13:57:24.229775", 
+            "datastore_active": false, 
+            "id": "21499b5e-aba5-45c5-a2f0-ab60e60fe02b", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "These 28 human rights indicators show how the right to political participation of persons with disabilities is respected, promoted and fulfilled across the\r\nEU.", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2014-04-29T00:00:00", 
+            "url_type": null, 
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "name": "Online indicators - Indicators on the right to political participation of people with disabilities", 
+            "created": "2014-09-01T15:57:24.343044", 
+            "url": "http://fra.europa.eu/en/publications-and-resources/data-and-maps/comparative-data/political-participation", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "2dae7e46-0a64-49e1-bae9-d2f5d8cf8439", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation"
+        }, 
+        {
+            "resource_group_id": "eb494bb9-b42b-4384-bb4e-4985f5828551", 
+            "revision_timestamp": "2014-09-01T14:03:18.952149", 
+            "datastore_active": false, 
+            "id": "62a21bc3-3f7d-4a23-acb5-3474df49719c", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "This report aims to show how the right to political participation of persons with disabilities set out in Article\r\n29 of the CRPD is respected, promoted and fulfilled\r\nacross the EU.", 
+            "format": "application/pdf", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2014-05-21T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "name": "The right to political participation for persons with disabilities: human rights indicators", 
+            "created": "2014-09-01T16:03:19.079965", 
+            "url": "http://fra.europa.eu/en/publication/2014/indicators-political-participation-persons-disabilities", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 1, 
+            "revision_id": "81b816d8-33eb-4f4d-addd-4156a36ec7c9", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 2, 
+    "description": "FRA in close cooperation with the European Commission and the Academic Network of European Disability Experts (ANED), funded by the Commission, developed 28 human rights indicators to assess the political participation of persons with disabilities in the EU.", 
+    "title": "Indicators on the right to political participation of people with disabilities", 
+    "temporal_coverage_from": "2013-05", 
+    "tracking_summary": {
+        "total": 119, 
+        "recent": 3
+    }, 
+    "contact_email": "disability@fra.europa.eu", 
+    "groups": [], 
+    "creator_user_id": "afb2e66b-5a6b-4d87-a48b-ca3ffaac2157", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2015-07-27T17:27:42.464886", 
+    "name": "indicators-on-the-right-to-political-participation-of-people-with-disabilities", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "release_date": "2014-04-29", 
+    "owner_org": "c254d501-1e16-4fde-a1dd-e015994ea6eb", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://fra.europa.eu/en/project/2013/political-participation-persons-disabilities", 
+    "organization": {
+        "description": "", 
+        "title": "European Union Agency for Fundamental Rights", 
+        "created": "2012-12-12T13:50:53.929902", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:53.905500", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "1f5e333b-2116-4dba-80be-610d0c4cabf3", 
+        "type": "organization", 
+        "id": "c254d501-1e16-4fde-a1dd-e015994ea6eb", 
+        "name": "fra"
+    }, 
+    "revision_id": "dad46333-6c32-48f0-a8d1-2ee64d248fd6", 
+    "identifier": "", 
+    "version_description": ""
+}

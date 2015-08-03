@@ -1,0 +1,228 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 18, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU27"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Credit", 
+            "name": "Credit", 
+            "revision_timestamp": "2013-07-18T08:45:15.183819", 
+            "state": "active", 
+            "id": "52d26b9f-8e1e-4903-98af-9ec5ecf7429b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Credit and financial institutions", 
+            "name": "Credit and financial institutions", 
+            "revision_timestamp": "2013-07-18T08:45:15.183819", 
+            "state": "active", 
+            "id": "9ba9fba8-87d3-433f-9b5b-aa4a16a8033a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European banking", 
+            "name": "European banking", 
+            "revision_timestamp": "2013-07-18T08:45:15.183819", 
+            "state": "active", 
+            "id": "12002d35-bdb5-41b3-8dd9-f2a171e7e55f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Financial market", 
+            "name": "Financial market", 
+            "revision_timestamp": "2013-07-18T08:45:15.183819", 
+            "state": "active", 
+            "id": "f45e21ed-a509-4b65-9d42-1eded6fbfe73"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Market risk", 
+            "name": "Market risk", 
+            "revision_timestamp": "2013-07-18T08:45:15.183819", 
+            "state": "active", 
+            "id": "61a0c047-2026-4e0d-9498-9c3a084db37f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Market supervision", 
+            "name": "Market supervision", 
+            "revision_timestamp": "2013-07-18T09:44:20.729783", 
+            "state": "active", 
+            "id": "1b918286-904e-4404-aded-636a29399bcc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Regulation and policy", 
+            "name": "Regulation and policy", 
+            "revision_timestamp": "2013-07-18T08:45:15.183819", 
+            "state": "active", 
+            "id": "cc14d192-188f-4a7f-9f01-04166bf961ce"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Risk analysis", 
+            "name": "Risk analysis", 
+            "revision_timestamp": "2013-07-18T08:45:15.183819", 
+            "state": "active", 
+            "id": "0227a47d-cc41-44ca-988a-5f4cb3db8c03"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Supervisory convergence", 
+            "name": "Supervisory convergence", 
+            "revision_timestamp": "2013-07-18T08:45:15.183819", 
+            "state": "active", 
+            "id": "9cba6a6e-9471-4ab9-819b-45fb95fe0a8c"
+        }
+    ], 
+    "contact_name": "EBA", 
+    "id": "d94fcef6-d89f-4423-99ab-9ff930b19be5", 
+    "metadata_created": "2015-07-27T17:00:37.908505", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:00:37.909558", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4074", 
+            "name": "http://eurovoc.europa.eu/4074", 
+            "revision_timestamp": "2015-03-04T13:52:41.934345", 
+            "state": "active", 
+            "id": "4f82ef02-65e6-489f-b7bb-d99a1415b0f8"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2149", 
+            "name": "http://eurovoc.europa.eu/2149", 
+            "revision_timestamp": "2015-03-04T13:52:41.934345", 
+            "state": "active", 
+            "id": "e829297b-6b7c-4b20-afbc-ebc1f63d1e45"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3246", 
+            "name": "http://eurovoc.europa.eu/3246", 
+            "revision_timestamp": "2015-03-04T13:52:41.934345", 
+            "state": "active", 
+            "id": "cf6e1140-acfb-42ee-9db3-c3dee68ecd99"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1804", 
+            "name": "http://eurovoc.europa.eu/1804", 
+            "revision_timestamp": "2015-03-04T13:52:41.934345", 
+            "state": "active", 
+            "id": "6a93dbab-785a-4293-a785-9869c0aea6c9"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/285", 
+            "name": "http://eurovoc.europa.eu/285", 
+            "revision_timestamp": "2015-03-04T13:52:41.934345", 
+            "state": "active", 
+            "id": "50e49d57-85b4-4a4b-a986-3edf31f55796"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Credit Institutions Register (CIR) Web Portal ", 
+            "format": "text/html", 
+            "url": "https://eportal.eba.europa.eu/cir/faces/disclaimer.xhtml#no-back-button", 
+            "datastore_active": false, 
+            "created": "2014-02-20T17:18:51.846148", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-04T10:22:50.232961", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "dd42ff05-6357-436d-924f-a67dfce67fde", 
+            "size": null, 
+            "resource_group_id": "bffcc927-8503-406e-ad33-5c62e8615ad3", 
+            "id": "3bfa6c53-96b1-4b81-a0ac-121232083544", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Credit institutions register"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "The present Register has been set up by the EBA solely on the basis of information provided by Member States. Therefore, unlike registers of credit institutions maintained at national level, this Register has no legal significance and confers no rights in law. If an unauthorised institution is inadvertently included in the Register, its legal status is in no way altered; similarly, if an institution has inadvertently been omitted from the Register, the validity of its authorisation will not be affected.\r\n\r\nWith regard to entries in the column headed 'Legal form', which are, by their very nature, in most cases untranslatable, it should be pointed out that terminological similarities are not to be taken to indicate that the legal status is the same. With regard to entries in the column headed 'Deposit Guarantee Scheme', it should also be pointed out that the fact that a credit institution is covered by a particular deposit guarantee scheme does not necessarily imply that all types or amounts of deposits are eligible for compensation under the scheme. This will depend on the rules applicable to the deposit guarantee scheme, as set out in Directive 94/19/EC of the European Parliament and of the Council of 30 May 1994 on deposit-guarantee schemes and the national rules that have implemented this Directive.\r\n\r\nAll information contained in the Register has been provided by competent authorities, who remain exclusively responsible for properly recording and updating all relevant data. The EBA retains only the responsibility for the accurate reproduction of the information received.", 
+    "title": "Credit institutions register", 
+    "temporal_coverage_from": "2009-01-01", 
+    "tracking_summary": {
+        "total": 653, 
+        "recent": 9
+    }, 
+    "contact_email": "info@eba.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "7c0a5323-96a4-4d1c-a5ae-81a6629d79da", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T17:00:37.908505", 
+    "name": "credit-institutions-register1", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "EBA - Credit institutions register", 
+    "accrual_periodicity": "Continuously updated", 
+    "release_date": "2013", 
+    "owner_org": "cf3914bb-892c-47ea-b804-70a7b25139e0", 
+    "contact_address": "EBA Tower 42 (level 18) 25 Old Broad Street London EC2N 1HQ|UK", 
+    "contact_telephone": " +44 (0)207 382 1771", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://www.eba.europa.eu/contacts", 
+    "url": "https://eportal.eba.europa.eu/cir/", 
+    "organization": {
+        "description": "", 
+        "title": "European Banking Authority", 
+        "created": "2012-12-12T13:50:47.925177", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:47.900198", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "13acb372-b070-49ff-bf7b-6993fae5935b", 
+        "type": "organization", 
+        "id": "cf3914bb-892c-47ea-b804-70a7b25139e0", 
+        "name": "eba"
+    }, 
+    "revision_id": "a62e1835-27a4-47ba-a24d-6a631041af17", 
+    "identifier": "", 
+    "version_description": ""
+}

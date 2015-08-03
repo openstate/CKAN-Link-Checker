@@ -1,0 +1,267 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 13, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU27", 
+        "http://publications.europa.eu/resource/authority/country/USA", 
+        "http://publications.europa.eu/resource/authority/country/HRV"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "contact_name": "CORDIS Help Desk", 
+    "id": "99763d60-1121-46f8-aa0d-cffaa6bc0495", 
+    "metadata_created": "2015-07-27T15:33:33.844026", 
+    "modified_date": "2015-07-20", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-29T11:45:44.781736", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/225", 
+            "name": "http://eurovoc.europa.eu/225", 
+            "revision_timestamp": "2015-03-06T11:29:39.046041", 
+            "state": "active", 
+            "id": "07573a38-7d87-449e-9c12-41a423956296"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3489", 
+            "name": "http://eurovoc.europa.eu/3489", 
+            "revision_timestamp": "2015-03-06T11:29:39.046041", 
+            "state": "active", 
+            "id": "b4cb560c-4372-47c4-970b-de2aa0edcf59"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5237", 
+            "name": "http://eurovoc.europa.eu/5237", 
+            "revision_timestamp": "2015-03-06T11:29:39.046041", 
+            "state": "active", 
+            "id": "5c00b1fc-d1d3-4125-bf2b-e4e40188292a"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/223", 
+            "name": "http://eurovoc.europa.eu/223", 
+            "revision_timestamp": "2015-03-06T11:29:39.046041", 
+            "state": "active", 
+            "id": "e9bc158d-9037-4161-b2c5-7456b64d3f12"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3656", 
+            "name": "http://eurovoc.europa.eu/3656", 
+            "revision_timestamp": "2015-03-06T11:29:39.046041", 
+            "state": "active", 
+            "id": "2cb4ad97-ae7e-41e4-b8a7-61e70de107b5"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/8454", 
+            "name": "http://eurovoc.europa.eu/8454", 
+            "revision_timestamp": "2015-03-06T11:29:39.046041", 
+            "state": "active", 
+            "id": "35976480-61bf-42bb-b68b-ce72f7e27e67"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5122", 
+            "name": "http://eurovoc.europa.eu/5122", 
+            "revision_timestamp": "2015-03-06T11:29:39.046041", 
+            "state": "active", 
+            "id": "eb1e569d-1cbd-4949-a79b-a86b1cfc2b65"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2914", 
+            "name": "http://eurovoc.europa.eu/2914", 
+            "revision_timestamp": "2015-03-06T11:29:39.046041", 
+            "state": "active", 
+            "id": "fd0f5924-858b-406b-b5e5-6cf1616e1a37"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "d1f48505-f9b5-43c4-86a9-cde4ae7c245e", 
+            "revision_timestamp": "2015-07-20T11:51:36.260843", 
+            "datastore_active": false, 
+            "id": "5406d652-2e4f-47fc-86ac-01f25d8e1998", 
+            "size": "8323154", 
+            "state": "active", 
+            "hash": "", 
+            "description": "It includes: projectRcn,\tprojectReference,\tprojectAcronym,\torganisationRole,\torganisationName,\torganisationShortName,\tcountry,\tstreet,\tcity,\tpostCode,\torganizationUrl,\tcontactType,\tcontactTitle,\tcontactFirstNames,\tcontactLastNames,\tcontactFunction\r\n", 
+            "format": "application/vnd.ms-excel", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-06-30T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/vnd.ms-excel", 
+            "cache_url": null, 
+            "name": "FP6 organisations", 
+            "created": "2015-06-12T14:57:13.198445", 
+            "url": "http://cordis.europa.eu/data/cordis-fp6organizations.xlsx", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "e3593257-35f7-44af-aede-30938c7b16a0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "d1f48505-f9b5-43c4-86a9-cde4ae7c245e", 
+            "revision_timestamp": "2015-07-27T15:33:33.844026", 
+            "datastore_active": false, 
+            "id": "8c18a602-167d-49fc-b0f7-f62219bf52e8", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "cordis-fp6organizations.csv", 
+            "format": "text/csv", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-06-30T00:00:00", 
+            "url_type": null, 
+            "mimetype": "text/csv", 
+            "cache_url": null, 
+            "name": "FP6 organisations", 
+            "created": "2015-07-20T13:54:24.976289", 
+            "url": "http://cordis.europa.eu/data/cordis-fp6organizations.csv", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 1, 
+            "revision_id": "cbc299d8-a628-4777-ac19-d63a43918e3b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "d1f48505-f9b5-43c4-86a9-cde4ae7c245e", 
+            "revision_timestamp": "2015-07-27T15:33:33.844026", 
+            "datastore_active": false, 
+            "id": "0a647622-d05b-4ef4-907f-9f54ba06913c", 
+            "size": "10686734", 
+            "state": "active", 
+            "hash": "", 
+            "description": "fp6proj201504.xlsx", 
+            "format": "application/vnd.ms-excel", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-06-30T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/vnd.ms-excel", 
+            "cache_url": null, 
+            "name": "FP6 projects", 
+            "created": "2015-06-12T14:33:07.100601", 
+            "url": "http://cordis.europa.eu/data/cordis-fp6projects.xlsx", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 2, 
+            "revision_id": "cbc299d8-a628-4777-ac19-d63a43918e3b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "d1f48505-f9b5-43c4-86a9-cde4ae7c245e", 
+            "revision_timestamp": "2015-07-27T15:33:33.844026", 
+            "datastore_active": false, 
+            "id": "863e480f-3b0d-46cd-961d-9af37b6d6593", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "cordis-fp6projects.csv", 
+            "format": "text/csv", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-06-30T00:00:00", 
+            "url_type": null, 
+            "mimetype": "text/csv", 
+            "cache_url": null, 
+            "name": "FP6 projects", 
+            "created": "2015-07-20T13:54:24.976256", 
+            "url": "http://cordis.europa.eu/data/cordis-fp6projects.csv", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 3, 
+            "revision_id": "cbc299d8-a628-4777-ac19-d63a43918e3b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 4, 
+    "description": "This dataset contains all projects funded by the European Union under the sixth framework programme for research and technological development (FP6) from 2002 to 2006.\r\n\r\nGrant information is provided for each project, including rcn,\treference,\tacronym,\tprogramme,\tsubprogramme,\ttitle,\tstartDate,\tendDate,\tprojectUrl,\tobjective,\ttotalCost,\tecMaxContribution,\tcall,\tfundingScheme,\tcoordinator,\tcoordinatorCountry,\tparticipants,\tparticipantCountries,\torganisationId,\tsubjects\r\n\r\nReference data (countries, funding schemes/types of action, subjects (SIC codes)) can be found in this dataset: https://open-data.europa.eu/en/data/dataset/cordisref-data\r\n", 
+    "title": "CORDIS - EU research projects under FP6 (2002-2006)", 
+    "tracking_summary": {
+        "total": 690, 
+        "recent": 21
+    }, 
+    "contact_email": "cordis-helpdesk@publications.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100143", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100143", 
+            "image_display_url": "", 
+            "id": "5663c43f-efe6-4814-b47b-ee909cda54a7", 
+            "name": "eurovoc_domain_100143"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100158", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100158", 
+            "image_display_url": "", 
+            "id": "361d621d-3400-4cfe-a1f2-e54e38653a17", 
+            "name": "eurovoc_domain_100158"
+        }
+    ], 
+    "creator_user_id": "1f67a9e5-c753-49cb-96f0-65201cd4f918", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T15:33:33.844026", 
+    "name": "cordisfp6projects", 
+    "language": [], 
+    "alternative_title": "FP6 research projects", 
+    "accrual_periodicity": "", 
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+    "contact_address": "2 rue Mercier, Luxembourg", 
+    "contact_telephone": "+352 2929 42210 ", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://cordis.europa.eu/home_en.html", 
+    "url": "http://cordis.europa.eu/fp6/", 
+    "organization": {
+        "description": "", 
+        "title": "Publications Office", 
+        "created": "2012-12-12T13:50:56.476905", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:56.451833", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "702713e9-905d-4061-9847-18d42c3d395d", 
+        "type": "organization", 
+        "id": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+        "name": "publ"
+    }, 
+    "revision_id": "cbc299d8-a628-4777-ac19-d63a43918e3b", 
+    "identifier": "", 
+    "version_description": ""
+}

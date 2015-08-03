@@ -1,0 +1,237 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2080", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "population forecast", 
+            "name": "population forecast", 
+            "revision_timestamp": "2014-12-22T08:55:33.145216", 
+            "state": "active", 
+            "id": "16bd222d-c10d-40a8-85db-708e9574a72c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "population statistics", 
+            "name": "population statistics", 
+            "revision_timestamp": "2014-12-22T08:55:33.145216", 
+            "state": "active", 
+            "id": "0d727ff0-5a32-434b-ae68-90a307e152fc"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "28b6b451-e42c-4f75-afa5-de785391feeb", 
+    "metadata_created": "2015-07-27T14:06:05.712295", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T10:01:41.507902", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6543", 
+            "name": "http://eurovoc.europa.eu/6543", 
+            "revision_timestamp": "2015-03-03T20:28:09.430685", 
+            "state": "active", 
+            "id": "5da867ea-f861-45da-93c4-7a65872f8252"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00002.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T12:01:41.645208", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T10:01:41.501463", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "2f606be8-5f3d-4275-aebf-db9c77fb6a90", 
+            "size": null, 
+            "resource_group_id": "f56f3a8e-f2e6-4fad-b698-26057b135cba", 
+            "id": "cea0b405-76a0-4c3c-a434-db97fd29684e", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00002.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T12:01:41.645216", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T10:01:41.501463", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "2f606be8-5f3d-4275-aebf-db9c77fb6a90", 
+            "size": null, 
+            "resource_group_id": "f56f3a8e-f2e6-4fad-b698-26057b135cba", 
+            "id": "65a8a542-dec3-4565-b419-abe9d510fcf0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "proj_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/proj_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T12:01:41.645164", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T10:01:41.501463", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "2f606be8-5f3d-4275-aebf-db9c77fb6a90", 
+            "size": null, 
+            "resource_group_id": "f56f3a8e-f2e6-4fad-b698-26057b135cba", 
+            "id": "261a09b9-5403-4ecd-a449-828d256c6797", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/proj_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T12:01:41.645193", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T10:01:41.501463", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "2f606be8-5f3d-4275-aebf-db9c77fb6a90", 
+            "size": null, 
+            "resource_group_id": "f56f3a8e-f2e6-4fad-b698-26057b135cba", 
+            "id": "d1b9ef71-4426-4b95-9f9f-5fbb08c808c1", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00002", 
+            "datastore_active": false, 
+            "created": "2015-07-31T12:01:41.645201", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T10:01:41.501463", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "2f606be8-5f3d-4275-aebf-db9c77fb6a90", 
+            "size": null, 
+            "resource_group_id": "f56f3a8e-f2e6-4fad-b698-26057b135cba", 
+            "id": "1ac1d42f-681e-4c8e-bbec-0c1873b0de07", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Population projections are what-if scenarios that aim to provide information about the likely future size and structure of the population. Eurostat's\u00a0population projections is one of several possible population change scenarios based on specific assumptions for fertility, mortality and migration. The method used for population projections is the\u00a0\"cohort-component\" method. Population refers to 1st January population for the respective years.", 
+    "title": "Population projections", 
+    "temporal_coverage_from": "2015", 
+    "tracking_summary": {
+        "total": 18, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }
+    ], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-27T14:06:05.712295", 
+    "name": "TKNmGmBuBHjZHbuO3EOUw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00002", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tps00002\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100149\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/6543\"/>\n    <dct:title xml:lang=\"en\">Population projections</dct:title>\n    <dct:title xml:lang=\"fr\">Projections d&#233;mographiques</dct:title>\n    <dct:title xml:lang=\"de\">Bev&#246;lkerungsprognosen</dct:title>\n    <ecodp:keyword xml:lang=\"en\">population statistics</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">population forecast</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique d&#233;mographique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">pr&#233;vision d&#233;mographique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Bev&#246;lkerungsstatistik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Bev&#246;lkerungsprognose</ecodp:keyword>\n    <dct:identifier>tps00002</dct:identifier>\n    <dct:description xml:lang=\"en\">Population projections are what-if scenarios that aim to provide information about the likely future size and structure of the population. Eurostat's&#160;population projections is one of several possible population change scenarios based on specific assumptions for fertility, mortality and migration. The method used for population projections is the&#160;\"cohort-component\" method. Population refers to 1st January population for the respective years.</dct:description>\n    <dct:description xml:lang=\"fr\">Les projections d&#233;mographiques sont des sc&#233;narios de type &#171;que se passerait-il si&#8230;&#187; qui visent &#224; fournir des informations sur la taille et la structure futures probables de la population. Les projections d&#233;mographiques d&#8217;Eurostat se r&#233;f&#232;rent &#224; un, parmi plusieurs, sc&#233;narios d&#8217;&#233;volution d&#233;mographique bas&#233; sur des hypoth&#232;ses sp&#233;cifiques de f&#233;condit&#233;, de mortalit&#233; et de migration. La m&#233;thode employ&#233;e pour des projections de population est la m&#233;thode de &#171;composante cohorte&#187;. La population se r&#233;f&#232;re &#224; la population au 1er janvier pour les ann&#233;es respectives.</dct:description>\n    <dct:description xml:lang=\"de\">Bev&#246;lkerungsvoraussch&#228;tzungen sind &#8222;Was w&#228;re wenn&#8220;-Szenarien, mit denen versucht wird, Informationen &#252;ber die voraussichtliche zuk&#252;nftige Bev&#246;lkerungszahl und die Bev&#246;lkerungsstruktur zu liefern. Eurostats Bev&#246;lkerungsvoraussch&#228;tzung ist eines von mehreren m&#246;glichen Szenarien f&#252;r den demografischen Wandel, welches von bestimmten Annahmen f&#252;r Fruchtbarkeit, Mortalit&#228;t und Wanderung ausgeht. Die Methode, die f&#252;r Bev&#246;lkerungsvoraussch&#228;tzungen angewendet wird, ist die Kohorten-Komponenten-Methode. Die Bev&#246;lkerung bezieht sich auf die Bev&#246;lkerung am 1. Januar des jeweiligen Jahres.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/proj_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/proj_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tps00002</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00002.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00002.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2015</ecodp:periodStart>\n        <ecodp:periodEnd>2080</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/TKNmGmBuBHjZHbuO3EOUw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tps00002</foaf:primaryTopic><dct:modified>2015-07-30T11:02:40.353877</dct:modified><dct:issued>2015-03-30T11:54:59.089852</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "7a98c80b-faa2-466a-8984-ee26634ef2a3", 
+    "identifier": "tps00002"
+}

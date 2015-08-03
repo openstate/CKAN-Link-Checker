@@ -1,0 +1,183 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 15, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU27", 
+        "http://publications.europa.eu/resource/authority/country/NOR", 
+        "http://publications.europa.eu/resource/authority/country/ISL", 
+        "http://publications.europa.eu/resource/authority/country/LIE", 
+        "http://publications.europa.eu/resource/authority/country/HRV"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "ECHA", 
+            "name": "ECHA", 
+            "revision_timestamp": "2013-11-13T10:02:51.513950", 
+            "state": "active", 
+            "id": "50afb25a-0da7-4d8a-b222-ad4a2c1abaae"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Chemicals Agency", 
+            "name": "European Chemicals Agency", 
+            "revision_timestamp": "2013-11-13T10:02:51.513950", 
+            "state": "active", 
+            "id": "e136335f-9283-46a4-9ba9-4774578d197d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "REACH", 
+            "name": "REACH", 
+            "revision_timestamp": "2013-11-13T10:02:51.513950", 
+            "state": "active", 
+            "id": "cdf3b5dd-e357-43e3-91c5-59502e18c85e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Registration statistics", 
+            "name": "Registration statistics", 
+            "revision_timestamp": "2013-11-13T12:04:48.082686", 
+            "state": "active", 
+            "id": "4eef62e7-2a1d-4728-bf49-764c21291a1e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "chemicals", 
+            "name": "chemicals", 
+            "revision_timestamp": "2013-11-13T10:02:51.513950", 
+            "state": "active", 
+            "id": "9de2ffc7-8895-4b01-bcbd-992ce62b5af7"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "005795e8-dcd3-40e1-9126-790dae0b6418", 
+    "metadata_created": "2015-07-27T13:22:12.685538", 
+    "modified_date": "2013-12-23", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T13:31:58.670673", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/7984", 
+            "name": "http://eurovoc.europa.eu/7984", 
+            "revision_timestamp": "2015-02-02T14:48:49.565353", 
+            "state": "active", 
+            "id": "3cb5a770-097d-4631-a6bb-7d26895d7061"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4256", 
+            "name": "http://eurovoc.europa.eu/4256", 
+            "revision_timestamp": "2015-02-02T14:48:49.565353", 
+            "state": "active", 
+            "id": "b9fd4e78-a091-427d-8089-d23605c10a6b"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "REACH Registration statistics: this data shows the number of registrations received from the 28 EU Member States and from the European Economic Area countries Norway, Iceland and Liechtenstein.", 
+            "format": "text/html", 
+            "url": "http://www.echa.europa.eu/web/guest/information-on-chemicals/registration-statistics/detailed-registrations-statistics", 
+            "datastore_active": false, 
+            "created": "2015-02-10T12:22:29.862370", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-10T11:25:12.682103", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "22446328-cdaf-473b-a38f-1f0d200c8c73", 
+            "size": null, 
+            "resource_group_id": "fe28eda8-2983-49d8-993b-0e3ed3292314", 
+            "id": "6008bac5-e9f6-41f6-a3f0-692bb615e55f", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "REACH Registration statistics"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "This data shows the number of registrations received from the 28 EU Member States and from the European Economic Area countries Norway, Iceland and Liechtenstein.\r\n \r\nThese statistics will be updated regularly. To correct any errors or inaccuracies that may appear in the text and data, ECHA is entitled to modify or revise the document at any time.\r\nYou can also get the statistics as downloadable PDF versions on the ECHA's Web page", 
+    "title": "REACH Registration statistics", 
+    "tracking_summary": {
+        "total": 259, 
+        "recent": 1
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100160", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100160", 
+            "image_display_url": "", 
+            "id": "23bb695d-0233-4ed9-bfbb-38e1bf181b80", 
+            "name": "eurovoc_domain_100160"
+        }
+    ], 
+    "creator_user_id": "fcf23455-366e-4110-aa4c-5f4eb49e4d3e", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T13:22:12.685538", 
+    "name": "reach-registration-statistics", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "7d5ae560-43f5-4e39-a017-112eb1bca132", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://www.echa.europa.eu/web/guest/information-on-chemicals/registration-statistics/detailed-registrations-statistics", 
+    "organization": {
+        "description": "", 
+        "title": "European Chemicals Agency", 
+        "created": "2012-12-12T13:50:48.231411", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:48.206451", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "1b6e91b7-04d3-43a5-861d-0e8014774389", 
+        "type": "organization", 
+        "id": "7d5ae560-43f5-4e39-a017-112eb1bca132", 
+        "name": "echa"
+    }, 
+    "revision_id": "e21f98e2-2f54-4e11-bbe4-55e43e295b15", 
+    "identifier": "", 
+    "version_description": ""
+}

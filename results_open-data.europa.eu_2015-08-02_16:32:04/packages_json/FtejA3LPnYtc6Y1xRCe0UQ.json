@@ -1,0 +1,217 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2012", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 8, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "education", 
+            "name": "education", 
+            "revision_timestamp": "2014-12-22T07:12:00.403643", 
+            "state": "active", 
+            "id": "cecdf167-580e-419f-b549-900bbc3826c7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "primary education", 
+            "name": "primary education", 
+            "revision_timestamp": "2014-12-22T07:12:00.403643", 
+            "state": "active", 
+            "id": "1bbdb74f-9405-4d6a-b0f1-fbb7bb263e93"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "pupil", 
+            "name": "pupil", 
+            "revision_timestamp": "2014-12-22T07:12:00.403643", 
+            "state": "active", 
+            "id": "41d5dab8-3354-4a45-96e6-1b64c1aaf5fe"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "teacher", 
+            "name": "teacher", 
+            "revision_timestamp": "2014-12-22T07:12:00.403643", 
+            "state": "active", 
+            "id": "c7139c3f-bb7f-4578-8917-b8fc2300e370"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "8eb72e8b-0496-4591-8c3b-986eb57e2c3c", 
+    "metadata_created": "2014-12-22T07:12:00.403643", 
+    "modified_date": "2015-04-22", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T07:47:50.997578", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1074", 
+            "name": "http://eurovoc.europa.eu/1074", 
+            "revision_timestamp": "2015-03-03T20:53:01.694019", 
+            "state": "active", 
+            "id": "4599c5c0-e18e-4e12-b0cf-0faf3b09847a"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/668", 
+            "name": "http://eurovoc.europa.eu/668", 
+            "revision_timestamp": "2015-03-03T20:53:01.694019", 
+            "state": "active", 
+            "id": "3228f2ef-56ed-4d27-a06a-435b41d2b4ea"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00054.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T09:47:51.354410", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:47:50.996569", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "a239a031-f8bd-4902-899c-b48e048b87bb", 
+            "size": null, 
+            "resource_group_id": "b90ff75f-9484-4cc6-a8bb-5341d426ab78", 
+            "id": "c6d2a640-051a-4525-8c1a-17da979e98cd", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00054.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T09:47:51.354418", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:47:50.996569", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "a239a031-f8bd-4902-899c-b48e048b87bb", 
+            "size": null, 
+            "resource_group_id": "b90ff75f-9484-4cc6-a8bb-5341d426ab78", 
+            "id": "64277063-2fea-4c45-a9d5-0fbac7feb5a8", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00054", 
+            "datastore_active": false, 
+            "created": "2015-07-31T09:47:51.354381", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:47:50.996569", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "a239a031-f8bd-4902-899c-b48e048b87bb", 
+            "size": null, 
+            "resource_group_id": "b90ff75f-9484-4cc6-a8bb-5341d426ab78", 
+            "id": "ce530078-5c5f-4ac3-9cc6-a2ba8e31933f", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "The pupil-teacher ratio is calculated by dividing the number of full-time equivalent pupils by the number of full-time equivalent teachers teaching at ISCED level 1. Only teachers in service (including special education teachers) are taken into account. The pupil-teacher ratio should not be confused with average class size as it does not take into account special cases, like the small size of groups of special needs pupils or specialised/minority subject areas, or the difference between the number of hours of teaching provided by teachers and the number of hours of instruction prescribed for pupils for example in the case a teacher is working in a shift system.", 
+    "title": "Pupil/teacher ratio in primary education", 
+    "temporal_coverage_from": "2001", 
+    "tracking_summary": {
+        "total": 78, 
+        "recent": 4
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100150", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100150", 
+            "image_display_url": "", 
+            "id": "f9b717f1-427b-4fa9-ae8e-bd33144b4f3b", 
+            "name": "eurovoc_domain_100150"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:12:00.403643", 
+    "name": "FtejA3LPnYtc6Y1xRCe0UQ", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00054", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tps00054\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100150\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/668\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1074\"/>\n    <dct:title xml:lang=\"en\">Pupil/teacher ratio in primary education</dct:title>\n    <dct:title xml:lang=\"fr\">Ratio &#233;l&#232;ves/enseignant dans l'enseignement primaire</dct:title>\n    <dct:title xml:lang=\"de\">Verh&#228;ltnis Sch&#252;ler/Lehrer im Primarbereich</dct:title>\n    <ecodp:keyword xml:lang=\"en\">education</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">primary education</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">teacher</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">pupil</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">&#233;ducation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">enseignement primaire</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">enseignant</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">&#233;l&#232;ve</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Bildung</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Primarstufe</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Lehrkraft</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Sch&#252;ler</ecodp:keyword>\n    <dct:identifier>tps00054</dct:identifier>\n    <dct:description xml:lang=\"en\">The pupil-teacher ratio is calculated by dividing the number of full-time equivalent pupils by the number of full-time equivalent teachers teaching at ISCED level 1. Only teachers in service (including special education teachers) are taken into account. The pupil-teacher ratio should not be confused with average class size as it does not take into account special cases, like the small size of groups of special needs pupils or specialised/minority subject areas, or the difference between the number of hours of teaching provided by teachers and the number of hours of instruction prescribed for pupils for example in the case a teacher is working in a shift system.</dct:description>\n    <dct:description xml:lang=\"fr\">Le ratio &#233;l&#232;ve/enseignant est calcul&#233; en divisant l'&#233;quivalent du nombre d'&#233;l&#232;ves suivant des cours &#224; temps plein par l'&#233;quivalent du nombre d'enseignants donnant des cours &#224; temps plein qui enseignent au niveau 1 de la CITE. Seuls les enseignants en poste (y compris les &#233;ducateurs scolaires sp&#233;cialis&#233;s) sont pris en compte. Le ratio &#233;l&#232;ve/enseignant ne doit pas &#234;tre confondu avec la taille moyenne d'une classe, car cette derni&#232;re ne tient pas compte des cas sp&#233;ciaux, comme les petits groupes d'&#233;l&#232;ves ayant des besoins sp&#233;cifiques ou les mati&#232;res sp&#233;cialis&#233;es/minoritaires, ou bien de la diff&#233;rence entre le nombre d'heures d'enseignement dispens&#233;es par les enseignants et le nombre d'heures d'instruction conseill&#233;es par &#233;l&#232;ve, par exemple dans le cas d'un enseignant qui travaille dans un syst&#232;me par &#233;quipes.</dct:description>\n    <dct:description xml:lang=\"de\">Die Sch&#252;ler-Lehrer-Quote errechnet sich aus der Zahl der Sch&#252;ler und Sch&#252;lerinnen in Vollzeit&#228;quivalenten, die durch die Zahl der Lehrkr&#228;fte in Vollzeit&#228;quivalenten in der ISCED-Stufe 1 geteilt wird. Es werden ausschlie&#223;lich unterrichtende Lehrer (einschlie&#223;lich Sonderp&#228;dagogen) ber&#252;cksichtigt. Die Sch&#252;ler-Lehrer-Quote ist nicht mit der durchschnittlichen Klassenst&#228;rke identisch, denn Letztere ber&#252;cksichtigt keine besonderen Umst&#228;nde wie die geringe Gr&#246;&#223;e der Gruppen von Sch&#252;lern mit sonderp&#228;dagogischem F&#246;rderbedarf, seltene/spezialisierte F&#228;cher oder Unterschiede zwischen den erteilten Unterrichtsstunden und den vorgesehenen Unterrichtsstunden f&#252;r die Sch&#252;ler, wenn eine Lehrkraft beispielsweise Schichtunterricht erteilt.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tps00054</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00054.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00054.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-04-22</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2001</ecodp:periodStart>\n        <ecodp:periodEnd>2012</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/FtejA3LPnYtc6Y1xRCe0UQ\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tps00054</foaf:primaryTopic><dct:modified>2015-07-30T10:32:47.278516</dct:modified><dct:issued>2014-12-22T07:12:00.403643</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "1998a6af-17d5-4758-ba25-da4314b1a1c1", 
+    "identifier": "tps00054"
+}

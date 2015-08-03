@@ -1,0 +1,245 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2012", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "balance of payments", 
+            "name": "balance of payments", 
+            "revision_timestamp": "2014-12-22T09:20:37.689051", 
+            "state": "active", 
+            "id": "57dde1e2-f3f5-4622-bc2b-8cfcbf6e6e2c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "international trade", 
+            "name": "international trade", 
+            "revision_timestamp": "2014-12-22T09:20:37.689051", 
+            "state": "active", 
+            "id": "c76b37f3-b1e7-42b8-8a30-1f8c636b8784"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "2648b2ab-2378-47d4-8bcb-693abf19bf9b", 
+    "metadata_created": "2014-12-22T09:20:37.689051", 
+    "modified_date": "2015-07-16", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T08:03:25.558911", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4671", 
+            "name": "http://eurovoc.europa.eu/4671", 
+            "revision_timestamp": "2015-03-03T20:17:37.155121", 
+            "state": "active", 
+            "id": "3afe1f42-9f55-4b7e-8d37-1053df2293ea"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00052.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:03:25.620968", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:03:25.557988", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "84e33c6e-4c23-4d07-9d08-5b78ad9abc15", 
+            "size": null, 
+            "resource_group_id": "522a03d0-dba9-4b88-a64e-0ebf4b8c94b2", 
+            "id": "d13cd62e-4255-4f3c-85fd-5d63cfe05069", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00052.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:03:25.620975", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:03:25.557988", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "84e33c6e-4c23-4d07-9d08-5b78ad9abc15", 
+            "size": null, 
+            "resource_group_id": "522a03d0-dba9-4b88-a64e-0ebf4b8c94b2", 
+            "id": "7b7e6797-b30e-4990-ac10-3a3b942a95d0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "bop_fdi_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/bop_fdi_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:03:25.620916", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:03:25.557988", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "84e33c6e-4c23-4d07-9d08-5b78ad9abc15", 
+            "size": null, 
+            "resource_group_id": "522a03d0-dba9-4b88-a64e-0ebf4b8c94b2", 
+            "id": "69590657-ae00-4551-9b48-0a0dd22d250a", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/bop_fdi_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:03:25.620950", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:03:25.557988", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "84e33c6e-4c23-4d07-9d08-5b78ad9abc15", 
+            "size": null, 
+            "resource_group_id": "522a03d0-dba9-4b88-a64e-0ebf4b8c94b2", 
+            "id": "6785b23c-249b-43f3-aca8-237dd9607441", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00052", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:03:25.620961", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:03:25.557988", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "84e33c6e-4c23-4d07-9d08-5b78ad9abc15", 
+            "size": null, 
+            "resource_group_id": "522a03d0-dba9-4b88-a64e-0ebf4b8c94b2", 
+            "id": "f4586871-0360-460a-9a67-cde698cbbe1b", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "For all reporters, outward FDI stocks are broken down by main destination of the investment. Destination countries or zones are highlighted in grey. Foreign direct investment (FDI) is the category of international investment made by a resident entity (direct investor) to acquire a lasting interest in an entity operating in an economy other than that of the investor (direct investment enterprise). The lasting interest is deemed to exist if the investor acquires at least 10 % of the equity capital of the enterprise. FDI stocks are the value of FDI assets (for outward FDI stocks) and FDI liabilities (for inward FDI stocks) at the end of the reference period.", 
+    "title": "Direct investment outward stocks by main destination", 
+    "temporal_coverage_from": "2001", 
+    "tracking_summary": {
+        "total": 61, 
+        "recent": 9
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:20:37.689051", 
+    "name": "HVlKICSaTbsgoc1F0m9bw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00052", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tec00052\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4671\"/>\n    <dct:title xml:lang=\"en\">Direct investment outward stocks by main destination</dct:title>\n    <dct:title xml:lang=\"fr\">Stocks d'investissements directs &#224; l'&#233;tranger ventil&#233;s la destination principale</dct:title>\n    <dct:title xml:lang=\"de\">Direktinvestitionsbest&#228;nde nach dem schwerpunktm&#228;&#178;igen Anlageland</dct:title>\n    <ecodp:keyword xml:lang=\"en\">international trade</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">balance of payments</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">commerce international</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">balance des paiements</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">internationaler Handel</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Zahlungsbilanz</ecodp:keyword>\n    <dct:identifier>tec00052</dct:identifier>\n    <dct:description xml:lang=\"en\">For all reporters, outward FDI stocks are broken down by main destination of the investment. Destination countries or zones are highlighted in grey. Foreign direct investment (FDI) is the category of international investment made by a resident entity (direct investor) to acquire a lasting interest in an entity operating in an economy other than that of the investor (direct investment enterprise). The lasting interest is deemed to exist if the investor acquires at least 10 % of the equity capital of the enterprise. FDI stocks are the value of FDI assets (for outward FDI stocks) and FDI liabilities (for inward FDI stocks) at the end of the reference period.</dct:description>\n    <dct:description xml:lang=\"fr\">Pour tous les d&#233;clarants, les stocks d'IDE &#224; l'&#233;tranger sont ventil&#233;s selon la destination principale des investissements. Les pays ou les zones de destination sont mis en &#233;vidence sur fond gris. Les investissements directs &#233;trangers (IDE) sont des investissements internationaux qui refl&#232;tent l'intention d'une entit&#233; r&#233;sidente d'une &#233;conomie (investisseur direct) d'acqu&#233;rir un int&#233;r&#234;t durable dans une entreprise op&#233;rant dans une autre &#233;conomie (entreprise d'investissement direct). Les stocks d'IDE donnent la valeur des avoirs (pour les stocks d'IDE &#224; l'&#233;tranger) et des engagements (pour les stocks d'IDE &#224; l'int&#233;rieur) &#224; la fin de la p&#233;riode de r&#233;f&#233;rence.</dct:description>\n    <dct:description xml:lang=\"de\">F&#252;r alle Auskunftgebenden sind die Direktinvestitionsbest&#228;nde nach dem schwerpunktm&#228;&#178;igen Anlageland aufgeschl&#252;sselt. Die empfangenden L&#228;nder oder Gebiete sind in grau gekennzeichnet. Direktinvestitionen (DI) sind internationale Investitionen, die eine in einem Wirtschaftsgebiet ans&#228;ssige Einheit t&#228;tigt (Direktinvestor), um eine langfristige Beteiligung an einem in einem anderen Wirtschaftsgebiet ans&#228;ssigen Unternehmen zu erwerben (Direktinvestitionsobjekt). Das dauerhafte Interesse wird vermutet, wenn der Investor wenigstens 10 % des Aktienkapitals des Unternehmens erwirbt. DI-Best&#228;nde sind der Wert von DI-Forderungen (DI-Best&#228;nde aufgrund von Abfl&#252;ssen) und von DI-Verbindlichkeiten (DI-Best&#228;nde aufgrund von Zufl&#252;ssen) am Ende des Berichtszeitraums.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/bop_fdi_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/bop_fdi_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tec00052</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00052.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00052.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-16</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2001</ecodp:periodStart>\n        <ecodp:periodEnd>2012</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/HVlKICSaTbsgoc1F0m9bw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tec00052</foaf:primaryTopic><dct:modified>2015-07-30T10:31:57.588664</dct:modified><dct:issued>2014-12-22T09:20:37.689051</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "54d21f4a-497d-4fc8-a51f-9255b31d4caf", 
+    "identifier": "tec00052"
+}

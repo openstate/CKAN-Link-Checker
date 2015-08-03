@@ -1,0 +1,137 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 10, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "ESMA", 
+            "name": "ESMA", 
+            "revision_timestamp": "2013-08-08T16:36:03.209842", 
+            "state": "active", 
+            "id": "865d926c-d6f9-45cb-ad8f-7f98c7fc3006"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Supervisory Authorities", 
+            "name": "European Supervisory Authorities", 
+            "revision_timestamp": "2013-08-08T16:40:41.723223", 
+            "state": "active", 
+            "id": "1dec2f7e-6a6c-4129-b51e-a4d57640ad73"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "credit rating agencies", 
+            "name": "credit rating agencies", 
+            "revision_timestamp": "2013-08-08T16:36:03.209842", 
+            "state": "active", 
+            "id": "9b71502b-c435-424d-862b-8f9d22954c02"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "credit ratings", 
+            "name": "credit ratings", 
+            "revision_timestamp": "2013-10-16T11:09:27.304723", 
+            "state": "active", 
+            "id": "7ce55962-70c7-4262-adaa-0a3dff72618c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "financial system", 
+            "name": "financial system", 
+            "revision_timestamp": "2013-08-08T16:40:41.723223", 
+            "state": "active", 
+            "id": "b5a51873-5bff-49e6-9d2e-53f64892e8c0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "risk", 
+            "name": "risk", 
+            "revision_timestamp": "2013-08-08T16:36:03.209842", 
+            "state": "active", 
+            "id": "c70af6f9-cceb-4ea5-a7a2-356c611a8fb5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "securities markets", 
+            "name": "securities markets", 
+            "revision_timestamp": "2013-08-08T16:40:41.723223", 
+            "state": "active", 
+            "id": "8752a378-7477-4976-b450-0b62578e65a6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "supervisory convergence", 
+            "name": "supervisory convergence", 
+            "revision_timestamp": "2013-08-08T16:40:41.723223", 
+            "state": "active", 
+            "id": "3abf71a5-60e4-4c74-996c-265fcbf81491"
+        }
+    ], 
+    "contact_name": "ESMA", 
+    "id": "0ee734e0-17ca-4103-bb6a-f8b9461fc05d", 
+    "metadata_created": "2015-07-27T13:43:52.563685", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T13:43:52.564836", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 0, 
+    "description": "The credit rating agencies have been registered or certified in accordance with Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (the Credit Rating Agencies Regulation).\r\n\r\nThe list  is published by European Securities and Market Authority in accordance with Article 18(3) of the Credit Rating Agencies Regulation and is updated within five working days of adoption of a registration or certification decision. The European Commission republishes the list in the Official Journal of the European Union within 30 days of any update. There may therefore be differences between the list published by ESMA and the list available in the Official Journal during that period.\r\n\r\n", 
+    "title": "List of registered and certified credit rating agencies", 
+    "tracking_summary": {
+        "total": 321, 
+        "recent": 1
+    }, 
+    "contact_email": "", 
+    "groups": [], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T13:43:52.563685", 
+    "name": "list-of-registered-and-certified-credit-rating-agencies", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://www.esma.europa.eu/page/contact-us", 
+    "url": "http://www.esma.europa.eu/page/List-registered-and-certified-CRAs", 
+    "organization": {
+        "description": "", 
+        "title": "European Securities and Markets Authority", 
+        "created": "2012-12-12T13:50:52.497925", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.471964", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "0d60eb1d-b406-43d3-94ad-26f3bea3f39b", 
+        "type": "organization", 
+        "id": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+        "name": "esma"
+    }, 
+    "revision_id": "727bc220-0055-494f-ae94-694a55256935", 
+    "identifier": "", 
+    "version_description": ""
+}

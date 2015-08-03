@@ -1,0 +1,252 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Capacity utilization", 
+            "name": "Capacity utilization", 
+            "revision_timestamp": "2014-12-22T10:05:02.293913", 
+            "state": "active", 
+            "id": "83c7e351-e686-4596-bc9e-c823963052b5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "business surveys", 
+            "name": "business surveys", 
+            "revision_timestamp": "2014-12-22T10:05:02.293913", 
+            "state": "active", 
+            "id": "9c59b339-7d6b-416d-a1c6-c158f7634de0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "industrial manufacturing", 
+            "name": "industrial manufacturing", 
+            "revision_timestamp": "2014-12-22T10:05:02.293913", 
+            "state": "active", 
+            "id": "d18337c8-b49d-41ed-ae1a-f040b675eb1c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "manufacturing industry", 
+            "name": "manufacturing industry", 
+            "revision_timestamp": "2014-12-22T10:05:02.293913", 
+            "state": "active", 
+            "id": "525481f4-fc6d-465c-b76c-97101df94d61"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "949c0bd5-c858-425b-b22e-6d7ec8c212a3", 
+    "metadata_created": "2014-12-22T10:05:02.293913", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:06:21.664548", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teibs070.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:06:21.867523", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:06:21.663508", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "5fdd1ea8-f1ff-47bd-987d-25f35c060749", 
+            "size": null, 
+            "resource_group_id": "9d8a0f81-98f3-4eb5-852e-4f320d0031c1", 
+            "id": "38c9d079-1b36-496d-be2a-3f5a925d5646", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teibs070.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:06:21.867530", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:06:21.663508", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "5fdd1ea8-f1ff-47bd-987d-25f35c060749", 
+            "size": null, 
+            "resource_group_id": "9d8a0f81-98f3-4eb5-852e-4f320d0031c1", 
+            "id": "ecabe67e-f8cb-4e7a-9913-fd8224ef7375", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ei_bcs_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ei_bcs_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:06:21.867473", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:06:21.663508", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "5fdd1ea8-f1ff-47bd-987d-25f35c060749", 
+            "size": null, 
+            "resource_group_id": "9d8a0f81-98f3-4eb5-852e-4f320d0031c1", 
+            "id": "a52264c2-fc81-4d23-97e6-af5dcefa8996", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_bcs_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:06:21.867507", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:06:21.663508", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "5fdd1ea8-f1ff-47bd-987d-25f35c060749", 
+            "size": null, 
+            "resource_group_id": "9d8a0f81-98f3-4eb5-852e-4f320d0031c1", 
+            "id": "762a039a-5202-4f80-9b4e-7ce2a9ce7ab2", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teibs070", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:06:21.867516", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:06:21.663508", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "5fdd1ea8-f1ff-47bd-987d-25f35c060749", 
+            "size": null, 
+            "resource_group_id": "9d8a0f81-98f3-4eb5-852e-4f320d0031c1", 
+            "id": "b19eb0f5-8483-41bd-a890-df364f4a9402", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Business surveys provide a rapid means of compiling simple statistics with the results available before those of traditional statistical methods, and provide also information on areas not covered by quantitative statistics. Details provided by respondents are generally of very high quality since the questions related to subjects with which they are familiar, thus the past and future performance of their business is highly reliable. Similarly, consumers provide a very high quality information on their purchasing information and price trend. Source: DG ECFIN", 
+    "title": "Current level of capacity utilization in manufacturing industry", 
+    "temporal_coverage_from": "2012", 
+    "tracking_summary": {
+        "total": 60, 
+        "recent": 15
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T10:05:02.293913", 
+    "name": "VHN6fVEBcXZPDj4uwQESLw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teibs070", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teibs070\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dct:title xml:lang=\"en\">Current level of capacity utilization in manufacturing industry</dct:title>\n    <dct:title xml:lang=\"fr\">Niveau actuel d'utilisation des capacit&#233;s - Pourcentage</dct:title>\n    <dct:title xml:lang=\"de\">Aktuelle Kapazit&#228;tsauslastung - Prozentsatz</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Capacity utilization</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">manufacturing industry</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">business surveys</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">industrial manufacturing</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Enqu&#234;tes de conjoncture et de consommation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">enqu&#234;te &#233;conomique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">enqu&#234;te de consommation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">fabrication industrielle</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Konjunktur- und Verbrauchererhebungen</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">wirtschaftsstatistische Erhebung</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Verbrauchsforschung</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">industrielle Fertigung</ecodp:keyword>\n    <dct:identifier>teibs070</dct:identifier>\n    <dct:description xml:lang=\"en\">Business surveys provide a rapid means of compiling simple statistics with the results available before those of traditional statistical methods, and provide also information on areas not covered by quantitative statistics. Details provided by respondents are generally of very high quality since the questions related to subjects with which they are familiar, thus the past and future performance of their business is highly reliable. Similarly, consumers provide a very high quality information on their purchasing information and price trend. Source: DG ECFIN</dct:description>\n    <dct:description xml:lang=\"fr\">Les enqu&#234;tes de conjoncture offrent un moyen rapide d'&#233;tablir des statistiques simples dont les r&#233;sultats sont disponibles avant ceux des m&#233;thodes statistiques traditionnelles et fournissent &#233;galement des informations sur des domaines qui ne sont pas couverts par les statistiques quantitatives. Les informations fournies par les r&#233;pondants sont g&#233;n&#233;ralement de tr&#232;s haute qualit&#233; &#233;tant donn&#233; que les questions portent sur des sujets qui leur sont familiers ; La performance pass&#233;e et future de leur entreprise est donc tr&#232;s fiable. De m&#234;me, les consommateurs fournissent des informations de tr&#232;s haute qualit&#233; sur leurs achats et les tendances des prix. Source: DG ECFIN</dct:description>\n    <dct:description xml:lang=\"de\">Begriffe und Definitionen: Umfragen bei Unternehmern erm&#246;glichen die rasche Erstellung einfacher Statistiken, deren Ergebnisse fr&#252;her zur Verf&#252;gung stehen als bei den herk&#246;mm-lichen statistischen Verfahren, sowie die Gewinnung von Informationen &#252;ber Bereiche, die nicht durch quantitative Statistiken erfa&#223;t werden. Die Angaben der Auskunftgebenden sind im Allgemeinen qualitativ &#228;u&#223;erst hochwertig, da sich die Fragen auf Themen beziehen, die ihnen vertraut sind, so da&#223; die Aussagen &#252;ber den bisherigen wie zuk&#252;nftigen Gesch&#228;fts-verlauf eine sehr hohe Zuverl&#228;ssigkeit aufweisen. Informationen von &#228;hnlich hoher Qualit&#228;t liefern die Verbraucher zu ihren Kaufinformationen und zur Preisentwicklung. Klassifizierung: F&#252;r die Unternehmensbefragung wurde die NACE Rev. 1 (Statistische Systematik der Wirtschaftszweige in der Europ&#228;ischen Gemeinschaft, Eurostat, 1996) verwendet. Quelle: DG ECFIN</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ei_bcs_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_bcs_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teibs070</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teibs070.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teibs070.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2012</ecodp:periodStart>\n        <ecodp:periodEnd>2015</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/VHN6fVEBcXZPDj4uwQESLw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teibs070</foaf:primaryTopic><dct:modified>2015-07-31T08:14:18.933165</dct:modified><dct:issued>2014-12-22T10:05:02.293913</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "dfe9f391-3f93-42e0-9e61-141a56d5c333", 
+    "identifier": "teibs070"
+}

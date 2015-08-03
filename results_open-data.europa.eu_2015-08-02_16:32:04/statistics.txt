@@ -1,0 +1,4 @@
+448 out of 43443 links failed (1.03%)
+7 out of 8675 datasets contained no links (0.08%)
+
+Also take a look at failed_domain_count.csv to identify domains with many failed links

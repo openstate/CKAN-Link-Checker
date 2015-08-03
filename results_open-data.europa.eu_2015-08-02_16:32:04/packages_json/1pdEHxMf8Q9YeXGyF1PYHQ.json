@@ -1,0 +1,237 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Economic growth", 
+            "name": "Economic growth", 
+            "revision_timestamp": "2014-12-22T09:19:01.332089", 
+            "state": "active", 
+            "id": "abc84835-cda6-44c9-9e00-7c3737a2c939"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "fe7ce238-9c9e-4125-8422-329315108fdb", 
+    "metadata_created": "2014-12-22T09:19:01.332089", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T08:37:22.338304", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/56", 
+            "name": "http://eurovoc.europa.eu/56", 
+            "revision_timestamp": "2015-03-03T17:47:42.875868", 
+            "state": "active", 
+            "id": "e11c40fd-4749-49a0-934e-4d4f391248e8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00115.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:37:22.400551", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:37:22.337285", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "fb48d813-93f3-4eec-bbb5-62abb611a133", 
+            "size": null, 
+            "resource_group_id": "b6fdd059-72a2-441f-9bb1-0a9fb97b4b28", 
+            "id": "d0e69e87-451c-4876-8ce4-1809c47c2b32", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00115.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:37:22.400558", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:37:22.337285", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "fb48d813-93f3-4eec-bbb5-62abb611a133", 
+            "size": null, 
+            "resource_group_id": "b6fdd059-72a2-441f-9bb1-0a9fb97b4b28", 
+            "id": "879a240e-d5d2-4ef5-abe0-400e3cfebcd6", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "nama_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/nama_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:37:22.400514", 
+            "tracking_summary": {
+                "total": 2, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:37:22.337285", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "fb48d813-93f3-4eec-bbb5-62abb611a133", 
+            "size": null, 
+            "resource_group_id": "b6fdd059-72a2-441f-9bb1-0a9fb97b4b28", 
+            "id": "39f5d3ed-9867-4420-8227-a040e2c737cd", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/nama_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:37:22.400536", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:37:22.337285", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "fb48d813-93f3-4eec-bbb5-62abb611a133", 
+            "size": null, 
+            "resource_group_id": "b6fdd059-72a2-441f-9bb1-0a9fb97b4b28", 
+            "id": "403f0b10-dc85-4d76-8d27-e87cd33356ec", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00115", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:37:22.400544", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:37:22.337285", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "fb48d813-93f3-4eec-bbb5-62abb611a133", 
+            "size": null, 
+            "resource_group_id": "b6fdd059-72a2-441f-9bb1-0a9fb97b4b28", 
+            "id": "a307d472-7bab-4d08-8484-ccace50c87f1", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Gross domestic product (GDP) is a measure of the economic activity, defined as the value of all goods and services produced less the value of any goods or services used in their creation. The calculation of the annual growth rate of GDP volume is intended to allow comparisons of the dynamics of economic development both over time and between economies of different sizes. For measuring the growth rate of GDP in terms of volumes, the GDP at current prices are valued in the prices of the previous year and the thus computed volume changes are imposed on the level of a reference year; this is called a chain-linked series. Accordingly, price movements will not inflate the growth rate.", 
+    "title": "Real GDP growth rate - volume", 
+    "temporal_coverage_from": "2003", 
+    "tracking_summary": {
+        "total": 116, 
+        "recent": 7
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:19:01.332089", 
+    "name": "1pdEHxMf8Q9YeXGyF1PYHQ", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00115", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tec00115\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/56\"/>\n    <dct:title xml:lang=\"en\">Real GDP growth rate - volume</dct:title>\n    <dct:title xml:lang=\"fr\">Taux de croissance du PIB r&#233;el - en volume</dct:title>\n    <dct:title xml:lang=\"de\">Wachstumsrate des realen BIP - Volumen</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Economic growth</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Croissance &#233;conomique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Wirtschaftswachstum</ecodp:keyword>\n    <dct:identifier>tec00115</dct:identifier>\n    <dct:description xml:lang=\"en\">Gross domestic product (GDP) is a measure of the economic activity, defined as the value of all goods and services produced less the value of any goods or services used in their creation. The calculation of the annual growth rate of GDP volume is intended to allow comparisons of the dynamics of economic development both over time and between economies of different sizes. For measuring the growth rate of GDP in terms of volumes, the GDP at current prices are valued in the prices of the previous year and the thus computed volume changes are imposed on the level of a reference year; this is called a chain-linked series. Accordingly, price movements will not inflate the growth rate.</dct:description>\n    <dct:description xml:lang=\"fr\">Le produit int&#233;rieur brut (PIB) est une mesure de l'activit&#233; &#233;conomique. Il est d&#233;fini comme la valeur de tous les biens et services produits, moins la valeur des biens et services utilis&#233;s dans leur cr&#233;ation. Le calcul du taux de croissance annuel du PIB en volume est destin&#233; &#224; permettre les comparaisons des dynamiques du d&#233;veloppement &#233;conomique &#224; la fois &#224; travers le temps et entre des &#233;conomies de diff&#233;rentes tailles. Pour le calcul du taux de croissance du PIB en volume, le PIB &#224; prix constants est &#233;valu&#233; avec les prix de l'ann&#233;e pr&#233;c&#233;dente et les changements du volume ainsi calcul&#233;s sont imput&#233;s au niveau d'une ann&#233;e de r&#233;f&#233;rence. C'est ce qu'on appelle une s&#233;rie chain&#233;e li&#233;e. Par cons&#233;quent, les mouvements de prix ne contribuent pas &#224; augmenter le taux de croissance.</dct:description>\n    <dct:description xml:lang=\"de\">Das Bruttoinlandsprodukt (BIP) ist ein Ma&#223; der wirtschaftlichen Aktivit&#228;t. Es ist definiert als der Wert aller produzierten G&#252;ter und erbrachten Dienstleistungen abz&#252;glich des Wertes der zu deren Generierung verbrauchten G&#252;ter und Dienstleistungen. Die Berechnung der j&#228;hrlichen Wachstumsrate des BIP-Volumens soll Vergleiche der Dynamik der wirtschaftlichen Entwicklung sowohl &#252;ber die Zeit hinweg als auch zwischen L&#228;ndern unterschiedlicher Gr&#246;&#223;e erm&#246;glichen. Zur Berechnung der Wachstumsrate des BIP in Volumeneinheiten wird das in aktuellen Preisen gemessene BIP zu Preisen des Vorjahres bewertet und die so berechneten Volumen&#228;nderungen das Niveau eines Referenzjahres angewendet; daraus ergibt sich eine sog. verkettete Reihe. Dies bewirkt, dass Preis&#228;nderungen keinen Einfluss auf die Wachstumsrate aus&#252;ben.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/nama_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/nama_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tec00115</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00115.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00115.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2003</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/1pdEHxMf8Q9YeXGyF1PYHQ\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tec00115</foaf:primaryTopic><dct:modified>2015-07-30T11:17:50.732728</dct:modified><dct:issued>2014-12-22T09:19:01.332089</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "e6a53264-411f-4325-842a-f6dfeddaded1", 
+    "identifier": "tec00115"
+}

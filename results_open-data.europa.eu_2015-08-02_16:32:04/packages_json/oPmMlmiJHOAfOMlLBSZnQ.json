@@ -1,0 +1,242 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2050-12-31", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 41, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/DNK", 
+        "http://publications.europa.eu/resource/authority/country/BEL", 
+        "http://publications.europa.eu/resource/authority/country/BGR", 
+        "http://publications.europa.eu/resource/authority/country/GBR", 
+        "http://publications.europa.eu/resource/authority/country/IRL", 
+        "http://publications.europa.eu/resource/authority/country/PRT", 
+        "http://publications.europa.eu/resource/authority/country/NLD", 
+        "http://publications.europa.eu/resource/authority/country/GRC", 
+        "http://publications.europa.eu/resource/authority/country/ROU", 
+        "http://publications.europa.eu/resource/authority/country/FIN", 
+        "http://publications.europa.eu/resource/authority/country/ESP", 
+        "http://publications.europa.eu/resource/authority/country/FRA", 
+        "http://publications.europa.eu/resource/authority/country/CYP", 
+        "http://publications.europa.eu/resource/authority/country/LUX", 
+        "http://publications.europa.eu/resource/authority/country/AUT", 
+        "http://publications.europa.eu/resource/authority/country/DEU", 
+        "http://publications.europa.eu/resource/authority/country/ITA", 
+        "http://publications.europa.eu/resource/authority/country/LVA", 
+        "http://publications.europa.eu/resource/authority/country/SWE", 
+        "http://publications.europa.eu/resource/authority/country/SVK", 
+        "http://publications.europa.eu/resource/authority/country/LTU", 
+        "http://publications.europa.eu/resource/authority/country/HUN", 
+        "http://publications.europa.eu/resource/authority/country/CZE", 
+        "http://publications.europa.eu/resource/authority/country/MLT", 
+        "http://publications.europa.eu/resource/authority/country/EST", 
+        "http://publications.europa.eu/resource/authority/country/POL", 
+        "http://publications.europa.eu/resource/authority/country/SVN"
+    ], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "climatic change", 
+            "name": "climatic change", 
+            "revision_timestamp": "2012-12-14T10:03:06.698582", 
+            "state": "active", 
+            "id": "6f535dac-6403-4c8c-9f28-6a933f212127"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "deciduous forest", 
+            "name": "deciduous forest", 
+            "revision_timestamp": "2012-12-14T10:03:06.698582", 
+            "state": "active", 
+            "id": "8b4f8f9a-45fa-4cff-be10-99f63d66a228"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "europe", 
+            "name": "europe", 
+            "revision_timestamp": "2012-12-14T10:03:06.698582", 
+            "state": "active", 
+            "id": "770a3a41-e38d-40da-91d9-a94223a05fb6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "forest", 
+            "name": "forest", 
+            "revision_timestamp": "2012-12-14T10:03:06.698582", 
+            "state": "active", 
+            "id": "1ddbd2a8-a0e7-4017-bbaa-54f5453ce657"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "forest resource", 
+            "name": "forest resource", 
+            "revision_timestamp": "2012-12-14T10:03:06.698582", 
+            "state": "active", 
+            "id": "8c5f7dc4-10ce-4587-92c2-80b45b5304b6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "mathematical analysis", 
+            "name": "mathematical analysis", 
+            "revision_timestamp": "2012-12-14T10:03:06.698582", 
+            "state": "active", 
+            "id": "63ab7be3-26cb-46c2-a304-edd4aa110a0d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "modelling", 
+            "name": "modelling", 
+            "revision_timestamp": "2012-12-14T10:03:06.698582", 
+            "state": "active", 
+            "id": "9e215f57-37fa-407a-8ece-81471d02d129"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "natural resource", 
+            "name": "natural resource", 
+            "revision_timestamp": "2012-12-14T10:03:06.698582", 
+            "state": "active", 
+            "id": "2861bbcd-a07a-4617-8180-af0b78f2ff65"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "scientific research", 
+            "name": "scientific research", 
+            "revision_timestamp": "2012-12-14T10:03:06.698582", 
+            "state": "active", 
+            "id": "b4d27ce9-24c8-4114-aee6-d3470c36080f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "spatial distribution", 
+            "name": "spatial distribution", 
+            "revision_timestamp": "2012-12-14T10:03:06.698582", 
+            "state": "active", 
+            "id": "fc4fae62-3565-4aa2-8e60-b2ebf8223ebd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "species distribution", 
+            "name": "species distribution", 
+            "revision_timestamp": "2012-12-14T10:03:06.698582", 
+            "state": "active", 
+            "id": "12b67870-ef7e-4c55-83a6-2d935ed4b75e"
+        }
+    ], 
+    "contact_name": "European Commission, Joint Research Centre", 
+    "id": "a470f11f-25d6-4000-92cf-2d4c38559ff2", 
+    "metadata_created": "2012-12-14T10:03:06.698582", 
+    "modified_date": "2009-09-18", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:45:52.801397", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [], 
+    "creator_user_id": null, 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Compressed archive of geotiff maps of Pinus halepensis suitability for the current situation (year 2000; climate data: WorldClim) and for climate change scenarios A2 and B2 (years: 2020, 2050, 2080; climate models: CCCMA, CSIRO, HANDCM3, ensemble)", 
+            "format": "application/zip", 
+            "url": "http://geohub.jrc.ec.europa.eu/forest/climatechange/suitability/sp125_suit_all.tar.gz", 
+            "datastore_active": false, 
+            "created": "2014-06-26T07:34:04.270464", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-06-26T05:34:04.047047", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "02b3b35a-d6a1-4398-b57c-23ba49553222", 
+            "size": null, 
+            "resource_group_id": "87c2ab7e-bd2f-4b38-804e-043f89bd43cb", 
+            "id": "3ce0d442-4a55-418d-96ba-85349b6b6b5e", 
+            "resource_type": "http://www.w3.org/ns/dcat#Download", 
+            "name": "[Output data] Compressed archive of geotiff maps"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "From this page, it is possible to separately download compressed archives of geotiff maps for either the current situation (year 2000; climate data: WorldClim) or for climate change scenarios A2 or B2 (years: 2020, 2050, or 2080; climate models: CCCMA, CSIRO, or HANDCM3)", 
+            "format": "application/zip", 
+            "url": "http://forest.jrc.ec.europa.eu/efdac/applications/species-distrbution/", 
+            "datastore_active": false, 
+            "created": "2014-06-26T07:34:04.270485", 
+            "tracking_summary": {
+                "total": 6, 
+                "recent": 2
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-06-26T05:34:04.047047", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "02b3b35a-d6a1-4398-b57c-23ba49553222", 
+            "size": null, 
+            "resource_group_id": "87c2ab7e-bd2f-4b38-804e-043f89bd43cb", 
+            "id": "23a4cfda-d905-45da-a5a7-0ceb2df98ecb", 
+            "resource_type": "http://www.w3.org/ns/dcat#Download", 
+            "name": "[Output data] Interactive map download"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 2, 
+    "description": "Suitability maps (raster format: geotiff) of Pinus halepensis, computed using the ForestFocus European dataset of species presence/absence. The adopted suitability model estimates the optimal environmental conditions for European tree species under present and future climates. Available years: 2000, 2020, 2050, 2080. For year 2000 the observed (WorldClim) climate conditions have been used. For years 2020, 2050, 2080 the climate conditions simulated for the climate change scenarios A2 and B2 have been used (by means of the climate models CCCMA, CSIRO, HANDCM3 and of an ensemble model of them). The maps are available in the European Forest Data Center (EFDAC). The specific goal of EFDAC is to become a focal point for policy relevant forest data and information by hosting and pointing to relevant forest information as well as providing web-based tools for accessing information located in EFDAC.", 
+    "title": "Suitability maps of Pinus halepensis (ForestFocus)", 
+    "temporal_coverage_from": "2000-01-01", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "tracking_summary": {
+        "total": 325, 
+        "recent": 6
+    }, 
+    "contact_email": "mailto:efdac@jrc.ec.europa.eu", 
+    "groups": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2012-12-14T10:03:06.698582", 
+    "name": "oPmMlmiJHOAfOMlLBSZnQ", 
+    "isopen": true, 
+    "url": "http://rdsi.jrc.ec.europa.eu/id/series/pinus-halepensis_suitability_2000-2020-2050-2080_ff", 
+    "release_date": "2009-09-18", 
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5", 
+    "rdf": "<rdf:RDF xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:dctype=\"http://purl.org/dc/dcmitype/\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:locn=\"http://w3.org/ns/locn#\" xmlns:ogc=\"http://www.opengis.net/rdf#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:time=\"http://www.w3.org/2006/time#\" xmlns:wdrs=\"http://www.w3.org/2007/05/powder-s#\">\n  <rdf:Description rdf:about=\"http://rdsi.jrc.ec.europa.eu/doc/series/pinus-halepensis_suitability_2000-2020-2050-2080_ff\">\n    <foaf:primaryTopic rdf:resource=\"http://rdsi.jrc.ec.europa.eu/id/series/pinus-halepensis_suitability_2000-2020-2050-2080_ff\"/>\n    <dct:language>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n    </dct:language>\n    <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2012-02-17</dct:issued>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/jrc/\">\n        <foaf:name xml:lang=\"en\">European Commission, Joint Research Centre</foaf:name>\n        <foaf:mbox rdf:resource=\"mailto:efdac@jrc.ec.europa.eu\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/dgs/jrc/\"/>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/JRC\"/>\n    </dct:publisher>\n  </rdf:Description>\n  <rdf:Description rdf:about=\"http://rdsi.jrc.ec.europa.eu/id/series/pinus-halepensis_suitability_2000-2020-2050-2080_ff\">\n    <foaf:isPrimaryTopicOf rdf:resource=\"http://rdsi.jrc.ec.europa.eu/doc/series/pinus-halepensis_suitability_2000-2020-2050-2080_ff\"/>\n    <rdf:type rdf:resource=\"http://www.w3.org/ns/dcat#Dataset\"/>\n    <dct:type rdf:resource=\"http://purl.org/dc/dcmitype/Collection\"/>\n    <dc:type xml:lang=\"en\">series</dc:type>\n    <dct:title xml:lang=\"en\">Suitability maps of Pinus halepensis (ForestFocus)</dct:title>\n    <dct:description xml:lang=\"en\">Suitability maps (raster format: geotiff) of Pinus halepensis, computed using the ForestFocus European dataset of species presence/absence. The adopted suitability model estimates the optimal environmental conditions for European tree species under present and future climates. Available years: 2000, 2020, 2050, 2080. For year 2000 the observed (WorldClim) climate conditions have been used. For years 2020, 2050, 2080 the climate conditions simulated for the climate change scenarios A2 and B2 have been used (by means of the climate models CCCMA, CSIRO, HANDCM3 and of an ensemble model of them). The maps are available in the European Forest Data Center (EFDAC). The specific goal of EFDAC is to become a focal point for policy relevant forest data and information by hosting and pointing to relevant forest information as well as providing web-based tools for accessing information located in EFDAC.</dct:description>\n    <dct:subject rdf:datatype=\"http://www.isotc211.org/2005/gmd/identification.xsd#MD_TopicCategoryCode_Type\">geoscientificInformation</dct:subject>\n    <ecodp:keyword xml:lang=\"en\">species distribution</ecodp:keyword>\n    <dcat:theme>\n      <skos:Concept>\n        <skos:prefLabel xml:lang=\"en\">Species distribution</skos:prefLabel>\n        <skos:inScheme>\n          <skos:ConceptScheme>\n            <dct:title xml:lang=\"en\">GEMET - INSPIRE themes, version 1.0</dct:title>\n            <dct:created rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2012-02-17</dct:created>\n          </skos:ConceptScheme>\n        </skos:inScheme>\n      </skos:Concept>\n    </dcat:theme>\n    <ecodp:keyword xml:lang=\"en\">modelling</ecodp:keyword>\n    <dcat:theme>\n      <skos:Concept>\n        <skos:prefLabel xml:lang=\"en\">modelling</skos:prefLabel>\n        <skos:inScheme>\n          <skos:ConceptScheme>\n            <dct:title xml:lang=\"en\">GEMET - Concepts, version 2.4</dct:title>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2010-01-13</dct:issued>\n          </skos:ConceptScheme>\n        </skos:inScheme>\n      </skos:Concept>\n    </dcat:theme>\n    <ecodp:keyword xml:lang=\"en\">natural resource</ecodp:keyword>\n    <dcat:theme>\n      <skos:Concept>\n        <skos:prefLabel xml:lang=\"en\">natural resource</skos:prefLabel>\n        <skos:inScheme>\n          <skos:ConceptScheme>\n            <dct:title xml:lang=\"en\">GEMET - Concepts, version 2.4</dct:title>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2010-01-13</dct:issued>\n          </skos:ConceptScheme>\n        </skos:inScheme>\n      </skos:Concept>\n    </dcat:theme>\n    <ecodp:keyword xml:lang=\"en\">spatial distribution</ecodp:keyword>\n    <dcat:theme>\n      <skos:Concept>\n        <skos:prefLabel xml:lang=\"en\">spatial distribution</skos:prefLabel>\n        <skos:inScheme>\n          <skos:ConceptScheme>\n            <dct:title xml:lang=\"en\">GEMET - Concepts, version 2.4</dct:title>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2010-01-13</dct:issued>\n          </skos:ConceptScheme>\n        </skos:inScheme>\n      </skos:Concept>\n    </dcat:theme>\n    <ecodp:keyword xml:lang=\"en\">deciduous forest</ecodp:keyword>\n    <dcat:theme>\n      <skos:Concept>\n        <skos:prefLabel xml:lang=\"en\">deciduous forest</skos:prefLabel>\n        <skos:inScheme>\n          <skos:ConceptScheme>\n            <dct:title xml:lang=\"en\">GEMET - Concepts, version 2.4</dct:title>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2010-01-13</dct:issued>\n          </skos:ConceptScheme>\n        </skos:inScheme>\n      </skos:Concept>\n    </dcat:theme>\n    <ecodp:keyword xml:lang=\"en\">forest</ecodp:keyword>\n    <dcat:theme>\n      <skos:Concept>\n        <skos:prefLabel xml:lang=\"en\">forest</skos:prefLabel>\n        <skos:inScheme>\n          <skos:ConceptScheme>\n            <dct:title xml:lang=\"en\">GEMET - Concepts, version 2.4</dct:title>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2010-01-13</dct:issued>\n          </skos:ConceptScheme>\n        </skos:inScheme>\n      </skos:Concept>\n    </dcat:theme>\n    <ecodp:keyword xml:lang=\"en\">forest resource</ecodp:keyword>\n    <dcat:theme>\n      <skos:Concept>\n        <skos:prefLabel xml:lang=\"en\">forest resource</skos:prefLabel>\n        <skos:inScheme>\n          <skos:ConceptScheme>\n            <dct:title xml:lang=\"en\">GEMET - Concepts, version 2.4</dct:title>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2010-01-13</dct:issued>\n          </skos:ConceptScheme>\n        </skos:inScheme>\n      </skos:Concept>\n    </dcat:theme>\n    <ecodp:keyword xml:lang=\"en\">climatic change</ecodp:keyword>\n    <dcat:theme>\n      <skos:Concept>\n        <skos:prefLabel xml:lang=\"en\">climatic change</skos:prefLabel>\n        <skos:inScheme>\n          <skos:ConceptScheme>\n            <dct:title xml:lang=\"en\">GEMET - Concepts, version 2.4</dct:title>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2010-01-13</dct:issued>\n          </skos:ConceptScheme>\n        </skos:inScheme>\n      </skos:Concept>\n    </dcat:theme>\n    <ecodp:keyword xml:lang=\"en\">scientific research</ecodp:keyword>\n    <dcat:theme>\n      <skos:Concept>\n        <skos:prefLabel xml:lang=\"en\">scientific research</skos:prefLabel>\n        <skos:inScheme>\n          <skos:ConceptScheme>\n            <dct:title xml:lang=\"en\">GEMET - Concepts, version 2.4</dct:title>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2010-01-13</dct:issued>\n          </skos:ConceptScheme>\n        </skos:inScheme>\n      </skos:Concept>\n    </dcat:theme>\n    <ecodp:keyword xml:lang=\"en\">europe</ecodp:keyword>\n    <dcat:theme>\n      <skos:Concept>\n        <skos:prefLabel xml:lang=\"en\">Europe</skos:prefLabel>\n        <skos:inScheme>\n          <skos:ConceptScheme>\n            <dct:title xml:lang=\"en\">GEMET - Concepts, version 2.4</dct:title>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2010-01-13</dct:issued>\n          </skos:ConceptScheme>\n        </skos:inScheme>\n      </skos:Concept>\n    </dcat:theme>\n    <ecodp:keyword xml:lang=\"en\">mathematical analysis</ecodp:keyword>\n    <dcat:theme>\n      <skos:Concept>\n        <skos:prefLabel xml:lang=\"en\">mathematical analysis</skos:prefLabel>\n        <skos:inScheme>\n          <skos:ConceptScheme>\n            <dct:title xml:lang=\"en\">GEMET - Concepts, version 2.4</dct:title>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2010-01-13</dct:issued>\n          </skos:ConceptScheme>\n        </skos:inScheme>\n      </skos:Concept>\n    </dcat:theme>\n    <ecodp:interoperabilityLevel>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/interoperability-level/Semantic\"/>\n    </ecodp:interoperabilityLevel>\n    <dct:relation>\n      <rdf:Description rdf:about=\"http://geohub.jrc.ec.europa.eu/forest/efdac/efdac_suitability?request=GetCapabilities&amp;service=wms\">\n        <dct:title xml:lang=\"en\">[WMS] WMS view service</dct:title>\n        <dct:description xml:lang=\"en\">WMS view service for maps of Pinus halepensis suitability for the current situation (year 2000; climate data: WorldClim) and for climate change scenarios A2 and B2 (years: 2020, 2050, 2080; climate models: CCCMA, CSIRO, HANDCM3, ensemble)</dct:description>\n      </rdf:Description>\n    </dct:relation>\n    <wdrs:describedby>\n      <rdf:Description rdf:about=\"http://www.worldclim.org\">\n        <dct:title xml:lang=\"en\">[Input data] WORLDCLIM dataset</dct:title>\n        <dct:description xml:lang=\"en\">WorldClim is a set of global climate layers (climate grids) with a spatial resolution of about 1 square kilometer (30 arc s). Layers are interpolated climate surfaces for global land areas, excluding Antarctica.</dct:description>\n      </rdf:Description>\n    </wdrs:describedby>\n    <wdrs:describedby>\n      <rdf:Description rdf:about=\"http://dx.doi.org/10.1029/2005RG000183\">\n        <dct:title xml:lang=\"en\">[Input data] SRTM digital elevation model</dct:title>\n        <dct:description xml:lang=\"en\">The Shuttle Radar Topography Mission, which produced a high-resolution digital elevation model of the Earth.</dct:description>\n      </rdf:Description>\n    </wdrs:describedby>\n    <wdrs:describedby>\n      <rdf:Description rdf:about=\"http://esdac-catalog.jrc.ec.europa.eu/\">\n        <dct:title xml:lang=\"en\">[Input data] European Soil Database</dct:title>\n        <dct:description xml:lang=\"en\">From European Soil Database information on soil parent material has been derived. European Soil Data Centre (ESDAC) Metadata Catalogue contains metadata information on the dataset.</dct:description>\n      </rdf:Description>\n    </wdrs:describedby>\n    <wdrs:describedby>\n      <rdf:Description rdf:about=\"http://ec.europa.eu/environment/forests/ffocus.htm\">\n        <dct:title xml:lang=\"en\">[Input data] Forest Focus dataset</dct:title>\n        <dct:description xml:lang=\"en\">Regulation (EC) No 2152/2003 of the European Parliament and of the Council of 17 November 2003 concerning monitoring of forests and environmental interactions in the Community (Forest Focus), repealed by Regulation (EC) No 614/2007 of the European Parliament and of the Council concerning the Financial Instrument for the Environment. Commission Regulation (EC) No 1737/2006 of 7 November 2006 laying down detailed rules for the implementation of Regulation (EC) No 2152/2003 of the European Parliament and of the Council concerning monitoring of forests and environmental interactions in the Community</dct:description>\n      </rdf:Description>\n    </wdrs:describedby>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <rdf:type rdf:resource=\"http://www.w3.org/ns/dcat#Download\"/>\n      <dct:format rdf:parseType=\"Resource\">\n        <rdf:value rdf:datatype=\"http://purl.org/dc/terms/IMT\">application/zip</rdf:value>\n      </dct:format>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n      <dct:title xml:lang=\"en\">[Output data] Compressed archive of geotiff maps</dct:title>\n      <dct:description xml:lang=\"en\">Compressed archive of geotiff maps of Pinus halepensis suitability for the current situation (year 2000; climate data: WorldClim) and for climate change scenarios A2 and B2 (years: 2020, 2050, 2080; climate models: CCCMA, CSIRO, HANDCM3, ensemble)</dct:description>\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#anyURI\">http://geohub.jrc.ec.europa.eu/forest/climatechange/suitability/sp125_suit_all.tar.gz</dcat:accessURL>\n    </dcat:distribution>\n    <wdrs:describedby>\n      <rdf:Description rdf:about=\"http://dx.doi.org/10.1016/j.foreco.2009.10.001\">\n        <dct:title xml:lang=\"en\">[Methodology] Description of the suitability model</dct:title>\n        <dct:description xml:lang=\"en\">Description of the suitability model for estimating the optimal environmental conditions for European tree species under present and future climates.The methodology is exemplified by considering Pinus cembra L. in the Alps and the Carpathian mountains. Casalegno, S., Amatulli, G., Camia, A., Nelson, A., Pekkarinen, A. (2010) Vulnerability of Pinus cembra L. in the Alps and the Carpathian mountains under present and future climates, Forest Ecology and Management, Volume 259, Issue 4, 5 February 2010, Pages 750-761, ISSN: 0378-1127, DOI: 10.1016/j.foreco.2009.10.001.(http://www.sciencedirect.com/science/article/pii/S0378112709007257)</dct:description>\n      </rdf:Description>\n    </wdrs:describedby>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <rdf:type rdf:resource=\"http://www.w3.org/ns/dcat#Download\"/>\n      <dct:format rdf:parseType=\"Resource\">\n        <rdf:value rdf:datatype=\"http://purl.org/dc/terms/IMT\">application/zip</rdf:value>\n      </dct:format>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n      <dct:title xml:lang=\"en\">[Output data] Interactive map download</dct:title>\n      <dct:description xml:lang=\"en\">From this page, it is possible to separately download compressed archives of geotiff maps for either the current situation (year 2000; climate data: WorldClim) or for climate change scenarios A2 or B2 (years: 2020, 2050, or 2080; climate models: CCCMA, CSIRO, or HANDCM3)</dct:description>\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#anyURI\">http://forest.jrc.ec.europa.eu/efdac/applications/species-distrbution/</dcat:accessURL>\n    </dcat:distribution>\n    <dct:language>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n    </dct:language>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/AUT\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BEL\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BGR\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CYP\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CZE\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DEU\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DNK\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ESP\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/EST\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FIN\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FRA\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GBR\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GRC\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HUN\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/IRL\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ITA\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LVA\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LTU\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LUX\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/MLT\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/NLD\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/POL\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/PRT\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ROU\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVK\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVN\"/>\n    </dct:spatial>\n    <dct:spatial>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SWE\"/>\n    </dct:spatial>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2000-01-01</ecodp:periodStart>\n        <ecodp:periodEnd>2050-12-31</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n    <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2009-09-18</dct:issued>\n    <dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2009-09-18</dct:modified>\n    <dct:created rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#date\">2012-02-17</dct:created>\n    <dcat:quality xml:lang=\"en\">The suitability model for estimating the optimal environmental conditions for European tree species under present and future climates is described in Casalegno et al. 2010 (where the methodology is exemplified by considering Pinus cembra L. in the Alps and the Carpathian mountains). Forest tree species presence/absence information has been used from the European forest ecosystems monitoring program \"Forest Focus\" (EC, 2003). Bioclimatic and environmental data have also been used to describe current conditions and four global climate models to represent future scenarios. From the European Soil Database (Heineke et al., 1998) information on soil parent material has been derived. From the SRTM digital elevation model (Farr et al., 2007) slope and altitude standard have been computed. From the WORLDCLIM database (Hijmans et al., 2005) 24 bioclimatic factors and indices have been obtained as a function of minimum and maximum monthly averaged temperatures and monthly precipitations References Casalegno, S., Amatulli, G., Camia, A., Nelson, A., Pekkarinen, A. (2010) Vulnerability of Pinus cembra L. in the Alps and the Carpathian mountains under present and future climates, Forest Ecology and Management, Volume 259, Issue 4, 5 February 2010, Pages 750-761, ISSN: 0378-1127, DOI: 10.1016/j.foreco.2009.10.001. EC, 2003. Regulation (ec) no. 2152/2003. Forest Focus: Monitoring of Forests and Environmental Interactions in the Community. Heineke, H., Eckelmann, W., Thomasson, A., Jones, R., Montanarella, L., Buckley, B., 1998. Land Information Systems Developments for planning the sustainable use of land resources. Research Report. European Soil Boureau, Luxembourg. Farr, T.G., Rosen, P., Caro, E., Crippen, R., Duren, R., Hensley, S., Kobrick, M., Paller, M., Rodriguez, E., Roth, L., Seal, D., Shaffer, S., Shimada, J., Umland, J., Werner, M., Oskin, M., Burbank, D., Alsdorf, D. (2007). The shuttle radar topography mission. Review of Geophysics, Vol. 45, RG200. DOI:10.1029/2005RG000183 Hijmans, R.J., Cameron, S.E., Parra, J.L., Jones, P.G., Jarvis, A. (2005). Very high resolution interpolated climate surfaces for global land areas. International Journal of Climatology, 25 (15), pp. 1965-1978. DOI: 10.1002/joc.1276</dcat:quality>\n    <dcat:granularity rdf:datatype=\"http://www.w3.org/2001/XMLSchema-datatypes#string\">1km</dcat:granularity>\n    <dct:license rdf:resource=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/JRC\"/>\n    </dct:publisher>\n    <dct:rightsHolder>\n      <foaf:Organization>\n        <foaf:name xml:lang=\"en\">European Union</foaf:name>\n        <foaf:workplaceHomepage rdf:resource=\"http://europa.eu/\"/>\n      </foaf:Organization>\n    </dct:rightsHolder>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/jrc/\">\n        <foaf:name xml:lang=\"en\">European Commission, Joint Research Centre</foaf:name>\n        <foaf:mbox rdf:resource=\"mailto:efdac@jrc.ec.europa.eu\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/dgs/jrc/\"/>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:mediator>\n      <foaf:Organization>\n        <foaf:name xml:lang=\"en\">European Commission, Joint Research Centre</foaf:name>\n        <foaf:mbox rdf:resource=\"mailto:efdac@jrc.ec.europa.eu\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/dgs/jrc/\"/>\n      </foaf:Organization>\n    </dct:mediator>\n    <dct:creator>\n      <foaf:Organization>\n        <foaf:name xml:lang=\"en\">European Commission, Joint Research Centre</foaf:name>\n        <foaf:mbox rdf:resource=\"mailto:efdac@jrc.ec.europa.eu\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/dgs/jrc/\"/>\n      </foaf:Organization>\n    </dct:creator>\n  </rdf:Description>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/oPmMlmiJHOAfOMlLBSZnQ\"><foaf:primaryTopic>http://rdsi.jrc.ec.europa.eu/id/series/pinus-halepensis_suitability_2000-2020-2050-2080_ff</foaf:primaryTopic><dct:modified>2013-02-01T15:02:10.336401</dct:modified><dct:issued>2012-12-14T10:03:06.698582</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/dgs/jrc/", 
+    "organization": {
+        "description": "", 
+        "title": "Joint Research Centre", 
+        "created": "2012-12-12T13:50:55.444363", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:55.419747", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "28b63966-20b9-4bc9-826a-7fad675c212f", 
+        "type": "organization", 
+        "id": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5", 
+        "name": "jrc"
+    }, 
+    "revision_id": "0558c97f-cd6b-49fe-ac09-850ef235fd8c"
+}

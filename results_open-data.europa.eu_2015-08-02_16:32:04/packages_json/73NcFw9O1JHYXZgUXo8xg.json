@@ -1,0 +1,261 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 7, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Level of education", 
+            "name": "Level of education", 
+            "revision_timestamp": "2014-12-22T09:53:41.899272", 
+            "state": "active", 
+            "id": "2c399340-caec-451b-9dee-99ea12ea0d5a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Secondary education", 
+            "name": "Secondary education", 
+            "revision_timestamp": "2014-12-22T09:53:41.899272", 
+            "state": "active", 
+            "id": "7d68b269-2c71-4e8a-a36b-5b0c055c3850"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Teaching", 
+            "name": "Teaching", 
+            "revision_timestamp": "2014-12-22T09:53:41.899272", 
+            "state": "active", 
+            "id": "0926ec9d-3f45-4ea7-8f34-88ac9ff525e8"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "4b8c7e12-1a02-44e4-acf6-fbcbfaaa04f6", 
+    "metadata_created": "2015-07-27T14:33:17.246686", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T08:34:02.151366", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1074", 
+            "name": "http://eurovoc.europa.eu/1074", 
+            "revision_timestamp": "2015-03-03T17:17:10.612876", 
+            "state": "active", 
+            "id": "4599c5c0-e18e-4e12-b0cf-0faf3b09847a"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/668", 
+            "name": "http://eurovoc.europa.eu/668", 
+            "revision_timestamp": "2015-03-03T17:17:10.612876", 
+            "state": "active", 
+            "id": "3228f2ef-56ed-4d27-a06a-435b41d2b4ea"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00186.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:34:02.265516", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:34:02.150436", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "b01ca3b2-2b29-44a4-bd5a-57853d622a96", 
+            "size": null, 
+            "resource_group_id": "c2be7ac4-8b85-4997-9078-be718196fd87", 
+            "id": "01f53a71-46cc-4b1a-b2db-fd69ca6f6dc0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00186.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:34:02.265523", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:34:02.150436", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "b01ca3b2-2b29-44a4-bd5a-57853d622a96", 
+            "size": null, 
+            "resource_group_id": "c2be7ac4-8b85-4997-9078-be718196fd87", 
+            "id": "61d2662b-dc6b-46d6-be5c-1a3a822b3136", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "edat1_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/edat1_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:34:02.265470", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:34:02.150436", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "b01ca3b2-2b29-44a4-bd5a-57853d622a96", 
+            "size": null, 
+            "resource_group_id": "c2be7ac4-8b85-4997-9078-be718196fd87", 
+            "id": "970ffbc5-945d-4432-a5ff-8edadf9260d7", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/edat1_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:34:02.265501", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:34:02.150436", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "b01ca3b2-2b29-44a4-bd5a-57853d622a96", 
+            "size": null, 
+            "resource_group_id": "c2be7ac4-8b85-4997-9078-be718196fd87", 
+            "id": "3caece02-2845-488f-869c-3bd681dd4791", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00186", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:34:02.265509", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:34:02.150436", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "b01ca3b2-2b29-44a4-bd5a-57853d622a96", 
+            "size": null, 
+            "resource_group_id": "c2be7ac4-8b85-4997-9078-be718196fd87", 
+            "id": "1c221b95-442e-409f-a92c-f892590c65d5", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The indicator is defined as the percentage of people aged 20-24 who have successfully completed at least upper secondary education. This educational attainment refers to ISCED (International Standard Classification of Education) 2011 level 3-8 for data from 2014 onwards and to ISCED 1997 level 3-6 for data up to 2013. The indicator is based on the EU Labour Force Survey. The indicator aims to measure the share of the population that is likely to have the minimum necessary qualifications to actively participate in social and economic life. It should be noted that completion of upper secondary education can be achieved in European countries after varying lengths of study, according to different national educational systems.", 
+    "title": "Upper secondary or tertiary educational attainment, age group 20-24 by sex", 
+    "temporal_coverage_from": "2003", 
+    "tracking_summary": {
+        "total": 49, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100150", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100150", 
+            "image_display_url": "", 
+            "id": "f9b717f1-427b-4fa9-ae8e-bd33144b4f3b", 
+            "name": "eurovoc_domain_100150"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-27T14:33:17.246686", 
+    "name": "73NcFw9O1JHYXZgUXo8xg", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00186", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tps00186\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100150\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/668\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1074\"/>\n    <dct:title xml:lang=\"en\">Upper secondary or tertiary educational attainment, age group 20-24 by sex</dct:title>\n    <dct:title xml:lang=\"fr\">Niveau d'&#233;tudes secondaire sup&#233;rieur ou niveau d'&#233;tudes sup&#233;rieur, tranche d'&#226;ge 20-24 ans par sexe</dct:title>\n    <dct:title xml:lang=\"de\">Bildungsabschluss im Sekundarbereich II oder im Terti&#228;rbereich, Altersgruppe der 20-24-J&#228;hrigen nach Geschlecht</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Teaching</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Level of education</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Secondary education</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Enseignement</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Enseignement</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Enseignement secondaire</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Unterrichtswesen</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Stufe des Bildungssystems</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Sekundarstufe</ecodp:keyword>\n    <dct:identifier>tps00186</dct:identifier>\n    <dct:description xml:lang=\"en\">The indicator is defined as the percentage of people aged 20-24 who have successfully completed at least upper secondary education. This educational attainment refers to ISCED (International Standard Classification of Education) 2011 level 3-8 for data from 2014 onwards and to ISCED 1997 level 3-6 for data up to 2013. The indicator is based on the EU Labour Force Survey. The indicator aims to measure the share of the population that is likely to have the minimum necessary qualifications to actively participate in social and economic life. It should be noted that completion of upper secondary education can be achieved in European countries after varying lengths of study, according to different national educational systems.</dct:description>\n    <dct:description xml:lang=\"fr\">Cet indicateur est d&#233;fini comme le pourcentage de la population &#226;g&#233;e de 20 &#224; 24 ans ayant achev&#233; avec succ&#232;s au moins le second cycle des &#233;tudes secondaires. Ce niveau d&#8217;&#233;ducation atteint se r&#233;f&#232;re &#224; la CITE (Classification Internationale Type de l'Education) 2011 niveaux 3 &#224; 8 pour les donn&#233;es &#224; partir de 2014 et &#224; la CITE 1997 niveaux 3 &#224; 6 pour les donn&#233;es jusqu&#8217;en 2013. L&#8217;indicateur est bas&#233; sur l&#8217;Enqu&#234;te sur les forces de travail de l&#8217;UE. L&#8217;indicateur vise &#224; mesurer la part de la population susceptible de poss&#233;der les qualifications minimales n&#233;cessaires pour prendre une part active dans la vie &#233;conomique et sociale. Il convient de noter que la dur&#233;e du second cycle des &#233;tudes peut varier d&#8217;un pays &#224; l&#8217;autre suivant les diff&#233;rents syst&#232;mes &#233;ducatifs nationaux des pays europ&#233;ens.</dct:description>\n    <dct:description xml:lang=\"de\">Der Indikator ist definiert als der Prozentsatz der 20- bis 24-j&#228;hrigen Bev&#246;lkerung, die mindestens einen Abschluss im Sekundarbereich II haben. Dieser Bildungsstand bezieht sich auf die ISCED (Internationale Standard-Klassifikation des Bildungswesens) 2011 Stufen 3-8 f&#252;r Daten ab 2014 und auf ISCED 1997 Stufen 3-6 f&#252;r Daten bis 2013. Der Indikator wird anhand von Daten der EU Arbeitskr&#228;fteerhebung berechnet. Auf diese Weise soll der Anteil der Bev&#246;lkerung gemessen werden, die &#252;ber die notwendige Mindestqualifikationen verf&#252;gen, um aktiv am sozialen und wirtschaftlichen Leben teilzunehmen. Dabei ist darauf hinzuweisen, dass der Sekundarbereich II in den einzelnen europ&#228;ischen L&#228;ndern aufgrund der unterschiedlichen nationalen Bildungssysteme nach unterschiedlich langen Ausbildungszeiten abgeschlossen wird.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/edat1_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/edat1_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tps00186</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00186.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00186.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2003</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/73NcFw9O1JHYXZgUXo8xg\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tps00186</foaf:primaryTopic><dct:modified>2015-07-30T09:23:11.895079</dct:modified><dct:issued>2015-02-17T12:18:02.603701</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "febcfa91-6ed6-420d-b2f4-58b2903da728", 
+    "identifier": "tps00186"
+}

@@ -1,0 +1,486 @@
+{
+    "temporal_granularity": [
+        "year"
+    ], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 28, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/1A0", 
+        "http://publications.europa.eu/resource/authority/country/MKD", 
+        "http://publications.europa.eu/resource/authority/country/TUR", 
+        "http://publications.europa.eu/resource/authority/country/MNE", 
+        "http://publications.europa.eu/resource/authority/country/HRV", 
+        "http://publications.europa.eu/resource/authority/country/ALB", 
+        "http://publications.europa.eu/resource/authority/country/NOR", 
+        "http://publications.europa.eu/resource/authority/country/EU27"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "EWCS 2010", 
+            "name": "EWCS 2010", 
+            "revision_timestamp": "2013-08-01T12:36:07.923472", 
+            "state": "active", 
+            "id": "39776723-d31f-4de2-9fcc-aa358f61bb33"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Eurofound", 
+            "name": "Eurofound", 
+            "revision_timestamp": "2014-05-16T12:52:18.370327", 
+            "state": "active", 
+            "id": "7912efb6-4601-4c4d-8f7b-d96bf48bff4f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Union Agency", 
+            "name": "European Union Agency", 
+            "revision_timestamp": "2014-05-06T15:41:07.459043", 
+            "state": "active", 
+            "id": "b8d3def7-b3a9-45b4-929c-d49c84709dfb"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Working Conditions Survey", 
+            "name": "European Working Conditions Survey", 
+            "revision_timestamp": "2013-08-01T12:36:07.923472", 
+            "state": "active", 
+            "id": "85a13e8b-31b7-4612-907f-7a9dada1fca5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Organisation of work and working conditions", 
+            "name": "Organisation of work and working conditions", 
+            "revision_timestamp": "2013-08-01T09:02:20.669311", 
+            "state": "active", 
+            "id": "c1c825c5-95da-41e5-b34e-0d24c5d48e9d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Quality of work and employment", 
+            "name": "Quality of work and employment", 
+            "revision_timestamp": "2013-08-01T09:02:20.669311", 
+            "state": "active", 
+            "id": "b0f4c246-479a-4fbe-a985-8b61107505c4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Working conditions", 
+            "name": "Working conditions", 
+            "revision_timestamp": "2013-08-01T09:02:20.669311", 
+            "state": "active", 
+            "id": "49230f2c-ff9c-4fa5-bbfb-e97b4d3c7d3e"
+        }
+    ], 
+    "contact_name": "European Foundation for the Improvement of Living and Working Conditions (Eurofound)", 
+    "id": "ef3aea21-fe77-4a07-a987-f8a25041d1c7", 
+    "metadata_created": "2015-07-27T17:34:09.066853", 
+    "modified_date": "2012-05-04", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:34:09.069409", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/82", 
+            "name": "http://eurovoc.europa.eu/82", 
+            "revision_timestamp": "2015-02-11T14:25:46.859105", 
+            "state": "active", 
+            "id": "d73385dd-5acb-4bae-9198-976ff6fc2f36"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2184", 
+            "name": "http://eurovoc.europa.eu/2184", 
+            "revision_timestamp": "2015-02-11T14:25:46.859105", 
+            "state": "active", 
+            "id": "53ae7cda-3513-410e-a1e2-088514189248"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3717", 
+            "name": "http://eurovoc.europa.eu/3717", 
+            "revision_timestamp": "2015-02-11T14:25:46.859105", 
+            "state": "active", 
+            "id": "1c6d6ce6-7d39-408a-99e1-d9af9ba58fcd"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1740", 
+            "name": "http://eurovoc.europa.eu/1740", 
+            "revision_timestamp": "2015-02-11T14:25:46.859105", 
+            "state": "active", 
+            "id": "271c9e13-1fd9-4516-a1a2-5a1ab6c853fc"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3537", 
+            "name": "http://eurovoc.europa.eu/3537", 
+            "revision_timestamp": "2015-02-11T14:25:46.859105", 
+            "state": "active", 
+            "id": "aef3d2b9-9fb1-4b9d-ac1a-3ea20a7feca4"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6150", 
+            "name": "http://eurovoc.europa.eu/6150", 
+            "revision_timestamp": "2015-02-11T14:25:46.859105", 
+            "state": "active", 
+            "id": "f0de84b3-6a04-4841-b6e3-0f903de4dca7"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/592", 
+            "name": "http://eurovoc.europa.eu/592", 
+            "revision_timestamp": "2015-02-11T14:25:46.859105", 
+            "state": "active", 
+            "id": "de0ec77c-d69d-4cef-b8da-37293cbab6c2"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4256", 
+            "name": "http://eurovoc.europa.eu/4256", 
+            "revision_timestamp": "2015-02-11T14:25:46.859105", 
+            "state": "active", 
+            "id": "b9fd4e78-a091-427d-8089-d23605c10a6b"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/772", 
+            "name": "http://eurovoc.europa.eu/772", 
+            "revision_timestamp": "2015-02-11T14:25:46.859105", 
+            "state": "active", 
+            "id": "6494e98f-c208-4cf5-9dcd-a1c969da5010"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Master questionnaire.\r\n\r\nA high quality questionnaire is a key element of a successful survey. Eurofound invests considerably in the development of its questionnaires. The Fifth EWCS questionnaire includes questions from previous rounds, where possible and relevant, to enable analysis of trends over time. In addition, new concepts are integrated to reflect new and emerging areas of interest. The questionnaire underwent detailed preparation in house and was developed in close collaboration with an expert group.\r\n", 
+            "format": "application/pdf", 
+            "url": "http://www.eurofound.europa.eu/surveys/ewcs/2010/documents/masterquestionnaire.pdf", 
+            "datastore_active": false, 
+            "created": "2014-05-16T10:08:12.219855", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-05-27T08:31:46.017474", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "8d1448b5-e29f-4940-a05e-81a79fde7b51", 
+            "size": null, 
+            "resource_group_id": "97f0fda8-028b-4264-a70b-76b49cc32d7b", 
+            "id": "4ed0a179-6fca-48b6-8edb-679422fa6e4a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "A. Master questionnaire"
+        }, 
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Data explorer - graphical presentation of the EWCS. \r\nThis tool offers graphical presentations of the findings of the fifth European Working Conditions Survey carried out in 2010, and of the developments in working conditions between 1991 and 2010. \r\n\r\nFor every question presented, users can: view the 2010 data on the map or in bar charts or tables; click on a country to see the data for this country compared with EU averages; view EU level trend data in bar charts and national level trend data in tables; explore the 2010 figures and the trends broken down by gender, age, employment status, activity of the organisation or type of occupation; download the data as an .xls or a .csv file", 
+            "format": "text/html", 
+            "url": "http://www.eurofound.europa.eu/surveys/smt/ewcs/results.htm", 
+            "datastore_active": false, 
+            "created": "2014-05-16T10:08:12.219868", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-05-27T10:00:26.628217", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "c554bd92-6831-4cc5-8547-baf3e203cb0c", 
+            "size": null, 
+            "resource_group_id": "97f0fda8-028b-4264-a70b-76b49cc32d7b", 
+            "id": "0cbb75c3-ee03-4031-a981-482bdfbd278f", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "B. Data explorer - Survey mapping tool "
+        }, 
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Table 1 - Breakdown by country. \r\n\r\n", 
+            "format": "text/csv", 
+            "url": "http://www.eurofound.europa.eu/surveys/ewcs/2010/documents/table1.csv", 
+            "datastore_active": false, 
+            "created": "2013-08-01T10:58:47.559650", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": "enabled", 
+            "revision_timestamp": "2014-05-27T08:26:17.060608", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "b24e693a-b5cc-419b-8e99-e50491fc7149", 
+            "size": null, 
+            "resource_group_id": "97f0fda8-028b-4264-a70b-76b49cc32d7b", 
+            "id": "a65efab3-cf74-4953-804a-578885cf7276", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "C. EWCS 2010 - Table 1 - Breakdown by country"
+        }, 
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Table 2 - Other breakdowns.\r\n\r\nThis table shows the values for different categories of age, gender, employment status, sector and occupation.\r\n\r\n", 
+            "format": "text/csv", 
+            "url": "http://www.eurofound.europa.eu/surveys/ewcs/2010/documents/table2.csv", 
+            "datastore_active": false, 
+            "created": "2014-05-16T09:09:42.073203", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-05-27T08:26:17.060608", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "b24e693a-b5cc-419b-8e99-e50491fc7149", 
+            "size": null, 
+            "resource_group_id": "97f0fda8-028b-4264-a70b-76b49cc32d7b", 
+            "id": "fc6dc78e-2b93-42ce-bd51-153407b729e0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "D. Table 2 - Other breakdowns"
+        }, 
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Table 3 - Breakdown by country - Men only.\r\n\r\nAlthough Table 2 allows for a general comparison between men and women at the EU27 level, it does not allow for more specific comparisons between men and women, for instance within a certain country or within a certain sector. Therefore, in order to give more information on topics from a gender perspective Table 3 provides a breakdown by country \u2013 men only, allowing a comparison between the values for men and women within the analysis shown in Table 2. ", 
+            "format": "text/csv", 
+            "url": "http://www.eurofound.europa.eu/surveys/ewcs/2010/documents/table3.csv", 
+            "datastore_active": false, 
+            "created": "2014-05-16T10:08:12.219810", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-05-27T08:26:17.060608", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "b24e693a-b5cc-419b-8e99-e50491fc7149", 
+            "size": null, 
+            "resource_group_id": "97f0fda8-028b-4264-a70b-76b49cc32d7b", 
+            "id": "290a919d-afec-4ad0-9588-83b1904c7e01", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "E. Table 3 - Breakdown by country - Men only"
+        }, 
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Table 4 - Other breakdowns - Men only.\r\n\r\n Although Table 2 allows for a general comparison between men and women at the EU27 level, it does not allow for more specific comparisons between men and women, for instance within a certain country or within a certain sector. Therefore, in order to give more information on topics from a gender perspective Table 4 provides other breakdowns \u2013 men only, allowing a comparison between the values for men and women within the analysis shown in Table 2. ", 
+            "format": "text/csv", 
+            "url": "http://www.eurofound.europa.eu/surveys/ewcs/2010/documents/table4.csvhttp://www.eurofound.europa.eu/surveys/ewcs/2010/documents/table4.csv", 
+            "datastore_active": false, 
+            "created": "2014-05-16T10:08:12.219833", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-05-27T08:26:17.060608", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 5, 
+            "revision_id": "b24e693a-b5cc-419b-8e99-e50491fc7149", 
+            "size": null, 
+            "resource_group_id": "97f0fda8-028b-4264-a70b-76b49cc32d7b", 
+            "id": "9a7053fc-80aa-4649-89f7-b1ad742e538f", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "F. Table 4 - Other breakdowns - Men only"
+        }, 
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Table 5 - Breakdown by country - Women only.\r\n\r\nAlthough Table 2 allows for a general comparison between men and women at the EU27 level, it does not allow for more specific comparisons between men and women, for instance within a certain country or within a certain sector. Therefore, in order to give more information on topics from a gender perspective Table 5 provides a breakdown by country \u2013 women only, allowing a comparison between the values for men and women within the analysis shown in Table 2. ", 
+            "format": "text/csv", 
+            "url": "http://www.eurofound.europa.eu/surveys/ewcs/2010/documents/table5.csv", 
+            "datastore_active": false, 
+            "created": "2014-05-16T10:08:12.219841", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-05-27T08:26:17.060608", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 6, 
+            "revision_id": "b24e693a-b5cc-419b-8e99-e50491fc7149", 
+            "size": null, 
+            "resource_group_id": "97f0fda8-028b-4264-a70b-76b49cc32d7b", 
+            "id": "94380b2d-ea80-4a63-b4fb-61b55e89becb", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "G. Table 5 - Breakdown by country - Women only"
+        }, 
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Table 6 - Other breakdowns - Women only. \r\n\r\nAlthough Table 2 allows for a general comparison between men and women at the EU27 level, it does not allow for more specific comparisons between men and women, for instance within a certain country or within a certain sector. Therefore, in order to give more information on topics from a gender perspective Table 6 provides other breakdown - women only, allowing a comparison between the values for men and women within the analysis shown in Table 2.\r\n", 
+            "format": "text/csv", 
+            "url": "http://www.eurofound.europa.eu/surveys/ewcs/2010/documents/table6.csv", 
+            "datastore_active": false, 
+            "created": "2014-05-16T10:08:12.219848", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-05-27T08:26:17.060608", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 7, 
+            "revision_id": "b24e693a-b5cc-419b-8e99-e50491fc7149", 
+            "size": null, 
+            "resource_group_id": "97f0fda8-028b-4264-a70b-76b49cc32d7b", 
+            "id": "cf5d5f1b-a54e-45dc-8525-c3c4849c635d", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "H. Table 6 - Other breakdowns - Women only "
+        }, 
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Fifth EWCS overview report.\r\n", 
+            "format": "application/pdf", 
+            "url": "http://www.eurofound.europa.eu/publications/htmlfiles/ef1182.htm", 
+            "datastore_active": false, 
+            "created": "2014-05-16T10:08:12.219861", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-05-27T08:28:45.993061", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 8, 
+            "revision_id": "052346fd-4506-448a-93bc-96cd3493d66e", 
+            "size": null, 
+            "resource_group_id": "97f0fda8-028b-4264-a70b-76b49cc32d7b", 
+            "id": "013829b9-3375-414d-babd-488d388e6651", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "I. Fifth EWCS overview report."
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 9, 
+    "description": "Since its launch in 1990, Eurofound's European Working Conditions Survey (EWCS) has provided an overview of working conditions in Europe. It aims to create a comprehensive picture of the everyday reality of men and women at work. \r\n\r\nThemes covered include employment status, working time duration and organisation, work organisation, learning and training, physical and psychosocial risk factors, health and safety, work-life balance, worker participation, earnings and financial security, as well as work and health. For the fifth EWCS in 2010 workers were surveyed in the then EU27, Norway, Croatia, the Former Yugoslav Republic of Macedonia, Turkey, Albania, Montenegro and Kosovo. \r\n\r\nThe data explorer (survey mapping tool) offers a graphical presentation of the findings of the fifth EWCS. \r\n\r\nThe tables presented here complement the data in the survey mapping tool. The variables in the tables are sorted by topic, and proportions, mean values or distributions are given for different subcategories of respondents. Column A of the tables states the original name of each variable in the survey, with a label that specifies the content of the variable. Column B specifies the different answer categories for that variable. \r\n\r\nFor some variables, the answer categories have been condensed into fewer categories in order to reduce the table\u2019s size or in order to show the distribution of a numerical variable. The original wording and coding of the questions can be viewed on the EWCS 2010 questionnaire.\r\n\r\n", 
+    "title": "Fifth European Working Conditions survey - 2010", 
+    "temporal_coverage_from": "2010", 
+    "tracking_summary": {
+        "total": 361, 
+        "recent": 12
+    }, 
+    "contact_email": "Information@eurofound.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": "362c9b5f-7f3a-4d62-9923-17023797eabb", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T17:34:09.066853", 
+    "name": "fifth-european-working-conditions-survey-2010", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "The 2010 European Working Conditions Survey (EWCS)", 
+    "accrual_periodicity": "", 
+    "release_date": "2009-11-06", 
+    "owner_org": "b1663bb7-8566-4112-b805-5a68ca932b22", 
+    "contact_address": "Wyattville Road - Loughlinstown - Dublin 18 - Ireland ", 
+    "contact_telephone": "+ 353 1 2043100", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://www.eurofound.europa.eu/help/contact.htm", 
+    "url": "http://www.eurofound.europa.eu/surveys/ewcs/2010/datatables.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Eurofound", 
+        "created": "2012-12-12T13:50:53.328063", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:53.302573", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "3c61336b-e74b-4478-81a8-ffffdf8189af", 
+        "type": "organization", 
+        "id": "b1663bb7-8566-4112-b805-5a68ca932b22", 
+        "name": "eurofound"
+    }, 
+    "revision_id": "74b91fd9-ebd3-40fe-bcd8-a1892f170296", 
+    "identifier": "", 
+    "version_description": ""
+}

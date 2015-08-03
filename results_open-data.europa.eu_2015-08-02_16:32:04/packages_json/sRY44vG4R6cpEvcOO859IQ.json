@@ -1,0 +1,175 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 3, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "37edc75b-5f72-467d-8a93-3453d954988a", 
+    "metadata_created": "2015-07-27T14:17:00.433248", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T09:33:21.936253", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4260", 
+            "name": "http://eurovoc.europa.eu/4260", 
+            "revision_timestamp": "2015-03-03T18:46:48.734862", 
+            "state": "active", 
+            "id": "9ec93757-4a51-44aa-bf9a-26f42e9d0a5d"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00052.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:33:22.177233", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:33:21.933138", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "a7ecc7d8-74db-4695-841d-0a8b3c70b77f", 
+            "size": null, 
+            "resource_group_id": "2ad0f07f-c3b2-42dd-9838-b92315a9f408", 
+            "id": "35f8e382-a351-40ae-b5b5-c419d834fc68", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00052.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:33:22.177241", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:33:21.933138", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "a7ecc7d8-74db-4695-841d-0a8b3c70b77f", 
+            "size": null, 
+            "resource_group_id": "2ad0f07f-c3b2-42dd-9838-b92315a9f408", 
+            "id": "6cf15c3c-cd98-48e6-a86e-73320a0eec94", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ten00052", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:33:22.177199", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:33:21.933138", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "a7ecc7d8-74db-4695-841d-0a8b3c70b77f", 
+            "size": null, 
+            "resource_group_id": "2ad0f07f-c3b2-42dd-9838-b92315a9f408", 
+            "id": "9c91d2d7-adf3-4983-9108-913d5ceb7d7a", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Environmental protection expenditure is the money spent on all purposeful activities directly aimed at the prevention, reduction and elimination of pollution or any other degradation of the environment. It includes environmental investments and environmental current expenditure. Environmental investments are all outlays in a given year for machinery, equipment and land used for environmental protection purposes. Current expenditure for environmental protection includes daily operating activities aiming at the prevention or reduction of pollution. It includes for example expenditure for staff working on environmental issues and materials for environmental protection. Industry includes mining and quarrying, manufacturing and electricity, gas and water supply sectors (NACE Rev.2 Sections B, C, D and Division 36).", 
+    "title": "Environmental protection expenditure of industry by type", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 13, 
+        "recent": 0
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100155", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100155", 
+            "image_display_url": "", 
+            "id": "f0873571-606a-4f6c-8ec7-6c94f919c8a1", 
+            "name": "eurovoc_domain_100155"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100159", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100159", 
+            "image_display_url": "", 
+            "id": "411bf1e5-296f-4f4c-8ddf-2838d86ce110", 
+            "name": "eurovoc_domain_100159"
+        }
+    ], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-27T14:17:00.433248", 
+    "name": "sRY44vG4R6cpEvcOO859IQ", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ten00052", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/ten00052\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100155\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100159\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4260\"/>\n    <dct:title xml:lang=\"en\">Environmental protection expenditure of industry by type</dct:title>\n    <dct:title xml:lang=\"fr\">D&#233;penses de protection de l'environnement de l'industrie par type</dct:title>\n    <dct:title xml:lang=\"de\">Ausgaben des Umweltschutzes der Industrie nach Art</dct:title>\n    <dct:identifier>ten00052</dct:identifier>\n    <dct:description xml:lang=\"en\">Environmental protection expenditure is the money spent on all purposeful activities directly aimed at the prevention, reduction and elimination of pollution or any other degradation of the environment. It includes environmental investments and environmental current expenditure. Environmental investments are all outlays in a given year for machinery, equipment and land used for environmental protection purposes. Current expenditure for environmental protection includes daily operating activities aiming at the prevention or reduction of pollution. It includes for example expenditure for staff working on environmental issues and materials for environmental protection. Industry includes mining and quarrying, manufacturing and electricity, gas and water supply sectors (NACE Rev.2 Sections B, C, D and Division 36).</dct:description>\n    <dct:description xml:lang=\"fr\">Par d&#233;penses de protection de l'environnement (DPE), on entend les ressources consacr&#233;es &#224; toutes les activit&#233;s visant r&#233;solument et directement &#224; pr&#233;venir, r&#233;duire et &#233;liminer la pollution ou toute autre d&#233;gradation de l'environnement. Les d&#233;penses totales de protection de l'environnement sont la somme des investissements de protection de l'environnement et des d&#233;penses courantes de protection de l'environnement. Les investissements de protection de l'environnement incluent toutes les d&#233;penses consacr&#233;es, pendant une ann&#233;e donn&#233;e, &#224; l'acquisition de machines, d'&#233;quipements et de terrains utilis&#233;s &#224; des fins de protection de l'environnement. Les d&#233;penses courantes de protection de l'environnement incluent les activit&#233;s d'exploitation quotidiennes visant &#224; la pr&#233;vention ou la r&#233;duction de la pollution. Elles comprennent par exemple les d&#233;penses pour le personnel travaillant dans le domaine de l'am&#233;lioration de l'environnement et de mat&#233;riels pour la protection de l'environnement. Par industries on comprend: industries extractives et manufacturi&#232;res, production et distribution d'&#233;lectricit&#233;, de gaz et d'eau. (Sections B, C, D et division 36 de la NACE R&#233;v. 2).</dct:description>\n    <dct:description xml:lang=\"de\">Umweltschutzausgaben sind alle Ausgaben, die f&#252;r sinnvolle Ma&#223;nahmen zur direkten Vermeidung, Verringerung und Beseitigung von Verschmutzungen oder sonstigen Umweltbelastungen aufgewendet werden. Umweltschutzausgaben ergeben sich insgesamt aus der Summe von Umweltinvestitionen und laufenden Umweltausgaben. Umweltinvestitionen beinhalten alle innerhalb eines bestimmten Jahres get&#228;tigten Ausgaben f&#252;r Maschinen, Ausr&#252;stung und Grundst&#252;cke, die dem Umweltschutz dienen. Laufende Ausgaben f&#252;r den Umweltschutz umfassen t&#228;gliche Aktivit&#228;ten, die der Vorbeugung oder der Verminderung von Verschmutzung gewidmet sind. Dazu geh&#246;ren beispielsweise Ausgaben f&#252;r Personal, das mit umweltbezogenen Aufgaben betreut ist, und Material, das f&#252;r den Umweltschutz eingesetzt wird. Der Wirtschaftszweig Industrie umfasst die Industriezweige Bergbau und Gewinnung von Steinen und Erden, Herstellung von Waren, Energieversorgung (Elektrizit&#228;t und Gas) und Wasserversorgung (NACE Rev. 2 Abschnitte B, C, D und Abteilung 36).</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/ten00052</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00052.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00052.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/sRY44vG4R6cpEvcOO859IQ\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/ten00052</foaf:primaryTopic><dct:modified>2015-07-30T10:02:03.888052</dct:modified><dct:issued>2015-04-14T11:15:12.538909</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "24b5b156-cb79-4f81-be67-a0211402b01e", 
+    "identifier": "ten00052"
+}

@@ -1,0 +1,222 @@
+{
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2006", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 3, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "4efea42e-a50f-4fd1-af23-c94ba6cd73a0", 
+    "metadata_created": "2014-12-22T07:25:13.599391", 
+    "modified_date": "2015-04-22", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T07:41:55.700274", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "interoperability_level": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1280", 
+            "name": "http://eurovoc.europa.eu/1280", 
+            "revision_timestamp": "2015-03-03T21:28:36.494191", 
+            "state": "active", 
+            "id": "33ad54dd-ba28-494c-94dd-80173920c7e6"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "name": null, 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsdph400.tsv.gz", 
+            "created": "2015-07-31T09:41:55.758511", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:41:55.699210", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "resource_group_id": "2b121b18-aeee-448f-921a-aa8bedbe91a1", 
+            "revision_id": "0fb8955f-6a7d-4d8c-b940-eb65ecb8eee2", 
+            "id": "ec61098d-4800-4dd8-bdbf-fcdbe36ba4c2", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "name": null, 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsdph400.sdmx.zip", 
+            "created": "2015-07-31T09:41:55.758518", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:41:55.699210", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "resource_group_id": "2b121b18-aeee-448f-921a-aa8bedbe91a1", 
+            "revision_id": "0fb8955f-6a7d-4d8c-b940-eb65ecb8eee2", 
+            "id": "a0beb23b-81b6-4f4b-8084-951d8b238c62", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "hsw_acc_work_esms.htm", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/hsw_acc_work_esms.htm", 
+            "created": "2015-07-31T09:41:55.758465", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:41:55.699210", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "resource_group_id": "2b121b18-aeee-448f-921a-aa8bedbe91a1", 
+            "revision_id": "0fb8955f-6a7d-4d8c-b940-eb65ecb8eee2", 
+            "id": "aedb377a-150d-4d86-8a47-dd0475081550", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/hsw_acc_work_esms.sdmx.zip", 
+            "created": "2015-07-31T09:41:55.758496", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:41:55.699210", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "resource_group_id": "2b121b18-aeee-448f-921a-aa8bedbe91a1", 
+            "revision_id": "0fb8955f-6a7d-4d8c-b940-eb65ecb8eee2", 
+            "id": "bb9fa0d1-8b12-44c7-bbfa-eeecf58b7187", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "name": "More information on Eurostat Website", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tsdph400", 
+            "created": "2015-07-31T09:41:55.758504", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:41:55.699210", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "resource_group_id": "2b121b18-aeee-448f-921a-aa8bedbe91a1", 
+            "revision_id": "0fb8955f-6a7d-4d8c-b940-eb65ecb8eee2", 
+            "id": "7ef7416f-8bfb-4c01-a1c8-3f74e510dc97", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "size": null
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The index shows the evolution of the incidence rate of serious accidents at work in comparison to 1998 (= 100). The incidence rate = (number of accidents at work with more than 3 days' absence that occurred during the year/number of persons in employment in the reference population) x 100 000. An accident at work is a discrete occurrence in the course of work that leads to physical or mental harm. This includes accidents in the course of work outside the premises of his/her business, even if caused by a third party, and cases of acute poisoning. It excludes accidents on the way to or from work, occurrences having only a medical origin, and occupational diseases.", 
+    "temporal_coverage_from": "1994", 
+    "language": [], 
+    "tracking_summary": {
+        "total": 13, 
+        "recent": 0
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "image_display_url": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "image_display_url": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": null, 
+    "relationships_as_subject": [], 
+    "license_title": "Legal Notice", 
+    "revision_timestamp": "2014-12-22T07:25:13.599391", 
+    "organization": {
+        "description": "", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "title": "Eurostat", 
+        "name": "estat", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "approval_status": "approved"
+    }, 
+    "name": "LGJDkigfmJrDi0VptBsIA", 
+    "isopen": true, 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tsdph400", 
+    "temporal_granularity": [], 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tsdph400\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100149\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1280\"/>\n    <dct:title xml:lang=\"en\">Serious accidents at work</dct:title>\n    <dct:title xml:lang=\"fr\">Accidents graves du travail</dct:title>\n    <dct:title xml:lang=\"de\">Schwere Arbeitsunf&#228;lle</dct:title>\n    <dct:identifier>tsdph400</dct:identifier>\n    <dct:description xml:lang=\"en\">The index shows the evolution of the incidence rate of serious accidents at work in comparison to 1998 (= 100). The incidence rate = (number of accidents at work with more than 3 days' absence that occurred during the year/number of persons in employment in the reference population) x 100 000. An accident at work is a discrete occurrence in the course of work that leads to physical or mental harm. This includes accidents in the course of work outside the premises of his/her business, even if caused by a third party, and cases of acute poisoning. It excludes accidents on the way to or from work, occurrences having only a medical origin, and occupational diseases.</dct:description>\n    <dct:description xml:lang=\"fr\">L'indice montre l'&#233;volution du taux d'incidence des accidents du travail graves depuis 1998 (= 100). Le taux d'incidence = (nombre d'accidents du travail avec plus de 3 jours d'arr&#234;t de travail survenus durant l'ann&#233;e / nombre de personnes au travail dans la population de r&#233;f&#233;rence) x 100 000. Un accident du travail est &#171;un &#233;v&#233;nement de courte dur&#233;e survenant au cours d'une activit&#233; professionnelle et occasionnant un pr&#233;judice physique ou psychologique&#187;. Sont inclus les accidents durant le travail de la victime hors de l'enceinte de son entreprise, m&#234;me caus&#233;s par des tiers et les empoisonnements aigus. Sont exclus les accidents sur le chemin du travail, les cas d'origine uniquement m&#233;dicale et les maladies professionnelles.</dct:description>\n    <dct:description xml:lang=\"de\">Der Index zeigt die Entwicklung der Inzidenzrate von ernsten Arbeitsunf&#228;llen im Vergleich zu 1998 (= 100). Inzidenzrate= (Anzahl von Arbeitsunf&#228;llen mit &#252;ber 3 Tagen Abwesenheit, die j&#228;hrlich vorkommen/Anzahl von besch&#228;ftigten Personen in der Referenzbev&#246;lkerung) x 100 000. Ein Arbeitsunfall ist definiert als ein w&#228;hrend der Arbeit eintretendes deutlich abzugrenzendes Ereignis, das zu einem physischen oder psychischen Schaden f&#252;hrt. Dies schlie&#223;t Unf&#228;lle im Arbeitsablauf au&#223;erhalb des Betriebsgel&#228;ndes sowie F&#228;lle akuter Vergiftung und bewusste Handlungen Dritter ein, nicht jedoch Unf&#228;lle auf dem Weg zur und von der Arbeit, Unf&#228;lle mit rein medizinischer Ursache und Berufskrankheiten.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/hsw_acc_work_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/hsw_acc_work_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tsdph400</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsdph400.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsdph400.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-04-22</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>1994</ecodp:periodStart>\n        <ecodp:periodEnd>2006</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/LGJDkigfmJrDi0VptBsIA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tsdph400</foaf:primaryTopic><dct:modified>2015-07-30T10:46:06.140386</dct:modified><dct:issued>2014-12-22T07:25:13.599391</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "title": "Serious accidents at work", 
+    "revision_id": "a90fb141-d018-4b5f-a3b6-6fd6ded28d20", 
+    "identifier": "tsdph400"
+}

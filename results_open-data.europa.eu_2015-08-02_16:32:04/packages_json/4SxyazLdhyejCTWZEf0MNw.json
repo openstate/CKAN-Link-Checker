@@ -1,0 +1,237 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "national accounts", 
+            "name": "national accounts", 
+            "revision_timestamp": "2014-12-22T09:31:57.188044", 
+            "state": "active", 
+            "id": "b77c1f40-3b55-450c-8353-0f1c99a271ca"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "a93d5ab7-0769-43b0-93dd-1382669b5db9", 
+    "metadata_created": "2014-12-22T09:31:57.188044", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T07:55:38.307546", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/56", 
+            "name": "http://eurovoc.europa.eu/56", 
+            "revision_timestamp": "2015-03-03T19:46:45.490456", 
+            "state": "active", 
+            "id": "e11c40fd-4749-49a0-934e-4d4f391248e8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina438_r2.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T09:55:38.425280", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:55:38.305030", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "f0d8aad3-e0e0-4d42-9de3-6d3136eb5228", 
+            "size": null, 
+            "resource_group_id": "cb3c8bc6-6925-4573-a836-e5158ef54dc6", 
+            "id": "d3c2f0c6-7b7c-4171-83d1-004f3ed290c8", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina438_r2.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T09:55:38.425287", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:55:38.305030", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "f0d8aad3-e0e0-4d42-9de3-6d3136eb5228", 
+            "size": null, 
+            "resource_group_id": "cb3c8bc6-6925-4573-a836-e5158ef54dc6", 
+            "id": "841473d8-9e4c-4d54-acc8-be63a4617d35", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ei_qna_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ei_qna_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T09:55:38.425211", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:55:38.305030", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "f0d8aad3-e0e0-4d42-9de3-6d3136eb5228", 
+            "size": null, 
+            "resource_group_id": "cb3c8bc6-6925-4573-a836-e5158ef54dc6", 
+            "id": "94c9f3af-eaf5-44cc-8d4f-19ea14150e7d", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_qna_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T09:55:38.425264", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:55:38.305030", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "f0d8aad3-e0e0-4d42-9de3-6d3136eb5228", 
+            "size": null, 
+            "resource_group_id": "cb3c8bc6-6925-4573-a836-e5158ef54dc6", 
+            "id": "2f8b52d6-63fd-4bb5-b79f-26422f130748", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina438_r2", 
+            "datastore_active": false, 
+            "created": "2015-07-31T09:55:38.425273", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:55:38.305030", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "f0d8aad3-e0e0-4d42-9de3-6d3136eb5228", 
+            "size": null, 
+            "resource_group_id": "cb3c8bc6-6925-4573-a836-e5158ef54dc6", 
+            "id": "41fbcd97-64f0-4955-bd73-5bcd02106418", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Gross Value Added (GVA) (ESA 2010, 9.31) is defined as output value at basic prices less intermediate consumption valued at purchasers' prices. GVA is calculated before consumption of fixed capital. GVA is available in a breakdown by 10 main economic activities according to NACE Rev. 2 (Statistical classification of economic activities in the European Community). NACE N = Professional, scientific and technical activities; administrative and support service activities. The ESA 2010 (European System of Accounts) regulation may be referred to for more specific explanations on methodology. Data are calculated as chain-linked volumes (i.e. data at previous year's prices, linked over the years via appropriate growth rates). Growth rates with respect to the previous quarter (Q/Q-1) are calculated from calendar and seasonally adjusted figures while growth rates with respect to the same quarter of the previous year (Q/Q-4) are calculated from raw data.", 
+    "title": "Gross value added - NACE Rev. 2: M_N - volumes", 
+    "temporal_coverage_from": "2012", 
+    "tracking_summary": {
+        "total": 8, 
+        "recent": 3
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:31:57.188044", 
+    "name": "4SxyazLdhyejCTWZEf0MNw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina438_r2", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teina438_r2\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/56\"/>\n    <dct:title xml:lang=\"en\">Gross value added - NACE Rev. 2: M_N - volumes</dct:title>\n    <dct:title xml:lang=\"fr\">Valeur ajout&#233;e brute - NACE R&#233;v.2: M_N - volumes</dct:title>\n    <dct:title xml:lang=\"de\">Bruttowertsch&#246;pfung - NACE Rev. 2: M_N - Volumen</dct:title>\n    <ecodp:keyword xml:lang=\"en\">national accounts</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Comptes Nationaux</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Volkswirtschaftliche Gesamtrechnungen</ecodp:keyword>\n    <dct:identifier>teina438_r2</dct:identifier>\n    <dct:description xml:lang=\"en\">Gross Value Added (GVA) (ESA 2010, 9.31) is defined as output value at basic prices less intermediate consumption valued at purchasers' prices. GVA is calculated before consumption of fixed capital. GVA is available in a breakdown by 10 main economic activities according to NACE Rev. 2 (Statistical classification of economic activities in the European Community). NACE N = Professional, scientific and technical activities; administrative and support service activities. The ESA 2010 (European System of Accounts) regulation may be referred to for more specific explanations on methodology. Data are calculated as chain-linked volumes (i.e. data at previous year's prices, linked over the years via appropriate growth rates). Growth rates with respect to the previous quarter (Q/Q-1) are calculated from calendar and seasonally adjusted figures while growth rates with respect to the same quarter of the previous year (Q/Q-4) are calculated from raw data.</dct:description>\n    <dct:description xml:lang=\"fr\">La Valeur ajout&#233;e brute (VAB) (SEC 2010, 9.31) est d&#233;finie comme &#233;tant la valeur de la production &#233;valu&#233;e aux prix de base moins la valeur de la consommation interm&#233;diaire &#233;valu&#233;e aux prix d'acquisition. La consommation du capital fixe n'est pas prise en consid&#233;ration. La VAB est un concept proche du PIB (produit int&#233;rieur brut). Une ventilation de la valeur ajout&#233;e brute est disponible pour chacune des 10 principales activit&#233;s &#233;conomiques de la classification NACE Rev.2. NACE M +N = Activit&#233;s sp&#233;cialis&#233;es, scientifique et technique, services administratifs et de soutien. Le r&#232;glement du syst&#232;me europ&#233;en des comptes nationaux et r&#233;gionaux (SEC) peut &#234;tre consult&#233; pour des informations m&#233;thodologiques plus sp&#233;cifiques. Les donn&#233;es sont calcul&#233;es en tant que volumes chain&#233;s (c'est-&#224;-dire des donn&#233;es aux prix de l'ann&#233;e pr&#233;c&#233;dente, li&#233;s d'une ann&#233;e &#224; l'autre par les taux de croissance appropri&#233;s). Les taux de croissance par rapport au trimestre pr&#233;c&#233;dent (Q/Q-1) sont calcul&#233;s &#224; partir de donn&#233;es corrig&#233;es des effets de calendrier et des variations saisonni&#232;res tandis que les taux de croissance par rapport au m&#234;me trimestre de l'ann&#233;e pr&#233;c&#233;dente (Q/Q-4) sont calcul&#233;s &#224; partir de donn&#233;es brutes.</dct:description>\n    <dct:description xml:lang=\"de\">Die Bruttowertsch&#246;pfung (BWS) (ESVG 2010, 9.31) ist definiert als Produktionswert zu Herstellungspreisen abz&#252;glich der Vorleistungen zu Marktpreisen. Die BWS wird vor Abzug der Abschreibungen berechnet. Sie ist in die 10 wichtigsten Wirtschaftsbereiche gem&#228;&#223; der NACE Rev. 2 untergliedert verf&#252;gbar (NACE = Statistische Systematik der Wirtschaftszweige in der Europ&#228;ischen Gemeinschaft). NACE M+N = Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen, Erbringung von sonstigen wirtschaftlichen Dienstleistungen. Die Wachstumsrate im Vergleich zum Vorquartal (t/t-1) wird anhand von saisonbereinigten (SA) Daten berechnet. Ausf&#252;hrlichere Erl&#228;uterungen zur Methodik k&#246;nnen der Verordnung zum ESVG 2010 (Europ&#228;isches System volkswirtschaftlicher Gesamtrechnungen) entnommen werden.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ei_qna_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_qna_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teina438_r2</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina438_r2.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina438_r2.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2012</ecodp:periodStart>\n        <ecodp:periodEnd>2015</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/4SxyazLdhyejCTWZEf0MNw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teina438_r2</foaf:primaryTopic><dct:modified>2015-07-30T09:29:11.806239</dct:modified><dct:issued>2014-12-22T09:31:57.188044</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "74cf6303-0be7-4fd1-8c2f-551682055e00", 
+    "identifier": "teina438_r2"
+}

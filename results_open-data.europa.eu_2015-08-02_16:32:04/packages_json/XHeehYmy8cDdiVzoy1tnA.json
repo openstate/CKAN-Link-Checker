@@ -1,0 +1,261 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 7, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Finance", 
+            "name": "Finance", 
+            "revision_timestamp": "2014-12-22T07:53:18.884094", 
+            "state": "active", 
+            "id": "3e6428d4-68a8-446b-a85e-7147de5637cd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Market prices", 
+            "name": "Market prices", 
+            "revision_timestamp": "2014-12-22T07:53:18.884094", 
+            "state": "active", 
+            "id": "ec3a4b92-3e5e-4a1a-8871-d5357ea00bad"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Price stability", 
+            "name": "Price stability", 
+            "revision_timestamp": "2014-12-22T07:53:18.884094", 
+            "state": "active", 
+            "id": "98167a7a-18dd-464b-b7fa-dfaa5deec577"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Prices", 
+            "name": "Prices", 
+            "revision_timestamp": "2014-12-22T07:53:18.884094", 
+            "state": "active", 
+            "id": "c9c14c1e-0ac2-439c-ab87-09f693b0bd8f"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "11cf92a1-b251-451a-9e92-aeef403f0b03", 
+    "metadata_created": "2014-12-22T07:53:18.884094", 
+    "modified_date": "2015-06-16", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:14:31.767844", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2632", 
+            "name": "http://eurovoc.europa.eu/2632", 
+            "revision_timestamp": "2015-03-03T17:46:05.861786", 
+            "state": "active", 
+            "id": "8563284c-bb97-4c51-a0ee-a17b53119e4b"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00121.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:14:31.895575", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:14:31.766483", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "134b4984-9161-4f42-9e94-ca7e93288e17", 
+            "size": null, 
+            "resource_group_id": "6bf322e7-0d14-41bf-a883-1a578ae277a9", 
+            "id": "3828eb62-ae36-4607-8a41-57065f627176", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00121.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:14:31.895582", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:14:31.766483", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "134b4984-9161-4f42-9e94-ca7e93288e17", 
+            "size": null, 
+            "resource_group_id": "6bf322e7-0d14-41bf-a883-1a578ae277a9", 
+            "id": "b42c151c-834e-4ed1-9d08-052aa04a9a2d", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "prc_ppp_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/prc_ppp_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:14:31.895526", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:14:31.766483", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "134b4984-9161-4f42-9e94-ca7e93288e17", 
+            "size": null, 
+            "resource_group_id": "6bf322e7-0d14-41bf-a883-1a578ae277a9", 
+            "id": "0912ef65-f196-48eb-980d-ab099f0f7197", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/prc_ppp_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:14:31.895559", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:14:31.766483", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "134b4984-9161-4f42-9e94-ca7e93288e17", 
+            "size": null, 
+            "resource_group_id": "6bf322e7-0d14-41bf-a883-1a578ae277a9", 
+            "id": "eb8e6d17-be63-4869-803f-88d3b9e07927", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00121", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:14:31.895568", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:14:31.766483", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "134b4984-9161-4f42-9e94-ca7e93288e17", 
+            "size": null, 
+            "resource_group_id": "6bf322e7-0d14-41bf-a883-1a578ae277a9", 
+            "id": "6f96ae24-9e9f-492e-803a-579fe68a8ae3", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Comparative price levels are the ratio between Purchasing power parities (PPPs) and market exchange rate for each country. PPPs are currency conversion rates that convert economic indicators expressed in national currencies to a common currency, called Purchasing Power Standard (PPS), which equalises the purchasing power of different national currencies and thus allows meaningful comparison. If the coefficient of variation of the comparative price levels for the EU decreases/increases over time, the national price levels in the Member States are converging/diverging.", 
+    "title": "Price convergence between EU Member States", 
+    "temporal_coverage_from": "1995", 
+    "tracking_summary": {
+        "total": 37, 
+        "recent": 3
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:53:18.884094", 
+    "name": "XHeehYmy8cDdiVzoy1tnA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00121", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tec00121\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2632\"/>\n    <dct:title xml:lang=\"en\">Price convergence between EU Member States</dct:title>\n    <dct:title xml:lang=\"fr\">Convergence des prix entre les &#201;tats membres de l'UE</dct:title>\n    <dct:title xml:lang=\"de\">Preiskonvergenz zwischen den EU-Mitgliedstaaten</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Finance</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Prices</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Market prices</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Price stability</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Finances</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Prix</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Prix de march&#233;</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Stabilit&#233; des prix</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Finanzwesen</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Preis</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Marktpreis</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Preisstabilit&#228;t</ecodp:keyword>\n    <dct:identifier>tec00121</dct:identifier>\n    <dct:description xml:lang=\"en\">Comparative price levels are the ratio between Purchasing power parities (PPPs) and market exchange rate for each country. PPPs are currency conversion rates that convert economic indicators expressed in national currencies to a common currency, called Purchasing Power Standard (PPS), which equalises the purchasing power of different national currencies and thus allows meaningful comparison. If the coefficient of variation of the comparative price levels for the EU decreases/increases over time, the national price levels in the Member States are converging/diverging.</dct:description>\n    <dct:description xml:lang=\"fr\">Les niveaux des prix compar&#233;s sont le ratio entre les parit&#233;s de pouvoir d'achat (PPA) et les taux de change du march&#233; pour chaque pays. Les parit&#233;s de pouvoir d'achat (PPA) sont des taux de conversion mon&#233;taires qui convertissent des indicateurs &#233;conomiques exprim&#233;s en monnaies nationales en une monnaie commune appel&#233;e standard de pouvoir d'achat (SPA), qui &#233;galise le pouvoir d'achat des diff&#233;rentes monnaies nationales et permet donc d'effectuer des comparaisons significatives. Si le coefficient de variation des niveaux de prix compar&#233;s pour l'UE diminue (augmente) dans le temps, les niveaux des prix nationaux dans les &#201;tats membres convergent (divergent).</dct:description>\n    <dct:description xml:lang=\"de\">Vergleichende Preisniveaus sind das Verh&#228;ltnis zwischen Kaufkraftparit&#228;ten und Devisenmarktkurs f&#252;r jedes Land. Kaufkraftparit&#228;ten sind Umrechnungskurse, die die in nationalen W&#228;hrungen ausgedr&#252;ckten Wirtschaftsindikatoren in eine gemeinsamen W&#228;hrung umrechnen (Kaufkraftstandard-KKS), damit die Kaufkraft zwischen nationalen W&#228;hrungen verglichen werden kann. Wenn der Variationskoeffizient der Preisniveaus im EU-Vergleich sinkt (steigt), dann konvergieren (divergieren) die nationalen Preisniveaus in den jeweiligen Mitgliedstaaten.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/prc_ppp_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/prc_ppp_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tec00121</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00121.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00121.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-06-16</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>1995</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/XHeehYmy8cDdiVzoy1tnA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tec00121</foaf:primaryTopic><dct:modified>2015-07-31T09:37:38.095708</dct:modified><dct:issued>2014-12-22T07:53:18.884094</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "ec8deafd-e4b2-4a37-8227-135164ae7193", 
+    "identifier": "tec00121"
+}

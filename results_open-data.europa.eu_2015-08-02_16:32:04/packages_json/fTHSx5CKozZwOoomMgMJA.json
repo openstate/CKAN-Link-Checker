@@ -1,0 +1,245 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Gross national disposable income", 
+            "name": "Gross national disposable income", 
+            "revision_timestamp": "2014-12-22T07:11:24.840273", 
+            "state": "active", 
+            "id": "b453d945-5114-4791-91f4-9c95343a0646"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "income", 
+            "name": "income", 
+            "revision_timestamp": "2014-12-22T07:11:24.840273", 
+            "state": "active", 
+            "id": "636fb728-177d-421d-8f26-01bbfea392de"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "a9eddd3d-b20e-429f-8047-6b593a8c0bda", 
+    "metadata_created": "2015-07-27T15:53:13.533256", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T08:36:28.813678", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/56", 
+            "name": "http://eurovoc.europa.eu/56", 
+            "revision_timestamp": "2015-03-03T17:49:23.941035", 
+            "state": "active", 
+            "id": "e11c40fd-4749-49a0-934e-4d4f391248e8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina090.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:36:29.088708", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:36:28.804730", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "70d8561f-255b-4e7f-b702-392ef6e26d5d", 
+            "size": null, 
+            "resource_group_id": "fa1da786-992d-461d-88c6-e1794779cd01", 
+            "id": "3cc13b78-c2df-4653-b4f8-b3ef60ac6e38", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina090.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:36:29.088715", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:36:28.804730", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "70d8561f-255b-4e7f-b702-392ef6e26d5d", 
+            "size": null, 
+            "resource_group_id": "fa1da786-992d-461d-88c6-e1794779cd01", 
+            "id": "77b50fec-8b1d-48f0-bd5f-35026364afd1", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ei_qna_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ei_qna_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:36:29.088666", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:36:28.804730", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "70d8561f-255b-4e7f-b702-392ef6e26d5d", 
+            "size": null, 
+            "resource_group_id": "fa1da786-992d-461d-88c6-e1794779cd01", 
+            "id": "ff0f6af0-cf97-445a-9428-02c0d1576857", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_qna_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:36:29.088692", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:36:28.804730", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "70d8561f-255b-4e7f-b702-392ef6e26d5d", 
+            "size": null, 
+            "resource_group_id": "fa1da786-992d-461d-88c6-e1794779cd01", 
+            "id": "3a77812f-0481-487f-9f3d-42f31763b4fd", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina090", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:36:29.088701", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:36:28.804730", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "70d8561f-255b-4e7f-b702-392ef6e26d5d", 
+            "size": null, 
+            "resource_group_id": "fa1da786-992d-461d-88c6-e1794779cd01", 
+            "id": "068ea82e-109f-4c04-8f00-6d688d05bf57", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Gross national disposable income (ESA 2010, 8.95) is the sum of the gross disposable incomes of the institutional sectors. It is equal to: Gross national income (at market prices) + current transfers receivable by resident units from the rest of the world - current transfers payable to non-resident units from the rest of the world. Values are seasonally and calendar adjusted (SWDA). The ESA 2010 (European System of Accounts) regulation may be referred to for more specific explanations on methodology.", 
+    "title": "Gross disposable income", 
+    "temporal_coverage_from": "2012", 
+    "tracking_summary": {
+        "total": 25, 
+        "recent": 0
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-27T15:53:13.533256", 
+    "name": "fTHSx5CKozZwOoomMgMJA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina090", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teina090\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/56\"/>\n    <dct:title xml:lang=\"en\">Gross disposable income</dct:title>\n    <dct:title xml:lang=\"fr\">Revenu disponible brut</dct:title>\n    <dct:title xml:lang=\"de\">Verf&#252;gbares Bruttoeinkommen</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Gross national disposable income</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">income</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">revenu national disponible brut</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">RNBD</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">revenu</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">verf&#252;gbares Bruttovolkseinkommen</ecodp:keyword>\n    <dct:identifier>teina090</dct:identifier>\n    <dct:description xml:lang=\"en\">Gross national disposable income (ESA 2010, 8.95) is the sum of the gross disposable incomes of the institutional sectors. It is equal to: Gross national income (at market prices) + current transfers receivable by resident units from the rest of the world - current transfers payable to non-resident units from the rest of the world. Values are seasonally and calendar adjusted (SWDA). The ESA 2010 (European System of Accounts) regulation may be referred to for more specific explanations on methodology.</dct:description>\n    <dct:description xml:lang=\"fr\">Le revenu national disponible brut (SEC 2010, 8.95) est &#233;gal &#224; la somme des revenus disponibles bruts des secteurs institutionnels. Le revenu national disponible brut est &#233;gal au revenu national brut (aux prix du march&#233;) diminu&#233; des transferts courants (imp&#244;ts courants sur le revenu, le patrimoine, etc., cotisations sociales, prestations sociales et autres transferts courants) vers&#233;s &#224; des unit&#233;s non-r&#233;sidentes, et augment&#233; des transferts courants re&#231;us du reste du monde par des unit&#233;s r&#233;sidentes.</dct:description>\n    <dct:description xml:lang=\"de\">Das verf&#252;gbare Bruttonationaleinkommen insgesamt (ESVG 2010, 8.95) ist gleich der Summe der verf&#252;gbaren Bruttoeinkommen der institutionellen Sektoren. Es ist gleich dem Bruttonationaleinkommen zu Marktpreisen + laufende Transfers aus der &#252;brigen Welt - laufende Transfers an die &#252;brige Welt. Die angegebenen Werte sind Saison- und kalenderbereinigt (SWDA). Ausf&#252;hrlichere Erl&#228;uterungen zur Methodik k&#246;nnen der Verordnung zum ESVG 2010 (Europ&#228;isches System volkswirtschaftlicher Gesamtrechnungen) entnommen werden.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ei_qna_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_qna_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teina090</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina090.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina090.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2012</ecodp:periodStart>\n        <ecodp:periodEnd>2015</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/fTHSx5CKozZwOoomMgMJA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teina090</foaf:primaryTopic><dct:modified>2015-07-30T11:31:47.943471</dct:modified><dct:issued>2015-07-08T23:05:44.542771</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "43d0d0fc-3044-46c7-a90b-834ea6830bab", 
+    "identifier": "teina090"
+}

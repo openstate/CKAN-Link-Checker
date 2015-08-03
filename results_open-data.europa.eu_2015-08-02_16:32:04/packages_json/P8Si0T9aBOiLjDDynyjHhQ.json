@@ -1,0 +1,192 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "electrical energy", 
+            "name": "electrical energy", 
+            "revision_timestamp": "2014-12-22T07:06:07.712804", 
+            "state": "active", 
+            "id": "f4e45a72-9149-4c8a-aa46-7491f7b90d68"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "energy consumption", 
+            "name": "energy consumption", 
+            "revision_timestamp": "2014-12-22T07:06:07.712804", 
+            "state": "active", 
+            "id": "6fbe360b-da8e-44b3-8647-d658aad89de6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "energy statistics", 
+            "name": "energy statistics", 
+            "revision_timestamp": "2014-12-22T07:06:07.712804", 
+            "state": "active", 
+            "id": "41ddf37f-c0ce-44f1-a16a-cffbae61720d"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "b64e4079-9016-41f6-b57e-cce81a4cf394", 
+    "metadata_created": "2014-12-22T07:06:07.712804", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T10:00:44.856647", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00094.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T12:00:44.919102", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T10:00:44.855164", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "6a54ee72-0bce-4719-88a9-2ec97513c1ed", 
+            "size": null, 
+            "resource_group_id": "75f6f048-8097-4cfe-96b5-37d10bcd3309", 
+            "id": "9661043b-5003-457c-96f5-0826fa284508", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00094.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T12:00:44.919110", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T10:00:44.855164", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "6a54ee72-0bce-4719-88a9-2ec97513c1ed", 
+            "size": null, 
+            "resource_group_id": "75f6f048-8097-4cfe-96b5-37d10bcd3309", 
+            "id": "75f064da-3c97-4ce8-8b96-cbb8cf55a2af", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ten00094", 
+            "datastore_active": false, 
+            "created": "2015-07-31T12:00:44.919068", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T10:00:44.855164", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "6a54ee72-0bce-4719-88a9-2ec97513c1ed", 
+            "size": null, 
+            "resource_group_id": "75f6f048-8097-4cfe-96b5-37d10bcd3309", 
+            "id": "e08df2cd-71f1-4b8d-82b1-b28d302aa4ec", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "This consumption stands for final energy consumption. This means that the consumption in industry covers all industrial sectors with the exception of the energy sector, like power stations, oil refineries, coke ovens and all other installations transforming energy products into another form. Final energy consumption in transport covers mainly the consumption by railways and electrified urban transport systems. Final energy consumption in households/services covers quantities consumed by private households, small-scale industry, crafts, commerce, administrative bodies, services with the exception of transportation, agriculture and fishing.", 
+    "title": "Electricity consumption by industry, transport activities and households/services (GWH)", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 21, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100155", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100155", 
+            "image_display_url": "", 
+            "id": "f0873571-606a-4f6c-8ec7-6c94f919c8a1", 
+            "name": "eurovoc_domain_100155"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100159", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100159", 
+            "image_display_url": "", 
+            "id": "411bf1e5-296f-4f4c-8ddf-2838d86ce110", 
+            "name": "eurovoc_domain_100159"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:06:07.712804", 
+    "name": "P8Si0T9aBOiLjDDynyjHhQ", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ten00094", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/ten00094\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100155\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100159\"/>\n    <dct:title xml:lang=\"en\">Electricity consumption by industry, transport activities and households/services (GWH)</dct:title>\n    <dct:title xml:lang=\"fr\">Consommation d'&#233;lectricit&#233; de l'industrie, des transports et des m&#233;nages/services (GWH)</dct:title>\n    <dct:title xml:lang=\"de\">Stromverbrauch der Industrie, des Verkehrswesens und der privaten Haushalte/Dienstleistungen (GWH)</dct:title>\n    <ecodp:keyword xml:lang=\"en\">energy statistics</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">energy consumption</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">electrical energy</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique &#233;nerg&#233;tique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">consommation d'&#233;nergie</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">&#233;nergie &#233;lectrique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Energiestatistik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Energieverbrauch</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">elektrische Energie</ecodp:keyword>\n    <dct:identifier>ten00094</dct:identifier>\n    <dct:description xml:lang=\"en\">This consumption stands for final energy consumption. This means that the consumption in industry covers all industrial sectors with the exception of the energy sector, like power stations, oil refineries, coke ovens and all other installations transforming energy products into another form. Final energy consumption in transport covers mainly the consumption by railways and electrified urban transport systems. Final energy consumption in households/services covers quantities consumed by private households, small-scale industry, crafts, commerce, administrative bodies, services with the exception of transportation, agriculture and fishing.</dct:description>\n    <dct:description xml:lang=\"fr\">Cette consommation repr&#233;sente la consommation finale d'&#233;nergie. En d'autres termes, la consommation par l'industrie couvre tous les secteurs industriels, &#224; l'exception du secteur de l'&#233;nergie, comme les centrales &#233;lectriques, les raffineries de p&#233;trole, les cokeries et toutes les autres installations qui transforment les produits &#233;nerg&#233;tiques. La consommation finale d'&#233;nergie dans le transport couvre essentiellement la consommation par les chemins de fer et les syst&#232;mes de transport urbain &#233;lectrifi&#233;s. La consommation finale d'&#233;nergie des m&#233;nages/services couvre les quantit&#233;s consomm&#233;es par les particuliers, les petites industries, l'artisanat, le commerce, les organes administratifs, les services (&#224; l'exception du transport), l'agriculture et la p&#234;che.</dct:description>\n    <dct:description xml:lang=\"de\">Dieser Wert steht f&#252;r den energetischen Endverbrauch. Der energetische Endverbrauch der Industrie umfasst alle Industriesektoren au&#223;er dem Produktionsbereich Energie, (Kraftwerke, Raffinerien, Koks&#246;fen und alle anderen Anlagen zur Umwandlung von Energieprodukten von einer Form in eine andere). Der energetische Endverbrauch des Verkehrs umfasst vor allem den Verbrauch von Eisenbahnen und elektrifizierten st&#228;dtischen Verkehrssystemen. Der energetische Endverbrauch der privaten Haushalte und des Dienstleistungssektors umfasst die von Privathaushalten, Kleingewerbe, Handwerk und Handel, Beh&#246;rden und Dienstleistungsbetrieben mit Ausnahme von Verkehrsbetrieben sowie die in der Landwirtschaft und im Fischereisektor verbrauchten Energiemengen.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/ten00094</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00094.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00094.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/P8Si0T9aBOiLjDDynyjHhQ\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/ten00094</foaf:primaryTopic><dct:modified>2015-07-30T10:28:50.224245</dct:modified><dct:issued>2014-12-22T07:06:07.712804</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "549abf24-2189-4dc3-8754-4e28d382baea", 
+    "identifier": "ten00094"
+}

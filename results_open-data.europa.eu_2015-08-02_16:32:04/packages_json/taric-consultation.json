@@ -1,0 +1,223 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 14, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "customs", 
+            "name": "customs", 
+            "revision_timestamp": "2013-06-20T07:16:06.488226", 
+            "state": "active", 
+            "id": "2d52b62d-c4a6-4f3a-a3d7-b8ac657f2321"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "database", 
+            "name": "database", 
+            "revision_timestamp": "2013-06-20T07:16:06.488226", 
+            "state": "active", 
+            "id": "a6f0682e-814f-4347-9e4d-488a9da6d34b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "integrated tariff", 
+            "name": "integrated tariff", 
+            "revision_timestamp": "2013-06-20T07:16:06.488226", 
+            "state": "active", 
+            "id": "406c97bc-02cc-4f91-b5eb-bbc4102e78b7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "taric", 
+            "name": "taric", 
+            "revision_timestamp": "2013-06-20T07:16:06.488226", 
+            "state": "active", 
+            "id": "f7951aaf-8dbd-4bdb-beb0-f64cf119fe87"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "tariff", 
+            "name": "tariff", 
+            "revision_timestamp": "2013-06-20T07:16:06.488226", 
+            "state": "active", 
+            "id": "dea4c31c-2a51-491f-863c-891cca80f412"
+        }
+    ], 
+    "contact_name": "DG TAXUD", 
+    "id": "85f68aab-f33e-42c1-ab4b-ba6a78c3526e", 
+    "metadata_created": "2015-07-27T15:17:58.464309", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:17:58.465643", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "1.5.0", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4380", 
+            "name": "http://eurovoc.europa.eu/4380", 
+            "revision_timestamp": "2015-02-25T15:44:23.574572", 
+            "state": "active", 
+            "id": "b338fccc-bb13-41e6-a910-f63baea37fa6"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/579", 
+            "name": "http://eurovoc.europa.eu/579", 
+            "revision_timestamp": "2015-02-25T15:44:23.574572", 
+            "state": "active", 
+            "id": "e0aa386c-94ab-4cf1-be51-dcebc833fad4"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2520", 
+            "name": "http://eurovoc.europa.eu/2520", 
+            "revision_timestamp": "2015-02-25T15:44:23.574572", 
+            "state": "active", 
+            "id": "f03a3bfa-ffb0-400d-8663-5dc731977e3e"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/524", 
+            "name": "http://eurovoc.europa.eu/524", 
+            "revision_timestamp": "2015-02-25T15:44:23.574572", 
+            "state": "active", 
+            "id": "41fb37c7-8797-4898-8174-509d1103dcb3"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6155", 
+            "name": "http://eurovoc.europa.eu/6155", 
+            "revision_timestamp": "2015-02-25T15:44:23.574572", 
+            "state": "active", 
+            "id": "f2100b81-2b71-4f42-8f42-b95add485e6a"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2069", 
+            "name": "http://eurovoc.europa.eu/2069", 
+            "revision_timestamp": "2015-02-25T15:44:23.574572", 
+            "state": "active", 
+            "id": "25a1601a-7375-44d3-8836-da5bf5f3a38d"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4381", 
+            "name": "http://eurovoc.europa.eu/4381", 
+            "revision_timestamp": "2015-02-25T15:44:23.574572", 
+            "state": "active", 
+            "id": "90f12841-3105-41bc-b46a-86d06cb5dd93"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "6736be0e-d3d3-4526-9329-1e0d1d3bc017", 
+            "revision_timestamp": "2015-02-25T15:41:13.069786", 
+            "datastore_active": false, 
+            "id": "d06f495c-85ec-4857-8757-0f4c3dc5ccb3", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "A multilingual database covering all measures relating to tariff, commercial and agricultural legislation. It gives economic operators a clear view of what they need to do when importing or exporting goods. It helps answer questions such as \u201cWhere do I classify my goods?\u201d or \u201cWhat is the legislation applicable to import?\u201d See EBTI for binding tariff information.", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 2, 
+                "recent": 1
+            }, 
+            "last_modified": "2013-03-15T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "name": "TARIC Consultation", 
+            "created": "2013-03-15T15:00:31.762608", 
+            "url": "http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?Lang=en", 
+            "webstore_url": "", 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "75a512d2-1562-472c-8399-59bd9a73cc14", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "A multilingual database covering all measures relating to tariff, commercial and agricultural legislation. It gives economic operators a clear view of what they need to do when importing or exporting goods. It helps answer questions such as \u201cWhere do I classify my goods?\u201d or \u201cWhat is the legislation applicable to import?\u201d See EBTI for binding tariff information. More information can be found <a href=\"http://ec.europa.eu/taxation_customs/customs/customs_duties/tariff_aspects/customs_tariff/index_en.htm\">here</a>", 
+    "title": "TARIC Consultation", 
+    "tracking_summary": {
+        "total": 742, 
+        "recent": 6
+    }, 
+    "contact_email": "taxud@ec.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100145", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100145", 
+            "image_display_url": "", 
+            "id": "b4c18652-77ac-48e0-a2c3-b431695009b8", 
+            "name": "eurovoc_domain_100145"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100147", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100147", 
+            "image_display_url": "", 
+            "id": "0b3e112c-4a87-450a-8212-dd997bd8ffaf", 
+            "name": "eurovoc_domain_100147"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100156", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100156", 
+            "image_display_url": "", 
+            "id": "1587205c-f517-4f6c-9613-cfd1eaea4ca5", 
+            "name": "eurovoc_domain_100156"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T15:17:58.464309", 
+    "name": "taric-consultation", 
+    "language": [], 
+    "alternative_title": "TARIC", 
+    "accrual_periodicity": "", 
+    "owner_org": "fac58fc0-6115-4080-965a-30565b6bb99f", 
+    "contact_address": "J-79", 
+    "contact_telephone": "0030", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://ec.europa.eu/taxation_customs/customs/customs_duties/tariff_aspects/customs_tariff/index_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Taxation and Customs Union", 
+        "created": "2013-03-13T16:36:37.341255", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2013-03-13T15:36:37.307313", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "855d4009-555b-47dc-af3e-c50cf3469b6e", 
+        "type": "organization", 
+        "id": "fac58fc0-6115-4080-965a-30565b6bb99f", 
+        "name": "taxud"
+    }, 
+    "revision_id": "510f9714-57bc-4178-b97d-f3baee0e1835", 
+    "identifier": "", 
+    "version_description": ""
+}

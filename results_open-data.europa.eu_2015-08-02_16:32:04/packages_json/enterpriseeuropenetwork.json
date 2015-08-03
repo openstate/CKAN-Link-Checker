@@ -1,0 +1,143 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "contact_name": "", 
+    "id": "0e11dde5-99c8-438c-80b9-b2ba50ce5954", 
+    "metadata_created": "2015-07-27T13:43:22.485759", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T13:43:22.486865", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/441001", 
+            "name": "http://eurovoc.europa.eu/441001", 
+            "revision_timestamp": "2015-02-10T16:27:43.645516", 
+            "state": "active", 
+            "id": "00211e81-638e-4663-bbd3-c93a8668cfc7"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/45", 
+            "name": "http://eurovoc.europa.eu/45", 
+            "revision_timestamp": "2015-02-10T16:27:43.645516", 
+            "state": "active", 
+            "id": "c0cfbcdb-1827-49bc-ad11-dadc03e7a3c1"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2359", 
+            "name": "http://eurovoc.europa.eu/2359", 
+            "revision_timestamp": "2015-02-10T16:27:43.645516", 
+            "state": "active", 
+            "id": "6d2f4d5f-71a9-44cc-b27b-0b30a7da57d5"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Opening doors for European SMEs that want to grow: the Enterprise Europe Network helps small and medium-sized enterprises (SMEs) make the most of business opportunities in the EU and beyond.", 
+            "format": "text/html", 
+            "url": "http://een.ec.europa.eu/", 
+            "datastore_active": false, 
+            "created": "2015-02-11T15:54:54.041335", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-11T14:54:53.919655", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "c2f41d77-198f-497b-bde0-f0f5391a6d86", 
+            "size": null, 
+            "resource_group_id": "e1b3b60e-1704-4141-a75b-86b2e0c24e66", 
+            "id": "83848554-f89d-42e8-a9e3-63bebd79cead", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Enterprise Europe Network"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "This dataset covers partnership opportunities for SMEs looking for a business, technology and research partnerships in more than 50 countries. The partnership database is fed by the partner organisations of the Enterprise Europe Network, the set-up and maintenance is provided by the Executive Agency for Competitiveness and Innovation.  A record is added for each request or offer for cooperation identified for a company, however company contact details remain at the level of the local partner organisations.  The partnership database contains about 15.000 open opportunities for cooperation.  The record contains information such as the type of cooperation, sector of activity, target countries, technology and market keywords.  Interested companies or business organisations may contact Network partners to further exploit the information in the database. \r\n\r\n", 
+    "title": "EnterpriseEuropeNetwork", 
+    "tracking_summary": {
+        "total": 488, 
+        "recent": 2
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100152", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100152", 
+            "image_display_url": "", 
+            "id": "08994bb7-2827-4215-a10b-d0f520fd70bb", 
+            "name": "eurovoc_domain_100152"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100158", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100158", 
+            "image_display_url": "", 
+            "id": "361d621d-3400-4cfe-a1f2-e54e38653a17", 
+            "name": "eurovoc_domain_100158"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100162", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100162", 
+            "image_display_url": "", 
+            "id": "0dc3cc03-e600-4d01-8e73-a428fa5280e9", 
+            "name": "eurovoc_domain_100162"
+        }
+    ], 
+    "creator_user_id": "66a1bfaf-17b1-4009-8712-88a835c5805e", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T13:43:22.485759", 
+    "name": "enterpriseeuropenetwork", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "fbccff86-f60e-41fd-a636-77a2cde29e6d", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://een.ec.europa.eu/", 
+    "organization": null, 
+    "revision_id": "9efefb39-f698-4c33-82fd-6cce69d0f647", 
+    "identifier": "", 
+    "version_description": ""
+}

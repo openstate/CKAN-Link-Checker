@@ -1,0 +1,251 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "environmental statistics", 
+            "name": "environmental statistics", 
+            "revision_timestamp": "2014-12-22T07:32:01.599823", 
+            "state": "active", 
+            "id": "4c03fc15-e594-4e72-8b98-7e5de31dbc14"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "water", 
+            "name": "water", 
+            "revision_timestamp": "2014-12-22T07:32:01.599823", 
+            "state": "active", 
+            "id": "33929896-6440-40a4-8382-06d9457baf12"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "water resources", 
+            "name": "water resources", 
+            "revision_timestamp": "2014-12-22T07:32:01.599823", 
+            "state": "active", 
+            "id": "533579d5-8132-4c7c-b518-6c01eb66db42"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "2c60531b-7f9e-4930-b3c5-5d7072ac7d93", 
+    "metadata_created": "2015-07-27T14:08:31.020682", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T09:48:16.946802", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4260", 
+            "name": "http://eurovoc.europa.eu/4260", 
+            "revision_timestamp": "2015-03-03T19:24:30.393843", 
+            "state": "active", 
+            "id": "9ec93757-4a51-44aa-bf9a-26f42e9d0a5d"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00001.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:48:17.015421", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:48:16.945843", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "fa481ef5-e192-46da-b7c6-75a7a39fb307", 
+            "size": null, 
+            "resource_group_id": "92076668-b68d-405c-a61e-0e37d519ef82", 
+            "id": "8d443be9-5d73-4474-9274-3cd7408597d4", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00001.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:48:17.015428", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:48:16.945843", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "fa481ef5-e192-46da-b7c6-75a7a39fb307", 
+            "size": null, 
+            "resource_group_id": "92076668-b68d-405c-a61e-0e37d519ef82", 
+            "id": "b86e31fa-f6cd-4daa-990e-139719254a95", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "env_nwat_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/env_nwat_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:48:17.015369", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:48:16.945843", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "fa481ef5-e192-46da-b7c6-75a7a39fb307", 
+            "size": null, 
+            "resource_group_id": "92076668-b68d-405c-a61e-0e37d519ef82", 
+            "id": "556e5f63-0e4c-4230-99da-3d193df6a6b7", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/env_nwat_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:48:17.015404", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:48:16.945843", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "fa481ef5-e192-46da-b7c6-75a7a39fb307", 
+            "size": null, 
+            "resource_group_id": "92076668-b68d-405c-a61e-0e37d519ef82", 
+            "id": "5aa623e8-cffb-4757-a828-9e4f19a2df3b", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ten00001", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:48:17.015413", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:48:16.945843", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "fa481ef5-e192-46da-b7c6-75a7a39fb307", 
+            "size": null, 
+            "resource_group_id": "92076668-b68d-405c-a61e-0e37d519ef82", 
+            "id": "18fac69b-901e-4457-8cb9-425f2e010986", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The minimum period taken into account for the calculation of long term annual averages is 20 years.Actual evapotranspiration is the volume of water transported from the ground (including inland water surfaces) into the atmosphere by evaporation and by transpiration of plants.Internal flow is the total volume of river run-off and groundwater renewal generated, in natural conditions, exclusively by precipitation into a territory. The internal flow is equal to precipitation less actual evapotranspiration.Actual external inflow is the total volume of actual inflow of rivers and groundwater coming from neighbouring territories.Total fresh water resources is the total volume of water that is additionally available due to internal flow and external inflow.Total actual outflow is the total actual outflow of rivers and groundwater into the sea and into neighbouring territories.", 
+    "title": "Water resources: long-term annual average", 
+    "tracking_summary": {
+        "total": 35, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100155", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100155", 
+            "image_display_url": "", 
+            "id": "f0873571-606a-4f6c-8ec7-6c94f919c8a1", 
+            "name": "eurovoc_domain_100155"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100159", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100159", 
+            "image_display_url": "", 
+            "id": "411bf1e5-296f-4f4c-8ddf-2838d86ce110", 
+            "name": "eurovoc_domain_100159"
+        }
+    ], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-27T14:08:31.020682", 
+    "name": "oCGHud9LO16m1J9Flj9BA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ten00001", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/ten00001\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100155\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100159\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4260\"/>\n    <dct:title xml:lang=\"en\">Water resources: long-term annual average</dct:title>\n    <dct:title xml:lang=\"fr\">Ressources en eau: moyenne annuelle &#224; long terme</dct:title>\n    <dct:title xml:lang=\"de\">S&#252;&#223;wasserressourcen: langj&#228;hrige Durchschnittsmengen</dct:title>\n    <ecodp:keyword xml:lang=\"en\">environmental statistics</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">water</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">water resources</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique de l'environnement</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">eau</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">ressource en eau</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Umweltstatistik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Wasser</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Wasserreserven</ecodp:keyword>\n    <dct:identifier>ten00001</dct:identifier>\n    <dct:description xml:lang=\"en\">The minimum period taken into account for the calculation of long term annual averages is 20 years.Actual evapotranspiration is the volume of water transported from the ground (including inland water surfaces) into the atmosphere by evaporation and by transpiration of plants.Internal flow is the total volume of river run-off and groundwater renewal generated, in natural conditions, exclusively by precipitation into a territory. The internal flow is equal to precipitation less actual evapotranspiration.Actual external inflow is the total volume of actual inflow of rivers and groundwater coming from neighbouring territories.Total fresh water resources is the total volume of water that is additionally available due to internal flow and external inflow.Total actual outflow is the total actual outflow of rivers and groundwater into the sea and into neighbouring territories.</dct:description>\n    <dct:description xml:lang=\"fr\">La p&#233;riode prise en consid&#233;ration pour le calcul des moyennes annuelles &#224; long terme est de 20 ans.L'&#233;vapotranspiration r&#233;elle est le volume d'eau transport&#233;e de la terre (comprenant les surfaces d'eau int&#233;rieure) dans l'atmosph&#232;re par &#233;vaporation et par la transpiration des plantes. Le flux interne est le volume total des eaux de ruissellement et de recharge des eaux souterraines g&#233;n&#233;r&#233;es dans des conditions naturelles exclusivement par la pr&#233;cipitation sur un territoire. Le flux interne est &#233;gal &#224; la pr&#233;cipitation moins l'evapotranspiration r&#233;elle. L'apport externe r&#233;el est le volume total d'apport r&#233;el des rivi&#232;res et des eaux souterraines venant des territoires voisins. Le total des ressources en eau douce est le volume total d'eau qui est en outre disponible par les flux internes et l'apport externe. Le flux sortant r&#233;el total est l'&#233;vacuation r&#233;elle totale des rivi&#232;res et des eaux souterraines dans la mer et dans les territoires voisins.</dct:description>\n    <dct:description xml:lang=\"de\">Der minimale Zeitraum, der f&#252;r die Berechnung langfristiger j&#228;hrlicher Durchschnitte herangezogen wird, ist 20 Jahre. Aktuelle Evapotranspiration ist dasjenige Wasservolumen, welches durch Verdunstung und durch die Transpiration der Pflanzen vom Boden (einschlie&#223;lich der Oberfl&#228;chen von Binnengew&#228;ssern) in die Atmosph&#228;re transportiert wird. Interner Fluss ist das Gesamtvolumen der Abfl&#252;sse und der Grundwasserneubildung, welches unter nat&#252;rlichen Bedingungen ausschlie&#223;lich vom Niederschlag in einem Gebiet erzeugt wird. Der interne Fluss ist gleich dem Niederschlag abz&#252;glich der aktuellen Evapotranspiration. Tats&#228;chlicher externer Zufluss ist das Gesamtvolumen des tats&#228;chlichen Zuflusses aus angrenzenden Gebieten in oberirdischen Gew&#228;ssern und Grundwasser. Gesamte S&#252;&#223;wasserressourcen sind das Gesamtvolumen von Wasser, das durch interne Fl&#252;sse und externe Zufl&#252;sse zus&#228;tzlich verf&#252;gbar wird. Tats&#228;chlicher Gesamtabfluss ist der tats&#228;chliche Abfluss aus Fl&#252;ssen und Grundwasser ins Meer sowie in angrenzende Gebiete.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/env_nwat_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/env_nwat_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/ten00001</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00001.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00001.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/oCGHud9LO16m1J9Flj9BA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/ten00001</foaf:primaryTopic><dct:modified>2015-07-30T12:13:12.121791</dct:modified><dct:issued>2015-03-03T19:24:30.393843</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "cb47b9af-e678-4af4-920b-d433896d39ef", 
+    "identifier": "ten00001"
+}

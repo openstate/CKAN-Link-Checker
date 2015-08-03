@@ -1,0 +1,261 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 7, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Government final consumption expenditure", 
+            "name": "Government final consumption expenditure", 
+            "revision_timestamp": "2014-12-22T07:15:18.750881", 
+            "state": "active", 
+            "id": "b41ce476-242f-4386-a31a-4b558b0c789f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "governement consumption", 
+            "name": "governement consumption", 
+            "revision_timestamp": "2014-12-22T07:15:18.750881", 
+            "state": "active", 
+            "id": "4a4cfe31-95ad-419d-b3f2-b528121edb29"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "governement expenditure", 
+            "name": "governement expenditure", 
+            "revision_timestamp": "2014-12-22T07:15:18.750881", 
+            "state": "active", 
+            "id": "ff3ae1ca-f758-45e9-90f5-e424c5962f26"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "government", 
+            "name": "government", 
+            "revision_timestamp": "2014-12-22T07:15:18.750881", 
+            "state": "active", 
+            "id": "154aefa8-3539-4496-8fbd-d092c44c8e4b"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "94956859-eb52-4ab3-8f07-92f50a93fc20", 
+    "metadata_created": "2014-12-22T07:15:18.750881", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T09:41:54.173657", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/56", 
+            "name": "http://eurovoc.europa.eu/56", 
+            "revision_timestamp": "2015-03-03T18:04:59.522671", 
+            "state": "active", 
+            "id": "e11c40fd-4749-49a0-934e-4d4f391248e8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina031.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:41:54.247410", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:41:54.172703", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "5a56c0b1-a5c6-4c87-bb40-54dc24b848ac", 
+            "size": null, 
+            "resource_group_id": "2379a5b6-9f5c-4657-8530-06754943cd68", 
+            "id": "9f31caa3-3781-4098-b43e-9beb1a8de5f5", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina031.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:41:54.247417", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:41:54.172703", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "5a56c0b1-a5c6-4c87-bb40-54dc24b848ac", 
+            "size": null, 
+            "resource_group_id": "2379a5b6-9f5c-4657-8530-06754943cd68", 
+            "id": "f58fad48-77a1-4fe2-a47d-a1921b68800d", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ei_qna_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ei_qna_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:41:54.247360", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:41:54.172703", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "5a56c0b1-a5c6-4c87-bb40-54dc24b848ac", 
+            "size": null, 
+            "resource_group_id": "2379a5b6-9f5c-4657-8530-06754943cd68", 
+            "id": "37ba139e-6d7b-4eff-9db7-3ebd71539ea4", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_qna_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:41:54.247395", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:41:54.172703", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "5a56c0b1-a5c6-4c87-bb40-54dc24b848ac", 
+            "size": null, 
+            "resource_group_id": "2379a5b6-9f5c-4657-8530-06754943cd68", 
+            "id": "74f18b87-4183-49f7-815b-e653de44b5e6", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina031", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:41:54.247403", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:41:54.172703", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "5a56c0b1-a5c6-4c87-bb40-54dc24b848ac", 
+            "size": null, 
+            "resource_group_id": "2379a5b6-9f5c-4657-8530-06754943cd68", 
+            "id": "68369f4e-554b-4df1-8652-6beafe96f634", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Government final consumption expenditure (ESA 2010, 3.98) includes two categories of expenditures: the value of goods and services produced by general government itself other than own-account capital formation, and purchases by general government of goods and services produced by market producers that are supplied to households - without any transformation - as social transfers in kind. Data are calculated as chain-linked volumes (i.e. data at previous year's prices, linked over the years via appropriate growth rates). Growth rates with respect to the previous quarter (Q/Q-1) are calculated from calendar and seasonally adjusted figures while growth rates with respect to the same quarter of the previous year (Q/Q-4) are calculated from raw data.", 
+    "title": "Government final consumption expenditure, volumes", 
+    "temporal_coverage_from": "2012", 
+    "tracking_summary": {
+        "total": 56, 
+        "recent": 7
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:15:18.750881", 
+    "name": "EylqA0JJrXH8KHhs86O7A", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina031", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teina031\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/56\"/>\n    <dct:title xml:lang=\"en\">Government final consumption expenditure, volumes</dct:title>\n    <dct:title xml:lang=\"fr\">D&#233;penses de consommation finale des administrations publiques, volumes</dct:title>\n    <dct:title xml:lang=\"de\">Konsumausgaben des Staates, Volumen</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Government final consumption expenditure</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">governement consumption</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">governement expenditure</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">government</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">La d&#233;pense de consommation finale des administrations publiques</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">consommation finale des administrations publiques</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">consommation des administrations publiques</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">d&#233;pense des administrations publiques</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">gouvernement</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Volkswirtschaftliche Gesamtrechnungen</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Ausgaben f&#252;r den Staatsverbrauch</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Staatskonsum</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Staatsverbrauch</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Ausgaben des Staates</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Regierung</ecodp:keyword>\n    <dct:identifier>teina031</dct:identifier>\n    <dct:description xml:lang=\"en\">Government final consumption expenditure (ESA 2010, 3.98) includes two categories of expenditures: the value of goods and services produced by general government itself other than own-account capital formation, and purchases by general government of goods and services produced by market producers that are supplied to households - without any transformation - as social transfers in kind. Data are calculated as chain-linked volumes (i.e. data at previous year's prices, linked over the years via appropriate growth rates). Growth rates with respect to the previous quarter (Q/Q-1) are calculated from calendar and seasonally adjusted figures while growth rates with respect to the same quarter of the previous year (Q/Q-4) are calculated from raw data.</dct:description>\n    <dct:description xml:lang=\"fr\">La d&#233;pense de consommation finale (SEC 2010, 3.98) des administrations publiques comprend 2 types de d&#233;penses: Celles de la valeur des biens et services produits par les administrations publiques elles-m&#234;mes autres que dans leur compte de formation de capital et celles des achats par ces dites administrations publiques de biens et services produits par des producteurs du march&#233; qui sont fournis aux m&#233;nages &#8211; sans transformation &#8211; au titre de transfert social en nature. ). Les donn&#233;es sont calcul&#233;es en tant que volumes chain&#233;s (c'est-&#224;-dire des donn&#233;es aux prix de l'ann&#233;e pr&#233;c&#233;dente, li&#233;s d'une ann&#233;e &#224; l'autre par les taux de croissance appropri&#233;s).Les taux de croissance par rapport au trimestre pr&#233;c&#233;dent (Q/Q-1) sont calcul&#233;s &#224; partir de donn&#233;es corrig&#233;es des effets de calendrier et des variations saisonni&#232;res tandis que les taux de croissance par rapport au m&#234;me trimestre de l'ann&#233;e pr&#233;c&#233;dente (Q/Q-4) sont calcul&#233;s &#224; partir de donn&#233;es brutes.</dct:description>\n    <dct:description xml:lang=\"de\">Die Konsumausgaben des Staates (ESVG 2010, 3.98) setzen sich aus zwei Kategorien zusammen: den der vom Staat selbst erstellten G&#252;ter (ohne selbsterstellte Anlagen) und vom Staat auf dem Markt gekaufte G&#252;ter, die ohne irgendwelche Umwandlungen als soziale Sachtransfers den Haushalten f&#252;r ihren Konsum zur Verf&#252;gung gestellt werden. Die Wachstumsrate im Vergleich zum Vorquartal (t/t-1) wird anhand von saisonbereinigten (SA) Daten berechnet. Ausf&#252;hrlichere Erl&#228;uterungen zur Methodik k&#246;nnen der Verordnung zum ESVG 2010 (Europ&#228;isches System volkswirtschaftlicher Gesamtrechnungen) entnommen werden.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ei_qna_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_qna_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teina031</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina031.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina031.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2012</ecodp:periodStart>\n        <ecodp:periodEnd>2015</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/EylqA0JJrXH8KHhs86O7A\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teina031</foaf:primaryTopic><dct:modified>2015-07-30T11:54:48.903079</dct:modified><dct:issued>2014-12-22T07:15:18.750881</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "07bd78c9-15e2-4e19-a8a4-c0056680fe7b", 
+    "identifier": "teina031"
+}

@@ -1,0 +1,180 @@
+{
+    "temporal_granularity": [
+        "year"
+    ], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2010", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 12, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Energy", 
+            "name": "Energy", 
+            "revision_timestamp": "2013-07-15T13:22:45.599898", 
+            "state": "active", 
+            "id": "eef5209f-32fe-4d14-bd74-5405b108be8c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "annual report", 
+            "name": "annual report", 
+            "revision_timestamp": "2013-07-15T13:22:45.599898", 
+            "state": "active", 
+            "id": "34e2e804-0622-454a-acf7-8c6040889d41"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "nuclear fusion", 
+            "name": "nuclear fusion", 
+            "revision_timestamp": "2013-07-15T13:22:45.599898", 
+            "state": "active", 
+            "id": "f1caa173-3c09-46cb-a745-fab43983aba1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "nuclear research", 
+            "name": "nuclear research", 
+            "revision_timestamp": "2013-07-15T13:22:45.599898", 
+            "state": "active", 
+            "id": "272310a7-7fed-4026-84ce-28fbd18fcb51"
+        }
+    ], 
+    "contact_name": "Fusion for Energy", 
+    "id": "1f667b73-f582-485c-ae9f-6bc8a3ce464b", 
+    "metadata_created": "2015-07-27T13:57:46.452132", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T13:57:46.453531", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6703", 
+            "name": "http://eurovoc.europa.eu/6703", 
+            "revision_timestamp": "2015-02-20T13:56:58.309271", 
+            "state": "active", 
+            "id": "837a435d-bc81-41bb-ac62-3f7055224685"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2917", 
+            "name": "http://eurovoc.europa.eu/2917", 
+            "revision_timestamp": "2015-02-20T13:56:58.309271", 
+            "state": "active", 
+            "id": "86c1bca6-a3f2-4ef3-9447-0aec4ad37f08"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1123", 
+            "name": "http://eurovoc.europa.eu/1123", 
+            "revision_timestamp": "2015-02-20T13:56:58.309271", 
+            "state": "active", 
+            "id": "e63c7bd1-b270-4ebc-8ddf-e7bef5c9127b"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/753", 
+            "name": "http://eurovoc.europa.eu/753", 
+            "revision_timestamp": "2015-02-20T13:56:58.309271", 
+            "state": "active", 
+            "id": "3f38b005-a4e1-4b96-bd1b-e3464aac8b73"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ANNUAL_2010.pdf", 
+            "format": "application/pdf", 
+            "url": "http://www.fusionforenergy.europa.eu/downloads/mediacorner/publications/reports/ANNUAL_2010.pdf", 
+            "datastore_active": false, 
+            "created": "2013-07-15T15:22:18.313747", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": "enabled", 
+            "revision_timestamp": "2015-02-20T13:55:15.499808", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "b8da4705-06cb-4960-8db4-7c00d0bed594", 
+            "size": null, 
+            "resource_group_id": "4c53efe9-7b7e-4bcc-af73-7cb1b3c5ea71", 
+            "id": "653b0bcb-9d31-49c4-b701-1c3692284b95", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Download dataset in pdf format"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "The third annual report of Fusion for Energy", 
+    "title": "Fusion for Energy Annual Report 2010", 
+    "temporal_coverage_from": "2010", 
+    "tracking_summary": {
+        "total": 174, 
+        "recent": 0
+    }, 
+    "contact_email": "info@f4e.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100159", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100159", 
+            "image_display_url": "", 
+            "id": "411bf1e5-296f-4f4c-8ddf-2838d86ce110", 
+            "name": "eurovoc_domain_100159"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T13:57:46.452132", 
+    "name": "fusion-for-energy-annual-report-2010", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "56921e7b-afc8-493b-b05d-016136bf6132", 
+    "contact_address": "c/ Josep Pla, n\u00ba 2 Torres Diagonal Litoral Edificio B3 08019 Barcelona Spain ", 
+    "contact_telephone": "+34933201800", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://fusionforenergy.europa.eu/", 
+    "url": "http://fusionforenergy.europa.eu/mediacorner/annualreport.aspx", 
+    "organization": {
+        "description": "", 
+        "title": "Fusion for Energy Joint Undertaking", 
+        "created": "2012-12-12T13:50:54.050208", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:54.025821", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "39a95d4a-cac3-458d-be0e-45ec868a198e", 
+        "type": "organization", 
+        "id": "56921e7b-afc8-493b-b05d-016136bf6132", 
+        "name": "fusen"
+    }, 
+    "revision_id": "1183d4ce-6cce-4be7-8be9-939f189ab08d", 
+    "identifier": "", 
+    "version_description": ""
+}

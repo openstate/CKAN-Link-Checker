@@ -1,0 +1,220 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 16, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ARM", 
+        "http://publications.europa.eu/resource/authority/country/GEO"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Armenia", 
+            "name": "Armenia", 
+            "revision_timestamp": "2013-06-19T12:15:30.197572", 
+            "state": "active", 
+            "id": "1e5327c6-0df5-4c7e-9d90-acafa8013be6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Training Foundation", 
+            "name": "European Training Foundation", 
+            "revision_timestamp": "2013-06-19T12:15:30.197572", 
+            "state": "active", 
+            "id": "f5b4d9bf-2fb3-4419-9460-3b5cc1187452"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Georgia", 
+            "name": "Georgia", 
+            "revision_timestamp": "2013-06-19T12:15:30.197572", 
+            "state": "active", 
+            "id": "a39fdfbc-0dc8-4c54-a5a0-1065a24a3920"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "migration", 
+            "name": "migration", 
+            "revision_timestamp": "2013-06-19T12:15:30.197572", 
+            "state": "active", 
+            "id": "cb547360-1578-46b0-a149-e53a92dd7af6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "skills", 
+            "name": "skills", 
+            "revision_timestamp": "2013-06-19T12:22:06.780990", 
+            "state": "active", 
+            "id": "3c258a98-360e-44a5-a64b-bd53a202463a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "survey", 
+            "name": "survey", 
+            "revision_timestamp": "2013-06-19T12:16:02.806490", 
+            "state": "active", 
+            "id": "3b927ff9-d219-4621-b323-8646d93ba567"
+        }
+    ], 
+    "contact_name": "Communication Department", 
+    "id": "bd1bd010-8eac-4945-8b02-e9d6e89e5ac5", 
+    "metadata_created": "2015-07-27T16:16:52.066928", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T16:16:52.068146", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1909", 
+            "name": "http://eurovoc.europa.eu/1909", 
+            "revision_timestamp": "2015-02-16T16:06:14.904117", 
+            "state": "active", 
+            "id": "f511e0ec-7e8d-422a-a796-b20e809f470c"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5775", 
+            "name": "http://eurovoc.europa.eu/5775", 
+            "revision_timestamp": "2015-02-16T16:06:14.904117", 
+            "state": "active", 
+            "id": "f7f1875c-aac6-42dc-8d9e-c50133c3f7ec"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5642", 
+            "name": "http://eurovoc.europa.eu/5642", 
+            "revision_timestamp": "2015-02-16T16:06:14.904117", 
+            "state": "active", 
+            "id": "6151d9b7-5965-4488-91a3-84fa4ae8f181"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/772", 
+            "name": "http://eurovoc.europa.eu/772", 
+            "revision_timestamp": "2015-02-16T16:06:14.904117", 
+            "state": "active", 
+            "id": "6494e98f-c208-4cf5-9dcd-a1c969da5010"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5769", 
+            "name": "http://eurovoc.europa.eu/5769", 
+            "revision_timestamp": "2015-02-16T16:06:14.904117", 
+            "state": "active", 
+            "id": "e840a2f5-3e54-447b-b482-8713553613cb"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Comparative report presenting the results of the 2011/12 migration survey on the relationship between skills, migration and development in Armenia and Georgia\r\n\r\n", 
+            "format": "application/pdf", 
+            "url": "http://www.etf.europa.eu/webatt.nsf/0/B711838175EB762EC1257B4D0042FF65/$file/Migration&skills_Armenia&Georgia.pdf", 
+            "datastore_active": false, 
+            "created": "2013-06-19T14:20:00.647432", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": "enabled", 
+            "revision_timestamp": "2015-02-16T15:35:45.025046", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "de7afe4c-f6f8-47e3-ac28-6a2a0822e15c", 
+            "size": null, 
+            "resource_group_id": "ec899e62-c88d-47cc-aa38-c325dda55818", 
+            "id": "df46e20f-4cd1-4e7c-9d10-848013aea571", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Migration and skills in Armenia and Georgia"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "The European Training Foundation developed surveys to investigate the relationship between migration, development and skills in three countries: Armenia, Georgia and Morocco. This report provides an initial comparative overview of the data from Armenia and Georgia. It analyses the results of two countrywide surveys implemented between October 2011 and January 2012 involving interviews with 8 000 respondents (both potential migrants and returned Migrants). It supplements more detailed country reports on the data from Armenia and Georgia and will be followed by a more extensive three-country analysis once the Moroccan survey is complete.  ", 
+    "title": "Migration and skills in Armenia and Georgia", 
+    "tracking_summary": {
+        "total": 224, 
+        "recent": 7
+    }, 
+    "contact_email": "mediarelations@etf.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100143", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100143", 
+            "image_display_url": "", 
+            "id": "5663c43f-efe6-4814-b47b-ee909cda54a7", 
+            "name": "eurovoc_domain_100143"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100161", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100161", 
+            "image_display_url": "", 
+            "id": "8a0c2cd4-b469-4748-bff0-1120110e2b11", 
+            "name": "eurovoc_domain_100161"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T16:16:52.066928", 
+    "name": "migration-and-skills-in-armenia-and-georgia", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "Comparative report presenting the results of the 2011/12 migration survey on the relationship between skills, migration and development in Armenia and Georgia", 
+    "accrual_periodicity": "", 
+    "release_date": "2013", 
+    "owner_org": "f4f1322b-2175-4fd8-b5b1-7a0a9c1938df", 
+    "contact_address": "European Training Foundation, Villa Gualino, Viale Settimo Severo, 65 I-10133 Torino", 
+    "contact_telephone": "+390116302384", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://www.etf.europa.eu/web.nsf/pages/Contact_us", 
+    "url": "http://www.etf.europa.eu/web.nsf/pages/Migration_and_skills_Armenia_and_Georgia", 
+    "organization": {
+        "description": "", 
+        "title": "European Training Foundation", 
+        "created": "2012-12-12T13:50:52.688898", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.662583", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "dbab1d54-d522-46e7-92da-26eeeb054225", 
+        "type": "organization", 
+        "id": "f4f1322b-2175-4fd8-b5b1-7a0a9c1938df", 
+        "name": "etf"
+    }, 
+    "revision_id": "15d2b9e3-0d02-42ec-ae98-bb74a785501d", 
+    "identifier": "", 
+    "version_description": ""
+}

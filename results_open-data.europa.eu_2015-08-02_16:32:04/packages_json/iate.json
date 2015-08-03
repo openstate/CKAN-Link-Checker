@@ -1,0 +1,320 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 11, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU28"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Interinstitutional cooperation", 
+            "name": "Interinstitutional cooperation", 
+            "revision_timestamp": "2014-05-13T09:14:37.343528", 
+            "state": "active", 
+            "id": "2d977fe7-554d-4daf-97b5-47dca00a1ad4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Terminology", 
+            "name": "Terminology", 
+            "revision_timestamp": "2014-05-13T09:14:37.343528", 
+            "state": "active", 
+            "id": "ca876197-3aee-4b27-b98a-2ae1f07191c9"
+        }
+    ], 
+    "contact_name": "Translation Centre for the Bodies of the European Union", 
+    "id": "709b3e71-80c4-451c-9541-e4c37c01ab74", 
+    "metadata_created": "2015-07-27T15:01:07.462921", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:01:07.463927", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "1.8.0", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4134", 
+            "name": "http://eurovoc.europa.eu/4134", 
+            "revision_timestamp": "2015-02-23T13:57:03.241645", 
+            "state": "active", 
+            "id": "e906fd11-23b8-4af2-b6b7-dda9e737e187"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4478", 
+            "name": "http://eurovoc.europa.eu/4478", 
+            "revision_timestamp": "2015-03-25T15:14:48.717145", 
+            "state": "active", 
+            "id": "c6ab5f8f-7725-4db5-aad7-098165bd8131"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4138", 
+            "name": "http://eurovoc.europa.eu/4138", 
+            "revision_timestamp": "2015-02-23T13:57:03.241645", 
+            "state": "active", 
+            "id": "2c40ac8e-5512-4664-8d6d-7420d566cee8"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4821", 
+            "name": "http://eurovoc.europa.eu/4821", 
+            "revision_timestamp": "2015-02-23T13:57:03.241645", 
+            "state": "active", 
+            "id": "e615e154-a96f-4a1e-aedb-bca9d9346af4"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4441", 
+            "name": "http://eurovoc.europa.eu/4441", 
+            "revision_timestamp": "2015-02-23T14:15:05.749383", 
+            "state": "active", 
+            "id": "1f85bd1e-0aa0-4746-858a-ebba69b97540"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1580", 
+            "name": "http://eurovoc.europa.eu/1580", 
+            "revision_timestamp": "2015-02-23T14:15:05.749383", 
+            "state": "active", 
+            "id": "25019a9b-0833-4650-af6f-5409c94d0610"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "a2106348-37ce-4563-9b3d-1ba1f3ed8664", 
+            "revision_timestamp": "2015-02-23T14:01:36.130533", 
+            "datastore_active": false, 
+            "id": "aee53426-8a16-402b-887b-24ad843ab71e", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "IATE FAQ page.", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2014-05-01T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "name": "Frequently Asked Questions", 
+            "created": "2014-07-07T09:26:01.515540", 
+            "url": "http://iate.europa.eu/faq/IATE_FAQ_EN.htm", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "510b40ff-2a45-4c9c-8f42-2b78e196c34e", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation"
+        }, 
+        {
+            "resource_group_id": "a2106348-37ce-4563-9b3d-1ba1f3ed8664", 
+            "revision_timestamp": "2015-07-27T15:01:07.462921", 
+            "datastore_active": false, 
+            "id": "d9df0591-0e1e-4198-be45-b9b23f6b1de2", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "This is a direct link to the IATExtract tool in JAR format.", 
+            "format": "", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-02-17T00:00:00", 
+            "url_type": null, 
+            "mimetype": "", 
+            "cache_url": null, 
+            "name": "IATE Download - link to IATExtract tool (JAR)", 
+            "created": "2015-02-25T20:35:52.298220", 
+            "url": "http://iate.europa.eu/tbx/IATExtract.jar", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 1, 
+            "revision_id": "63dd4c70-254b-4aca-b638-6d990bb49f43", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "a2106348-37ce-4563-9b3d-1ba1f3ed8664", 
+            "revision_timestamp": "2015-07-27T15:01:07.462921", 
+            "datastore_active": false, 
+            "id": "8cf575ef-dbc8-4c49-b183-19654c447b90", 
+            "size": "118891078", 
+            "state": "active", 
+            "hash": "", 
+            "description": "This is a direct link to the IATE download file. ", 
+            "format": "application/zip", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-02-17T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/zip", 
+            "cache_url": null, 
+            "name": "IATE Download - link to ZIP (TBX) archive", 
+            "created": "2014-07-07T09:33:14.538140", 
+            "url": "http://iate.europa.eu/downloadTbx.do", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 2, 
+            "revision_id": "63dd4c70-254b-4aca-b638-6d990bb49f43", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "a2106348-37ce-4563-9b3d-1ba1f3ed8664", 
+            "revision_timestamp": "2015-07-27T15:01:07.462921", 
+            "datastore_active": false, 
+            "id": "4aed76fb-2442-492d-9a99-dce7fcf90b11", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "You can download a copy of the terminology collected in IATE Public (with a\r\nlimited number of fields) from this page together with the extraction tool\r\nIATExtract for a convenient data filtering. This page also contains\r\ninformation on the content of the download file, the file format used (TBX)\r\nand instructions on how to use the IATExtract tool.\r\n", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2014-06-05T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "name": "IATE Download Page", 
+            "created": "2014-07-07T09:21:44.770978", 
+            "url": "http://iate.europa.eu/tbxPageDownload.do", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 3, 
+            "revision_id": "63dd4c70-254b-4aca-b638-6d990bb49f43", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "a2106348-37ce-4563-9b3d-1ba1f3ed8664", 
+            "revision_timestamp": "2015-07-27T15:01:07.462921", 
+            "datastore_active": false, 
+            "id": "53e8afe0-f0e4-400c-8fb9-4adf17a1da9d", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "This web page provides a description of the IATE data fields that are included in the download file.", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2014-06-05T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "name": "IATE data fields explained", 
+            "created": "2014-07-07T09:24:11.137083", 
+            "url": "http://iate.europa.eu/tbx/IATE%20Data%20Fields%20Explaind.htm", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 4, 
+            "revision_id": "63dd4c70-254b-4aca-b638-6d990bb49f43", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation"
+        }, 
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "You can use the IATE search interface in order to access the most complete and up-to-date data.\r\n", 
+            "format": "text/html", 
+            "url": "http://iate.europa.eu", 
+            "datastore_active": false, 
+            "created": "2015-02-25T20:35:52.298183", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:01:07.462921", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 5, 
+            "revision_id": "63dd4c70-254b-4aca-b638-6d990bb49f43", 
+            "size": null, 
+            "resource_group_id": "a2106348-37ce-4563-9b3d-1ba1f3ed8664", 
+            "id": "fe902231-ff2d-485e-8af2-987d1526f66a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "IATE search interface"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 6, 
+    "description": "IATE (= \u201cInter-Active Terminology for Europe\u201d) is the EU's inter-institutional terminology database. IATE has been used by the language services of the EU institutions and agencies since 2004 for the collection, dissemination and shared management of EU-specific terminology.\r\n\r\nIATE is a living database, i.e. translators and terminologists are continuously updating its content. In 2014, almost 225 000 new terms were added and 320 000 existing terms where modified. Most of these changes were also reviewed and validated. Using the IATE search interface thus ensures that you are accessing the most complete and up-to-date data. However, in order to cater for specific needs, you can also download a copy of some of the data contained in IATE together with the extraction tool IATExtract for a convenient data filtering.\r\n", 
+    "title": "IATE", 
+    "tracking_summary": {
+        "total": 852, 
+        "recent": 12
+    }, 
+    "contact_email": "iate@cdt.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100150", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100150", 
+            "image_display_url": "", 
+            "id": "f9b717f1-427b-4fa9-ae8e-bd33144b4f3b", 
+            "name": "eurovoc_domain_100150"
+        }
+    ], 
+    "creator_user_id": "5fdcd8b3-45fb-45c9-8aef-6c32b7d3682e", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2015-07-27T15:01:07.462921", 
+    "name": "iate", 
+    "language": [], 
+    "alternative_title": "Inter-Active Terminology for Europe", 
+    "accrual_periodicity": "", 
+    "release_date": "2014", 
+    "owner_org": "f427b101-7814-463c-8577-b2a863fac1f3", 
+    "contact_address": "12E, rue Guillaume Kroll, L-1882 Luxembourg", 
+    "contact_telephone": "+352 42 17 11 1", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://cdt.europa.eu/EN/Pages/Contact.aspx", 
+    "url": "http://cdt.europa.eu/EN/whatwedo/Pages/IATE.aspx", 
+    "organization": {
+        "description": "", 
+        "title": "Translation Centre", 
+        "created": "2012-12-12T13:50:45.570307", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:45.544278", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "1e02c9a5-784a-4705-bad1-ba14cda19801", 
+        "type": "organization", 
+        "id": "f427b101-7814-463c-8577-b2a863fac1f3", 
+        "name": "cdt"
+    }, 
+    "revision_id": "63dd4c70-254b-4aca-b638-6d990bb49f43", 
+    "identifier": "", 
+    "version_description": ""
+}

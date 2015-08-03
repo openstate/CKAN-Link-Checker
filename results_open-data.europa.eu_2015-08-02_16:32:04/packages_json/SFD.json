@@ -1,0 +1,105 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "SFD", 
+            "name": "SFD", 
+            "revision_timestamp": "2014-02-26T14:28:25.380521", 
+            "state": "active", 
+            "id": "e420e742-3f26-4122-86c3-9be898fe6b1b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "insolvency", 
+            "name": "insolvency", 
+            "revision_timestamp": "2014-02-26T14:28:25.380521", 
+            "state": "active", 
+            "id": "b70a3541-6af4-4703-bb1b-0d9ff97b7f72"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "notifications", 
+            "name": "notifications", 
+            "revision_timestamp": "2014-02-26T14:28:25.380521", 
+            "state": "active", 
+            "id": "53c505af-ff7d-405d-a103-68b0f3ddba04"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "settlement finality directive", 
+            "name": "settlement finality directive", 
+            "revision_timestamp": "2014-02-26T14:28:25.380521", 
+            "state": "active", 
+            "id": "f95d2093-36a5-4668-878f-72af2f0f8972"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "389ea06a-d16d-4358-9a69-e7ab46900de5", 
+    "metadata_created": "2015-07-27T14:17:42.436988", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:17:42.437961", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 0, 
+    "description": "The Settlement Finality Directive (98/26/EC) aims at reducing the systemic risk associated with participation in payment and securities settlement systems, and in particular the risk linked to the insolvency of a participant in such a system. The Directive applies to payment and securities settlement systems duly notified as well as any participant in such a system, and to collateral security provided in connection with the participation in a system, or operations of the central banks of the Member States in their functions as central banks.\r\n\r\nIn the directive of 24 November 2010 (2010/78/EU) amending the SFD, ESMA is designated to receive the following notification and information:\r\n\r\nIn order for the payment and securities settlement system to be included in the scope of the SFD, member states shall notify the relevant systems and system operators to ESMA. Notification was previously sent to the European Commission.\r\n\r\nMember States shall also inform ESMA of the authorities chosen for receiving immediate notification from the relevant judicial or administrative authority when insolvency proceedings are opened. Information was previously sent to the European Commission.", 
+    "title": "Settlement Finality Directive notifications", 
+    "tracking_summary": {
+        "total": 209, 
+        "recent": 0
+    }, 
+    "contact_email": "", 
+    "groups": [], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T14:17:42.436988", 
+    "name": "SFD", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://www.esma.europa.eu/page/Settlement-Finality-Directive", 
+    "organization": {
+        "description": "", 
+        "title": "European Securities and Markets Authority", 
+        "created": "2012-12-12T13:50:52.497925", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.471964", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "0d60eb1d-b406-43d3-94ad-26f3bea3f39b", 
+        "type": "organization", 
+        "id": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+        "name": "esma"
+    }, 
+    "revision_id": "3f50a1db-29ba-4566-b7c7-b5eac07032c9", 
+    "identifier": "", 
+    "version_description": ""
+}

@@ -1,0 +1,253 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 7, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "ccb21776", 
+            "name": "ccb21776", 
+            "revision_timestamp": "2014-12-22T08:15:48.010309", 
+            "state": "active", 
+            "id": "4ff10fb8-c686-40aa-8405-f0f92dcd6622"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "employment statistics", 
+            "name": "employment statistics", 
+            "revision_timestamp": "2014-12-22T08:15:48.010309", 
+            "state": "active", 
+            "id": "13aa1563-981e-4d70-9ef2-2604a834f6f2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "holding of two jobs", 
+            "name": "holding of two jobs", 
+            "revision_timestamp": "2014-12-22T08:15:48.010309", 
+            "state": "active", 
+            "id": "e5c070a5-700f-4dd6-a756-21662e6e8d6e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "labour market", 
+            "name": "labour market", 
+            "revision_timestamp": "2014-12-22T08:15:48.010309", 
+            "state": "active", 
+            "id": "651b8e49-bfe3-4c6c-9795-e455a08c8326"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "212f1166-76c6-4ff5-a582-30863562babf", 
+    "metadata_created": "2014-12-22T08:15:48.010309", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T09:02:47.870282", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1802", 
+            "name": "http://eurovoc.europa.eu/1802", 
+            "revision_timestamp": "2015-03-03T21:32:47.043778", 
+            "state": "active", 
+            "id": "01b42e14-0e3e-412b-bbaa-420e17766787"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00070.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:02:47.940976", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:02:47.869205", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "66c91ee8-1f8c-4cd9-b07c-c6a6a2d46662", 
+            "size": null, 
+            "resource_group_id": "1273683a-9f43-429f-ad2a-4d293e4621f7", 
+            "id": "8d5c4e7e-f857-4d4a-b056-f79be31284e4", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00070.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:02:47.940983", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:02:47.869205", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "66c91ee8-1f8c-4cd9-b07c-c6a6a2d46662", 
+            "size": null, 
+            "resource_group_id": "1273683a-9f43-429f-ad2a-4d293e4621f7", 
+            "id": "6815f416-cd03-4b1e-b0b4-937a1fe42ca5", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "lfsa_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/lfsa_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:02:47.940927", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:02:47.869205", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "66c91ee8-1f8c-4cd9-b07c-c6a6a2d46662", 
+            "size": null, 
+            "resource_group_id": "1273683a-9f43-429f-ad2a-4d293e4621f7", 
+            "id": "4b05ec67-13e8-4637-91e6-50f98c3837d4", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/lfsa_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:02:47.940960", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:02:47.869205", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "66c91ee8-1f8c-4cd9-b07c-c6a6a2d46662", 
+            "size": null, 
+            "resource_group_id": "1273683a-9f43-429f-ad2a-4d293e4621f7", 
+            "id": "bd1c7bba-d0b1-4e94-9116-87f2f6e7c44c", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00070", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:02:47.940969", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:02:47.869205", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "66c91ee8-1f8c-4cd9-b07c-c6a6a2d46662", 
+            "size": null, 
+            "resource_group_id": "1273683a-9f43-429f-ad2a-4d293e4621f7", 
+            "id": "191b2543-cfcd-4df0-9d86-b224373481c3", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The average number of hours corresponds to the number of hours the person normally works. This covers all hours including extra hours, either paid or unpaid, which the person normally works. It excludes the travel time between the home and the place of work as well as the main meal breaks (normally taken at midday). The distinction between full-time and part-time work is made on the basis of a spontaneous answer given by the respondent.", 
+    "title": "Hours worked per week of part-time employment", 
+    "temporal_coverage_from": "2003", 
+    "tracking_summary": {
+        "total": 34, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T08:15:48.010309", 
+    "name": "Y2cNL1eT5zWj9LnLk1uyAw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00070", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tps00070\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1802\"/>\n    <dct:title xml:lang=\"en\">Hours worked per week of part-time employment</dct:title>\n    <dct:title xml:lang=\"fr\">Nombre moyen d'heures travaill&#233;es par semaine des personnes ayant un emploi &#224; temps partiel</dct:title>\n    <dct:title xml:lang=\"de\">Zahl der geleisteten Wochenstunden bei Teilzeitbesch&#228;ftigten</dct:title>\n    <ecodp:keyword xml:lang=\"en\">ccb21776</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">labour market</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">holding of two jobs</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">employment statistics</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">march&#233; du travail</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">travail &#224; temps partiel</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Arbeitsmarkt</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Teilzeitarbeit</ecodp:keyword>\n    <dct:identifier>tps00070</dct:identifier>\n    <dct:description xml:lang=\"en\">The average number of hours corresponds to the number of hours the person normally works. This covers all hours including extra hours, either paid or unpaid, which the person normally works. It excludes the travel time between the home and the place of work as well as the main meal breaks (normally taken at midday). The distinction between full-time and part-time work is made on the basis of a spontaneous answer given by the respondent.</dct:description>\n    <dct:description xml:lang=\"fr\">Le nombre moyen d'heures correspond au nombre d'heures normalement travaill&#233;es par la personne. Ce chiffre inclut les heures suppl&#233;mentaires, r&#233;mun&#233;r&#233;es ou non, normalement effectu&#233;es par la personne. Il ne comprend pas la dur&#233;e du trajet entre le domicile et le lieu de travail ni la pause d&#233;jeuner (g&#233;n&#233;ralement prise &#224; midi). Une distinction est faite entre le travail &#224; temps plein et le travail &#224; temps partiel en fonction de la r&#233;ponse spontan&#233;e donn&#233;e par la personne interrog&#233;e.</dct:description>\n    <dct:description xml:lang=\"de\">Die durchschnittliche Zahl der Arbeitsstunden ist die Zahl der normalerweise geleisteten Arbeitsstunden. Dazu z&#228;hlen alle Arbeitsstunden einschlie&#223;lich der normalerweise geleisteten (bezahlten oder unbezahlten) &#220;berstunden. Nicht eingeschlossen sind die Fahrtzeiten zwischen Wohnung und Arbeitsplatz sowie die Haupt-Essenspausen (normalerweise zur Mittagszeit). Die Unterscheidung zwischen Vollzeit- und Teilzeitt&#228;tigkeit wird anhand der spontanen Antworten der Befragten getroffen.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/lfsa_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/lfsa_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tps00070</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00070.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00070.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2003</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/Y2cNL1eT5zWj9LnLk1uyAw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tps00070</foaf:primaryTopic><dct:modified>2015-07-31T07:55:13.626907</dct:modified><dct:issued>2014-12-22T08:15:48.010309</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "9eb4e345-8780-425a-83b7-0db89e7f3a16", 
+    "identifier": "tps00070"
+}

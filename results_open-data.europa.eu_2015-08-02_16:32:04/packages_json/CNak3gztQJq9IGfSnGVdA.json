@@ -1,0 +1,277 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2012", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 9, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Direct investment", 
+            "name": "Direct investment", 
+            "revision_timestamp": "2014-12-22T09:12:18.969298", 
+            "state": "active", 
+            "id": "dd0eaeeb-f064-41d0-871d-8a0f2cc2b656"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Economic convergence", 
+            "name": "Economic convergence", 
+            "revision_timestamp": "2014-12-22T09:12:18.969298", 
+            "state": "active", 
+            "id": "b0eff1b8-d066-4491-806e-2d2cf160100f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Economic intregration", 
+            "name": "Economic intregration", 
+            "revision_timestamp": "2014-12-22T09:12:18.969298", 
+            "state": "active", 
+            "id": "a13875d0-13ca-4f4d-ab24-7b6d6a743a26"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Finance", 
+            "name": "Finance", 
+            "revision_timestamp": "2014-12-22T09:12:18.969298", 
+            "state": "active", 
+            "id": "3e6428d4-68a8-446b-a85e-7147de5637cd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Financing and investment", 
+            "name": "Financing and investment", 
+            "revision_timestamp": "2014-12-22T09:12:18.969298", 
+            "state": "active", 
+            "id": "ce0b050e-e638-4a5e-9834-4a305fbb3f8c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Foreign investment", 
+            "name": "Foreign investment", 
+            "revision_timestamp": "2014-12-22T09:12:18.969298", 
+            "state": "active", 
+            "id": "77ebf63d-af76-40ff-badf-6235d2884191"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "ff8fb120-b8ff-4c44-a6e4-8838e9e3a319", 
+    "metadata_created": "2014-12-22T09:12:18.969298", 
+    "modified_date": "2015-07-16", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T07:37:33.441836", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4671", 
+            "name": "http://eurovoc.europa.eu/4671", 
+            "revision_timestamp": "2015-03-03T20:32:50.371541", 
+            "state": "active", 
+            "id": "3afe1f42-9f55-4b7e-8d37-1053df2293ea"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00124.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T09:37:33.586953", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:37:33.440886", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "051c6aea-abce-4234-ad17-0397e892b88b", 
+            "size": null, 
+            "resource_group_id": "154aa29e-dd5f-465c-998c-81a688d91e64", 
+            "id": "1f6742bd-ce40-4f5c-aea9-dd0aed528f45", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00124.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T09:37:33.586960", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:37:33.440886", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "051c6aea-abce-4234-ad17-0397e892b88b", 
+            "size": null, 
+            "resource_group_id": "154aa29e-dd5f-465c-998c-81a688d91e64", 
+            "id": "034545c9-5f29-4b8d-8fb7-558ebff02f52", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "bop_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/bop_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T09:37:33.586912", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:37:33.440886", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "051c6aea-abce-4234-ad17-0397e892b88b", 
+            "size": null, 
+            "resource_group_id": "154aa29e-dd5f-465c-998c-81a688d91e64", 
+            "id": "ad057057-39d0-48dd-b36e-78d5aed2924d", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/bop_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T09:37:33.586937", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:37:33.440886", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "051c6aea-abce-4234-ad17-0397e892b88b", 
+            "size": null, 
+            "resource_group_id": "154aa29e-dd5f-465c-998c-81a688d91e64", 
+            "id": "37957c49-90e4-4b2b-8c67-3b50c1c12e59", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00124", 
+            "datastore_active": false, 
+            "created": "2015-07-31T09:37:33.586945", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T07:37:33.440886", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "051c6aea-abce-4234-ad17-0397e892b88b", 
+            "size": null, 
+            "resource_group_id": "154aa29e-dd5f-465c-998c-81a688d91e64", 
+            "id": "aa5ec17c-ca3d-44f4-ba43-6b0ee8086230", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Average of inward and outward Foreign Direct Investment (FDI) flows divided by gross domestic product (GDP). The index measures the intensity of investment integration within the international economy. The direct investment refers to the international investment made by a resident entity (direct investor) to acquire a lasting interest in an entity operating in an economy other than that of the investor (direct investment enterprise). Direct investment involves both the initial transactions between the two entities and all subsequent capital transactions between them and among affiliated enterprises, both incorporated and unincorporated. Data are expressed as percentage of GDP to remove the effect of differences in the size of the economies of the reporting countries.", 
+    "title": "Market Integration - Foreign Direct Investment intensity", 
+    "temporal_coverage_from": "2001", 
+    "tracking_summary": {
+        "total": 21, 
+        "recent": 4
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:12:18.969298", 
+    "name": "CNak3gztQJq9IGfSnGVdA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00124", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tec00124\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4671\"/>\n    <dct:title xml:lang=\"en\">Market Integration - Foreign Direct Investment intensity</dct:title>\n    <dct:title xml:lang=\"fr\">Int&#233;gration du march&#233; - Intensit&#233; des investissements directs &#224; l&#180;&#233;tranger</dct:title>\n    <dct:title xml:lang=\"de\">Marktintegration - Intensit&#228;t ausl&#228;ndischer Direktinvestitionen</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Finance</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Financing and investment</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Direct investment</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Foreign investment</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Economic intregration</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Economic convergence</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Finances</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Investissement et financement</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Investissement direct</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Investissement &#233;tranger</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Investissement &#224; l'&#233;tranger</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Int&#233;gration &#233;conomique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Convergence &#233;conomique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Finanzwesen</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Investition und Finanzierung</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Direktinvestition</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Ausl&#228;ndische Investition</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Auslandsinvestition</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Industrielle Integration</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Wirtschaftliche Konvergenz</ecodp:keyword>\n    <dct:identifier>tec00124</dct:identifier>\n    <dct:description xml:lang=\"en\">Average of inward and outward Foreign Direct Investment (FDI) flows divided by gross domestic product (GDP). The index measures the intensity of investment integration within the international economy. The direct investment refers to the international investment made by a resident entity (direct investor) to acquire a lasting interest in an entity operating in an economy other than that of the investor (direct investment enterprise). Direct investment involves both the initial transactions between the two entities and all subsequent capital transactions between them and among affiliated enterprises, both incorporated and unincorporated. Data are expressed as percentage of GDP to remove the effect of differences in the size of the economies of the reporting countries.</dct:description>\n    <dct:description xml:lang=\"fr\">Moyenne des Investissements directs &#233;trangers (IDE) entrants et sortants divis&#233;e par le PIB (produit int&#233;rieur brut). L'indice mesure l'intensit&#233; de l'int&#233;gration des investissements dans l'&#233;conomie internationale. On entend par &#171;investissements directs&#187; les investissements internationaux r&#233;alis&#233;s par une entit&#233; r&#233;sidente (investisseur direct) dans le but d'acqu&#233;rir un int&#233;r&#234;t durable dans une entit&#233; op&#233;rant dans une &#233;conomie autre que celle de l'investisseur (entreprise d'investissement direct). Les investissements directs comprennent non seulement les transactions initiales entre les deux entit&#233;s, mais &#233;galement toutes les op&#233;rations en capital ult&#233;rieures ayant lieu entre elles et entre les entreprises apparent&#233;es, qu'elles soient dot&#233;es ou non de la personnalit&#233; morale. Les donn&#233;es sont exprim&#233;es en pourcentage du PIB pour &#233;liminer l'effet des diff&#233;rences dans la taille des &#233;conomies des pays d&#233;clarants.</dct:description>\n    <dct:description xml:lang=\"de\">Durchschnitt der ausl&#228;ndischen Direktinvestitionsstr&#246;me im Inland und der inl&#228;ndischen Direktinvestitionstr&#246;me im Ausland als Prozentsatz des BIP. Der Index misst die Intensit&#228;t der Investitionen innerhalb der internationalen Wirtschaft. Direktinvestitionen beziehen sich auf internationale Investitionen, die durch die gebietsans&#228;ssige K&#246;rperschaft (Direktinvestor) get&#228;tigt werden, um einen dauerhaften Anteil in einer wirtschaftsm&#228;&#223;ig anderen K&#246;rperschaft als der des Anlegers zu erwerben. Zu Direktinvestitionen geh&#246;ren Anfangstransaktionen zwischen den beiden K&#246;rperschaften und allen nachfolgenden Verm&#246;genstransaktionen zwischen ihnen und den Filialunternehmen, ob mit oder ohne Rechtspers&#246;nlichkeit. Um Gr&#246;&#223;enunterschiede der Volkswirtschaften in den berichtenden L&#228;ndern auszugleichen, werden die Daten in Prozent des BIP ausgedr&#252;ckt.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/bop_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/bop_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tec00124</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00124.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00124.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-16</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2001</ecodp:periodStart>\n        <ecodp:periodEnd>2012</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/CNak3gztQJq9IGfSnGVdA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tec00124</foaf:primaryTopic><dct:modified>2015-07-30T09:51:53.082722</dct:modified><dct:issued>2014-12-22T09:12:18.969298</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "1d1c4d05-eef9-4bcd-b9c7-9af06f008747", 
+    "identifier": "tec00124"
+}

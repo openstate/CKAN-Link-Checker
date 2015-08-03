@@ -1,0 +1,262 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 21, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU27"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Activities", 
+            "name": "Activities", 
+            "revision_timestamp": "2013-08-13T13:38:01.237958", 
+            "state": "active", 
+            "id": "375ec609-43d7-4eb5-9c09-7c3686070725"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Business", 
+            "name": "Business", 
+            "revision_timestamp": "2013-08-13T13:38:01.237958", 
+            "state": "active", 
+            "id": "f0ec1277-650c-4e33-897e-47974f81d396"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EIT", 
+            "name": "EIT", 
+            "revision_timestamp": "2013-07-11T10:08:16.741343", 
+            "state": "active", 
+            "id": "333d8760-abb5-4f44-b8da-d524ca310d19"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Entrepreneurship", 
+            "name": "Entrepreneurship", 
+            "revision_timestamp": "2013-08-13T13:38:01.237958", 
+            "state": "active", 
+            "id": "7b47da73-fecb-413d-adb0-6f52a80b514d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Good practices", 
+            "name": "Good practices", 
+            "revision_timestamp": "2013-08-13T13:38:01.237958", 
+            "state": "active", 
+            "id": "14eea99f-37fa-4e61-abe9-becfd667be0d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Higher Education", 
+            "name": "Higher Education", 
+            "revision_timestamp": "2013-08-13T13:38:01.237958", 
+            "state": "active", 
+            "id": "821bb83f-f872-4c7b-8580-203d37ca8bbf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Innovation", 
+            "name": "Innovation", 
+            "revision_timestamp": "2013-08-13T13:38:01.237958", 
+            "state": "active", 
+            "id": "a2a88def-b519-4a71-98a4-35c1e32c1a05"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "KICs", 
+            "name": "KICs", 
+            "revision_timestamp": "2013-08-13T13:38:01.237958", 
+            "state": "active", 
+            "id": "873f1532-fc39-494b-ad29-aca73458b68e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Research", 
+            "name": "Research", 
+            "revision_timestamp": "2013-08-13T13:38:01.237958", 
+            "state": "active", 
+            "id": "40391b4c-eefb-4069-9825-52844886b6b2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Results", 
+            "name": "Results", 
+            "revision_timestamp": "2013-08-13T13:38:01.237958", 
+            "state": "active", 
+            "id": "715d1b4d-af33-4b8d-ac43-2555e8df12fc"
+        }
+    ], 
+    "contact_name": "EIT", 
+    "id": "269a281e-69ca-42ea-bd95-47ac35856408", 
+    "metadata_created": "2015-07-27T14:04:10.638794", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:04:10.639769", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5237", 
+            "name": "http://eurovoc.europa.eu/5237", 
+            "revision_timestamp": "2015-03-04T15:22:55.967918", 
+            "state": "active", 
+            "id": "5c00b1fc-d1d3-4125-bf2b-e4e40188292a"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6749", 
+            "name": "http://eurovoc.europa.eu/6749", 
+            "revision_timestamp": "2015-03-04T15:22:55.967918", 
+            "state": "active", 
+            "id": "666a12e9-6741-4cd7-b372-06b2c4a3755d"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/7926", 
+            "name": "http://eurovoc.europa.eu/7926", 
+            "revision_timestamp": "2015-03-04T15:22:55.967918", 
+            "state": "active", 
+            "id": "f72ac6be-0db8-4bf4-a435-8d9b71f0d682"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1439", 
+            "name": "http://eurovoc.europa.eu/1439", 
+            "revision_timestamp": "2015-03-04T15:22:55.967918", 
+            "state": "active", 
+            "id": "b0d58c90-ba8a-4b56-b4d2-e3358fa824bd"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/447795", 
+            "name": "http://eurovoc.europa.eu/447795", 
+            "revision_timestamp": "2015-03-04T15:22:55.967918", 
+            "state": "active", 
+            "id": "43fe2d9b-c431-4611-bcdd-e47b2ba8694b"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3656", 
+            "name": "http://eurovoc.europa.eu/3656", 
+            "revision_timestamp": "2015-03-04T15:22:55.967918", 
+            "state": "active", 
+            "id": "2cb4ad97-ae7e-41e4-b8a7-61e70de107b5"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6297", 
+            "name": "http://eurovoc.europa.eu/6297", 
+            "revision_timestamp": "2015-03-04T15:22:55.967918", 
+            "state": "active", 
+            "id": "41b4eaea-3dc9-4306-8eb1-8e93815fdf19"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "EIT_publication_Final.pdf", 
+            "format": "application/pdf", 
+            "url": "http://eit.europa.eu/sites/default/files/EIT_publication_Final.pdf", 
+            "datastore_active": false, 
+            "created": "2013-08-13T16:09:09.327255", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": "enabled", 
+            "revision_timestamp": "2015-03-04T15:14:35.457474", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "1f1175b5-5171-4acc-9a6e-f5f366522b56", 
+            "size": null, 
+            "resource_group_id": "2a065bae-84a5-4578-a96e-d03d5737f7c4", 
+            "id": "af6aa3af-0047-44eb-97c1-ddfcd96728e5", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Catalysing Innovation in the Knowledge Triangle: Practices from the EIT Knowledge and Innovation Communities (KICs) "
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "This publication contains an overview of the EIT, the three first KICs and their co-location centres (CLC), looking at how they have in practice set about fostering innovation. It outlines the EIT\u2019s pioneering role, established in 2008 to increase European sustainable growth and competitiveness by reinforcing the innovation capacity of the EU within a dynamic and shifting global context.", 
+    "title": "Catalysing Innovation in the Knowledge Triangle: Practices from the EIT Knowledge and Innovation Communities (KICs)", 
+    "tracking_summary": {
+        "total": 254, 
+        "recent": 1
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100158", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100158", 
+            "image_display_url": "", 
+            "id": "361d621d-3400-4cfe-a1f2-e54e38653a17", 
+            "name": "eurovoc_domain_100158"
+        }
+    ], 
+    "creator_user_id": "790a801e-01a6-4fb0-a0a1-fd5ca0dfcb61", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T14:04:10.638794", 
+    "name": "EIT_Pubblication_1", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "url": "http://eit.europa.eu/about-us/eit-key-documents/", 
+    "release_date": "2012", 
+    "owner_org": "416248c3-8bf2-4f0f-bf7f-fa9ff764f96b", 
+    "contact_telephone": "", 
+    "extras": [
+        {
+            "value": "Co-location Centre", 
+            "key": "CLC"
+        }, 
+        {
+            "value": "European Institute of Innovation and Technology", 
+            "key": "EIT"
+        }, 
+        {
+            "value": "Knowledge and Innovation Communities", 
+            "key": "KIC"
+        }
+    ], 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://eit.europa.eu/", 
+    "organization": {
+        "description": "", 
+        "title": "European Institute of Innovation and Technology", 
+        "created": "2012-12-12T13:50:49.793333", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:49.766792", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "1e555bd1-268a-45cf-bf48-680ae894bc7c", 
+        "type": "organization", 
+        "id": "416248c3-8bf2-4f0f-bf7f-fa9ff764f96b", 
+        "name": "eit"
+    }, 
+    "revision_id": "1a05211f-7d9d-4d58-a564-bcc5738ad4d1", 
+    "identifier": "", 
+    "version_description": ""
+}

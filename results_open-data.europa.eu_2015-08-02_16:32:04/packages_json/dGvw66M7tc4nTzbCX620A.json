@@ -1,0 +1,184 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "electrical energy", 
+            "name": "electrical energy", 
+            "revision_timestamp": "2014-12-22T06:59:01.989322", 
+            "state": "active", 
+            "id": "f4e45a72-9149-4c8a-aa46-7491f7b90d68"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "energy statistics", 
+            "name": "energy statistics", 
+            "revision_timestamp": "2014-12-22T06:59:01.989322", 
+            "state": "active", 
+            "id": "41ddf37f-c0ce-44f1-a16a-cffbae61720d"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "d26f894a-8574-4fee-bf0f-e5f39a065c94", 
+    "metadata_created": "2014-12-22T06:59:01.989322", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T09:18:28.979043", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00087.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:18:29.033535", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:18:28.978051", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "a2496e91-da22-4fe6-89cd-9a7f173e3b58", 
+            "size": null, 
+            "resource_group_id": "81f185d0-8829-476c-97e6-e65c6ea0f10a", 
+            "id": "7f67dbc6-2f2a-43b3-bc7a-78e4ef60945f", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00087.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:18:29.033543", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:18:28.978051", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "a2496e91-da22-4fe6-89cd-9a7f173e3b58", 
+            "size": null, 
+            "resource_group_id": "81f185d0-8829-476c-97e6-e65c6ea0f10a", 
+            "id": "6cb91ccd-cb3a-436f-bd59-d14bcc8680da", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ten00087", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:18:29.033500", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:18:28.978051", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "a2496e91-da22-4fe6-89cd-9a7f173e3b58", 
+            "size": null, 
+            "resource_group_id": "81f185d0-8829-476c-97e6-e65c6ea0f10a", 
+            "id": "3ac57764-38e2-41d5-85c5-f96373979d2a", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Total gross electricity generation covers gross electricity generation in all types of power plants. The gross electricity generation at the plant level is defined as the electricity measured at the outlet of the main transformers, i.e. the consumption of electricity in the plant auxiliaries and in transformers are included.", 
+    "title": "Total gross electricity generation", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 24, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100155", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100155", 
+            "image_display_url": "", 
+            "id": "f0873571-606a-4f6c-8ec7-6c94f919c8a1", 
+            "name": "eurovoc_domain_100155"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100159", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100159", 
+            "image_display_url": "", 
+            "id": "411bf1e5-296f-4f4c-8ddf-2838d86ce110", 
+            "name": "eurovoc_domain_100159"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T06:59:01.989322", 
+    "name": "dGvw66M7tc4nTzbCX620A", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ten00087", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/ten00087\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100155\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100159\"/>\n    <dct:title xml:lang=\"en\">Total gross electricity generation</dct:title>\n    <dct:title xml:lang=\"fr\">Production brute totale d'&#233;lectricit&#233;</dct:title>\n    <dct:title xml:lang=\"de\">Bruttostromerzeugung insgesamt</dct:title>\n    <ecodp:keyword xml:lang=\"en\">energy statistics</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">electrical energy</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique &#233;nerg&#233;tique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">&#233;nergie &#233;lectrique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Energiestatistik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">elektrische Energie</ecodp:keyword>\n    <dct:identifier>ten00087</dct:identifier>\n    <dct:description xml:lang=\"en\">Total gross electricity generation covers gross electricity generation in all types of power plants. The gross electricity generation at the plant level is defined as the electricity measured at the outlet of the main transformers, i.e. the consumption of electricity in the plant auxiliaries and in transformers are included.</dct:description>\n    <dct:description xml:lang=\"fr\">La production totale brute d'&#233;lectricit&#233; couvre la production brute d'&#233;lectricit&#233; pour tous les types de centrales confondus. La production brute d'&#233;lectricit&#233; au niveau des centrales est d&#233;finie comme l'&#233;lectricit&#233; mesur&#233;e &#224; la sortie des transformateurs principaux, c'est-&#224;-dire qu'elle inclut la consommation d'&#233;lectricit&#233; des installations auxiliaires et des transformateurs.</dct:description>\n    <dct:description xml:lang=\"de\">Bruttostromerzeugung insgesamt umfasst die Bruttostromerzeugung in s&#228;mtlichen Kraftwerkstypen. Auf der Ebene des einzelnen Kraftwerks ist die Bruttostromerzeugung definiert als die am Ausgang der Haupttransformatoren gemessene Elektrizit&#228;tsmenge, d.h. der Stromverbrauch der Hilfsaggregate und Transformatoren</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/ten00087</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00087.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00087.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/dGvw66M7tc4nTzbCX620A\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/ten00087</foaf:primaryTopic><dct:modified>2015-07-30T10:12:44.330130</dct:modified><dct:issued>2014-12-22T06:59:01.989322</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "0c549e8a-97df-42fd-9519-fdf3c7693734", 
+    "identifier": "ten00087"
+}

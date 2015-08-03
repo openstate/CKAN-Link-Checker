@@ -1,0 +1,193 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "health statistics", 
+            "name": "health statistics", 
+            "revision_timestamp": "2014-12-22T09:31:08.199934", 
+            "state": "active", 
+            "id": "f4ce7037-c54c-4481-ae49-6b88692bfb6e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "psychiatric institution", 
+            "name": "psychiatric institution", 
+            "revision_timestamp": "2014-12-22T09:31:08.199934", 
+            "state": "active", 
+            "id": "1ae9119f-b52d-470e-8842-abde6e5a0c84"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "ef3deb44-67be-459d-8ef7-f7eb4eb93a92", 
+    "metadata_created": "2014-12-22T09:31:08.199934", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T09:48:32.424924", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1280", 
+            "name": "http://eurovoc.europa.eu/1280", 
+            "revision_timestamp": "2015-03-03T19:09:14.134675", 
+            "state": "active", 
+            "id": "33ad54dd-ba28-494c-94dd-80173920c7e6"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00047.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:48:32.484861", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:48:32.424004", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "b2b74c64-55ff-4b48-a32d-232e0a706afc", 
+            "size": null, 
+            "resource_group_id": "e06ec423-06c0-45d8-9e27-e297cbde6b86", 
+            "id": "ce04613e-8bf8-48de-a0dc-7244f7e87c0e", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00047.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:48:32.484869", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:48:32.424004", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "b2b74c64-55ff-4b48-a32d-232e0a706afc", 
+            "size": null, 
+            "resource_group_id": "e06ec423-06c0-45d8-9e27-e297cbde6b86", 
+            "id": "abd64f86-6442-4a47-b9f7-af430a12cc82", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00047", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:48:32.484841", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:48:32.424004", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "b2b74c64-55ff-4b48-a32d-232e0a706afc", 
+            "size": null, 
+            "resource_group_id": "e06ec423-06c0-45d8-9e27-e297cbde6b86", 
+            "id": "921c7f90-ecd3-44e8-a84c-f677b8b0eb7a", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Hospital beds provide information on health care capacities, i.e. on the maximum number of patients who can be treated by hospitals. Psychiatric care beds in hospitals are beds accommodating patients with mental health problems. These beds are a subgroup of total hospital beds which are defined as all hospital beds which are regularly maintained and staffed and immediately available for the care of admitted patients; both occupied and unoccupied beds are covered. Hospitals are defined according to the classification of health care providers of the System of Health Accounts (SHA); all public and private hospitals should be covered.", 
+    "title": "Psychiatric care beds in hospitals", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 56, 
+        "recent": 4
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:31:08.199934", 
+    "name": "41FenMlA9NEB56b4kkUOw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00047", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tps00047\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100149\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1280\"/>\n    <dct:title xml:lang=\"en\">Psychiatric care beds in hospitals</dct:title>\n    <dct:title xml:lang=\"fr\">Lits d'h&#244;pital en soins psychiatriques</dct:title>\n    <dct:title xml:lang=\"de\">Krankenhausbetten f&#252;r psychiatrische Pflege</dct:title>\n    <ecodp:keyword xml:lang=\"en\">health statistics</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">psychiatric institution</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique de la sant&#233;</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">&#233;tablissement psychiatrique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Gesundheitsstatistik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Nervenheilanstalt</ecodp:keyword>\n    <dct:identifier>tps00047</dct:identifier>\n    <dct:description xml:lang=\"en\">Hospital beds provide information on health care capacities, i.e. on the maximum number of patients who can be treated by hospitals. Psychiatric care beds in hospitals are beds accommodating patients with mental health problems. These beds are a subgroup of total hospital beds which are defined as all hospital beds which are regularly maintained and staffed and immediately available for the care of admitted patients; both occupied and unoccupied beds are covered. Hospitals are defined according to the classification of health care providers of the System of Health Accounts (SHA); all public and private hospitals should be covered.</dct:description>\n    <dct:description xml:lang=\"fr\">Les lits d'h&#244;pital fournissent des informations sur les capacit&#233;s de soins de sant&#233;, c'est-&#224;-dire sur le nombre maximum de patients pouvant &#234;tre soign&#233;s par les h&#244;pitaux. Les lits de soins psychiatriques dans les h&#244;pitaux sont des lits allou&#233;s aux patients souffrant de probl&#232;mes de sant&#233; mentale. Ces lits sont un sous-groupe du total des lits d'h&#244;pital qui sont d&#233;finis comme tous les lits qui sont r&#233;guli&#232;rement entretenus et dot&#233;s de personnel et imm&#233;diatement disponibles pour les soins des patients admis ; &#224; la fois les lits occup&#233;s et inoccup&#233;s sont couverts. Les h&#244;pitaux sont d&#233;finis selon la classification des prestataires de soins de sant&#233; du syst&#232;me de comptes de la sant&#233; (SCS) ; tous les h&#244;pitaux publics et priv&#233;s devraient &#234;tre couverts.</dct:description>\n    <dct:description xml:lang=\"de\">Krankenhausbetten liefern Informationen zu Kapazit&#228;ten im Gesundheitswesen, d.h. zur maximalen Zahl der Patienten, die in Krankenh&#228;usern behandelt werden k&#246;nnen. Krankenhausbetten f&#252;r psychiatrische Pflege sind Betten f&#252;r Patienten mit seelischen Problemen. Diese Betten bilden eine Untergruppe der gesamten Krankenhausbetten, die wie folgt definiert sind: alle Krankenhausbetten, die regul&#228;r unterhalten werden, die mit Personal ausgestattet sind und die unmittelbar f&#252;r die Versorgung von eingewiesenen Patienten verf&#252;gbar sind; dies schlie&#223;t belegte und unbelegte Betten ein. Krankenh&#228;user werden gem&#228;&#223; der Klassifikation der Gesundheitsanbieter des Systems der Gesundheitsrechnungen (System of Health Accounts, SHA) definiert; es sollten alle &#246;ffentlichen und privaten Krankenh&#228;user ber&#252;cksichtigt werden.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tps00047</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00047.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00047.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/41FenMlA9NEB56b4kkUOw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tps00047</foaf:primaryTopic><dct:modified>2015-07-30T10:21:51.802865</dct:modified><dct:issued>2014-12-22T09:31:08.199934</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "8a7d22aa-70eb-478f-8130-97b288a1eca3", 
+    "identifier": "tps00047"
+}

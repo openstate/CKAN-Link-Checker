@@ -1,0 +1,251 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "c5ece144-4f5e-4815-804b-9508b51a4d40", 
+    "metadata_created": "2014-12-22T08:23:02.147304", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T08:22:29.338136", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4260", 
+            "name": "http://eurovoc.europa.eu/4260", 
+            "revision_timestamp": "2015-03-03T19:15:42.940939", 
+            "state": "active", 
+            "id": "9ec93757-4a51-44aa-bf9a-26f42e9d0a5d"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/56", 
+            "name": "http://eurovoc.europa.eu/56", 
+            "revision_timestamp": "2015-03-03T19:15:42.940939", 
+            "state": "active", 
+            "id": "e11c40fd-4749-49a0-934e-4d4f391248e8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/t2020_rd210.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:22:29.550549", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:22:29.334561", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "793f3ac2-9d89-4c01-bf44-fb661085b50a", 
+            "size": null, 
+            "resource_group_id": "add8424c-e5dc-41a3-aa65-b11286743698", 
+            "id": "b82d4255-a1bb-4955-b5b8-8ba9fc006f4a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/t2020_rd210.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:22:29.550556", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:22:29.334561", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "793f3ac2-9d89-4c01-bf44-fb661085b50a", 
+            "size": null, 
+            "resource_group_id": "add8424c-e5dc-41a3-aa65-b11286743698", 
+            "id": "81922776-e4fa-4a48-a89c-08da0ef5bb21", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "t2020_rd210_esmsip.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/t2020_rd210_esmsip.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:22:29.550515", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:22:29.334561", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "793f3ac2-9d89-4c01-bf44-fb661085b50a", 
+            "size": null, 
+            "resource_group_id": "add8424c-e5dc-41a3-aa65-b11286743698", 
+            "id": "8de88c0e-c50e-465e-a64c-8c38630389e5", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/t2020_rd210_esmsip.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:22:29.550534", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:22:29.334561", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "793f3ac2-9d89-4c01-bf44-fb661085b50a", 
+            "size": null, 
+            "resource_group_id": "add8424c-e5dc-41a3-aa65-b11286743698", 
+            "id": "c14fae14-fc89-421f-af18-0b2b827f0b59", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/t2020_rd210", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:22:29.550542", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:22:29.334561", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "793f3ac2-9d89-4c01-bf44-fb661085b50a", 
+            "size": null, 
+            "resource_group_id": "add8424c-e5dc-41a3-aa65-b11286743698", 
+            "id": "ee6ccfd2-09c9-480c-985a-ed5bcf03e12b", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Water productivity indicates how much economic output is produced per cubic meter of fresh water abstracted (in EUR per m3 or PPS per m3). It serves as a measure of the efficiency of water use. Total fresh water abstraction includes water removed from any fresh water source, either permanently or temporarily. Mine water and drainage water as well as water abstractions from precipitation are included, whereas water used for hydroelectricity generation (in situ use) is excluded. The indicator is limited for several reasons: Firstly, total fresh water abstraction does not distinguish between abstracted water that is redirected after use (and after appropriate treatment) back to the water body or if it is used for irrigation purposes with inevitable evaporation. Secondly, no distinction is made between fresh water abstracted from surface or groundwater. Lastly, water abstraction statistics are national data and disregard regional and seasonal changing conditions during the year (water bodies / river basins with different level of water scarcity and hot spots in summer time). Eurostat is in maintaining more differentiated data (groundwater, surface water, regional breakdown), but coverage is not yet considered sufficient. For the interpretation it should be taken into account that water productivity is strongly influenced by the economic structure and the proportion of water intensive industries. A lower water productivity primarily means that the economic and industrial structure of the country is water use intensive. A less water-consuming economy would show a relatively high water productivity. The change in water productivity is influenced by both \u2018real\u2019 productivity improvements and deteriorations, as well as by changes in economic and industry structure. For the calculation of water productivity Eurostat uses the GDP either in the unit of EUR in chain-linked volumes to the reference year 2005 at 2005 exchange rates or in the unit PPS (Purchasing Power Standard). The unit EUR in chain linked volumes allows observing the water productivity trends over time in a single geographic area, whereas the unit PPS allows to compare countries for the same year. Since GDP is measured in million EUR or million PPS and water abstraction in million cubic meters, water productivity is available in both EUR per m3 and PPS per m3. (i) More information on water statistics can be found here: http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Water_statistics", 
+    "title": "Water productivity", 
+    "temporal_coverage_from": "1990", 
+    "tracking_summary": {
+        "total": 45, 
+        "recent": 4
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100155", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100155", 
+            "image_display_url": "", 
+            "id": "f0873571-606a-4f6c-8ec7-6c94f919c8a1", 
+            "name": "eurovoc_domain_100155"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100159", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100159", 
+            "image_display_url": "", 
+            "id": "411bf1e5-296f-4f4c-8ddf-2838d86ce110", 
+            "name": "eurovoc_domain_100159"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T08:23:02.147304", 
+    "name": "dJp7fG1qYJ6KqhQURbCzw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/t2020_rd210", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/t2020_rd210\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100155\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100159\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4260\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/56\"/>\n    <dct:title xml:lang=\"en\">Water productivity</dct:title>\n    <dct:title xml:lang=\"fr\">Productivit&#233; de l'eau</dct:title>\n    <dct:title xml:lang=\"de\">Wasserproduktivit&#228;t</dct:title>\n    <dct:identifier>t2020_rd210</dct:identifier>\n    <dct:description xml:lang=\"en\">Water productivity indicates how much economic output is produced per cubic meter of fresh water abstracted (in EUR per m3 or PPS per m3). It serves as a measure of the efficiency of water use. Total fresh water abstraction includes water removed from any fresh water source, either permanently or temporarily. Mine water and drainage water as well as water abstractions from precipitation are included, whereas water used for hydroelectricity generation (in situ use) is excluded. The indicator is limited for several reasons: Firstly, total fresh water abstraction does not distinguish between abstracted water that is redirected after use (and after appropriate treatment) back to the water body or if it is used for irrigation purposes with inevitable evaporation. Secondly, no distinction is made between fresh water abstracted from surface or groundwater. Lastly, water abstraction statistics are national data and disregard regional and seasonal changing conditions during the year (water bodies / river basins with different level of water scarcity and hot spots in summer time). Eurostat is in maintaining more differentiated data (groundwater, surface water, regional breakdown), but coverage is not yet considered sufficient. For the interpretation it should be taken into account that water productivity is strongly influenced by the economic structure and the proportion of water intensive industries. A lower water productivity primarily means that the economic and industrial structure of the country is water use intensive. A less water-consuming economy would show a relatively high water productivity. The change in water productivity is influenced by both &#8216;real&#8217; productivity improvements and deteriorations, as well as by changes in economic and industry structure. For the calculation of water productivity Eurostat uses the GDP either in the unit of EUR in chain-linked volumes to the reference year 2005 at 2005 exchange rates or in the unit PPS (Purchasing Power Standard). The unit EUR in chain linked volumes allows observing the water productivity trends over time in a single geographic area, whereas the unit PPS allows to compare countries for the same year. Since GDP is measured in million EUR or million PPS and water abstraction in million cubic meters, water productivity is available in both EUR per m3 and PPS per m3. (i) More information on water statistics can be found here: http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Water_statistics</dct:description>\n    <dct:description xml:lang=\"fr\">not available yet</dct:description>\n    <dct:description xml:lang=\"de\">not available yet</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/t2020_rd210_esmsip.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/t2020_rd210_esmsip.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/t2020_rd210</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/t2020_rd210.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/t2020_rd210.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>1990</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/dJp7fG1qYJ6KqhQURbCzw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/t2020_rd210</foaf:primaryTopic><dct:modified>2015-07-30T10:06:13.953665</dct:modified><dct:issued>2014-12-22T08:23:02.147304</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "568627ad-c8ac-4111-85ac-1cdc4be243e8", 
+    "identifier": "t2020_rd210"
+}

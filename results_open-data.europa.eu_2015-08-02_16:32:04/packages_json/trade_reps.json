@@ -1,0 +1,198 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 11, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "derivatives", 
+            "name": "derivatives", 
+            "revision_timestamp": "2014-02-26T14:23:19.019381", 
+            "state": "active", 
+            "id": "bc558a9f-c8d5-43f2-8f9a-10291cf629c9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "registered", 
+            "name": "registered", 
+            "revision_timestamp": "2014-02-26T14:23:19.019381", 
+            "state": "active", 
+            "id": "1c989ef6-8a81-4fa3-9bd0-3f486972af4c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "reporting", 
+            "name": "reporting", 
+            "revision_timestamp": "2014-02-26T14:23:19.019381", 
+            "state": "active", 
+            "id": "dfd0bbd8-2775-464d-a470-145e554b87c1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "trade repositories", 
+            "name": "trade repositories", 
+            "revision_timestamp": "2014-02-26T14:23:19.019381", 
+            "state": "active", 
+            "id": "6ac9a314-bd8c-413e-879c-d2ad5b824531"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "0c1655d1-97e3-4feb-a4be-a1389c19a086", 
+    "metadata_created": "2015-07-27T13:31:25.428314", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T13:41:25.343874", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5618", 
+            "name": "http://eurovoc.europa.eu/5618", 
+            "revision_timestamp": "2015-02-24T16:41:07.569948", 
+            "state": "active", 
+            "id": "7eadd9c1-3b74-4dde-89c3-f87d95e6b02c"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1488", 
+            "name": "http://eurovoc.europa.eu/1488", 
+            "revision_timestamp": "2015-02-24T16:41:07.569948", 
+            "state": "active", 
+            "id": "7959ea17-5087-449b-9155-677f8bfdbbb9"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2449", 
+            "name": "http://eurovoc.europa.eu/2449", 
+            "revision_timestamp": "2015-02-24T16:41:07.569948", 
+            "state": "active", 
+            "id": "980aed19-7fc3-4002-81ab-ed8c5ff5d15e"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1804", 
+            "name": "http://eurovoc.europa.eu/1804", 
+            "revision_timestamp": "2015-02-24T16:41:07.569948", 
+            "state": "active", 
+            "id": "6a93dbab-785a-4293-a785-9869c0aea6c9"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/619", 
+            "name": "http://eurovoc.europa.eu/619", 
+            "revision_timestamp": "2015-02-24T16:41:07.569948", 
+            "state": "active", 
+            "id": "4a50edb0-b7bf-4ad7-bc61-c7cf3ced622a"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "The trade repositories listed below have been registered by ESMA in accordance with Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (European Market Infrastructure Regulation).\r\n \r\nThe derivative asset classes which can be reported to each trade repository are also mentioned. The first registrations took effect on 14 November 2013, with the reporting obligation beginning on 12 February 2014, i.e. 90 working days after the official registration date.\r\n \r\nThe list is published by ESMA in accordance with Article 59(3) of EMIR and it is updated within five working days following the adoption of a registration decision.\r\n", 
+            "format": "text/html", 
+            "url": "http://www.esma.europa.eu/page/Registered-Trade-Repositories", 
+            "datastore_active": false, 
+            "created": "2015-02-24T17:39:23.344506", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-24T16:39:23.287408", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "de520176-eaa0-439c-8555-c791bc4442d5", 
+            "size": null, 
+            "resource_group_id": "a49592d1-9bda-4695-93f1-6c78a16dbafd", 
+            "id": "8c548572-5bee-4e35-af36-f2f462938f7d", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Registered trade repositories"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "The trade repositories listed have been registered by ESMA in accordance with Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (European Market Infrastructure Regulation).\r\n\r\nThe derivative asset classes which can be reported to each trade repository are also mentioned. The first registrations took effect on 14 November 2013, with the reporting obligation beginning on 12 February 2014, i.e. 90 working days after the official registration date.\r\n\r\nThe list is published by ESMA in accordance with Article 59(3) of EMIR and it is updated within five working days following the adoption of a registration decision. ", 
+    "title": "Registered trade repositories", 
+    "tracking_summary": {
+        "total": 231, 
+        "recent": 1
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100147", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100147", 
+            "image_display_url": "", 
+            "id": "0b3e112c-4a87-450a-8212-dd997bd8ffaf", 
+            "name": "eurovoc_domain_100147"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T13:31:25.428314", 
+    "name": "trade_reps", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://www.esma.europa.eu/page/Registered-Trade-Repositories", 
+    "organization": {
+        "description": "", 
+        "title": "European Securities and Markets Authority", 
+        "created": "2012-12-12T13:50:52.497925", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.471964", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "0d60eb1d-b406-43d3-94ad-26f3bea3f39b", 
+        "type": "organization", 
+        "id": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+        "name": "esma"
+    }, 
+    "revision_id": "ed30f72a-fa9f-4a8c-90b4-b1032568a4d0", 
+    "identifier": "", 
+    "version_description": ""
+}

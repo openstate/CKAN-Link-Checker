@@ -1,0 +1,209 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2012", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 7, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Level of education", 
+            "name": "Level of education", 
+            "revision_timestamp": "2014-12-22T10:16:42.982389", 
+            "state": "active", 
+            "id": "2c399340-caec-451b-9dee-99ea12ea0d5a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Scientific education", 
+            "name": "Scientific education", 
+            "revision_timestamp": "2014-12-22T10:16:42.982389", 
+            "state": "active", 
+            "id": "c011e669-6e45-45f6-b23c-d37c41e2a8db"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Teaching", 
+            "name": "Teaching", 
+            "revision_timestamp": "2014-12-22T10:16:42.982389", 
+            "state": "active", 
+            "id": "0926ec9d-3f45-4ea7-8f34-88ac9ff525e8"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "3a27bbbc-ff61-4b3f-b753-9748d2fd6b33", 
+    "metadata_created": "2014-12-22T10:16:42.982389", 
+    "modified_date": "2015-04-22", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T08:09:13.424936", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/668", 
+            "name": "http://eurovoc.europa.eu/668", 
+            "revision_timestamp": "2015-03-03T17:36:46.235102", 
+            "state": "active", 
+            "id": "3228f2ef-56ed-4d27-a06a-435b41d2b4ea"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1074", 
+            "name": "http://eurovoc.europa.eu/1074", 
+            "revision_timestamp": "2015-03-03T17:36:46.235102", 
+            "state": "active", 
+            "id": "4599c5c0-e18e-4e12-b0cf-0faf3b09847a"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00188.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:09:13.489263", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:09:13.423834", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "8b1b0562-2a0a-460d-9925-86ec419e4d70", 
+            "size": null, 
+            "resource_group_id": "3cc63317-2b78-43e7-971f-47b0467797aa", 
+            "id": "33dd5b73-2258-4496-aeaf-1c7bc74ecfb1", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00188.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:09:13.489271", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:09:13.423834", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "8b1b0562-2a0a-460d-9925-86ec419e4d70", 
+            "size": null, 
+            "resource_group_id": "3cc63317-2b78-43e7-971f-47b0467797aa", 
+            "id": "fb73bdb5-56ec-4b71-a54b-3688416f513b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00188", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:09:13.489230", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:09:13.423834", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "8b1b0562-2a0a-460d-9925-86ec419e4d70", 
+            "size": null, 
+            "resource_group_id": "3cc63317-2b78-43e7-971f-47b0467797aa", 
+            "id": "b01cc685-c51e-4fc8-8945-6ed75b2f109a", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "The indicator \"Tertiary graduates in science and technology\" includes new tertiary graduates in a calendar year from both public and private institutions completing graduate and post graduate studies compared to an age group that corresponds to the typical graduation age in most countries. It does not correspond to the number of graduates in these fields who are available in the labour market in this specific year. The levels and fields of education and training used follow the 1997 version of the International Standard Classification of Education (ISCED97) and the Eurostat Manual of fields of education and training (1999).", 
+    "title": "Science and technology graduates by sex", 
+    "temporal_coverage_from": "2001", 
+    "tracking_summary": {
+        "total": 4, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100150", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100150", 
+            "image_display_url": "", 
+            "id": "f9b717f1-427b-4fa9-ae8e-bd33144b4f3b", 
+            "name": "eurovoc_domain_100150"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T10:16:42.982389", 
+    "name": "pSAJ2iKb4y1i9qkmsH8A", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00188", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tps00188\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100150\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/668\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1074\"/>\n    <dct:title xml:lang=\"en\">Science and technology graduates by sex</dct:title>\n    <dct:title xml:lang=\"fr\">Dipl&#244;m&#233;s en sciences et technologies par sexe</dct:title>\n    <dct:title xml:lang=\"de\">Terti&#228;rabschl&#252;sse in naturwissenschaftlichen und technologischen Fachrichtungen nach Geschlecht</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Teaching</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Scientific education</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Level of education</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Enseignement</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Enseignement scientifique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Niveau d'enseignement</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Unterrichtswesen</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Wissenschaftlicher Unterricht</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Stufe des Bildungssystems</ecodp:keyword>\n    <dct:identifier>tps00188</dct:identifier>\n    <dct:description xml:lang=\"en\">The indicator \"Tertiary graduates in science and technology\" includes new tertiary graduates in a calendar year from both public and private institutions completing graduate and post graduate studies compared to an age group that corresponds to the typical graduation age in most countries. It does not correspond to the number of graduates in these fields who are available in the labour market in this specific year. The levels and fields of education and training used follow the 1997 version of the International Standard Classification of Education (ISCED97) and the Eurostat Manual of fields of education and training (1999).</dct:description>\n    <dct:description xml:lang=\"fr\">L'indicateur &#171;Dipl&#244;m&#233;s de l'enseignement sup&#233;rieur en sciences et technologies&#187; comprend les nouveaux dipl&#244;m&#233;s de l'enseignement sup&#233;rieur par ann&#233;e civile, pour les &#233;tablissements publics et priv&#233;s, achevant des &#233;tudes universitaires et post-universitaires. Ce nombre est compar&#233; &#224; un groupe d'&#226;ge qui correspond &#224; l'&#226;ge normal d'obtention du dipl&#244;me dans la plupart des pays; il ne correspond pas au nombre de dipl&#244;m&#233;s dans ces domaines qui sont disponibles sur le march&#233; de l'emploi, pour cette ann&#233;e sp&#233;cifique. Les domaines d'enseignement et de formation utilis&#233;s suivent la version de 1997 de la nomenclature CITE (classification internationale type de l'education) et le manuel Eurostat des domaines d'enseignement et de formation (1999).</dct:description>\n    <dct:description xml:lang=\"de\">Der Indikator \"Hochschulabsolventen in Wissenschaft und Technologie\" schlie&#223;t neue Hochschulabsolventen in einem Kalenderjahr &#246;ffentlicher und privater Einrichtungen ein, die postakademische Studien abschlie&#223;en, im Vergleich zu einer Altersklasse, die einem in den meisten L&#228;ndern typischen Abschlussalter entspricht. Dies entspricht nicht der Anzahl von Absolventen, die f&#252;r den Arbeitsmarkt in diesem spezifischen Jahr verf&#252;gbar sind. Bildungsbereiche und Bildungsniveaus beziehen sich auf die Fassung von 1997 der ISCED-Klassifikation und das Eurostat-Handbuch &#252;ber Bildungsbereiche und Ausbildung (1999).</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tps00188</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00188.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00188.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-04-22</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2001</ecodp:periodStart>\n        <ecodp:periodEnd>2012</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/pSAJ2iKb4y1i9qkmsH8A\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tps00188</foaf:primaryTopic><dct:modified>2015-07-30T10:37:05.519846</dct:modified><dct:issued>2014-12-22T10:16:42.982389</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "f5415c9c-2419-4227-9d6c-fb58ecb06f07", 
+    "identifier": "tps00188"
+}

@@ -1,0 +1,193 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "research and development", 
+            "name": "research and development", 
+            "revision_timestamp": "2014-12-22T09:46:22.117419", 
+            "state": "active", 
+            "id": "fb9016cd-704e-43b3-a62a-407ad06b97eb"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "research staff", 
+            "name": "research staff", 
+            "revision_timestamp": "2014-12-22T09:46:22.117419", 
+            "state": "active", 
+            "id": "3704029c-8d78-4673-9093-d0a9ea9ec87b"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "f1f7a55c-70bd-4a63-bb1d-f6146392e958", 
+    "metadata_created": "2014-12-22T09:46:22.117419", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T08:35:26.693374", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2914", 
+            "name": "http://eurovoc.europa.eu/2914", 
+            "revision_timestamp": "2015-03-03T17:32:46.303933", 
+            "state": "active", 
+            "id": "fd0f5924-858b-406b-b5e5-6cf1616e1a37"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00002.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:35:26.750383", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:35:26.692426", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "a260504c-6d30-4288-a0b5-82460527198c", 
+            "size": null, 
+            "resource_group_id": "50191333-f49f-4ad3-a1c1-646a2e6ea72e", 
+            "id": "30abf777-caed-4a6d-8ad7-8226ce2f48d2", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00002.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:35:26.750391", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:35:26.692426", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "a260504c-6d30-4288-a0b5-82460527198c", 
+            "size": null, 
+            "resource_group_id": "50191333-f49f-4ad3-a1c1-646a2e6ea72e", 
+            "id": "0efdcbbb-33d5-472b-adab-8a8b2aa7b83e", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00002", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:35:26.750354", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:35:26.692426", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "a260504c-6d30-4288-a0b5-82460527198c", 
+            "size": null, 
+            "resource_group_id": "50191333-f49f-4ad3-a1c1-646a2e6ea72e", 
+            "id": "951adf58-441d-458f-bd3b-19a65ab7888a", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "R&D personnel include all persons employed directly on R&D, plus persons supplying direct services to R&D, such as managers, administrative staff and office staff. The measure shown in this table is total R&D personnel in full time equivalents as a percentage of the economic active population. Please note that the calculation of the measure in this table has changed from being based on head count to full time equivalents from January 2010. The measure based on head count is still available in Eurostat public data bases, table: Total R&D personnel and researchers by sectors of performance, as % of total labour force and total employment, and by sex (rd_p_perslf)", 
+    "title": "Research and development personnel, by sectors of performance", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 12, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100151", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100151", 
+            "image_display_url": "", 
+            "id": "5fe330e5-0901-4296-ac07-a19c0ccf5f06", 
+            "name": "eurovoc_domain_100151"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100158", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100158", 
+            "image_display_url": "", 
+            "id": "361d621d-3400-4cfe-a1f2-e54e38653a17", 
+            "name": "eurovoc_domain_100158"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:46:22.117419", 
+    "name": "i86erbG4JRDkz3JKx9yQlw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00002", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00002\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100158\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100151\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2914\"/>\n    <dct:title xml:lang=\"en\">Research and development personnel, by sectors of performance</dct:title>\n    <dct:title xml:lang=\"fr\">Proportion des effectifs de recherche et de d&#233;veloppement, par secteurs d'ex&#233;cution</dct:title>\n    <dct:title xml:lang=\"de\">Anteil am Personal f&#252;r Forschung und Entwicklung, nach Leistungssektor</dct:title>\n    <ecodp:keyword xml:lang=\"en\">research and development</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">research staff</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">recherche et d&#233;veloppement</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">personnel de la recherche</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Forschung und Entwicklung</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Forschungspersonal</ecodp:keyword>\n    <dct:identifier>tsc00002</dct:identifier>\n    <dct:description xml:lang=\"en\">R&amp;D personnel include all persons employed directly on R&amp;D, plus persons supplying direct services to R&amp;D, such as managers, administrative staff and office staff. The measure shown in this table is total R&amp;D personnel in full time equivalents as a percentage of the economic active population. Please note that the calculation of the measure in this table has changed from being based on head count to full time equivalents from January 2010. The measure based on head count is still available in Eurostat public data bases, table: Total R&amp;D personnel and researchers by sectors of performance, as % of total labour force and total employment, and by sex (rd_p_perslf)</dct:description>\n    <dct:description xml:lang=\"fr\">Le personnel de R&amp;D comprend l'ensemble des personnes employ&#233;es directement dans la R&amp;D, ainsi que les personnes fournissant des services de R&amp;D, tels que les gestionnaires, le personnel administratif et le personnel de bureau. L'indicateur pr&#233;sent&#233; dans ce tableau correspond au total du personnel de R&amp;D exprim&#233; en &#233;quivalents temps pleins, en pourcentage de la population active &#233;conomique. Il convient de noter que le calcul de l'indicateur figurant dans ce tableau est bas&#233;, depuis janvier 2010, sur des &#233;quivalents temps plein, et non plus sur un d&#233;nombrement des effectifs. L'indicateur bas&#233; sur les effectifs reste accessible dans les bases de donn&#233;es publiques d'Eurostat, tableau: Ensemble du personnel de R&amp;D et des chercheurs par secteur d&#8217;ex&#233;cution, en % du total des forces de travail et du total de l'emploi, et par sexe (rd_p_perslf).</dct:description>\n    <dct:description xml:lang=\"de\">Zum FuE&#8209;Personal geh&#246;ren alle unmittelbar in FuE&#8209;Sektoren besch&#228;ftigten Personen sowie alle Personen, die unmittelbare Leistungen f&#252;r FuE erbringen, z.&#160;B. Manager und Verwaltungs- oder B&#252;ropersonal. In dieser Tabelle wird der Anteil des gesamten FuE&#8209;Personals an der Erwerbsbev&#246;lkerung in Vollzeit&#228;quivalenten angegeben. Zur Beachtung: Die Angaben in der Tabelle basieren seit Januar 2010 nicht mehr auf der reinen Personenzahl, sondern auf Vollzeit&#228;quivalenten. Die Angaben nach der Personenzahl sind nach wie vor in den &#246;ffentlich zug&#228;nglichen Datenbanken von Eurostat abrufbar, siehe Tabelle: FuE&#8209;Personal und Forscher insgesamt nach Leistungssektor, in Prozent der Erwerbspersonen insgesamt und der Erwerbst&#228;tigen insgesamt, und nach Geschlecht (rd_p_perslf).</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00002</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00002.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00002.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/i86erbG4JRDkz3JKx9yQlw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00002</foaf:primaryTopic><dct:modified>2015-07-30T10:25:31.455101</dct:modified><dct:issued>2014-12-22T09:46:22.117419</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "90801d6f-db3e-4b91-a2a7-628020b47c8e", 
+    "identifier": "tsc00002"
+}

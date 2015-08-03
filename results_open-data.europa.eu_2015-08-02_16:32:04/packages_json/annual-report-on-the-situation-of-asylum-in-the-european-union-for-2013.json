@@ -1,0 +1,329 @@
+{
+    "temporal_granularity": [
+        "year"
+    ], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 20, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU27"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Annual report", 
+            "name": "Annual report", 
+            "revision_timestamp": "2015-03-17T09:42:31.743139", 
+            "state": "active", 
+            "id": "c35d29b9-6276-4e38-ad2b-350bc5ce5320"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Asylum", 
+            "name": "Asylum", 
+            "revision_timestamp": "2015-03-17T09:42:31.743139", 
+            "state": "active", 
+            "id": "e3e1eb52-1981-4c7d-8fac-d0f5b2ece6c3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Common European Asylum System CEAS", 
+            "name": "Common European Asylum System CEAS", 
+            "revision_timestamp": "2015-03-17T09:42:31.743139", 
+            "state": "active", 
+            "id": "f7766d9f-236c-4745-a2dd-95b9473f6c82"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Refugee Fund ERF", 
+            "name": "European Refugee Fund ERF", 
+            "revision_timestamp": "2015-03-17T09:42:31.743139", 
+            "state": "active", 
+            "id": "b403de34-d306-4dba-95d5-18c8f29d3f47"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Union agency", 
+            "name": "European Union agency", 
+            "revision_timestamp": "2015-03-17T09:42:31.743139", 
+            "state": "active", 
+            "id": "3a0574f8-496d-40a2-bca1-c21243044746"
+        }
+    ], 
+    "contact_name": "European Asylum Support Office (EASO)", 
+    "id": "211b0bc3-1b74-4f26-914c-5657cd544433", 
+    "metadata_created": "2015-03-17T09:42:31.743139", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T13:59:18.240835", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1909", 
+            "name": "http://eurovoc.europa.eu/1909", 
+            "revision_timestamp": "2015-03-17T09:42:31.743139", 
+            "state": "active", 
+            "id": "f511e0ec-7e8d-422a-a796-b20e809f470c"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2986", 
+            "name": "http://eurovoc.europa.eu/2986", 
+            "revision_timestamp": "2015-03-17T09:42:31.743139", 
+            "state": "active", 
+            "id": "53841f1e-b6a8-409d-a525-84b936585258"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/447958", 
+            "name": "http://eurovoc.europa.eu/447958", 
+            "revision_timestamp": "2015-03-17T09:42:31.743139", 
+            "state": "active", 
+            "id": "a4b4491d-9758-4625-afd6-9ded6dcc4970"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2867", 
+            "name": "http://eurovoc.europa.eu/2867", 
+            "revision_timestamp": "2015-03-17T09:42:31.743139", 
+            "state": "active", 
+            "id": "53ecac6d-aa64-4142-8c4c-25140e62b37d"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1302", 
+            "name": "http://eurovoc.europa.eu/1302", 
+            "revision_timestamp": "2015-03-17T09:42:31.743139", 
+            "state": "active", 
+            "id": "f5ec8093-e13e-4b15-bb39-000ce0a4c05d"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2991", 
+            "name": "http://eurovoc.europa.eu/2991", 
+            "revision_timestamp": "2015-03-17T09:42:31.743139", 
+            "state": "active", 
+            "id": "9b7faaef-5597-4c89-bf7c-a6b3e76bbe3b"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Annual Report on the Situation of Asylum in the European Union for 2013 [DE] ", 
+            "format": "application/pdf", 
+            "url": "http://easo.europa.eu/wp-content/uploads/BZAB14001DEC_PDF-Web.pdf", 
+            "datastore_active": false, 
+            "created": "2015-03-17T10:47:41.668675", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-17T09:51:55.110192", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "89cb4bc7-16a0-4272-adff-9e52e3fe1721", 
+            "size": null, 
+            "resource_group_id": "e4de6569-64b9-441c-a079-03a072638ba5", 
+            "id": "a3b197ab-d9c6-4246-8308-5fb79db4c5ec", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Annual Report on the Situation of Asylum in the European Union for 2013 [DE] "
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Annual Report on the Situation of Asylum in the European Union for 2013 [EN]", 
+            "format": "application/pdf", 
+            "url": "http://easo.europa.eu/wp-content/uploads/EASO-AR-final1.pdf", 
+            "datastore_active": false, 
+            "created": "2015-03-17T10:47:41.668705", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-17T09:51:55.110192", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "89cb4bc7-16a0-4272-adff-9e52e3fe1721", 
+            "size": null, 
+            "resource_group_id": "e4de6569-64b9-441c-a079-03a072638ba5", 
+            "id": "42e65122-f484-46e7-bb98-ec62f431356a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Annual Report on the Situation of Asylum in the European Union for 2013 [EN]"
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Annual Report on the Situation of Asylum in the European Union for 2013 [ES] ", 
+            "format": "application/pdf", 
+            "url": "http://easo.europa.eu/wp-content/uploads/BZAB14001ESC_PDF.Web_.pdf", 
+            "datastore_active": false, 
+            "created": "2015-03-17T10:47:41.668714", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-17T09:51:55.110192", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "89cb4bc7-16a0-4272-adff-9e52e3fe1721", 
+            "size": null, 
+            "resource_group_id": "e4de6569-64b9-441c-a079-03a072638ba5", 
+            "id": "515993d3-74c1-40c4-9fcb-6b897c8d55c7", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Annual Report on the Situation of Asylum in the European Union for 2013 [ES] "
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Annual Report on the Situation of Asylum in the European Union for 2013 [FR] ", 
+            "format": "application/pdf", 
+            "url": "http://easo.europa.eu/wp-content/uploads/BZAB14001FRC_PDF.Web_.pdf", 
+            "datastore_active": false, 
+            "created": "2015-03-17T10:47:41.668725", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-17T09:51:55.110192", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "89cb4bc7-16a0-4272-adff-9e52e3fe1721", 
+            "size": null, 
+            "resource_group_id": "e4de6569-64b9-441c-a079-03a072638ba5", 
+            "id": "6a14cc6f-b327-4e50-8c17-04ecd2dbbeeb", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Annual Report on the Situation of Asylum in the European Union for 2013 [FR] "
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Annual Report on the Situation of Asylum in the European Union for 2013 [IT] ", 
+            "format": "application/pdf", 
+            "url": "http://easo.europa.eu/wp-content/uploads/BZAB14001ITC_PDF.Web_.pdf", 
+            "datastore_active": false, 
+            "created": "2015-03-17T10:47:41.668733", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-17T09:51:55.110192", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "89cb4bc7-16a0-4272-adff-9e52e3fe1721", 
+            "size": null, 
+            "resource_group_id": "e4de6569-64b9-441c-a079-03a072638ba5", 
+            "id": "c749c5cf-b76c-44ee-9e95-f17448ff1f40", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Annual Report on the Situation of Asylum in the European Union for 2013 [IT] "
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Annual Report on the Situation of Asylum in the European Union for 2013", 
+    "title": "Annual Report on the Situation of Asylum in the European Union for 2013", 
+    "temporal_coverage_from": "2013", 
+    "tracking_summary": {
+        "total": 106, 
+        "recent": 9
+    }, 
+    "contact_email": "info@easo.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100145", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100145", 
+            "image_display_url": "", 
+            "id": "b4c18652-77ac-48e0-a2c3-b431695009b8", 
+            "name": "eurovoc_domain_100145"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-03-17T09:42:31.743139", 
+    "name": "annual-report-on-the-situation-of-asylum-in-the-european-union-for-2013", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/SPA", 
+        "http://publications.europa.eu/resource/authority/language/ITA", 
+        "http://publications.europa.eu/resource/authority/language/FRA", 
+        "http://publications.europa.eu/resource/authority/language/ENG", 
+        "http://publications.europa.eu/resource/authority/language/DEU"
+    ], 
+    "alternative_title": "Situation of Asylum in the European Union for 2013", 
+    "accrual_periodicity": "Yearly", 
+    "owner_org": "c854cbc4-0302-4a06-9e2f-27f45d318a25", 
+    "contact_address": "MTC Block A Winemakers Wharf Grand Harbour Valletta MRS 1917 Malta", 
+    "contact_telephone": "+356 22487500", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://easo.europa.eu/contact-us/", 
+    "url": "http://easo.europa.eu/news/easo-publication-and-documentation/", 
+    "organization": {
+        "description": "", 
+        "title": "European Asylum Support Office", 
+        "created": "2012-12-12T13:50:47.864023", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:47.838118", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "e4ab7f14-0b56-40eb-9348-5c4a40285197", 
+        "type": "organization", 
+        "id": "c854cbc4-0302-4a06-9e2f-27f45d318a25", 
+        "name": "easo"
+    }, 
+    "revision_id": "a879fc83-b29a-49b7-ad64-3e1b9b80d62d", 
+    "identifier": "", 
+    "version_description": ""
+}

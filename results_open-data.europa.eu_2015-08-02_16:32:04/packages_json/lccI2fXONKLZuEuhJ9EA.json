@@ -1,0 +1,248 @@
+{
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015-06", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "HICP", 
+            "name": "HICP", 
+            "revision_timestamp": "2014-12-22T09:22:10.812586", 
+            "state": "active", 
+            "id": "2280da2c-d28a-4015-80b1-b11b2adc7f59"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "consumer prices", 
+            "name": "consumer prices", 
+            "revision_timestamp": "2014-12-22T09:22:10.812586", 
+            "state": "active", 
+            "id": "9f680305-9165-4ff9-839b-a85dd6bc34fa"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "miscellaneous industries", 
+            "name": "miscellaneous industries", 
+            "revision_timestamp": "2014-12-22T09:22:10.812586", 
+            "state": "active", 
+            "id": "f82730e0-2e73-4cca-9026-cc578cb54f05"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "d24d1b29-ae7f-42cd-ac45-720181d9bf91", 
+    "metadata_created": "2014-12-22T09:22:10.812586", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T09:35:09.200122", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "interoperability_level": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2632", 
+            "name": "http://eurovoc.europa.eu/2632", 
+            "revision_timestamp": "2015-03-03T18:34:13.401259", 
+            "state": "active", 
+            "id": "8563284c-bb97-4c51-a0ee-a17b53119e4b"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "name": null, 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teicp120.tsv.gz", 
+            "created": "2015-07-31T11:35:09.275423", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:35:09.197526", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "resource_group_id": "0bdad333-46d9-48ef-9df8-ac07c4be45c3", 
+            "revision_id": "95b3bf37-04d8-4368-a26d-576956750088", 
+            "id": "2a222157-9591-4e21-8471-c3db24ee272b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "name": null, 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teicp120.sdmx.zip", 
+            "created": "2015-07-31T11:35:09.275430", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:35:09.197526", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "resource_group_id": "0bdad333-46d9-48ef-9df8-ac07c4be45c3", 
+            "revision_id": "95b3bf37-04d8-4368-a26d-576956750088", 
+            "id": "825942e8-b270-483c-8580-5e4f784fcf18", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ei_cp_esms.htm", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ei_cp_esms.htm", 
+            "created": "2015-07-31T11:35:09.275363", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:35:09.197526", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "resource_group_id": "0bdad333-46d9-48ef-9df8-ac07c4be45c3", 
+            "revision_id": "95b3bf37-04d8-4368-a26d-576956750088", 
+            "id": "43590e92-ec46-4c46-9233-d52fcbd69848", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_cp_esms.sdmx.zip", 
+            "created": "2015-07-31T11:35:09.275407", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:35:09.197526", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "resource_group_id": "0bdad333-46d9-48ef-9df8-ac07c4be45c3", 
+            "revision_id": "95b3bf37-04d8-4368-a26d-576956750088", 
+            "id": "1dcff2e2-ee1c-468a-875d-8d5c25e9d8d5", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "name": "More information on Eurostat Website", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teicp120", 
+            "created": "2015-07-31T11:35:09.275416", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:35:09.197526", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "resource_group_id": "0bdad333-46d9-48ef-9df8-ac07c4be45c3", 
+            "revision_id": "95b3bf37-04d8-4368-a26d-576956750088", 
+            "id": "241cfdc7-51d2-4647-b14b-5b96149a1625", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "size": null
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Harmonized Indices of Consumer Prices (HICPs) are designed for international comparisons of consumer price inflation. HICPs are used for the assessment of the inflation convergence criterion as required under Article 121 of the Treaty of Amsterdam and by the ECB for assessing price stability for monetary policy purposes. The ECB defines price stability on the basis of the annual rate of change of the euro area HICP. HICPs are compiled on the basis of harmonized standards, binding for all Member States. Conceptually, the HICPs are Laspeyres-type price indices and are computed as annual chain-indices allowing for weights changing each year. The common classification for Harmonized Indices of Consumer Prices is the COICOP (Classification Of Individual COnsumption by Purpose). A version of this classification (COICOP/HICP) has been specially adapted for the HICPs. Sub-indices published by Eurostat are based on this classification. HICPs are produced and published using a common index reference period (2005 = 100). Growth rates are calculated from published index levels. Indexes, as well as both growth rates with respect to the previous month (M/M-1) and with respect to the corresponding month of the previous year (M/M-12) are neither calendar nor seasonally adjusted.", 
+    "temporal_coverage_from": "2014-07", 
+    "language": [], 
+    "tracking_summary": {
+        "total": 11, 
+        "recent": 0
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "image_display_url": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "image_display_url": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "relationships_as_subject": [], 
+    "license_title": "Legal Notice", 
+    "revision_timestamp": "2014-12-22T09:22:10.812586", 
+    "organization": {
+        "description": "", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "title": "Eurostat", 
+        "name": "estat", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "approval_status": "approved"
+    }, 
+    "name": "lccI2fXONKLZuEuhJ9EA", 
+    "isopen": true, 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teicp120", 
+    "temporal_granularity": [], 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teicp120\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2632\"/>\n    <dct:title xml:lang=\"en\">HICP - miscellaneous</dct:title>\n    <dct:title xml:lang=\"fr\">IPCH - divers</dct:title>\n    <dct:title xml:lang=\"de\">HVPI - Sonstige</dct:title>\n    <ecodp:keyword xml:lang=\"en\">consumer prices</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">HICP</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">miscellaneous industries</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Prix &#224; la consommation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">industrie diverse</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Verbraucherpreise</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">verschiedene Industriezweige</ecodp:keyword>\n    <dct:identifier>teicp120</dct:identifier>\n    <dct:description xml:lang=\"en\">Harmonized Indices of Consumer Prices (HICPs) are designed for international comparisons of consumer price inflation. HICPs are used for the assessment of the inflation convergence criterion as required under Article 121 of the Treaty of Amsterdam and by the ECB for assessing price stability for monetary policy purposes. The ECB defines price stability on the basis of the annual rate of change of the euro area HICP. HICPs are compiled on the basis of harmonized standards, binding for all Member States. Conceptually, the HICPs are Laspeyres-type price indices and are computed as annual chain-indices allowing for weights changing each year. The common classification for Harmonized Indices of Consumer Prices is the COICOP (Classification Of Individual COnsumption by Purpose). A version of this classification (COICOP/HICP) has been specially adapted for the HICPs. Sub-indices published by Eurostat are based on this classification. HICPs are produced and published using a common index reference period (2005 = 100). Growth rates are calculated from published index levels. Indexes, as well as both growth rates with respect to the previous month (M/M-1) and with respect to the corresponding month of the previous year (M/M-12) are neither calendar nor seasonally adjusted.</dct:description>\n    <dct:description xml:lang=\"fr\">Les indices des prix &#224; la consommation harmonis&#233;s (IPCH) sont con&#231;us pour la comparaison de l'inflation des prix &#224; la consommation. Ils sont utilis&#233;s dans l'&#233;valuation de la convergence de l'inflation requise par l'article 121 du trait&#233; d'Amsterdam et, par la Banque centrale europ&#233;enne (BCE), pour le monitorage de la stabilit&#233; des prix dans le cadre de la politique mon&#233;taire. La BCE d&#233;finit la stabilit&#233; des prix en fonction du taux de variation annuel de l'IPCH dans la zone euro. Les IPCH sont compil&#233;s sur la base des standards harmonis&#233;s obligatoires pour tous les &#201;tats membres. Les IPCH sont des indices de prix de type de Laspeyres calcul&#233;s comme des indices de cha&#238;ne annuels permettant le changeant de poids chaque ann&#233;e. La classification commune pour les Indices des prix &#224; la consommation harmonis&#233;s est la classification des fonctions de la consommation individuelle (COICOP). Une version de cette classification (COICOP/IPCH) a &#233;t&#233; adapt&#233;e pour les IPCH. Les sous-indices publi&#233;s par Eurostat sont bas&#233;s sur cette classification. Les IPCH sont produits et publi&#233;s en utilisant une p&#233;riode de r&#233;f&#233;rence commune d'indice (2005 = 100). Les taux de croissance sont calcul&#233;s &#224; partir des indices publi&#233;s. Les indices, ainsi que les taux de variations de croissance par rapport au mois pr&#233;c&#233;dent (M/M-1) et par rapport au m&#234;me mois de l'ann&#233;e pr&#233;c&#233;dente (M/M-12), ne sont ni corrig&#233;s des effets de calendriers ni des variations saisonni&#232;res.</dct:description>\n    <dct:description xml:lang=\"de\">Harmonisierte Verbraucherpreisindizes (HVPI) sind f&#252;r internationale Vergleiche der Verbraucherpreisinflation gedacht. Sie dienen der Bewertung der Inflationskonvergenz gem&#228;&#223; Artikel 121 des Amsterdamer Vertrages und der Europ&#228;ischen Zentralbank zur &#220;berwachung der Preisstabilit&#228;t im Rahmen der W&#228;hrungspolitik. Die EZB definiert Preisstabilit&#228;t auf Grundlage der j&#228;hrlichen Ver&#228;nderungsrate des HVPI f&#252;r die Euroraum. Die HVPI werden gem&#228;&#223; harmonisierter, f&#252;r alle Mitgliedstaaten verbindlicher Standards erstellt. Die HVPI sind \"Preisindizes vom Typ Laspeyres\" und werden als j&#228;hrliche Kettenindizes berechnet, so dass sich die Gewichte von Jahr zu Jahr &#228;ndern k&#246;nnen. Die gemeinsame Klassifikation der HVPI ist die COICOP (Internationale Klassifikation des individuellen Verbrauchs nach Verwendungszwecken). Eine Version dieser Klassifikation (COICOP/HVPI) wurde f&#252;r die HVPI angepasst. Teilindizes, die von Eurostat ver&#246;ffentlicht werden, basieren auf dieser Klassifizierung. HVPI werden erstellt und ver&#246;ffentlicht unter Verwendung eines gemeinsamen Indexreferenzzeitraum (2005 = 100). Wachstumsraten werden von ver&#246;ffentlichten Indexzahlen berechnet. Indizes sowie Wachstumsraten bez&#252;glich des Vormonats (M/M-1) beziehungsweise des entsprechenden Monats des vorherigen Jahres (M/M-12) werden weder von Kalender- noch von Saisoneffekten bereinigt.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ei_cp_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_cp_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teicp120</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teicp120.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teicp120.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2014-07</ecodp:periodStart>\n        <ecodp:periodEnd>2015-06</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/lccI2fXONKLZuEuhJ9EA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teicp120</foaf:primaryTopic><dct:modified>2015-07-30T10:54:29.454461</dct:modified><dct:issued>2014-12-22T09:22:10.812586</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "title": "HICP - miscellaneous", 
+    "revision_id": "8ab445b4-aba2-4480-98aa-e38c86d1a3e0", 
+    "identifier": "teicp120"
+}

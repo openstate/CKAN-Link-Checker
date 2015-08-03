@@ -1,0 +1,208 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 10, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "debt ratio", 
+            "name": "debt ratio", 
+            "revision_timestamp": "2014-02-26T14:17:28.569697", 
+            "state": "active", 
+            "id": "732d0ed9-2646-4b88-a070-0cbfbb3cfeee"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "notifications", 
+            "name": "notifications", 
+            "revision_timestamp": "2014-02-26T14:17:28.569697", 
+            "state": "active", 
+            "id": "53c505af-ff7d-405d-a103-68b0f3ddba04"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "short selling", 
+            "name": "short selling", 
+            "revision_timestamp": "2014-02-26T14:17:28.569697", 
+            "state": "active", 
+            "id": "a11fe709-784b-4f09-854f-aa06c23ca7b2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "sovereign issuers", 
+            "name": "sovereign issuers", 
+            "revision_timestamp": "2014-02-26T14:17:28.569697", 
+            "state": "active", 
+            "id": "0a905aa5-51a8-4f95-bcd0-543ebe3820b8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "thresholds", 
+            "name": "thresholds", 
+            "revision_timestamp": "2014-02-26T14:17:28.569697", 
+            "state": "active", 
+            "id": "9e82ad00-6c03-47f9-a6c1-8bf8405febaa"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "4f5232af-c8ae-40ed-a71f-04837d04496a", 
+    "metadata_created": "2015-07-27T14:36:14.922328", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:36:14.923359", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1804", 
+            "name": "http://eurovoc.europa.eu/1804", 
+            "revision_timestamp": "2015-02-24T10:37:39.131270", 
+            "state": "active", 
+            "id": "6a93dbab-785a-4293-a785-9869c0aea6c9"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/8469", 
+            "name": "http://eurovoc.europa.eu/8469", 
+            "revision_timestamp": "2015-02-24T10:37:39.131270", 
+            "state": "active", 
+            "id": "983e256b-17f1-4728-9ed6-47be9516703e"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/424", 
+            "name": "http://eurovoc.europa.eu/424", 
+            "revision_timestamp": "2015-02-24T10:37:39.131270", 
+            "state": "active", 
+            "id": "26bbe068-3c29-4777-8ef9-3396e5595697"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "A list of the thresholds applicable to the sovereign issuers for the purpose of the notification to competent authorities of significant net short position in sovereign debt.", 
+            "format": "text/html", 
+            "url": "http://www.esma.europa.eu/page/Net-short-position-notification-thresholds-sovereign-issuers", 
+            "datastore_active": false, 
+            "created": "2015-02-24T11:25:46.760925", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-24T10:25:46.649205", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "fe092a19-0226-4458-b8a3-09e48611c15a", 
+            "size": null, 
+            "resource_group_id": "4a5d9530-1fb4-4e0f-ba72-acff9015320f", 
+            "id": "0c35f754-9a22-4551-9eeb-a1543e4ec6f4", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Net short position notification thresholds for sovereign issuers"
+        }, 
+        {
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "2015_m02_d01_sovereign_debt_thresholds.xlsx", 
+            "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", 
+            "url": "http://www.esma.europa.eu/system/files/2015_m02_d01_sovereign_debt_thresholds.xlsx", 
+            "datastore_active": false, 
+            "created": "2015-02-24T11:25:46.760950", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-24T10:33:15.556370", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "e458129f-cf83-4e00-8573-ad004e1c2950", 
+            "size": null, 
+            "resource_group_id": "4a5d9530-1fb4-4e0f-ba72-acff9015320f", 
+            "id": "a8a6648f-0744-4d52-8aed-6d7bafc42c1d", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Net short position notification thresholds for sovereign issuers (1 February 2015)"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 2, 
+    "description": "According to Article 7(2) of the Short Selling Regulation, ESMA has to publish a list of the thresholds applicable to the sovereign issuers for the purpose of the notification to competent authorities of significant net short position in sovereign debt.\r\n\r\nThe way these notification thresholds are defined is further specified in the Commission Delegated Regulation No 918/2012 (the \u201cDR\u201d). The DR specifies that initial threshold categories shall be:\r\n0.1% applicable where the total amount of outstanding issued sovereign debt is between 0 and 500 billion euros;\r\n0.5% applicable where the total amount of outstanding issued sovereign debt is above 500 billion euros or where there is a liquid futures market for the particular sovereign debt.\r\n\r\nThe additional incremental levels shall be set at 50% of the initial thresholds. The reporting thresholds shall be monetary amounts fixed by applying the percentage thresholds to the outstanding sovereign debt of the sovereign issuer. They will be revised and updated quarterly to reflect changes in the total amount of outstanding sovereign debt of each sovereign issuer.\r\n\r\nIn addition, the DR states that the amount of outstanding debt should be calculated using a duration adjusted approach. ESMA has published a Q&A document on how to proceed for the duration adjustment.\r\n\r\nThe table of thresholds contains the name of the sovereign issuer, the amount of outstanding debt duration adjusted, the initial threshold amount and the relevant percentage, the incremental threshold amount and the relevant percentage.\r\n\r\nPlease note that the figures of the amount of outstanding debt are duration adjusted (not nominal amounts) and are approximations provided by competent authorities.", 
+    "title": "Net short position notification thresholds for sovereign issuers", 
+    "tracking_summary": {
+        "total": 218, 
+        "recent": 7
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "e02572fb-1723-472c-9ee8-8e0f4a43fa44", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T14:36:14.922328", 
+    "name": "net_short_position", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://www.esma.europa.eu/page/Net-short-position-notification-thresholds-sovereign-issuers", 
+    "organization": {
+        "description": "", 
+        "title": "European Securities and Markets Authority", 
+        "created": "2012-12-12T13:50:52.497925", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.471964", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "0d60eb1d-b406-43d3-94ad-26f3bea3f39b", 
+        "type": "organization", 
+        "id": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+        "name": "esma"
+    }, 
+    "revision_id": "c91086ac-a1cc-4eeb-8035-2a16a2a25620", 
+    "identifier": "", 
+    "version_description": ""
+}

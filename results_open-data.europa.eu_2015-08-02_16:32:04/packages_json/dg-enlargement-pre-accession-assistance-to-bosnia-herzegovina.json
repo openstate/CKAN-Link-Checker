@@ -1,0 +1,221 @@
+{
+    "owner_org": "db01eec4-5e73-4b2c-b870-0463cd24788d", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 19, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/BIH"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "2010", 
+            "name": "2010", 
+            "revision_timestamp": "2013-11-27T10:32:32.891931", 
+            "state": "active", 
+            "id": "db4f9f68-9e20-4956-a784-4c86fee41f5c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "2011", 
+            "name": "2011", 
+            "revision_timestamp": "2013-11-27T10:32:32.891931", 
+            "state": "active", 
+            "id": "471871ff-59df-4564-a60b-e849c1d29f47"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "2012", 
+            "name": "2012", 
+            "revision_timestamp": "2013-11-27T10:32:32.891931", 
+            "state": "active", 
+            "id": "8ac8dbd9-175e-48ec-ac30-2ac3eb98bb53"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "2013", 
+            "name": "2013", 
+            "revision_timestamp": "2013-11-27T10:32:32.891931", 
+            "state": "active", 
+            "id": "39654309-7de6-48c5-b88d-a47035f502ab"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "BiH", 
+            "name": "BiH", 
+            "revision_timestamp": "2013-11-27T10:32:32.891931", 
+            "state": "active", 
+            "id": "30810a1b-59bf-4781-9130-f789905d78d7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Bosnia and Herzegovina", 
+            "name": "Bosnia and Herzegovina", 
+            "revision_timestamp": "2013-11-27T10:32:32.891931", 
+            "state": "active", 
+            "id": "4ceccc88-3a8d-41c1-9329-698c8da56dcf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "DG Enlargement", 
+            "name": "DG Enlargement", 
+            "revision_timestamp": "2013-11-27T10:32:32.891931", 
+            "state": "active", 
+            "id": "023ca80a-0ad8-4cfd-a08a-4c7b1efe1ef1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ELARG", 
+            "name": "ELARG", 
+            "revision_timestamp": "2013-11-27T10:32:32.891931", 
+            "state": "active", 
+            "id": "e0a8bb22-46eb-4835-a339-d6285a0a251e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "IPA", 
+            "name": "IPA", 
+            "revision_timestamp": "2013-11-27T10:32:32.891931", 
+            "state": "active", 
+            "id": "2ad87fb2-908a-4080-84ea-4cef68a91ef4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Instrument for Pre-accession Assistance", 
+            "name": "Instrument for Pre-accession Assistance", 
+            "revision_timestamp": "2013-11-27T10:32:32.891931", 
+            "state": "active", 
+            "id": "c514ab63-26b0-4fb4-8bde-92d687a3e448"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Western Balkans", 
+            "name": "Western Balkans", 
+            "revision_timestamp": "2013-11-27T10:32:32.891931", 
+            "state": "active", 
+            "id": "9f94ee18-afab-4997-bdef-1b8da54e6547"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "ed3c9384-e133-4db7-b35b-5a32659b1acd", 
+    "metadata_created": "2015-07-27T17:31:23.999830", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:31:24.000856", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [], 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6710", 
+            "name": "http://eurovoc.europa.eu/6710", 
+            "revision_timestamp": "2015-02-09T13:32:50.298666", 
+            "state": "active", 
+            "id": "63a2b4dd-620d-49a1-877f-704d2625a575"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4057", 
+            "name": "http://eurovoc.europa.eu/4057", 
+            "revision_timestamp": "2015-02-09T13:32:50.298666", 
+            "state": "active", 
+            "id": "193b130d-9d9b-41b1-b722-9bba80c23d5b"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/12", 
+            "name": "http://eurovoc.europa.eu/12", 
+            "revision_timestamp": "2015-02-09T13:32:50.298666", 
+            "state": "active", 
+            "id": "ce8e6536-074a-4d8c-b93e-42188cfabccb"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/7132", 
+            "name": "http://eurovoc.europa.eu/7132", 
+            "revision_timestamp": "2015-02-09T13:32:50.298666", 
+            "state": "active", 
+            "id": "31c4f9d7-0e3c-4980-9517-f3136b52827d"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Information on programmes financed through the Instrument for Pre-accession Assistance (IPA ) in Bosnia and Herzegovina since 2010.", 
+            "name": " DG Enlargement - Pre-accession assistance to Bosnia & Herzegovina ", 
+            "format": "application/xml", 
+            "url": "http://ec.europa.eu/europeaid/files/iati/EC-ELARG_BA.xml", 
+            "created": "2013-10-31T11:42:18.550276", 
+            "state": "active", 
+            "webstore_url": "enabled", 
+            "revision_timestamp": "2013-12-19T15:41:01.193760", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "resource_group_id": "a183489e-0d61-44bf-86ec-68a8500d1b71", 
+            "revision_id": "aa47efcb-17db-4291-b18a-fe0025e19b2a", 
+            "id": "b9ca7640-0122-490e-b815-a3924b962dae", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "size": null
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "Information on programmes financed through the Instrument for Pre-accession Assistance (IPA) in Bosnia and Herzegovina since 2010.", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "tracking_summary": {
+        "total": 226, 
+        "recent": 4
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "image_display_url": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }
+    ], 
+    "creator_user_id": "4535be6e-2500-4a77-b5da-ddda34b1b9ab", 
+    "relationships_as_subject": [], 
+    "license_title": "Legal Notice", 
+    "revision_timestamp": "2015-07-27T17:31:23.999830", 
+    "organization": null, 
+    "name": "dg-enlargement-pre-accession-assistance-to-bosnia-herzegovina", 
+    "isopen": true, 
+    "alternative_title": "", 
+    "accrual_periodicity": "Monthly", 
+    "release_date": "2013-09-01", 
+    "temporal_granularity": [], 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://ec.europa.eu/enlargement/instruments/overview/index_en.htm", 
+    "title": "DG Enlargement - Pre-accession assistance to Bosnia & Herzegovina", 
+    "revision_id": "e8c63b99-104e-443d-a03b-15736aeec2b2", 
+    "identifier": "", 
+    "version_description": ""
+}

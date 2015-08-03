@@ -1,0 +1,220 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 14, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "2010", 
+            "name": "2010", 
+            "revision_timestamp": "2013-11-27T14:12:43.619364", 
+            "state": "active", 
+            "id": "db4f9f68-9e20-4956-a784-4c86fee41f5c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "2011", 
+            "name": "2011", 
+            "revision_timestamp": "2013-11-27T14:12:43.619364", 
+            "state": "active", 
+            "id": "471871ff-59df-4564-a60b-e849c1d29f47"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "2012", 
+            "name": "2012", 
+            "revision_timestamp": "2013-11-27T14:12:43.619364", 
+            "state": "active", 
+            "id": "8ac8dbd9-175e-48ec-ac30-2ac3eb98bb53"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "2013", 
+            "name": "2013", 
+            "revision_timestamp": "2013-11-27T14:12:43.619364", 
+            "state": "active", 
+            "id": "39654309-7de6-48c5-b88d-a47035f502ab"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "DG Enlargement", 
+            "name": "DG Enlargement", 
+            "revision_timestamp": "2013-11-27T14:12:43.619364", 
+            "state": "active", 
+            "id": "023ca80a-0ad8-4cfd-a08a-4c7b1efe1ef1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ELARG", 
+            "name": "ELARG", 
+            "revision_timestamp": "2013-11-27T14:12:43.619364", 
+            "state": "active", 
+            "id": "e0a8bb22-46eb-4835-a339-d6285a0a251e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "IPA", 
+            "name": "IPA", 
+            "revision_timestamp": "2013-11-27T14:12:43.619364", 
+            "state": "active", 
+            "id": "2ad87fb2-908a-4080-84ea-4cef68a91ef4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Instrument for Pre-accession Assistance", 
+            "name": "Instrument for Pre-accession Assistance", 
+            "revision_timestamp": "2013-11-27T14:12:43.619364", 
+            "state": "active", 
+            "id": "c514ab63-26b0-4fb4-8bde-92d687a3e448"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Western Balkans", 
+            "name": "Western Balkans", 
+            "revision_timestamp": "2013-11-27T14:12:43.619364", 
+            "state": "active", 
+            "id": "9f94ee18-afab-4997-bdef-1b8da54e6547"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "06719eba-70e9-425d-be07-0113e16d3fa2", 
+    "metadata_created": "2015-07-27T13:27:40.420986", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T13:37:43.034405", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4057", 
+            "name": "http://eurovoc.europa.eu/4057", 
+            "revision_timestamp": "2015-01-30T16:30:41.873862", 
+            "state": "active", 
+            "id": "193b130d-9d9b-41b1-b722-9bba80c23d5b"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2285", 
+            "name": "http://eurovoc.europa.eu/2285", 
+            "revision_timestamp": "2015-01-30T16:30:41.873862", 
+            "state": "active", 
+            "id": "af73096d-40e3-44ac-ac1b-283233e8815b"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Information on projects financed through the Instrument for Pre-accession Assistance (IPA) for regional programmes in the Western Balkans and Turkey since 2010.", 
+            "format": "text/xml", 
+            "url": "http://ec.europa.eu/europeaid/files/iati/EC-ELARG_QSA.xml", 
+            "datastore_active": false, 
+            "created": "2013-10-31T12:27:19.724463", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": "enabled", 
+            "revision_timestamp": "2013-12-19T15:44:33.557249", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "8120efc8-55e1-4f5b-860c-900624a4a625", 
+            "size": null, 
+            "resource_group_id": "6ea8ef4a-2f70-492d-9a65-fee5cd13e500", 
+            "id": "d389c90b-19b1-49df-aba4-c5b188a85cdd", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": " DG Enlargement - Regional programmes "
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "Information on projects financed through the Instrument for Pre-accession Assistance (IPA) for regional programmes in the Western Balkans and Turkey since 2010.\r\n\r\n", 
+    "title": "DG Enlargement - Regional programmes", 
+    "tracking_summary": {
+        "total": 264, 
+        "recent": 1
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100142", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100142", 
+            "image_display_url": "", 
+            "id": "83eab3a4-b711-4582-9907-9317395b6628", 
+            "name": "eurovoc_domain_100142"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100143", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100143", 
+            "image_display_url": "", 
+            "id": "5663c43f-efe6-4814-b47b-ee909cda54a7", 
+            "name": "eurovoc_domain_100143"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100161", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100161", 
+            "image_display_url": "", 
+            "id": "8a0c2cd4-b469-4748-bff0-1120110e2b11", 
+            "name": "eurovoc_domain_100161"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100162", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100162", 
+            "image_display_url": "", 
+            "id": "0dc3cc03-e600-4d01-8e73-a428fa5280e9", 
+            "name": "eurovoc_domain_100162"
+        }
+    ], 
+    "creator_user_id": "4535be6e-2500-4a77-b5da-ddda34b1b9ab", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2015-07-27T13:27:40.420986", 
+    "name": "dg-enlargement-regional-programmes", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "Monthly", 
+    "release_date": "2013-09-01", 
+    "owner_org": "db01eec4-5e73-4b2c-b870-0463cd24788d", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://ec.europa.eu/enlargement/instruments/overview/index_en.htm", 
+    "organization": null, 
+    "revision_id": "f4ac66a8-e554-4c9a-9811-358a79664bce", 
+    "identifier": "", 
+    "version_description": ""
+}

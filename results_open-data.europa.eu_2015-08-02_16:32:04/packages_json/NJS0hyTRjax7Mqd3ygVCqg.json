@@ -1,0 +1,193 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "expenditure", 
+            "name": "expenditure", 
+            "revision_timestamp": "2014-12-22T07:29:58.566030", 
+            "state": "active", 
+            "id": "650e25ee-8d19-4fb5-807d-ee55367064ae"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "research and development", 
+            "name": "research and development", 
+            "revision_timestamp": "2014-12-22T07:29:58.566030", 
+            "state": "active", 
+            "id": "fb9016cd-704e-43b3-a62a-407ad06b97eb"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "ed9cde98-852d-4db1-a220-6bb7c814958d", 
+    "metadata_created": "2014-12-22T07:29:58.566030", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T10:06:02.512342", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2914", 
+            "name": "http://eurovoc.europa.eu/2914", 
+            "revision_timestamp": "2015-03-03T17:37:46.803675", 
+            "state": "active", 
+            "id": "fd0f5924-858b-406b-b5e5-6cf1616e1a37"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00001.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T12:06:02.603341", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T10:06:02.510877", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "98fe3db7-3c7b-4b7f-aa05-9bc074503eff", 
+            "size": null, 
+            "resource_group_id": "7bbc09af-219b-4034-b53b-6e9e06f6bee1", 
+            "id": "52fbefdd-6cbf-4f6f-a677-8d4a1c3b700b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00001.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T12:06:02.603349", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T10:06:02.510877", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "98fe3db7-3c7b-4b7f-aa05-9bc074503eff", 
+            "size": null, 
+            "resource_group_id": "7bbc09af-219b-4034-b53b-6e9e06f6bee1", 
+            "id": "85e985da-2f22-46c4-ad00-c07b9d15e3c7", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00001", 
+            "datastore_active": false, 
+            "created": "2015-07-31T12:06:02.603309", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T10:06:02.510877", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "98fe3db7-3c7b-4b7f-aa05-9bc074503eff", 
+            "size": null, 
+            "resource_group_id": "7bbc09af-219b-4034-b53b-6e9e06f6bee1", 
+            "id": "97d4eab7-70b6-448a-a7f7-006231e15cd6", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Research and experimental development (R&D) comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society, and the use of this stock of knowledge to devise new applications. R&D expenditures include all expenditures for R&D performed within the business enterprise sector (BERD) on the national territory during a given period, regardless of the source of funds. R&D expenditure in BERD are shown as a percentage of GDP (R&D intensity).", 
+    "title": "Research and development expenditure, by sectors of performance", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 21, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100151", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100151", 
+            "image_display_url": "", 
+            "id": "5fe330e5-0901-4296-ac07-a19c0ccf5f06", 
+            "name": "eurovoc_domain_100151"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100158", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100158", 
+            "image_display_url": "", 
+            "id": "361d621d-3400-4cfe-a1f2-e54e38653a17", 
+            "name": "eurovoc_domain_100158"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:29:58.566030", 
+    "name": "NJS0hyTRjax7Mqd3ygVCqg", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00001", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00001\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100158\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100151\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2914\"/>\n    <dct:title xml:lang=\"en\">Research and development expenditure, by sectors of performance</dct:title>\n    <dct:title xml:lang=\"fr\">D&#233;penses de recherche et de d&#233;veloppement, par secteurs d'ex&#233;cution</dct:title>\n    <dct:title xml:lang=\"de\">Ausgaben f&#252;r Forschung und Entwicklung, nach Leistungssektor</dct:title>\n    <ecodp:keyword xml:lang=\"en\">research and development</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">expenditure</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">recherche et d&#233;veloppement</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">d&#233;pense</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Forschung und Entwicklung</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Ausgabe</ecodp:keyword>\n    <dct:identifier>tsc00001</dct:identifier>\n    <dct:description xml:lang=\"en\">Research and experimental development (R&amp;D) comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society, and the use of this stock of knowledge to devise new applications. R&amp;D expenditures include all expenditures for R&amp;D performed within the business enterprise sector (BERD) on the national territory during a given period, regardless of the source of funds. R&amp;D expenditure in BERD are shown as a percentage of GDP (R&amp;D intensity).</dct:description>\n    <dct:description xml:lang=\"fr\">La recherche et le d&#233;veloppement exp&#233;rimental (R&amp;D) comprennent des travaux cr&#233;atifs entrepris sur une base syst&#233;matique de sorte &#224; accro&#238;tre les connaissances, y compris les connaissances de l'homme, de la culture et de la soci&#233;t&#233;. Ce stock de connaissances est utilis&#233; pour inventer de nouvelles applications. Les d&#233;penses de R&amp;D incluent toutes les d&#233;penses pour la R&amp;D r&#233;alis&#233;e dans le secteur des entreprises (BERD) sur le territoire national et pendant une p&#233;riode donn&#233;e, sans tenir compte de la source des fonds. Les d&#233;penses de R&amp;D du secteur des entreprises sont indiqu&#233;es en pourcentage du PIB (intensit&#233; de R&amp;D).</dct:description>\n    <dct:description xml:lang=\"de\">Der Bereich Forschung und Entwicklung (FuE) umfasst die systematische sch&#246;pferische Arbeit zur Erweiterung des Kenntnisstandes einschlie&#223;lich der Erkenntnisse &#252;ber den Menschen, die Kultur und die Gesellschaft sowie deren Verwendung mit dem Ziel, neue Anwendungsm&#246;glichkeiten zu finden. Die FuE-Aufwendungen schlie&#223;en alle Aufwendungen f&#252;r FuE ein, die der Wirtschaftssektor im Inland w&#228;hrend eines bestimmten Zeitraums durchgef&#252;hrt hat, ungeachtet der Finanzquellen. Die FuE-Aufwendungen im Wirtschaftssektor (BERD) werden als prozentualer Anteil am BIP angegeben (FuE-Intensit&#228;t).</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00001</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00001.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00001.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/NJS0hyTRjax7Mqd3ygVCqg\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00001</foaf:primaryTopic><dct:modified>2015-07-30T11:03:33.553773</dct:modified><dct:issued>2014-12-22T07:29:58.566030</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "fce94ef8-4cb6-4792-bba8-02e63edda1f2", 
+    "identifier": "tsc00001"
+}

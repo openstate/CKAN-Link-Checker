@@ -1,0 +1,414 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 38, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Food Safety Authority", 
+            "name": "European Food Safety Authority", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "9f006bc3-2ff1-4c8e-b0b3-c10d816d94a8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European standard", 
+            "name": "European standard", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "b01909f5-57b7-42e0-be02-54733a274ed4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "agricultural product", 
+            "name": "agricultural product", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "3f46ea3c-8a5e-4db6-b2a3-3e769682afc7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "animal feedingstuffs", 
+            "name": "animal feedingstuffs", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "2c0b859b-9ff2-41a8-89a2-777cd1ada2f0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "animal nutrition", 
+            "name": "animal nutrition", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "23fdec31-9ee5-4cd0-9f5e-56997e6f179c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "animal product", 
+            "name": "animal product", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "13b74e06-a574-405c-a474-326e50be5183"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "chemical product", 
+            "name": "chemical product", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "c1d52675-0dac-441a-b2e2-b99f3cf783ad"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "consumer protection", 
+            "name": "consumer protection", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "3891d539-66ba-41ac-968e-71083b4653bc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "crop production", 
+            "name": "crop production", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "686dfd9e-c275-4387-a0bd-1e3470224b25"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "dangerous substance", 
+            "name": "dangerous substance", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "a283e349-f771-4435-84d5-aa35916ed0c9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "derogation from Community law", 
+            "name": "derogation from Community law", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "490e3e53-2f94-4300-86e3-88532904a083"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "food inspection", 
+            "name": "food inspection", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "f37e50af-afef-46be-832f-32440d91a520"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "food safety", 
+            "name": "food safety", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "ebc586b7-144f-4a16-a822-1d50e8041333"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "food standard", 
+            "name": "food standard", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "8cb99e3a-15ef-481c-b65f-bd113330322a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "foodstuff", 
+            "name": "foodstuff", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "bb11d318-6bc7-4bd8-b1eb-72e980955c1f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "foodstuffs legislation", 
+            "name": "foodstuffs legislation", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "718f5aa6-955c-462e-bbe7-c2ea2f6b93ec"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "hazardous waste", 
+            "name": "hazardous waste", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "05e274be-e4cc-4b41-9f24-e7d119eb84eb"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "health control", 
+            "name": "health control", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "51e5b5c5-d0f3-4d76-bc95-814865d566e1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "health risk", 
+            "name": "health risk", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "57bd735b-5c24-4cfa-986f-90db7cc25fed"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "herbicide", 
+            "name": "herbicide", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "0f493d54-f405-4f99-b86d-fe079090ed85"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "insecticide", 
+            "name": "insecticide", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "aa843cf4-3dc2-4002-8ab4-3040ee1da5d2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "market approval", 
+            "name": "market approval", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "4fd10eeb-b598-48d1-8f7a-aa27830dd4cf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "marketing standard", 
+            "name": "marketing standard", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "4aa8bdef-77cd-4daf-916d-a4aaa16c77a2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "pesticide", 
+            "name": "pesticide", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "44bdb5ef-ed0c-4c91-bc30-989c220467c3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "pesticide residue", 
+            "name": "pesticide residue", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "52cf23f5-18bf-4371-88ff-62555b6fa3ee"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "pharmaceutical product", 
+            "name": "pharmaceutical product", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "71675884-1541-4398-be86-4fa75b955989"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "plant health control", 
+            "name": "plant health control", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "06e3aa1c-6824-4d6e-8d78-570a17c26e2b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "plant health legislation", 
+            "name": "plant health legislation", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "ad157e71-2214-4974-9176-92dd721a5abe"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "plant health product", 
+            "name": "plant health product", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "c5b97396-0a6c-4783-acf0-a2269f952a30"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "plant health treatment", 
+            "name": "plant health treatment", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "1db52904-413f-410b-a47e-c710fcd4ef2f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "public health", 
+            "name": "public health", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "ebff138a-335a-4bf2-98bd-7c2de98b9634"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "soft fruit", 
+            "name": "soft fruit", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "d08bcba3-67c4-46d4-b750-1368867b5ad0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "stone fruit", 
+            "name": "stone fruit", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "aea961cb-d030-42fe-9fef-61ffe6628ed9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "toxic substance", 
+            "name": "toxic substance", 
+            "revision_timestamp": "2014-05-07T13:28:37.405383", 
+            "state": "active", 
+            "id": "15f70261-4c22-4e0f-86d1-02273477052d"
+        }
+    ], 
+    "contact_name": "SANCO", 
+    "id": "72611674-cc85-4e7f-a5ae-fedeeff0025d", 
+    "metadata_created": "2015-07-27T15:02:41.989728", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:02:41.990713", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "v0.0", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download open data", 
+            "format": "text/xml", 
+            "url": "https://circabc.europa.eu/d/a/workspace/SpacesStore/5844acb2-1daa-46b6-91a3-6a512e4a14dd/pesticides.zip", 
+            "datastore_active": false, 
+            "created": "2014-10-23T09:07:57.746002", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:02:41.989728", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "a150ed52-b9e7-4e39-bc6a-3ecddb01d07e", 
+            "size": null, 
+            "resource_group_id": "f864549f-7277-4e0a-a463-0358db12e227", 
+            "id": "7967d91d-50ef-40fb-b4b8-dfab77398a0a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/dgs/health_consumer/", 
+            "datastore_active": false, 
+            "created": "2014-10-23T09:07:57.745963", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:02:41.989728", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "a150ed52-b9e7-4e39-bc6a-3ecddb01d07e", 
+            "size": null, 
+            "resource_group_id": "f864549f-7277-4e0a-a463-0358db12e227", 
+            "id": "9bc9a2da-80c0-40c0-9a2b-9f29a1043a7c", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "Health and Consumers Directorate-General homepage"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/sanco_pesticides/public/?event=homepage", 
+            "datastore_active": false, 
+            "created": "2014-10-23T09:07:57.745993", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:02:41.989728", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "a150ed52-b9e7-4e39-bc6a-3ecddb01d07e", 
+            "size": null, 
+            "resource_group_id": "f864549f-7277-4e0a-a463-0358db12e227", 
+            "id": "edcad88e-0aab-4fc7-a294-cfb4102e6933", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "Pesticides homepage"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "accrual_periodicity": "other", 
+    "num_resources": 3, 
+    "description": "All foodstuffs intended for human or animal consumption in the European Union (EU) are subject to a maximum residue level (MRL) of pesticides in their composition in order to protect animal and human health. The Regulation brings together and harmonises in one text the limits that apply to different human or animal food products and, in addition, it establishes a maximum limit applicable by default.  Data is collated on the single active substances and the maximum residue levels (MRLs) combinations pesticide/commodities at EU level.", 
+    "title": "Pesticides", 
+    "tracking_summary": {
+        "total": 330, 
+        "recent": 3
+    }, 
+    "contact_email": "mailto:sanco-pesticides@ec.europa.eu", 
+    "groups": [], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2015-07-27T15:02:41.989728", 
+    "name": "zDY4ukWUjQa9bCZq03RVw", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "url": "http://ec.europa.eu/sanco_pesticides/public/?event=homepage", 
+    "owner_org": "c5cd2538-7ad0-4de4-907a-9fbe58b0f0da", 
+    "contact_address": "Health and Consumers Directorate-General, B - 1049 Brussels, Belgium", 
+    "contact_telephone": "+32 2 299 11 11", 
+    "rdf": "<rdf:RDF xmlns=\"http://open-data.europa.eu/ontologies/ec-odp-example#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\">\n  <!-- Dataset type and URI, don't fill in the CKAN catalog identifier here -->\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/sanco_pesticides/public/?event=homepage\">\n    <!-- Title, 1..1 - can be filled in in multiple translations though-->\n    <dct:title xml:lang=\"en\">Pesticides</dct:title>\n    <!-- Alternative Title(s), 0..*-->\n    <!-- Description, 1..*-->\n    <dct:description xml:lang=\"en\">All foodstuffs intended for human or animal consumption in the European Union (EU) are subject to a maximum residue level (MRL) of pesticides in their composition in order to protect animal and human health. The Regulation brings together and harmonises in one text the limits that apply to different human or animal food products and, in addition, it establishes a maximum limit applicable by default.  Data is collated on the single active substances and the maximum residue levels (MRLs) combinations pesticide/commodities at EU level.</dct:description>\n    <!-- Keyword, 0..*-->\n    <ecodp:keyword xml:lang=\"en\">agricultural product</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">animal feedingstuffs</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">animal nutrition</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">animal product</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">chemical product</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">consumer protection</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">crop production</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">dangerous substance</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">derogation from Community law</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">European Food Safety Authority</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">European standard</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">food inspection</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">food safety</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">food standard</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">foodstuff</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">foodstuffs legislation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">hazardous waste</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">health control</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">health risk</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">herbicide</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">insecticide</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">market approval</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">marketing standard</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">pesticide</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">pesticide residue</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">pharmaceutical product</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">plant health control</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">plant health legislation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">plant health product</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">plant health treatment</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">public health</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">soft fruit</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">stone fruit</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">toxic substance</ecodp:keyword>\n    <!-- Identifier, 0..*-->\n    <dct:identifier>planthealth-pesticides</dct:identifier>\n    <!-- Interoperability level, 0..1-->\n    <ecodp:interoperabilityLevel>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/interoperability-level/Semantic\"/>\n    </ecodp:interoperabilityLevel>\n    <!-- Dataset type, 0..* -->\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription\"/>\n    </ecodp:datasetType>\n    <!-- Documentation, 0..* -->\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <!-- Documentation type, 1..1 -->\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <!-- Documentation access URL, 1..1 -->\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/dgs/health_consumer/</ecodp:accessURL>\n      <!-- Documentation title, 1..1 -->\n      <dct:title xml:lang=\"en\">Health and Consumers Directorate-General homepage</dct:title>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">Pesticides homepage</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/sanco_pesticides/public/?event=homepage</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <!-- Distribution, 0..* -->\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://circabc.europa.eu/d/a/workspace/SpacesStore/5844acb2-1daa-46b6-91a3-6a512e4a14dd/pesticides.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <ecodp:distributionFormat>rdf/xml</ecodp:distributionFormat>\n      <dct:description xml:lang=\"en\">Download open data</dct:description>\n    </dcat:distribution>\n    <!-- Catalog record, 0..* -->\n    <!-- Geographical coverage 0..* -->\n    <!-- Publisher 1..1 -->\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/SANTE\"/>\n    </dct:publisher>\n    <!-- Contact point 0..1 -->\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/health_consumer/\">\n        <foaf:phone rdf:resource=\"tel:+32 2 299 11 11\"/>\n        <foaf:mbox rdf:resource=\"mailto:sanco-pesticides@ec.europa.eu\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/dgs/health_consumer/index_en.htm\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Health and Consumers Directorate-General, B - 1049 Brussels, Belgium</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">SANTE</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <!-- Dataset issued 0..1 -->\n    <!-- Dataset last modification 0..1 -->\n    <!-- Version 0..1 -->\n    <dct:hasVersion rdf:parseType=\"Resource\">\n      <dct:identifier>v0.0</dct:identifier>\n      <dct:description xml:lang=\"en\">regular updates</dct:description>\n    </dct:hasVersion>\n    <!-- License 1..* -->\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <!-- Status 1..1 -->\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <!-- Language 0..* -->\n    <dct:language>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n    </dct:language>\n    <!-- Accrial Periodicity 0..1 -->\n    <ecodp:accrualPeriodicity xml:lang=\"en\">other</ecodp:accrualPeriodicity>\n    <!-- Temporal coverage (period) 0..1 -->\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://opsrv529/data/dataset/zDY4ukWUjQa9bCZq03RVw\"><foaf:primaryTopic>http://ec.europa.eu/sanco_pesticides/public/?event=homepage</foaf:primaryTopic><dct:modified>2014-07-25T08:36:44.740756</dct:modified><dct:issued>2014-05-07T13:28:37.405383</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/dgs/health_consumer/index_en.htm", 
+    "organization": null, 
+    "revision_id": "a150ed52-b9e7-4e39-bc6a-3ecddb01d07e", 
+    "identifier": "planthealth-pesticides", 
+    "version_description": "regular updates"
+}

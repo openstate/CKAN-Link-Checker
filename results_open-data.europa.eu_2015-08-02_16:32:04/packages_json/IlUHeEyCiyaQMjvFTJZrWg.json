@@ -1,0 +1,175 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 3, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "f1d0cbde-5e35-4eb4-ac9e-5da9f995ea06", 
+    "metadata_created": "2015-07-27T17:37:50.103482", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T10:16:27.302238", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/56", 
+            "name": "http://eurovoc.europa.eu/56", 
+            "revision_timestamp": "2015-04-21T13:58:44.872063", 
+            "state": "active", 
+            "id": "e11c40fd-4749-49a0-934e-4d4f391248e8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipsna61.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T12:16:27.370319", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T10:16:27.301333", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "26069a9c-bda3-4637-95cb-6ebfac920290", 
+            "size": null, 
+            "resource_group_id": "d18fd313-1a0d-47e7-8c95-035f99f70718", 
+            "id": "89bcd677-f903-4fce-9b48-0990ed2de5d2", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipsna61.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T12:16:27.370327", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T10:16:27.301333", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "26069a9c-bda3-4637-95cb-6ebfac920290", 
+            "size": null, 
+            "resource_group_id": "d18fd313-1a0d-47e7-8c95-035f99f70718", 
+            "id": "76d8e4af-293b-4dc7-a4a3-1c3a3bd50ab7", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tipsna61", 
+            "datastore_active": false, 
+            "created": "2015-07-31T12:16:27.370292", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T10:16:27.301333", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "26069a9c-bda3-4637-95cb-6ebfac920290", 
+            "size": null, 
+            "resource_group_id": "d18fd313-1a0d-47e7-8c95-035f99f70718", 
+            "id": "95752a6d-b5f8-4a4e-a99e-bbd9fa05dca5", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Persons in employment are those who, during the reference week, did any work for pay or profit, or were not working but had a job from which they were temporarily absent. Anyone who receives a wage for on-the-job training that involves the production of goods or services is considered as being in employment. Self-employed and family workers are also included. Employment is measured in number of persons without distinction according to full-time or part-time work. Employment rates represent employed persons, as a percentage of the same age population. The data refer to persons aged 15 to 64 and it is expressed in 1000 persons. The quarterly data are not seasonally adjusted. Data are sourcing from National accounts data. The ESA2010 distinguishes two employment concepts depending on the geographical coverage: resident persons in employment (i.e. the national scope of employment) and employment in resident production units irrespective of the place of residence of the employed person (i.e. domestic scope). The table presents total employment, according to the domestic consept.", 
+    "title": "Employment, domestic concept - quarterly data, thousands persons, not seasonally adjusted", 
+    "temporal_coverage_from": "1980", 
+    "tracking_summary": {
+        "total": 24, 
+        "recent": 5
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-27T17:37:50.103482", 
+    "name": "IlUHeEyCiyaQMjvFTJZrWg", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tipsna61", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tipsna61\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/56\"/>\n    <dct:title xml:lang=\"en\">Employment, domestic concept - quarterly data, thousands persons, not seasonally adjusted</dct:title>\n    <dct:title xml:lang=\"fr\">Emploi, concept int&#233;rieur - donn&#233;es trimestrielles, non d&#233;saisonnalis&#233;es</dct:title>\n    <dct:title xml:lang=\"de\">Erwerbst&#228;tigkeit, Inlandskonzept - viertelj&#228;hrliche Daten, Nichtsaisonbereinigte Daten</dct:title>\n    <dct:identifier>tipsna61</dct:identifier>\n    <dct:description xml:lang=\"en\">Persons in employment are those who, during the reference week, did any work for pay or profit, or were not working but had a job from which they were temporarily absent. Anyone who receives a wage for on-the-job training that involves the production of goods or services is considered as being in employment. Self-employed and family workers are also included. Employment is measured in number of persons without distinction according to full-time or part-time work. Employment rates represent employed persons, as a percentage of the same age population. The data refer to persons aged 15 to 64 and it is expressed in 1000 persons. The quarterly data are not seasonally adjusted. Data are sourcing from National accounts data. The ESA2010 distinguishes two employment concepts depending on the geographical coverage: resident persons in employment (i.e. the national scope of employment) and employment in resident production units irrespective of the place of residence of the employed person (i.e. domestic scope). The table presents total employment, according to the domestic consept.</dct:description>\n    <dct:description xml:lang=\"fr\">Les personnes occup&#233;es sont les personnes qui, pendant la semaine de r&#233;f&#233;rence, ont effectu&#233; un travail contre une r&#233;mun&#233;ration ou un profit ou qui n'ont pas travaill&#233;, mais avaient un emploi duquel elles &#233;taient temporairement absentes. Toute personne qui per&#231;oit une r&#233;mun&#233;ration pour une &#171;formation sur le tas&#187; impliquant la production de marchandises ou de services est consid&#233;r&#233;e comme occup&#233;e. Les travailleurs ind&#233;pendants et les travailleurs familiaux sont &#233;galement inclus dans cette cat&#233;gorie. L'emploi est mesur&#233; en nombre de personnes sans distinction entre les travailleurs &#224; temps partiel et les travailleurs &#224; temps complet. Le taux d'emploi repr&#233;sente les personnes occup&#233;es en pourcentage de la population du m&#234;me groupe d&#8217;&#226;ge. Les donn&#233;es se r&#233;f&#232;rent aux personnes &#226;g&#233;es de 15 &#224; 64 ans et sont exprim&#233;es en milliers de personnes. Les donn&#233;es trimestrielles sont non d&#233;saisonnalis&#233;es. Les donn&#233;es sont issues des donn&#233;es de la comptabilit&#233; nationale. Le SEC 2010 distingue deux concepts en mati&#232;re d'emploi, selon la couverture g&#233;ographique: les personnes occup&#233;es r&#233;sidentes (le &#171;concept national&#187; de l'emploi) et l'emploi dans des unit&#233;s de production r&#233;sidentes, quel que soit le lieu de r&#233;sidence de la personne occup&#233;e (le &#171;concept int&#233;rieur&#187;). Le tableau pr&#233;sente l'emploi total selon le concept int&#233;rieur.</dct:description>\n    <dct:description xml:lang=\"de\">Erwerbst&#228;tige sind Personen, die in der Berichtswoche mindestens eine Stunde lang gegen Entgelt oder zur Erzielung eines Gewinns arbeiteten oder nicht arbeiteten, aber einen Arbeitsplatz hatten, von dem sie vor&#252;bergehend abwesend waren. Jeder, der ein Entgelt f&#252;r die Teilnahme an einer Ausbildung am Arbeitsplatz erh&#228;lt, die gleichzeitig die Herstellung von Waren oder Dienstleistungen umfasst, ist als erwerbst&#228;tig anzusehen. Selbst&#228;ndige und mithelfende Familienangeh&#246;rige sind ebenfalls inbegriffen. Erwerbst&#228;tigkeit wird in Personen gemessen, ohne zwischen Voll- und Teilzeitbesch&#228;ftigung zu unterscheiden. Mit Besch&#228;ftigungsquoten wird der prozentuale Anteil der Erwerbst&#228;tigen an einer bestimmten Altersklasse der Bev&#246;lkerung gemessen. Die Daten beziehen sich auf Personen im Alter von 15 bis 64 Jahren und zwar in 1000 Personen. Die viertelj&#228;hrlichen Daten sind nichtsaisonbereinigte. Die Angaben stammen aus den Volkswirtschaftlichen Gesamtrechnungen. Je nach geografischer Erfassung unterscheidet das ESVG 2010 zwischen zwei Besch&#228;ftigungskonzepten: gebietsans&#228;ssige Erwerbst&#228;tige (&#8222;nationales&#8220; Besch&#228;ftigungskonzept) und Erwerbst&#228;tigkeit in gebietsans&#228;ssigen produzierenden Einheiten (&#8222;Inlandskonzept&#8220;). In der Tabelle wird die Erwerbst&#228;tigkeit insgesamt nach dem Inlandskonzept dargestellt.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tipsna61</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipsna61.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipsna61.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>1980</ecodp:periodStart>\n        <ecodp:periodEnd>2015</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/IlUHeEyCiyaQMjvFTJZrWg\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tipsna61</foaf:primaryTopic><dct:modified>2015-07-30T11:42:21.234157</dct:modified><dct:issued>2015-04-27T19:44:59.854381</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "6d0bb1b0-fda0-48b2-9f91-ba5644801cbd", 
+    "identifier": "tipsna61"
+}

@@ -1,0 +1,440 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014-01-01", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 33, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/AIA"
+    ], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "2007-2013", 
+            "name": "2007-2013", 
+            "revision_timestamp": "2014-10-29T10:29:48.142896", 
+            "state": "active", 
+            "id": "5637fa70-9013-42de-ae1c-9df7af1ebc5b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Anguilla", 
+            "name": "Anguilla", 
+            "revision_timestamp": "2014-10-29T10:29:48.142896", 
+            "state": "active", 
+            "id": "b37870be-bf59-44f8-9849-6a5792d4519b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Areas of cooperation", 
+            "name": "Areas of cooperation", 
+            "revision_timestamp": "2014-10-29T10:29:48.142896", 
+            "state": "active", 
+            "id": "203ff944-a49e-491e-ad95-41c4b653173a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Country strategy", 
+            "name": "Country strategy", 
+            "revision_timestamp": "2014-10-29T10:29:48.142896", 
+            "state": "active", 
+            "id": "5c8ce714-efdf-483c-b686-7dd663622df1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "DG Development and Cooperation", 
+            "name": "DG Development and Cooperation", 
+            "revision_timestamp": "2014-10-29T10:29:48.142896", 
+            "state": "active", 
+            "id": "26216372-afbf-44ef-90df-1aa56a3479c5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Development assistance", 
+            "name": "Development assistance", 
+            "revision_timestamp": "2014-10-29T10:29:48.142896", 
+            "state": "active", 
+            "id": "62466f24-ece7-44bc-ba95-e36660901bda"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EuropeAid", 
+            "name": "EuropeAid", 
+            "revision_timestamp": "2014-10-29T10:29:48.142896", 
+            "state": "active", 
+            "id": "690c70a6-9d09-4033-8fc5-58e0624768cd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Development Fund", 
+            "name": "European Development Fund", 
+            "revision_timestamp": "2014-10-29T10:29:48.142896", 
+            "state": "active", 
+            "id": "8d78b6d1-86ff-4465-9361-a272ac63a92d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Humanitarian assistance", 
+            "name": "Humanitarian assistance", 
+            "revision_timestamp": "2014-10-29T10:29:48.142896", 
+            "state": "active", 
+            "id": "9559db54-2cf1-4a70-af3f-ad99e1f00286"
+        }
+    ], 
+    "contact_name": "European Commission, Development and Cooperation - EuropeAid", 
+    "id": "6b21a769-9844-48dd-96d5-e33571f5a1fa", 
+    "metadata_created": "2014-10-29T10:29:48.142896", 
+    "modified_date": "2014-06-27", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:57:18.672701", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2792", 
+            "name": "http://eurovoc.europa.eu/2792", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "e5316766-7a6d-4878-b9e0-d0f0e79cef8b"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3077", 
+            "name": "http://eurovoc.europa.eu/3077", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "f0be21c7-a298-43d8-8b48-5dc6e3a6f246"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4040", 
+            "name": "http://eurovoc.europa.eu/4040", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "a162f8c0-5342-48ab-b1f8-7b808eac8ad5"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/899", 
+            "name": "http://eurovoc.europa.eu/899", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "873397d3-8cb2-4cd9-8147-b3c73cd8b172"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3467", 
+            "name": "http://eurovoc.europa.eu/3467", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "91b9323d-7386-4fbc-b6dd-be7e60ca6c60"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3074", 
+            "name": "http://eurovoc.europa.eu/3074", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "62e3371c-7caa-435a-bfe6-ca288463eb9d"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4843", 
+            "name": "http://eurovoc.europa.eu/4843", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "bb7f7631-4241-4524-b931-9b4cc8a8c17a"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2793", 
+            "name": "http://eurovoc.europa.eu/2793", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "f29959c1-35e6-4f4e-b472-1eaf19416eb6"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2460", 
+            "name": "http://eurovoc.europa.eu/2460", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "d7471ec7-50ce-40f9-b9d3-1963e0eae788"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1460", 
+            "name": "http://eurovoc.europa.eu/1460", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "3c50aace-a0ae-415b-ac09-5cc248e29288"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4627", 
+            "name": "http://eurovoc.europa.eu/4627", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "0fc8cd46-16af-44bd-86d1-8889aedd2beb"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/216", 
+            "name": "http://eurovoc.europa.eu/216", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "9dbd9296-0a26-4bbc-873b-46744bdf429c"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/437422", 
+            "name": "http://eurovoc.europa.eu/437422", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "fd7804a0-5808-43f1-902e-ecdf2915c62d"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1459", 
+            "name": "http://eurovoc.europa.eu/1459", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "8f3cfa84-757f-48e7-bf44-4ad22798c86f"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/438855", 
+            "name": "http://eurovoc.europa.eu/438855", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "cec4d7b3-9ae5-449b-91fe-8b114bc63ff8"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3481", 
+            "name": "http://eurovoc.europa.eu/3481", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "928d2bc5-7585-4d5f-84c8-226adb42ed96"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/211", 
+            "name": "http://eurovoc.europa.eu/211", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "42289dfd-55f8-4b49-9314-c54c4a2a3b5e"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/862", 
+            "name": "http://eurovoc.europa.eu/862", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "42ac9214-288f-4c61-bf12-2de092b87bd6"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2465", 
+            "name": "http://eurovoc.europa.eu/2465", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "c30fe98a-5beb-415f-a173-f55d61a82f98"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/922", 
+            "name": "http://eurovoc.europa.eu/922", 
+            "revision_timestamp": "2015-01-30T16:17:37.161861", 
+            "state": "active", 
+            "id": "d195d32d-c7c5-4334-bba7-7b7f49f11c99"
+        }
+    ], 
+    "creator_user_id": null, 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Aid spendings and projects in Anguilla since 2010", 
+            "format": "text/xml", 
+            "url": "http://ec.europa.eu/europeaid/files/iati/EU_AI.xml", 
+            "datastore_active": false, 
+            "created": "2015-02-03T07:59:42.239209", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T14:57:18.671633", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "1c4be294-e7eb-4efa-a2a0-6ec85e8a8267", 
+            "size": null, 
+            "resource_group_id": "50150ceb-37c4-4082-b03b-f7852c216d2c", 
+            "id": "8d0b682c-8c2f-4f67-888a-1aae966fd3ba", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Aid spendings and projects in Anguilla since 2010", 
+            "format": "text/csv", 
+            "url": "http://tools.aidinfolabs.org/csv/direct_from_registry/?xml=http%3A//ec.europa.eu/europeaid/files/iati/EU_AI.xml", 
+            "datastore_active": false, 
+            "created": "2015-02-03T07:59:42.239216", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T14:57:18.671633", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "1c4be294-e7eb-4efa-a2a0-6ec85e8a8267", 
+            "size": null, 
+            "resource_group_id": "50150ceb-37c4-4082-b03b-f7852c216d2c", 
+            "id": "594cee75-4233-4bb4-9c62-9b7049cfe66e", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "EuropeAid projects and results", 
+            "format": "", 
+            "url": "https://ec.europa.eu/europeaid/projects-results-0_en", 
+            "datastore_active": false, 
+            "created": "2015-02-03T07:59:42.239172", 
+            "tracking_summary": {
+                "total": 7, 
+                "recent": 2
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T14:57:18.671633", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "1c4be294-e7eb-4efa-a2a0-6ec85e8a8267", 
+            "size": null, 
+            "resource_group_id": "50150ceb-37c4-4082-b03b-f7852c216d2c", 
+            "id": "47e10160-18d9-45d0-8d19-34e86508663e", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "EuropeAid projects and results"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://tools.aidinfolabs.org/showmydata/index.php?url=http%3A//ec.europa.eu/europeaid/files/iati/EU_AI.xml", 
+            "datastore_active": false, 
+            "created": "2015-02-03T07:59:42.239202", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T14:57:18.671633", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "1c4be294-e7eb-4efa-a2a0-6ec85e8a8267", 
+            "size": null, 
+            "resource_group_id": "50150ceb-37c4-4082-b03b-f7852c216d2c", 
+            "id": "5e200066-6783-438a-a7d9-04db4ee20a83", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/Visualization", 
+            "name": "Preview of aid spendings and projects in Anguilla since 2010"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "accrual_periodicity": "monthly", 
+    "num_resources": 4, 
+    "description": "Information on humanitarian and development assistance financed through the European Development Fund in Anguilla since 2010.\n\t  \nDG Development and Cooperation (EuropeAid) is responsible for formulating EU Development policy and for delivering development cooperation worldwide. Its main purpose is to implement most of the European Commission\u2019s external assistance, through instruments such as the Development Cooperation Instrument (DCI) and the European Development Fund (EDF).  \n\nThis vital task requires EuropeAid to deliver the EU\u2019s aid budget in an open and accountable fashion. For this reason, it publishes its data in the International Aid Transparency Initiative (IATI) Registry since 2011.", 
+    "title": "European Commission \u2014 DG DEVCO \u2013 development and humanitarian assistance to Anguilla", 
+    "temporal_coverage_from": "2010-01-01", 
+    "tracking_summary": {
+        "total": 148, 
+        "recent": 9
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100143", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100143", 
+            "image_display_url": "", 
+            "id": "5663c43f-efe6-4814-b47b-ee909cda54a7", 
+            "name": "eurovoc_domain_100143"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100162", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100162", 
+            "image_display_url": "", 
+            "id": "0dc3cc03-e600-4d01-8e73-a428fa5280e9", 
+            "name": "eurovoc_domain_100162"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-10-29T10:29:48.142896", 
+    "name": "europeaid-iati-anguilla", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "url": "http://iatiregistry.org/dataset/eu-ai", 
+    "release_date": "2014-06-26", 
+    "owner_org": "6eeb6edd-f850-4aad-9ce9-bd5b3d870a92", 
+    "contact_address": "Rue de la Loi 41, B-1049 Brussels, Belgium", 
+    "contact_telephone": "+32022991111", 
+    "rdf": "<rdf:RDF xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns=\"http://open-data.europa.eu/ontologies/ec-odp-example#\"><!--Dataset type and URI, don't fill in the CKAN catalog idnetifier here--><dcat:Dataset rdf:about=\"http://iatiregistry.org/dataset/eu-ai\">\n\t\t <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n\t <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100143\"/>\n\t  <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100162\"/>\n\t      <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2465\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2792\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/3077\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/438855\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4040\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/211\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/216\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/3467\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/437422\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1459\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/3481\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1460\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4627\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4843\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/862\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/899\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/922\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2460\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2793\"/>\n\t\t  <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/3074\"/>\n\n\t\t <!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"en\">European Commission &#8212; DG DEVCO &#8211; development and humanitarian assistance to Anguilla</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><dct:description xml:lang=\"en\">Information on humanitarian and development assistance financed through the European Development Fund in Anguilla since 2010.\n\t  \nDG Development and Cooperation (EuropeAid) is responsible for formulating EU Development policy and for delivering development cooperation worldwide. Its main purpose is to implement most of the European Commission&#8217;s external assistance, through instruments such as the Development Cooperation Instrument (DCI) and the European Development Fund (EDF).  \n\nThis vital task requires EuropeAid to deliver the EU&#8217;s aid budget in an open and accountable fashion. For this reason, it publishes its data in the International Aid Transparency Initiative (IATI) Registry since 2011.\n\t  \n\t  </dct:description>\n      <!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Identifier, 0..*--><ecodp:ckan-name>europeaid-iati-anguilla</ecodp:ckan-name>\n      <!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><ecodp:keyword xml:lang=\"en\">2007-2013</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">Humanitarian assistance</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">Development assistance</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">Areas of cooperation</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">Country strategy</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">European Development Fund</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">DG Development and Cooperation</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">EuropeAid</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">Anguilla</ecodp:keyword>\n      <!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Identifier, 0..*--><!--Interoperability level, 0..1--><!--Dataset type, 0..--><ecodp:datasetType>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription\"/>\n      </ecodp:datasetType>\n\t  <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n<ecodp:documentationType>\n  <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/> \n  </ecodp:documentationType>\n  <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://ec.europa.eu/europeaid/projects-results-0_en</ecodp:accessURL> \n  <dct:title xml:lang=\"en\">EuropeAid projects and results</dct:title> \n  <dct:description xml:lang=\"en\">EuropeAid projects and results</dct:description> \n  <ecodp:distributionFormat>text/html</ecodp:distributionFormat> \n  </ecodp:isDocumentedBy>\n      <!--Links and resources--><!--Documentation, 0..--><!--valid value are in set of  : Main Related WebPage--><ecodp:isDocumentedBy rdf:parseType=\"Resource\"><!--Documentation Type , 1..1--><ecodp:documentationType>\n            <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/Visualization\"/>\n         </ecodp:documentationType>\n         <!--Documentation title , 1..1--><dct:title xml:lang=\"en\">Preview of aid spendings and projects in Anguilla since 2010</dct:title>\n         <!--Documentation access URL , 1..1--><ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://tools.aidinfolabs.org/showmydata/index.php?url=http%3A//ec.europa.eu/europeaid/files/iati/EU_AI.xml</ecodp:accessURL>\n      </ecodp:isDocumentedBy>\n      <!--Distribution, 0..--><dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/europeaid/files/iati/EU_AI.xml</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>application/xml</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Aid spendings and projects in Anguilla since 2010</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n      <dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://tools.aidinfolabs.org/csv/direct_from_registry/?xml=http%3A//ec.europa.eu/europeaid/files/iati/EU_AI.xml</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>text/csv</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Aid spendings and projects in Anguilla since 2010</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n      <!--Catalog record , 0..*--><!--Geographical coverage , 0..*--><dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/AIA\"/>\n      </dct:spatial>\n      <!--Publisher , 1..1--><dct:publisher>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/DEVCO\"/>\n      </dct:publisher>\n      <!--Contact point , 0..1--><ecodp:contactPoint>\n         <foaf:Agent rdf:about=\"http://publications.europa.eu/\"><!--Contact point telephone, 0..1--><foaf:phone>+32022991111</foaf:phone>\n            <!--Contact point email, 0..1--><!--Contact point web page, 0..1--><foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/europeaid/contact-information-europeaid_en\"/>\n            <!--Contact point address, 0..1--><ecodp:contactAddress xml:lang=\"en\">Rue de la Loi 41, B-1049 Brussels, Belgium</ecodp:contactAddress>\n            <!--Contact point name, 1..1--><foaf:name xml:lang=\"en\">European Commission, Development and Cooperation - EuropeAid</foaf:name>\n         </foaf:Agent>\n\t\t \n      </ecodp:contactPoint>\n      <!--Dateset  issued , 0..1  [2014-06-26]--><dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-06-26</dct:issued>\n      <!--Dateset  last modified , 0..1--><dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-06-27</dct:modified>\n      <!--Version 0..1--><!--License 1..--><dct:license>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n      </dct:license>\n      <!--Status 1..1--><ecodp:datasetStatus>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n      </ecodp:datasetStatus>\n      <!--Language 0..--><dct:language>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n      </dct:language>\n      <!--valid value are in set of  : Main Related WebPage--><!--Accrual Periodicity--><ecodp:accrualPeriodicity xml:lang=\"en\">monthly</ecodp:accrualPeriodicity>\n      <!--Temporal coverage (periode) 0..1--><dct:temporal>\n         <dct:PeriodOfTime><!--Coverage periodStart 0..1--><ecodp:periodStart rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2010-01-01</ecodp:periodStart>\n            <!--Coverage periodEnd 0..1--><ecodp:periodEnd rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-01-01</ecodp:periodEnd>\n         </dct:PeriodOfTime>\n      </dct:temporal>\n   </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/europeaid-iati-anguilla\"><foaf:primaryTopic>http://iatiregistry.org/dataset/eu-ai</foaf:primaryTopic><dct:modified>2015-01-30T16:17:37.161861</dct:modified><dct:issued>2014-10-29T10:29:48.142896</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/europeaid/contact-information-europeaid_en", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for International Cooperation and Development", 
+        "created": "2012-12-12T13:50:47.320260", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-06-10T08:09:58.047628", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "b9b00cbb-9d08-4588-9ab1-6a8bd5940220", 
+        "type": "organization", 
+        "id": "6eeb6edd-f850-4aad-9ce9-bd5b3d870a92", 
+        "name": "devco"
+    }, 
+    "revision_id": "4fedddac-1192-4214-9a65-14f65253de1b"
+}

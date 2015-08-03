@@ -1,0 +1,229 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "harmonised unemployment", 
+            "name": "harmonised unemployment", 
+            "revision_timestamp": "2014-12-22T09:28:48.835679", 
+            "state": "active", 
+            "id": "99c26246-b18e-43c4-906f-6ce55ad6fed6"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "dbfbf4c3-1f6e-45db-a45c-a6c0877d00f2", 
+    "metadata_created": "2015-07-27T17:04:33.886344", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T08:05:14.490116", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1802", 
+            "name": "http://eurovoc.europa.eu/1802", 
+            "revision_timestamp": "2015-03-03T20:03:20.824243", 
+            "state": "active", 
+            "id": "01b42e14-0e3e-412b-bbaa-420e17766787"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teilm100.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:05:14.545761", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:05:14.489199", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "2a02e142-2bc5-4f96-bafa-b327928fbed9", 
+            "size": null, 
+            "resource_group_id": "b42e8b9b-dd26-4156-ab1e-f49f11937c37", 
+            "id": "f0ed56ac-003b-4105-9f9d-4ec9f6c65fe4", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teilm100.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:05:14.545768", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:05:14.489199", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "2a02e142-2bc5-4f96-bafa-b327928fbed9", 
+            "size": null, 
+            "resource_group_id": "b42e8b9b-dd26-4156-ab1e-f49f11937c37", 
+            "id": "f9133dc9-7b7d-42d0-8636-cce4be5f7e5b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "lci_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/lci_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:05:14.545727", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:05:14.489199", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "2a02e142-2bc5-4f96-bafa-b327928fbed9", 
+            "size": null, 
+            "resource_group_id": "b42e8b9b-dd26-4156-ab1e-f49f11937c37", 
+            "id": "55d7ffc4-88bf-45fc-9df3-ea88191d4c6e", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/lci_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:05:14.545747", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:05:14.489199", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "2a02e142-2bc5-4f96-bafa-b327928fbed9", 
+            "size": null, 
+            "resource_group_id": "b42e8b9b-dd26-4156-ab1e-f49f11937c37", 
+            "id": "77597267-7e46-40b6-a711-1a776fe022c8", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teilm100", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:05:14.545755", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:05:14.489199", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "2a02e142-2bc5-4f96-bafa-b327928fbed9", 
+            "size": null, 
+            "resource_group_id": "b42e8b9b-dd26-4156-ab1e-f49f11937c37", 
+            "id": "76532953-c49f-4247-adb8-afdeb93c54f9", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Labour cost index shows the short-term development of the total cost, on an hourly basis, for employers of employing the labour force. The index covers all market economic activities except agriculture, forestry, fisheries, education, health, community, social and personal service activities. Labour costs include gross wages and salaries, employers social contributions and taxes net of subsidies connected to employment. The labour cost index is compiled as a \"chain-linked Laspeyres cost-index\" using a common index reference period (2012 = 100). The index is presented in calendar and seasonally adjusted form. Growth rates with respect to the previous quarter (Q/Q-1) are calculated from seasonally and calendar adjusted figures while growth rates with respect to the same quarter of the previous year (Q/Q-4) are calculated from calendar adjusted figures.", 
+    "title": "Labour cost index by NACE Rev. 2", 
+    "temporal_coverage_from": "2012", 
+    "tracking_summary": {
+        "total": 8, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-27T17:04:33.886344", 
+    "name": "qx0cKHHUhWhFYjwNJZ7Thw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teilm100", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teilm100\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1802\"/>\n    <dct:title xml:lang=\"en\">Labour cost index by NACE Rev. 2</dct:title>\n    <dct:title xml:lang=\"fr\">Indice du co&#251;t de la main-d'oeuvre par Nace R&#233;v. 2</dct:title>\n    <dct:title xml:lang=\"de\">Arbeitskostenindex nach NACE Rev. 2</dct:title>\n    <ecodp:keyword xml:lang=\"en\">harmonised unemployment</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">march&#233; du travail</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique de l'emploi</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">chomage</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Arbeitsmarkt</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Arbeitsmarktstatistik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Arbeitslosigkeit</ecodp:keyword>\n    <dct:identifier>teilm100</dct:identifier>\n    <dct:description xml:lang=\"en\">Labour cost index shows the short-term development of the total cost, on an hourly basis, for employers of employing the labour force. The index covers all market economic activities except agriculture, forestry, fisheries, education, health, community, social and personal service activities. Labour costs include gross wages and salaries, employers social contributions and taxes net of subsidies connected to employment. The labour cost index is compiled as a \"chain-linked Laspeyres cost-index\" using a common index reference period (2012 = 100). The index is presented in calendar and seasonally adjusted form. Growth rates with respect to the previous quarter (Q/Q-1) are calculated from seasonally and calendar adjusted figures while growth rates with respect to the same quarter of the previous year (Q/Q-4) are calculated from calendar adjusted figures.</dct:description>\n    <dct:description xml:lang=\"fr\">L'indice du co&#251;t de la main-d'oeuvre montre l'&#233;volution conjoncturelle des co&#251;ts horaires totaux support&#233;s par les employeurs et r&#233;sultant de l'embauche de la force de travail. L'indice couvre toutes les activit&#233;s &#233;conomiques marchandes except&#233; l'agriculture, la sylviculture, la p&#234;che, l'&#233;ducation, la sant&#233; et les activit&#233;s de services collectifs, sociaux et personnels. Les co&#251;ts de la main-d'oeuvre incluent les salaires et traitements bruts, les cotisations sociales &#224; la charge des employeurs et les imp&#244;ts moins les subventions li&#233;es &#224; l'emploi. L'indice du co&#251;t de la main-d'oeuvre est un \"indice de co&#251;t cha&#238;n&#233; de type Laspeyres\" exprim&#233; dans une ann&#233;e de r&#233;f&#233;rence commune (2012 = 100). L'indice est pr&#233;sent&#233; corrig&#233; des effets de calendrier et des variations saisonni&#232;res. Les taux de croissance par rapport au trimestre pr&#233;c&#233;dent (Q/Q-1) sont calcul&#233;s &#224; partir de donn&#233;es corrig&#233;es des effets de calendrier et des variations saisonni&#232;res tandis que les taux de croissance par rapport au m&#234;me trimestre de l'ann&#233;e pr&#233;c&#233;dente (Q/Q-4) sont calcul&#233;s &#224; partir de donn&#233;es corrig&#233;es des effets de calendrier.</dct:description>\n    <dct:description xml:lang=\"de\">Der Arbeitskostenindex ist ein Konjunkturindikator, der die Entwicklung der den Arbeitgebern f&#252;r die Besch&#228;ftigung der Arbeitnehmer entstehenden Arbeitskosten je Stunde abbildet. Der Index bezieht sich auf alle f&#252;r den Markt produzierenden Wirtschaftszweige mit Ausnahme der Bereiche Land- und Forstwirtschaft, Fischerei, Erziehung, Gesundheitswesen, sonstige pers&#246;nliche Dienstleistungen. Die viertelj&#228;hrlichen Ver&#228;nderungen der Arbeitgeberkosten werden f&#252;r die Arbeitskosten insgesamt und ihre Hauptkomponenten L&#246;hne und Geh&#228;lter (Lohnkosten) und f&#252;r die Arbeitskosten au&#223;er L&#246;hnen und Geh&#228;ltern (Lohnnebenkosten) gemessen. Die Arbeitskosten umfassen die L&#246;hne und Geh&#228;lter, die Sozialbeitr&#228;ge der Arbeitgeber sowie die mit der Besch&#228;ftigung verbundenen Steuern abz&#252;glich der besch&#228;ftigungsbezogenen Subventionen. Der Arbeitskostenindex ist ein verketteter Laspeyres-Index mit dem Wert 100 f&#252;r das Jahr 2012. Die Angaben sind kalender- und saisonbereinigt. Die Wachstumsraten mit Bezug zum Vorquartal (Q/Q-1) werden auf Grundlage der kalender- und saisonbereinigten Werte berechnet. Die Wachstumsraten im Vergleich zum selben Quartal des Vorjahres (Q/Q-4) werden aus den kalenderbereinigten Werten abgeleitet.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/lci_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/lci_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teilm100</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teilm100.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teilm100.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2012</ecodp:periodStart>\n        <ecodp:periodEnd>2015</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/qx0cKHHUhWhFYjwNJZ7Thw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teilm100</foaf:primaryTopic><dct:modified>2015-07-30T12:13:44.005250</dct:modified><dct:issued>2015-07-06T22:12:02.788051</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "43a25ea6-21cc-41f8-b071-03cd60af90b3", 
+    "identifier": "teilm100"
+}

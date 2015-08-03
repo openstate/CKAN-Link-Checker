@@ -1,0 +1,261 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 7, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "environmental statistics", 
+            "name": "environmental statistics", 
+            "revision_timestamp": "2014-12-22T07:12:37.744345", 
+            "state": "active", 
+            "id": "4c03fc15-e594-4e72-8b98-7e5de31dbc14"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "sewage sludge", 
+            "name": "sewage sludge", 
+            "revision_timestamp": "2014-12-22T07:12:37.744345", 
+            "state": "active", 
+            "id": "2856958d-6c75-427c-9d91-6f87eebf31e1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "waste water", 
+            "name": "waste water", 
+            "revision_timestamp": "2014-12-22T07:12:37.744345", 
+            "state": "active", 
+            "id": "82348f8d-7da5-439f-80fd-7f20d9a351fc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "water", 
+            "name": "water", 
+            "revision_timestamp": "2014-12-22T07:12:37.744345", 
+            "state": "active", 
+            "id": "33929896-6440-40a4-8382-06d9457baf12"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "859286fa-2118-4aaf-9c88-8f2c1d551858", 
+    "metadata_created": "2014-12-22T07:12:37.744345", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T09:37:27.672606", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4260", 
+            "name": "http://eurovoc.europa.eu/4260", 
+            "revision_timestamp": "2015-03-03T19:09:46.509461", 
+            "state": "active", 
+            "id": "9ec93757-4a51-44aa-bf9a-26f42e9d0a5d"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00030.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:37:27.753295", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:37:27.671576", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "91cf555b-d876-4cd4-bf0b-b95059f16505", 
+            "size": null, 
+            "resource_group_id": "49b91344-a13a-4f97-9f86-34b3fa586da5", 
+            "id": "8e86a903-029d-4bab-aa5e-b7cf4d7291b7", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00030.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:37:27.753302", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:37:27.671576", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "91cf555b-d876-4cd4-bf0b-b95059f16505", 
+            "size": null, 
+            "resource_group_id": "49b91344-a13a-4f97-9f86-34b3fa586da5", 
+            "id": "41bd5a36-c9cd-46c8-abae-db4e4396a926", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "env_nwat_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/env_nwat_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:37:27.753246", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:37:27.671576", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "91cf555b-d876-4cd4-bf0b-b95059f16505", 
+            "size": null, 
+            "resource_group_id": "49b91344-a13a-4f97-9f86-34b3fa586da5", 
+            "id": "426d9ecc-cb09-4435-a1bc-e7b61b4457e9", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/env_nwat_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:37:27.753279", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:37:27.671576", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "91cf555b-d876-4cd4-bf0b-b95059f16505", 
+            "size": null, 
+            "resource_group_id": "49b91344-a13a-4f97-9f86-34b3fa586da5", 
+            "id": "e1f96e8b-a871-48da-aaf9-94b59566cd1a", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ten00030", 
+            "datastore_active": false, 
+            "created": "2015-07-31T11:37:27.753288", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T09:37:27.671576", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "91cf555b-d876-4cd4-bf0b-b95059f16505", 
+            "size": null, 
+            "resource_group_id": "49b91344-a13a-4f97-9f86-34b3fa586da5", 
+            "id": "70311753-4810-4a0d-8b9a-da689e1613ab", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The accumulated settled solids separated from various types of water as a result of natural or artificial processes.", 
+    "title": "Sewage sludge production and disposal from urban wastewater (in dry substance (d.s))", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 65, 
+        "recent": 0
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100155", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100155", 
+            "image_display_url": "", 
+            "id": "f0873571-606a-4f6c-8ec7-6c94f919c8a1", 
+            "name": "eurovoc_domain_100155"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100159", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100159", 
+            "image_display_url": "", 
+            "id": "411bf1e5-296f-4f4c-8ddf-2838d86ce110", 
+            "name": "eurovoc_domain_100159"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:12:37.744345", 
+    "name": "hzWkcfKt5mxEaFijeoA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ten00030", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/ten00030\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100155\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100159\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4260\"/>\n    <dct:title xml:lang=\"en\">Sewage sludge production and disposal from urban wastewater (in dry substance (d.s))</dct:title>\n    <dct:title xml:lang=\"fr\">Production et d&#233;charge de boues d'&#233;puration &#224; partir des eaux us&#233;es urbaines (en mati&#232;re s&#232;che (MS))</dct:title>\n    <dct:title xml:lang=\"de\">Gesamtkl&#228;rschlammaufkommen und Behandlung aus &#246;ffentlicher Abwasserbehandlung (o.Ts))</dct:title>\n    <ecodp:keyword xml:lang=\"en\">environmental statistics</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">water</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">waste water</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">sewage sludge</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique de l'environnement</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">eau</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">eau us&#233;e</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">boue d'&#233;puration</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Umweltstatistik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Wasser</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Abwasser</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Kl&#228;rschlamm</ecodp:keyword>\n    <dct:identifier>ten00030</dct:identifier>\n    <dct:description xml:lang=\"en\">The accumulated settled solids separated from various types of water as a result of natural or artificial processes.</dct:description>\n    <dct:description xml:lang=\"fr\">Mati&#232;res solides accumul&#233;es apr&#232;s leur s&#233;paration par des proc&#233;d&#233;s naturels ou artificiels des divers types d'eau qui les contiennent.</dct:description>\n    <dct:description xml:lang=\"de\">Die bei der Abwasserreinigung durch nat&#252;rliche oder k&#252;nstliche Prozesse anfallende Feststoffmenge aus verschiedenen Wasserarten.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/env_nwat_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/env_nwat_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/ten00030</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00030.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00030.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/hzWkcfKt5mxEaFijeoA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/ten00030</foaf:primaryTopic><dct:modified>2015-07-30T10:52:11.584552</dct:modified><dct:issued>2014-12-22T07:12:37.744345</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "e489a3c4-15a1-465d-96ee-712e8e583692", 
+    "identifier": "ten00030"
+}

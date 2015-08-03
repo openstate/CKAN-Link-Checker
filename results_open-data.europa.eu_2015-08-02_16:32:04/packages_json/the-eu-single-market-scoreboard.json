@@ -1,0 +1,284 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 24, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "CPC network", 
+            "name": "CPC network", 
+            "revision_timestamp": "2014-02-28T14:51:30.336457", 
+            "state": "active", 
+            "id": "f97ad8d5-e82a-4f95-b06e-f195e6226fc1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "DG MARKT", 
+            "name": "DG MARKT", 
+            "revision_timestamp": "2013-11-27T14:10:41.130725", 
+            "state": "active", 
+            "id": "fae60da1-fd7d-4479-a143-cb542b71c775"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EU Pilot", 
+            "name": "EU Pilot", 
+            "revision_timestamp": "2014-02-28T14:48:47.101551", 
+            "state": "active", 
+            "id": "060d2d5f-896a-4c70-b73e-fa974fa21226"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EURES", 
+            "name": "EURES", 
+            "revision_timestamp": "2014-02-28T14:51:30.336457", 
+            "state": "active", 
+            "id": "dc82ef24-328c-4938-8aa8-fbd1e07361ef"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "IMI", 
+            "name": "IMI", 
+            "revision_timestamp": "2014-02-28T14:48:47.101551", 
+            "state": "active", 
+            "id": "c2533557-3d4c-4bc2-b636-170f0b4fb22b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Internal Market Information system", 
+            "name": "Internal Market Information system", 
+            "revision_timestamp": "2014-02-28T14:48:47.101551", 
+            "state": "active", 
+            "id": "44b7a839-fec5-46fc-b412-f27b4eb5bf1d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Points of Single Contact", 
+            "name": "Points of Single Contact", 
+            "revision_timestamp": "2014-02-28T14:51:30.336457", 
+            "state": "active", 
+            "id": "4d5be3e4-a4d6-400e-9030-de5007d13b59"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Your Europe", 
+            "name": "Your Europe", 
+            "revision_timestamp": "2014-02-28T14:51:30.336457", 
+            "state": "active", 
+            "id": "6f9e7e57-8393-488f-87df-89388e8f50b3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Your Europe Advice", 
+            "name": "Your Europe Advice", 
+            "revision_timestamp": "2014-02-28T14:51:30.336457", 
+            "state": "active", 
+            "id": "0270556d-5bbc-408b-90f7-10d6bfb7e48a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "governance cycle", 
+            "name": "governance cycle", 
+            "revision_timestamp": "2014-02-28T14:51:30.336457", 
+            "state": "active", 
+            "id": "34dc5326-10d0-4c83-8595-aa893ea73d9f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "infringements", 
+            "name": "infringements", 
+            "revision_timestamp": "2013-11-27T14:10:41.130725", 
+            "state": "active", 
+            "id": "cfcc8d99-820c-430a-a9e7-0b5a777ea4ec"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "internal martet directives", 
+            "name": "internal martet directives", 
+            "revision_timestamp": "2013-11-27T14:09:52.104068", 
+            "state": "active", 
+            "id": "9ba2300d-e193-4dac-913b-25063eb82492"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "performance", 
+            "name": "performance", 
+            "revision_timestamp": "2013-11-27T14:10:41.130725", 
+            "state": "active", 
+            "id": "14dff0fd-714e-4268-a030-60e26146e2c9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "transposition", 
+            "name": "transposition", 
+            "revision_timestamp": "2013-11-27T14:10:41.130725", 
+            "state": "active", 
+            "id": "921b6418-f8e7-41f6-8f3e-dae568fb3f20"
+        }
+    ], 
+    "contact_name": "MARKT-SCOREBOARD functional mailbox", 
+    "id": "aa6add6f-82ff-4ac3-b081-87b1c1b51f16", 
+    "metadata_created": "2015-07-27T15:54:07.736640", 
+    "modified_date": "2014-02-28", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:54:07.737684", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1792", 
+            "name": "http://eurovoc.europa.eu/1792", 
+            "revision_timestamp": "2015-03-05T09:52:04.529373", 
+            "state": "active", 
+            "id": "9f47fd11-9dd4-44a9-a792-3ccb3dc7e45b"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2182", 
+            "name": "http://eurovoc.europa.eu/2182", 
+            "revision_timestamp": "2015-03-05T09:52:04.529373", 
+            "state": "active", 
+            "id": "9ad53597-c065-4300-86c4-a0cf918e265e"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1795", 
+            "name": "http://eurovoc.europa.eu/1795", 
+            "revision_timestamp": "2015-03-05T09:52:04.529373", 
+            "state": "active", 
+            "id": "8d3d8c8a-9b4f-4c01-855a-a04502557378"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3299", 
+            "name": "http://eurovoc.europa.eu/3299", 
+            "revision_timestamp": "2015-03-05T09:52:04.529373", 
+            "state": "active", 
+            "id": "062b4906-f535-454d-9a13-efcd9197672e"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6897", 
+            "name": "http://eurovoc.europa.eu/6897", 
+            "revision_timestamp": "2015-03-05T09:52:04.529373", 
+            "state": "active", 
+            "id": "22850981-03b0-45de-a2e7-e67f39cb9513"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/internal_market/scoreboard/", 
+            "datastore_active": false, 
+            "created": "2015-03-05T10:47:00.840556", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-05T09:52:04.529373", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "9b484df3-2b1e-4348-9f39-e707b311b2b0", 
+            "size": null, 
+            "resource_group_id": "f0267b0b-323c-458f-b15e-2d33a493a152", 
+            "id": "97a1ed0a-9550-4ce2-92ad-e5badb6a6f50", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Web Page"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "The Single Market Scoreboard aims at giving an overview of the practical management of the EU Single Market, which is based on a large body of EU law, accompanied by national transposition measures. It shows data on the overall performance per Member State. It is updated on a yearly basis and is available in English, French and German.  ", 
+    "title": "The EU Single Market Scoreboard", 
+    "tracking_summary": {
+        "total": 245, 
+        "recent": 3
+    }, 
+    "contact_email": "MARKT-SCOREBOARD@ec.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100147", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100147", 
+            "image_display_url": "", 
+            "id": "0b3e112c-4a87-450a-8212-dd997bd8ffaf", 
+            "name": "eurovoc_domain_100147"
+        }
+    ], 
+    "creator_user_id": "0882bf8b-6617-497b-81ea-6f6404a7c8e0", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2015-07-27T15:54:07.736640", 
+    "name": "the-eu-single-market-scoreboard", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG", 
+        "http://publications.europa.eu/resource/authority/language/FRA", 
+        "http://publications.europa.eu/resource/authority/language/DEU"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "bi-annual", 
+    "release_date": "2013-07-04", 
+    "owner_org": "e8a006fe-b698-4d75-8662-be67f232c3da", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://ec.europa.eu/internal_market/scoreboard/", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Internal Market, Industry, Entrepreneurship and SMEs", 
+        "created": "2015-06-10T10:09:41.574784", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-06-10T08:09:41.490433", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "2d7fdb1a-e59c-4ddb-a9a0-938af148cdfb", 
+        "type": "organization", 
+        "id": "e8a006fe-b698-4d75-8662-be67f232c3da", 
+        "name": "grow"
+    }, 
+    "revision_id": "c23596eb-1e49-4e3a-be7f-6f34273e06d0", 
+    "identifier": "", 
+    "version_description": ""
+}

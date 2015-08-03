@@ -1,0 +1,267 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 11, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "contact_name": "CORDIS helpdesk", 
+    "id": "13b28903-998b-45da-a0ae-963e6b47af25", 
+    "metadata_created": "2015-07-27T13:47:57.007346", 
+    "modified_date": "2015-07-20", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-29T18:25:42.889178", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/225", 
+            "name": "http://eurovoc.europa.eu/225", 
+            "revision_timestamp": "2015-03-06T11:33:38.202122", 
+            "state": "active", 
+            "id": "07573a38-7d87-449e-9c12-41a423956296"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3489", 
+            "name": "http://eurovoc.europa.eu/3489", 
+            "revision_timestamp": "2015-03-06T11:33:38.202122", 
+            "state": "active", 
+            "id": "b4cb560c-4372-47c4-970b-de2aa0edcf59"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5237", 
+            "name": "http://eurovoc.europa.eu/5237", 
+            "revision_timestamp": "2015-03-06T11:33:38.202122", 
+            "state": "active", 
+            "id": "5c00b1fc-d1d3-4125-bf2b-e4e40188292a"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/223", 
+            "name": "http://eurovoc.europa.eu/223", 
+            "revision_timestamp": "2015-03-06T11:33:38.202122", 
+            "state": "active", 
+            "id": "e9bc158d-9037-4161-b2c5-7456b64d3f12"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3656", 
+            "name": "http://eurovoc.europa.eu/3656", 
+            "revision_timestamp": "2015-03-06T11:33:38.202122", 
+            "state": "active", 
+            "id": "2cb4ad97-ae7e-41e4-b8a7-61e70de107b5"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/8454", 
+            "name": "http://eurovoc.europa.eu/8454", 
+            "revision_timestamp": "2015-03-06T11:33:38.202122", 
+            "state": "active", 
+            "id": "35976480-61bf-42bb-b68b-ce72f7e27e67"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5122", 
+            "name": "http://eurovoc.europa.eu/5122", 
+            "revision_timestamp": "2015-03-06T11:33:38.202122", 
+            "state": "active", 
+            "id": "eb1e569d-1cbd-4949-a79b-a86b1cfc2b65"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2914", 
+            "name": "http://eurovoc.europa.eu/2914", 
+            "revision_timestamp": "2015-03-06T11:33:38.202122", 
+            "state": "active", 
+            "id": "fd0f5924-858b-406b-b5e5-6cf1616e1a37"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "12353972-dc0d-4891-8d61-12d3107b0795", 
+            "revision_timestamp": "2015-07-21T14:30:11.575427", 
+            "datastore_active": false, 
+            "id": "47a76952-7838-4f10-8b35-aea87fa07a5e", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "FP7 Projects extract: rcn,\treference,\tacronym,\tprogrammePga,\tprogrammeCode\t, subprogramme, \ttitle,\tstartDate,\tendDate,\tprojectUrl,\tobjective,\ttotalCost,\tecMaxContribution,\tcall,\tfundingScheme,\tcoordinator,\torganisationId,\tcoordinatorCountry,\tparticipants,\tparticipantCountries,\tsubjects\r\n", 
+            "format": "text/csv", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-06-30T00:00:00", 
+            "url_type": null, 
+            "mimetype": "text/csv", 
+            "cache_url": null, 
+            "name": "FP7 Projects", 
+            "created": "2015-07-20T12:44:07.306234", 
+            "url": "http://cordis.europa.eu/data/cordis-fp7projects.csv", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "2b68b8a5-18f8-4f65-9cc0-2c8091f7785a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "12353972-dc0d-4891-8d61-12d3107b0795", 
+            "revision_timestamp": "2015-07-21T14:30:11.575427", 
+            "datastore_active": false, 
+            "id": "ad30f0d8-d528-48c5-9b5e-094288944f51", 
+            "size": "26416558", 
+            "state": "active", 
+            "hash": "", 
+            "description": "FP7 Projects extract: rcn,\treference,\tacronym,\tprogrammePga,\tprogrammeCode\t, subprogramme, \ttitle,\tstartDate,\tendDate,\tprojectUrl,\tobjective,\ttotalCost,\tecMaxContribution,\tcall,\tfundingScheme,\tcoordinator,\torganisationId,\tcoordinatorCountry,\tparticipants,\tparticipantCountries,\tsubjects\r\n", 
+            "format": "application/vnd.ms-excel", 
+            "tracking_summary": {
+                "total": 2, 
+                "recent": 2
+            }, 
+            "last_modified": "2015-06-30T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/vnd.ms-excel", 
+            "cache_url": null, 
+            "name": "FP7 Projects", 
+            "created": "2014-10-08T17:47:04.252804", 
+            "url": "http://cordis.europa.eu/data/cordis-fp7projects.xlsx", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 1, 
+            "revision_id": "2b68b8a5-18f8-4f65-9cc0-2c8091f7785a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "12353972-dc0d-4891-8d61-12d3107b0795", 
+            "revision_timestamp": "2015-07-21T14:30:11.575427", 
+            "datastore_active": false, 
+            "id": "0c211271-f36e-4e72-bdf6-ecff371a8306", 
+            "size": "14476447", 
+            "state": "active", 
+            "hash": "", 
+            "description": "FP7 Organisations: projectRcn,\tprojectReference,\tprojectAcronym,\torganisationRole,\torganisationId, organisationName,\torganisationShortName,\tcountry,\tstreet,\tcity,\tpostCode,\torganizationUrl,\tcontactType,\tcontactTitle,\tcontactFirstNames,\tcontactLastNames,\tcontactFunction\r\n", 
+            "format": "application/vnd.ms-excel", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "moreinfo": "Including: RCN, reference, acronym, title, start date, end date, total cost, ecmaxcontribution, programme, subprogramme 1, subprogramme 2, call, coordinator, coordinator's country, participants, participant's country", 
+            "mimetype": "application/vnd.ms-excel", 
+            "cache_url": null, 
+            "name": "FP7 organisations", 
+            "created": "2014-10-08T17:35:43.596406", 
+            "url": "http://cordis.europa.eu/data/cordis-fp7organizations.xlsx", 
+            "webstore_url": null, 
+            "last_modified": "2015-06-30T00:00:00", 
+            "position": 2, 
+            "revision_id": "2b68b8a5-18f8-4f65-9cc0-2c8091f7785a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "12353972-dc0d-4891-8d61-12d3107b0795", 
+            "revision_timestamp": "2015-07-21T14:30:11.575427", 
+            "datastore_active": false, 
+            "id": "e16066a2-5595-4690-8ed7-dee5c20402e3", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "cordis-fp7organizations.csv", 
+            "format": "text/csv", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-06-30T00:00:00", 
+            "url_type": null, 
+            "mimetype": "text/csv", 
+            "cache_url": null, 
+            "name": "FP7 organisations", 
+            "created": "2015-07-20T12:49:55.537962", 
+            "url": "http://cordis.europa.eu/data/cordis-fp7organizations.csv", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 3, 
+            "revision_id": "2b68b8a5-18f8-4f65-9cc0-2c8091f7785a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 4, 
+    "description": "This dataset contains projects funded by the European Union under the seventh framework programme for research and technological development (FP7) from 2007 to 2013.\r\nGrant information is provided for each project, including reference, acronym, dates, funding, programmes, participant countries, subjects and objectives. You can also find a separate file with organisation information (project participants, coordinators)\r\n\r\nReference data (countries, funding schemes/types of action, subjects (SIC codes)) can be found in this dataset: https://open-data.europa.eu/en/data/dataset/cordisref-data\r\n", 
+    "title": "CORDIS - EU research projects under FP7 (2007-2013)", 
+    "tracking_summary": {
+        "total": 5402, 
+        "recent": 147
+    }, 
+    "contact_email": "cordis@publications.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100143", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100143", 
+            "image_display_url": "", 
+            "id": "5663c43f-efe6-4814-b47b-ee909cda54a7", 
+            "name": "eurovoc_domain_100143"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100158", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100158", 
+            "image_display_url": "", 
+            "id": "361d621d-3400-4cfe-a1f2-e54e38653a17", 
+            "name": "eurovoc_domain_100158"
+        }
+    ], 
+    "creator_user_id": "1f67a9e5-c753-49cb-96f0-65201cd4f918", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-29T18:25:42.881654", 
+    "name": "cordisfp7projects", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "FP7 research projects", 
+    "accrual_periodicity": "", 
+    "release_date": "2013-11-27", 
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+    "contact_address": "2 rue Mercier, Luxembourg", 
+    "contact_telephone": "+352 2929 42210 ", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://cordis.europa.eu/guidance/helpdesk/home_en.html", 
+    "url": "http://cordis.europa.eu/projects/home_en.html", 
+    "organization": {
+        "description": "", 
+        "title": "Publications Office", 
+        "created": "2012-12-12T13:50:56.476905", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:56.451833", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "702713e9-905d-4061-9847-18d42c3d395d", 
+        "type": "organization", 
+        "id": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+        "name": "publ"
+    }, 
+    "revision_id": "b63bad85-d464-4423-91c0-017367aa9fcb", 
+    "identifier": "", 
+    "version_description": ""
+}

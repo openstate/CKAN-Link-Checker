@@ -1,0 +1,240 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "contact_name": "", 
+    "id": "d38be1e5-0bf4-4424-b96c-61d3adea0172", 
+    "metadata_created": "2014-06-11T09:19:33.933544", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T16:51:42.598785", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1804", 
+            "name": "http://eurovoc.europa.eu/1804", 
+            "revision_timestamp": "2015-02-23T10:28:54.710337", 
+            "state": "active", 
+            "id": "6a93dbab-785a-4293-a785-9869c0aea6c9"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/8469", 
+            "name": "http://eurovoc.europa.eu/8469", 
+            "revision_timestamp": "2015-02-23T10:28:54.710337", 
+            "state": "active", 
+            "id": "983e256b-17f1-4728-9ed6-47be9516703e"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1800", 
+            "name": "http://eurovoc.europa.eu/1800", 
+            "revision_timestamp": "2015-02-23T10:28:54.710337", 
+            "state": "active", 
+            "id": "e92309a1-0cef-4b78-a99e-4eaed84ce40e"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1811", 
+            "name": "http://eurovoc.europa.eu/1811", 
+            "revision_timestamp": "2015-02-23T10:28:54.710337", 
+            "state": "active", 
+            "id": "baab2bad-a9d0-4e6e-9ed6-bef37555c2a0"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "09c3fa30-2a39-4eec-b179-43a2fd233e4a", 
+            "revision_timestamp": "2015-02-23T10:22:36.156037", 
+            "owner": "esmausr2", 
+            "datastore_active": false, 
+            "id": "63e45630-4114-4bee-8713-e8267eee125c", 
+            "size": "1029295", 
+            "cache_url_updated": "2014-06-11T11:20:08", 
+            "state": "active", 
+            "hash": "md5:deb0e89725b8cf936c24f124396fdbb2", 
+            "description": "ESMA WP 1 2014 - Based on a unique data set referencing exposures on single name credit default swaps (CDS) on European reference entities, we study the structure and the topology of the European CDS market and its evolution from 2008 to 2012, resorting to network analysis. The structural features revealed show bilateral CDS exposures describing growing scale-free networks whose highly interconnected hubs constitute both a strength and weakness for the stability of the system. The potential \u201csuper spreaders\u201d of financial contagion, identified as the most interconnected participants, consist mostly of banks. For some of them net notional exposures may be particularly large relative to their total common equity. Our findings also point to the importance of some non-dealer/non-bank participants belonging to the shadow banking system.", 
+            "format": "application/pdf", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "name": "ESMA WP 1 2014", 
+            "created": "2014-06-11T11:20:54.568994", 
+            "url": "http://open-data.europa.eu/fr/data/storage/f/2014-06-11T092005/ESMA-WP_2014_1_CDS.pdf", 
+            "webstore_url": null, 
+            "last_modified": "2014-06-11T11:20:08", 
+            "position": 0, 
+            "revision_id": "79789bad-a2ad-4654-a8c8-36f23638d939", 
+            "resource_type": "file.upload"
+        }, 
+        {
+            "resource_group_id": "09c3fa30-2a39-4eec-b179-43a2fd233e4a", 
+            "revision_timestamp": "2015-02-23T10:22:36.156037", 
+            "owner": "esmausr2", 
+            "datastore_active": false, 
+            "id": "5e4bd851-dbc1-4882-9ac2-b5f04a2014d8", 
+            "size": "890959", 
+            "cache_url_updated": "2014-06-11T11:21:35", 
+            "state": "active", 
+            "hash": "md5:42cb45f6373d31676631e3baf3de0038", 
+            "description": "ESMA WP 2 2014 - We analyse the potentially vulnerable and systemically relevant financial intermediation chain established by hedge funds and prime brokers in. Our dataset covers the 306 largest global hedge funds and their prime brokers over the period July 2001 to December 2011. The study illustrates that hedge funds and prime brokers act as complementary trading partners in normal times. However, we observe that this form of financial intermediation may be severely impaired in times of market distress. This can be explained by the hoarding of liquid securities by prime brokers who are eager to avert runs by their clients.", 
+            "format": "application/pdf", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "name": "ESMA WP 2 2014", 
+            "created": "2014-06-11T11:22:12.123032", 
+            "url": "http://open-data.europa.eu/fr/data/storage/f/2014-06-11T092133/EMSA-WP_2014_2_HF-and-prime-brokers.pdf", 
+            "webstore_url": null, 
+            "last_modified": "2014-06-11T11:21:35", 
+            "position": 1, 
+            "revision_id": "79789bad-a2ad-4654-a8c8-36f23638d939", 
+            "resource_type": "file.upload"
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ESMA Working Paper No. 3 Jan. 2015", 
+            "format": "application/pdf", 
+            "url": "http://www.esma.europa.eu/system/files/esma-wp_3_structured_products_0113.pdf", 
+            "datastore_active": false, 
+            "created": "2015-02-23T11:26:03.086226", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T16:51:42.597580", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "7cdea431-c380-4f25-886a-1eee0f85afd1", 
+            "size": null, 
+            "resource_group_id": "09c3fa30-2a39-4eec-b179-43a2fd233e4a", 
+            "id": "e878130f-f775-44a7-b4ca-ddc6daf64261", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "ESMA WP 3 2015"
+        }, 
+        {
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ESMA produces annually two reports on risk, trends and vulnerabilities in financial markets", 
+            "format": "text/html", 
+            "url": "http://www.esma.europa.eu/page/Trends-risks-and-vulnerabilities-financial-markets", 
+            "datastore_active": false, 
+            "created": "2015-02-23T11:22:36.335618", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T16:51:42.597580", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "7cdea431-c380-4f25-886a-1eee0f85afd1", 
+            "size": null, 
+            "resource_group_id": "09c3fa30-2a39-4eec-b179-43a2fd233e4a", 
+            "id": "47b285fa-91a4-40e2-b93b-e6540f52380f", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Trends, risks and vulnerabilities in financial markets"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 4, 
+    "description": "ESMA publishes a series of working papers with economic analysis", 
+    "title": "ESMA Working Papers", 
+    "tracking_summary": {
+        "total": 156, 
+        "recent": 2
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100152", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100152", 
+            "image_display_url": "", 
+            "id": "08994bb7-2827-4215-a10b-d0f520fd70bb", 
+            "name": "eurovoc_domain_100152"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Technical"
+    ], 
+    "revision_timestamp": "2014-06-11T09:19:33.933544", 
+    "name": "esma-wp", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://www.esma.europa.eu/page/Trends-risks-and-vulnerabilities-financial-markets", 
+    "organization": {
+        "description": "", 
+        "title": "European Securities and Markets Authority", 
+        "created": "2012-12-12T13:50:52.497925", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.471964", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "0d60eb1d-b406-43d3-94ad-26f3bea3f39b", 
+        "type": "organization", 
+        "id": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+        "name": "esma"
+    }, 
+    "revision_id": "2817426b-48c9-4550-a898-654839f26039", 
+    "identifier": "", 
+    "version_description": ""
+}

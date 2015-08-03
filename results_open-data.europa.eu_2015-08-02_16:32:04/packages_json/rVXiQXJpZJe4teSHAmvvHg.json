@@ -1,0 +1,245 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Economic growth", 
+            "name": "Economic growth", 
+            "revision_timestamp": "2014-12-22T07:28:33.694080", 
+            "state": "active", 
+            "id": "abc84835-cda6-44c9-9e00-7c3737a2c939"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Personnel management and staff remuneration", 
+            "name": "Personnel management and staff remuneration", 
+            "revision_timestamp": "2014-12-22T07:28:33.694080", 
+            "state": "active", 
+            "id": "b2a26084-7fe4-4689-8ca8-7016c45e1dce"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "1b8b0c33-d956-4803-b021-07269a9aed55", 
+    "metadata_created": "2015-07-27T13:54:21.581750", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T08:55:51.851066", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/56", 
+            "name": "http://eurovoc.europa.eu/56", 
+            "revision_timestamp": "2015-03-03T18:13:59.926259", 
+            "state": "active", 
+            "id": "e11c40fd-4749-49a0-934e-4d4f391248e8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00130.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:55:51.968434", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:55:51.850031", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "43c91446-d114-4f29-98c5-692ac05ae0b2", 
+            "size": null, 
+            "resource_group_id": "8f8a58c8-86c7-4ebf-b95e-f7c1ce0dc43d", 
+            "id": "970abcd0-3d5b-40ad-a719-42deda5dbf94", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00130.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:55:51.968441", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:55:51.850031", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "43c91446-d114-4f29-98c5-692ac05ae0b2", 
+            "size": null, 
+            "resource_group_id": "8f8a58c8-86c7-4ebf-b95e-f7c1ce0dc43d", 
+            "id": "a82503f1-8ee0-4769-b1c1-8488cf382d02", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "nama_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/nama_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:55:51.968387", 
+            "tracking_summary": {
+                "total": 2, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:55:51.850031", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "43c91446-d114-4f29-98c5-692ac05ae0b2", 
+            "size": null, 
+            "resource_group_id": "8f8a58c8-86c7-4ebf-b95e-f7c1ce0dc43d", 
+            "id": "cd74dec5-0687-41ec-9b61-448e499a5d6e", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/nama_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:55:51.968418", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:55:51.850031", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "43c91446-d114-4f29-98c5-692ac05ae0b2", 
+            "size": null, 
+            "resource_group_id": "8f8a58c8-86c7-4ebf-b95e-f7c1ce0dc43d", 
+            "id": "bdcf0dde-f6c9-4a76-8c98-06d7f83b85e0", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00130", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:55:51.968427", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:55:51.850031", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "43c91446-d114-4f29-98c5-692ac05ae0b2", 
+            "size": null, 
+            "resource_group_id": "8f8a58c8-86c7-4ebf-b95e-f7c1ce0dc43d", 
+            "id": "58818ed5-a1b7-48e2-93f6-2901584587b1", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "This derived indicator compares remuneration (compensation per employee in current prices) and productivity (gross domestic product (GDP) in current prices per employment) to show how the remuneration of employees is related to the productivity of their labour. It is the relationship between how much each \"worker\" is paid and the value he/she produces by their work. Its growth rate is intended to give an impression of the dynamics of the participation of the production factor labour in output value created. Please note that the variables used in the numerator (compensation, employees) refer to employed labour only, while those in the denominator (GDP, employment) refer to all labour, including self-employed.", 
+    "title": "Real unit labour cost growth (ESA95)", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 4, 
+        "recent": 3
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-27T13:54:21.581750", 
+    "name": "rVXiQXJpZJe4teSHAmvvHg", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00130", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tec00130\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/56\"/>\n    <dct:title xml:lang=\"en\">Real unit labour cost growth (ESA95)</dct:title>\n    <dct:title xml:lang=\"fr\">Croissance du co&#251;t unitaire du travail r&#233;el (SEC95)</dct:title>\n    <dct:title xml:lang=\"de\">Reales Wachstum der Lohnst&#252;ckkosten (ESVG95)</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Economic growth</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Personnel management and staff remuneration</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Croissance &#233;conomique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Administration et r&#233;mun&#233;ration du personnel</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Wirtschaftswachstum</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Verwaltung und Entlohnung des Personals</ecodp:keyword>\n    <dct:identifier>tec00130</dct:identifier>\n    <dct:description xml:lang=\"en\">This derived indicator compares remuneration (compensation per employee in current prices) and productivity (gross domestic product (GDP) in current prices per employment) to show how the remuneration of employees is related to the productivity of their labour. It is the relationship between how much each \"worker\" is paid and the value he/she produces by their work. Its growth rate is intended to give an impression of the dynamics of the participation of the production factor labour in output value created. Please note that the variables used in the numerator (compensation, employees) refer to employed labour only, while those in the denominator (GDP, employment) refer to all labour, including self-employed.</dct:description>\n    <dct:description xml:lang=\"fr\">Cet indicateur d&#233;riv&#233; compare la r&#233;mun&#233;ration par employ&#233; (aux prix courants) et la productivit&#233; [produit int&#233;rieur brut (PIB) aux prix courants par emploi] pour montrer comment la r&#233;mun&#233;ration des employ&#233;s est li&#233;e &#224; la productivit&#233; de leur main-d'oeuvre. C'est le rapport entre combien chaque &#171;travailleur&#187; est pay&#233; et la valeur qu'il produit par son travail. Son taux de croissance est destin&#233; &#224; donner une impression des dynamiques de la participation du facteur travail dans la cr&#233;ation de valeur ajout&#233;e. Il est &#224; noter que les variables utilis&#233;es au num&#233;rateur (r&#233;mun&#233;ration, employ&#233;s) se r&#233;f&#232;rent &#224; la main-d'oeuvre employ&#233;e uniquement, alors que celles utilis&#233;es au d&#233;nominateur (PIB, emploi) se r&#233;f&#232;rent &#224; toute la main-d'oeuvre, travailleurs ind&#233;pendants inclus.</dct:description>\n    <dct:description xml:lang=\"de\">Dieser abgeleitete Indikator bezieht \"Arbeitnehmerentgelt je Arbeitnehmer (in jeweiligen Preisen)\" auf \"Produktivit&#228;t\" [Bruttoinlandsprodukt (BIP) in jeweiligen Preisen je Besch&#228;ftigten], um zu zeigen, in welcher Beziehung das durchschnittliche Arbeitnehmerentgelt zur Arbeitsproduktivit&#228;t steht. Es gibt die Relation an zwischen dem durchschnittlichen Verdienst eines \"Arbeiters\" und der Wertsch&#246;pfung, die aus seiner Arbeit resultiert. Die Wachstumsrate dieses Verh&#228;ltnisses soll einen Eindruck von der Entwicklung der Beteiligung des Produktionsfaktors Arbeit an der Wertsch&#246;pfung vermitteln. Man beachte, dass die im Z&#228;hler verwendeten Variablen (Arbeitnehmerentgelt, Arbeitnehmer) sich nur auf abh&#228;ngig Besch&#228;ftigte beziehen, w&#228;hrend die Gr&#246;&#223;en im Nenner (BIP, Besch&#228;ftigung) auch selbst&#228;ndige Arbeit ber&#252;cksichtigen.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/nama_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/nama_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tec00130</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00130.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00130.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/rVXiQXJpZJe4teSHAmvvHg\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tec00130</foaf:primaryTopic><dct:modified>2015-07-30T12:08:34.104975</dct:modified><dct:issued>2015-01-15T12:05:36.789779</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "b5626182-d05d-4a99-9b65-167e993dca50", 
+    "identifier": "tec00130"
+}

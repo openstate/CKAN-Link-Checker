@@ -1,0 +1,237 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014-12", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "monetary and financial indicators", 
+            "name": "monetary and financial indicators", 
+            "revision_timestamp": "2014-12-22T07:40:43.826834", 
+            "state": "active", 
+            "id": "1286b989-868a-419f-a122-413e068d19a4"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "a740db98-6d0c-432c-bcb6-d83c11637d9b", 
+    "metadata_created": "2014-12-22T07:40:43.826834", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-31T08:34:20.132345", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4390", 
+            "name": "http://eurovoc.europa.eu/4390", 
+            "revision_timestamp": "2015-03-03T16:58:58.201115", 
+            "state": "active", 
+            "id": "e16e0caa-3621-46c0-b86e-607f4cc0d1fb"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teimf250.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:34:20.196503", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:34:20.131311", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "d6701b70-5784-4f1b-aca3-539f6c55d0a2", 
+            "size": null, 
+            "resource_group_id": "564ba5d6-2e38-4096-819e-eba559601c4d", 
+            "id": "0afdeb68-9b18-495c-a78e-c2fdbb24f088", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teimf250.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:34:20.196515", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:34:20.131311", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "d6701b70-5784-4f1b-aca3-539f6c55d0a2", 
+            "size": null, 
+            "resource_group_id": "564ba5d6-2e38-4096-819e-eba559601c4d", 
+            "id": "d43e9720-cebf-4211-8791-97eb98e6ef28", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ei_mf_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ei_mf_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:34:20.196441", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:34:20.131311", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "d6701b70-5784-4f1b-aca3-539f6c55d0a2", 
+            "size": null, 
+            "resource_group_id": "564ba5d6-2e38-4096-819e-eba559601c4d", 
+            "id": "4fbe2644-a962-4b83-b307-da4dba0011a5", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_mf_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:34:20.196480", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:34:20.131311", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "d6701b70-5784-4f1b-aca3-539f6c55d0a2", 
+            "size": null, 
+            "resource_group_id": "564ba5d6-2e38-4096-819e-eba559601c4d", 
+            "id": "fe0e8474-962f-47ee-9ea8-f93a78dfaa34", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teimf250", 
+            "datastore_active": false, 
+            "created": "2015-07-31T10:34:20.196491", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-31T08:34:20.131311", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "d6701b70-5784-4f1b-aca3-539f6c55d0a2", 
+            "size": null, 
+            "resource_group_id": "564ba5d6-2e38-4096-819e-eba559601c4d", 
+            "id": "5f4131a4-4614-4714-bcf0-871e1c1adfe7", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The REER (or Relative price and cost indicators) aim to assess a country's (or currency area's) price or cost competitiveness relative to its principal competitors in international markets. Changes in cost and price competitiveness depend not only on exchange rate movements but also on cost and price trends. The indicator is deflated by the price index (total economy) against a panel of 42 countries (= EU28 + 14 other industrial countries: Australia, Canada, United States, Japan, Norway, New Zealand, Mexico, Switzerland, Turkey, Russia, China, Brazil, South Korea and Hong Kong). Double export weights are used to calculate REERs, reflecting not only competition in the home markets of the various competitors, but also competition in export markets elsewhere. A rise in the index means a loss of competitiveness. Data source: Directorate General for Economic and Financial Affairs (DG ECFIN). Data are non-seasonal adjusted.", 
+    "title": "Real effective exchange rate - 42 trading partners", 
+    "temporal_coverage_from": "2014-01", 
+    "tracking_summary": {
+        "total": 30, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:40:43.826834", 
+    "name": "OWQL7InA39ui4o7bQCRXw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teimf250", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teimf250\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4390\"/>\n    <dct:title xml:lang=\"en\">Real effective exchange rate - 42 trading partners</dct:title>\n    <dct:title xml:lang=\"fr\">Taux de change effectif r&#233;el - 42 partenaires commerciaux</dct:title>\n    <dct:title xml:lang=\"de\">Realer effektiver Wechselkurs - 42 Handelspartner</dct:title>\n    <ecodp:keyword xml:lang=\"en\">monetary and financial indicators</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Indicateurs Mon&#233;taires et Financiers</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Monet&#228;re und finanzielle Indikatoren</ecodp:keyword>\n    <dct:identifier>teimf250</dct:identifier>\n    <dct:description xml:lang=\"en\">The REER (or Relative price and cost indicators) aim to assess a country's (or currency area's) price or cost competitiveness relative to its principal competitors in international markets. Changes in cost and price competitiveness depend not only on exchange rate movements but also on cost and price trends. The indicator is deflated by the price index (total economy) against a panel of 42 countries (= EU28 + 14 other industrial countries: Australia, Canada, United States, Japan, Norway, New Zealand, Mexico, Switzerland, Turkey, Russia, China, Brazil, South Korea and Hong Kong). Double export weights are used to calculate REERs, reflecting not only competition in the home markets of the various competitors, but also competition in export markets elsewhere. A rise in the index means a loss of competitiveness. Data source: Directorate General for Economic and Financial Affairs (DG ECFIN). Data are non-seasonal adjusted.</dct:description>\n    <dct:description xml:lang=\"fr\">Le REER (ou &#171;indicateur relatif des prix et des co&#251;ts&#187;) vise &#224; &#233;valuer la comp&#233;titivit&#233;-prix ou la comp&#233;titivit&#233;-co&#251;ts d&#8217;un pays (ou d'une zone mon&#233;taire) par rapport &#224; ses principaux concurrents sur les march&#233;s internationaux. Les variations de la comp&#233;titivit&#233;-co&#251;ts et de la comp&#233;titivit&#233;-prix d&#233;pendent non seulement des modifications du taux de change, mais aussi de l'&#233;volution des co&#251;ts et des prix. Le REER est d&#233;flat&#233; &#224; l'aide de l&#8217;indice de prix (&#233;conomie totale) par rapport &#224; un groupe de 42 pays (soit l'UE28 et 14 autres pays industrialis&#233;s: Australie, Canada, Etats-Unis, Japon, Norv&#232;ge, Nouvelle Z&#233;lande, Mexico, Suisse et Turquie, Russie, Chine, Br&#233;sil, Cor&#233;e du Sud et Hong Kong). Une double pond&#233;ration des exportations est utilis&#233;e pour calculer les REER, de mani&#232;re &#224; tenir compte non seulement de la concurrence sur les march&#233;s nationaux des divers concurrents, mais aussi sur les autres march&#233;s d'exportation. Une hausse de l'indice indique une perte de comp&#233;titivit&#233;. Source des donn&#233;es: Direction G&#233;n&#233;rale des Affaires &#233;conomiques et financi&#232;res (DG ECFIN). Donn&#233;es non d&#233;saisonnalis&#233;s.</dct:description>\n    <dct:description xml:lang=\"de\">Der REW (oder die \"relativen Preis- und Kostenindikatoren\") soll Aufschluss geben &#252;ber die Wettbewerbsf&#228;higkeit der Preise und Kosten eines Landes (oder W&#228;hrungsgebiets) gegen&#252;ber den wichtigsten Konkurrenten auf den internationalen M&#228;rkten. &#196;nderungen der Wettbewerbsf&#228;higkeit der Preise und Kosten h&#228;ngen nicht nur von Wechselkursbewegungen, sondern auch von Kosten- und Preistrends ab. Der spezielle REW f&#252;r die Indikatoren der nachhaltigen Entwicklung ist mit den Lohnst&#252;ckkosten (Gesamtwirtschaft) gegen&#252;ber = EU28 + 14 andere Industriel&#228;nder (Australien, Kanada, Vereinigte Staaten, Japan, Norwegen, Neuseeland, Mexiko, Schweiz, T&#252;rkei, Russland, China, Brasilien, S&#252;dkorea und Hong Kong) deflationiert. F&#252;r die Berechnung der REW werden doppelte Exportgewichte verwendet, die nicht nur den Wettbewerb auf den Heimatm&#228;rkten der verschiedenen Wettbewerber ber&#252;cksichtigen, sondern auch den Wettbewerb auf anderen Exportm&#228;rkten. Ein Anstieg des Index bedeutet eine Verringerung der Wettbewerbsf&#228;higkeit. Daten Quelle: Generaldirektion f&#252;r Wirtschaft und Finanzen (DG ECFIN). Daten sind nicht saisonbereinigt</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ei_mf_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_mf_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teimf250</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teimf250.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teimf250.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2014-01</ecodp:periodStart>\n        <ecodp:periodEnd>2014-12</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/OWQL7InA39ui4o7bQCRXw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teimf250</foaf:primaryTopic><dct:modified>2015-07-30T09:51:44.894649</dct:modified><dct:issued>2014-12-22T07:40:43.826834</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "e411fba2-2e77-4c92-a9c2-529e1fb33db9", 
+    "identifier": "teimf250"
+}

@@ -1,0 +1,321 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 38, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "JRC-Names", 
+            "name": "JRC-Names", 
+            "revision_timestamp": "2015-04-01T08:52:14.802503", 
+            "state": "active", 
+            "id": "ad4ebdc5-17be-4966-9c9b-c7b37cf279b5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "lemon", 
+            "name": "lemon", 
+            "revision_timestamp": "2015-04-01T08:52:14.802503", 
+            "state": "active", 
+            "id": "b6114a3b-8d1a-4c7a-a809-09ea269b1c3c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "lexical variants", 
+            "name": "lexical variants", 
+            "revision_timestamp": "2015-05-19T05:23:29.630438", 
+            "state": "active", 
+            "id": "b4bc3bfa-d879-4c58-a8f6-8495e4a6be63"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "linked data", 
+            "name": "linked data", 
+            "revision_timestamp": "2015-04-01T08:52:14.802503", 
+            "state": "active", 
+            "id": "a040b88f-d4a3-4b72-ada9-4cfc9f92ab00"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "multilingual linguistic resource", 
+            "name": "multilingual linguistic resource", 
+            "revision_timestamp": "2015-04-01T08:52:14.802503", 
+            "state": "active", 
+            "id": "f29c0d89-bf75-4a09-b756-fc28ed9260d6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "named entities", 
+            "name": "named entities", 
+            "revision_timestamp": "2015-04-01T08:52:14.802503", 
+            "state": "active", 
+            "id": "16b6c311-01b3-48e0-8e39-bb695edd1216"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "natural language processing", 
+            "name": "natural language processing", 
+            "revision_timestamp": "2015-04-01T08:52:14.802503", 
+            "state": "active", 
+            "id": "dc757cb9-0ed0-4940-9076-2a06e5e80fcd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "news analysis", 
+            "name": "news analysis", 
+            "revision_timestamp": "2015-04-01T08:52:14.802503", 
+            "state": "active", 
+            "id": "bc8ff2ab-661b-413d-b31c-25850b5f5cde"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "person and organisation names", 
+            "name": "person and organisation names", 
+            "revision_timestamp": "2015-04-01T08:52:14.802503", 
+            "state": "active", 
+            "id": "0bb1ff03-fcba-4ab6-a10a-99dac0a68cbf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "person titles", 
+            "name": "person titles", 
+            "revision_timestamp": "2015-04-01T08:52:14.802503", 
+            "state": "active", 
+            "id": "3012acea-cc58-4cc5-8d3b-83e126993f70"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "variant and title usage time intervals", 
+            "name": "variant and title usage time intervals", 
+            "revision_timestamp": "2015-04-01T08:52:14.802503", 
+            "state": "active", 
+            "id": "13e8a3ae-9f82-4b41-b9d7-b5da217c37bc"
+        }
+    ], 
+    "contact_name": "European Commission - Joint Research Centre - IPSC institute - Global Security and Crisis Management Unit", 
+    "id": "8abe51cd-4314-4d5a-8303-a6ec5d9d9f12", 
+    "metadata_created": "2015-07-27T15:22:21.908243", 
+    "modified_date": "2015-04-01", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:22:21.909228", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/NameAuthorityList"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1580", 
+            "name": "http://eurovoc.europa.eu/1580", 
+            "revision_timestamp": "2015-04-01T08:52:14.802503", 
+            "state": "active", 
+            "id": "25019a9b-0833-4650-af6f-5409c94d0610"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4134", 
+            "name": "http://eurovoc.europa.eu/4134", 
+            "revision_timestamp": "2015-04-01T08:52:14.802503", 
+            "state": "active", 
+            "id": "e906fd11-23b8-4af2-b6b7-dda9e737e187"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1670", 
+            "name": "http://eurovoc.europa.eu/1670", 
+            "revision_timestamp": "2015-04-01T08:52:14.802503", 
+            "state": "active", 
+            "id": "7d38228d-059d-43a9-b25f-c85dc44c354b"
+        }
+    ], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Some statistics on JRC-Names", 
+            "format": "text/plain", 
+            "url": "ftp://cidportal.jrc.ec.europa.eu/jrc-opendata/EMM/JRC-Names/LATEST/RDF-STATS-entity.txt", 
+            "datastore_active": false, 
+            "created": "2015-05-19T07:23:32.206532", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:22:21.908243", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "e4ac3cbe-7cad-4010-8da2-7573249a3f23", 
+            "size": null, 
+            "resource_group_id": "dd27a006-6e2f-4e36-80b6-63b80612131f", 
+            "id": "484c1c0f-e72d-4c44-baff-6f62a474c3cf", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "JRC -Names data statistics"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Definitions of classes and properties defined by JRC for JRC-names where no already existing vocabulary could appropriately answer the needs.", 
+            "format": "application/rdf+xml", 
+            "url": "ftp://cidportal.jrc.ec.europa.eu/jrc-opendata/EMM/JRC-Names/LATEST/jrcNamesModel.rdf", 
+            "datastore_active": false, 
+            "created": "2015-05-19T07:23:32.206481", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:22:21.908243", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "e4ac3cbe-7cad-4010-8da2-7573249a3f23", 
+            "size": null, 
+            "resource_group_id": "dd27a006-6e2f-4e36-80b6-63b80612131f", 
+            "id": "da07db8a-9b9a-4c4f-95d9-cf3ce76fe638", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "JRC data model for JRC-Names"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "This resource ftp offer the last version of the JRC-names content.", 
+            "format": "application/zip", 
+            "url": "ftp://cidportal.jrc.ec.europa.eu/jrc-opendata/EMM/JRC-Names/LATEST/jrcnames_uri.zip", 
+            "datastore_active": false, 
+            "created": "2015-05-19T07:23:32.206539", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:22:21.908243", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "e4ac3cbe-7cad-4010-8da2-7573249a3f23", 
+            "size": null, 
+            "resource_group_id": "dd27a006-6e2f-4e36-80b6-63b80612131f", 
+            "id": "46950669-5c6c-4566-87f0-8959e495ee2c", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "JRC-Names, RDF files"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Access to the JRC-Names dataset via the Open Data Portal SPARQL endpoint. \nFor example to see all the properties of the jrc-names graph, use this query : \nSELECT DISTINCT ?property WHERE {graph  <http://open-data.europa.eu/jrc-names/> { [] ?property [] . }} ORDER BY ?property   \n   \n   . Some more specific query examples are provided in the SPARQL endpoint webpage.", 
+            "format": "text/html", 
+            "url": "http://open-data.europa.eu/en/linked-data", 
+            "datastore_active": false, 
+            "created": "2015-05-19T07:23:32.206521", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:22:21.908243", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "e4ac3cbe-7cad-4010-8da2-7573249a3f23", 
+            "size": null, 
+            "resource_group_id": "dd27a006-6e2f-4e36-80b6-63b80612131f", 
+            "id": "abdf5d0d-7c3f-484a-965c-61c70d5e6e1e", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "SPARQL endpoint access"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 4, 
+    "description": "JRC-Names is a highly multilingual named entity resource for person and organisation names (called 'entities') developed by the European Commission\u2019s Joint Research Centre (JRC). JRC-Names consists of large lists of names and their many spelling variants (up to hundreds for a single person), including across scripts (Latin, Greek, Arabic, Cyrillic, Japanese, Chinese, etc.). For example, the spellings Jean-Claude Juncker, Jean Cloud Junker, Jean-Claude Juencker, \u0416\u0430\u043d-\u041a\u043b\u043e\u0434 \u042e\u043d\u043a\u0435\u0440, \u062c\u0627\u0646 \u0643\u0644\u0648\u062f \u062c\u0648\u0646\u0643\u0631, \u0396\u03b1\u03bd \u039a\u03bb\u03bf\u03bd\u03c4 \u0393\u03b9\u03bf\u03cd\u03bd\u03ba\u03b5\u03c1, \u8ba9-\u514b\u6d1b\u5fb7\u2022\u5bb9\u514b, and many others have all been identified as referring to the 12th President of the European Commission.   \n \nThe resource is the by-product of the Europe Media Monitor (EMM, see http://emm.newsbrief.eu/overview.html ) family of applications, which has been analysing up to 220,000 news reports per day, since 2004. EMM recognises names mentioned in the news in over twenty languages and decides automatically for each newly found name whether it belongs to a new entity or whether it is a spelling variant of a previously known entity. This resource allows EMM users to display news about people or organisations even if their names are spelt differently or if the news articles are written in different languages and scripts.  \n\nJRC-Names has been available for download since September 2011, consisting of name variant lists and accompanying software. The new linked data edition, accessible through the European Union\u2019s Open Data Portal, offers more information compared to the previously released resource and tool, including: titles and function names that have been historically found next to the person mentions; information about the time period during which name variants and their titles were found; various frequency counts; as well as links to other linked datasets such as DBPedia.\n    \nINFORMATION ON JRC-NAMES DATA MODEL  \n\nThe JRC-Names RDF representation is based on lemon (Lexicon Model for Ontologies, see http://lemon-model.net/ ), a model which allows the expression of lexical information relative to ontologies.  \n\nJRC entities are modeled as instances of DBpedia classes (dbpedia:Person and dbpedia:Organisation) and the multilingual lexicalizations of their names and function names are represented as Lexical Entries of lemon Lexicons. Various other types of (linguistic) information and metadata are expressed using standardized vocabularies (LexInfo, OLiA, ISOCat, Lexvo, DCTerms, etc.). For cases where no already existing vocabulary could appropriately answer the needs, in-house classes and properties were defined ( see resource JRC data model for JRC names). The \"JRC-Names schema\" gives an overview of how JRC-Names data is modeled.\n\nJRC-Names has links towards the following datasets: DBpedia ( http://dbpedia.org/ ), New York Times Open Data ( http://data.nytimes.com/ ) and Talk of Europe ( http://linkedpolitics.ops.few.vu.nl ).\n\nFor further information on JRC-Names, see: https://ec.europa.eu/jrc/en/language-technologies/jrc-names .", 
+    "title": "JRC-Names: Person and organisation spelling variants as found in multilingual news articles", 
+    "tracking_summary": {
+        "total": 193, 
+        "recent": 16
+    }, 
+    "contact_email": "https://ec.europa.eu/jrc/en/contact/form", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100158", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100158", 
+            "image_display_url": "", 
+            "id": "361d621d-3400-4cfe-a1f2-e54e38653a17", 
+            "name": "eurovoc_domain_100158"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-27T15:22:21.908243", 
+    "name": "jrc-names", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/FRA", 
+        "http://publications.europa.eu/resource/authority/language/HRV", 
+        "http://publications.europa.eu/resource/authority/language/DAN", 
+        "http://publications.europa.eu/resource/authority/language/DEU", 
+        "http://publications.europa.eu/resource/authority/language/LAV", 
+        "http://publications.europa.eu/resource/authority/language/NLD", 
+        "http://publications.europa.eu/resource/authority/language/BUL", 
+        "http://publications.europa.eu/resource/authority/language/SWE", 
+        "http://publications.europa.eu/resource/authority/language/LIT", 
+        "http://publications.europa.eu/resource/authority/language/ITA", 
+        "http://publications.europa.eu/resource/authority/language/HUN", 
+        "http://publications.europa.eu/resource/authority/language/ENG", 
+        "http://publications.europa.eu/resource/authority/language/SLK", 
+        "http://publications.europa.eu/resource/authority/language/CES", 
+        "http://publications.europa.eu/resource/authority/language/FIN", 
+        "http://publications.europa.eu/resource/authority/language/POL", 
+        "http://publications.europa.eu/resource/authority/language/SLV", 
+        "http://publications.europa.eu/resource/authority/language/POR", 
+        "http://publications.europa.eu/resource/authority/language/MLT", 
+        "http://publications.europa.eu/resource/authority/language/EST", 
+        "http://publications.europa.eu/resource/authority/language/SPA", 
+        "http://publications.europa.eu/resource/authority/language/GLE"
+    ], 
+    "alternative_title": "JRC-Names", 
+    "accrual_periodicity": "other", 
+    "release_date": "2015-02-25", 
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5", 
+    "contact_address": "Via Enrico Fermi 2749, I - 21027 Ispra (VA), Italia", 
+    "url": "https://ec.europa.eu/jrc/en/language-technologies/jrc-names", 
+    "rdf": "<rdf:RDF xmlns=\"http://open-data.europa.eu/ontologies/ec-odp-exemple#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:ted=\"http://publications.europa.eu/ted-schema/ted#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n    <!--Insert xsi:schemaLocation=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" if schema.xsd used for validation rdf -->\n    <!-- ODP version :  Release 1.2.2 -->\n    <!-- MAIN DATASET DATA -->\n    <!-- Dataset, 1..1, dataype URI. Don't fill in the CKAN catalog identifier here -->\n    <dcat:Dataset rdf:about=\"https://ec.europa.eu/jrc/en/language-technologies/jrc-names\">\n        <!-- ckan-name, 0..1, dataype Literal. This will be the name in then ODP URI of the dataset. \nNote: Use the same name as used in ckan-name of manifest. Name created by data provider -->\n        <ecodp:ckan-name>jrc-names</ecodp:ckan-name>\n        <!-- Title, 1..1, dataype RDF literal. Can be filled in in multiple translations though-->\n        <dct:title xml:lang=\"en\">JRC-Names: Person and organisation spelling variants as found in multilingual news articles</dct:title>\n           \n<!-- Alternative Title(s), 0..*, dataype RDF literal -->\n        <dct:alternative xml:lang=\"en\">JRC-Names</dct:alternative>\n\n       \n        <!-- Description, 1..*, dataype RDF literal -->\n        <dct:description xml:lang=\"en\">JRC-Names is a highly multilingual named entity resource for person and organisation names (called 'entities') developed by the European Commission&#8217;s Joint Research Centre (JRC). JRC-Names consists of large lists of names and their many spelling variants (up to hundreds for a single person), including across scripts (Latin, Greek, Arabic, Cyrillic, Japanese, Chinese, etc.). For example, the spellings Jean-Claude Juncker, Jean Cloud Junker, Jean-Claude Juencker, &#1046;&#1072;&#1085;-&#1050;&#1083;&#1086;&#1076; &#1070;&#1085;&#1082;&#1077;&#1088;, &#1580;&#1575;&#1606; &#1603;&#1604;&#1608;&#1583; &#1580;&#1608;&#1606;&#1603;&#1585;, &#918;&#945;&#957; &#922;&#955;&#959;&#957;&#964; &#915;&#953;&#959;&#973;&#957;&#954;&#949;&#961;, &#35753;-&#20811;&#27931;&#24503;&#8226;&#23481;&#20811;, and many others have all been identified as referring to the 12th President of the European Commission.   \n \nThe resource is the by-product of the Europe Media Monitor (EMM, see http://emm.newsbrief.eu/overview.html ) family of applications, which has been analysing up to 220,000 news reports per day, since 2004. EMM recognises names mentioned in the news in over twenty languages and decides automatically for each newly found name whether it belongs to a new entity or whether it is a spelling variant of a previously known entity. This resource allows EMM users to display news about people or organisations even if their names are spelt differently or if the news articles are written in different languages and scripts.  \n\nJRC-Names has been available for download since September 2011, consisting of name variant lists and accompanying software. The new linked data edition, accessible through the European Union&#8217;s Open Data Portal, offers more information compared to the previously released resource and tool, including: titles and function names that have been historically found next to the person mentions; information about the time period during which name variants and their titles were found; various frequency counts; as well as links to other linked datasets such as DBPedia.\n    \nINFORMATION ON JRC-NAMES DATA MODEL  \n\nThe JRC-Names RDF representation is based on lemon (Lexicon Model for Ontologies, see http://lemon-model.net/ ), a model which allows the expression of lexical information relative to ontologies.  \n\nJRC entities are modeled as instances of DBpedia classes (dbpedia:Person and dbpedia:Organisation) and the multilingual lexicalizations of their names and function names are represented as Lexical Entries of lemon Lexicons. Various other types of (linguistic) information and metadata are expressed using standardized vocabularies (LexInfo, OLiA, ISOCat, Lexvo, DCTerms, etc.). For cases where no already existing vocabulary could appropriately answer the needs, in-house classes and properties were defined ( see resource JRC data model for JRC names). The \"JRC-Names schema\" gives an overview of how JRC-Names data is modeled.\n\nJRC-Names has links towards the following datasets: DBpedia ( http://dbpedia.org/ ), New York Times Open Data ( http://data.nytimes.com/ ) and Talk of Europe ( http://linkedpolitics.ops.few.vu.nl ).\n\nFor further information on JRC-Names, see: https://ec.europa.eu/jrc/en/language-technologies/jrc-names .\n\n</dct:description>\n\n<!-- Keyword, 0..*, dataype RDF literal-->\n      \n<ecodp:keyword xml:lang=\"en\">JRC-Names</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\">person and organisation names</ecodp:keyword> \n<ecodp:keyword xml:lang=\"en\">named entities</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\">lexical variants</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\">person titles</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\">variant and title usage time intervals</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\">multilingual linguistic resource</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\">lemon</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\">natural language processing</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\">news analysis</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\">linked data</ecodp:keyword>\n \n   <!-- Eurovoc domains,  0..*, dataype NAL code-->   \n   <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100158\"/>  \n<!-- for  64 PRODUCTION, TECHNOLOGY AND RESEARCH -->\n \n <!-- Eurovoc concepts,  0..*, dataype NAL code--> \n<dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1580\"/> \n<dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1670\"/> \n <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4134\"/> \n\n<!-- concepts :  language, linguistics, multilingual dictionary-->       \n \n             \n        <!-- Identifier, 0..*, dataype RDF literal \n             <dct:identifier>Non</dct:identifier> -->\n       \n        <!-- Dataset type, 0..*, dataype NAL code -->\n        <!-- The values allowed for this attribute are :\n\t\t\thttp://open-data.europa.eu/kos/dataset-type/CodeList\n\t\t\thttp://open-data.europa.eu/kos/dataset-type/CoreComponent\n\t\t\thttp://open-data.europa.eu/kos/dataset-type/DomainModel\n\t\t\thttp://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription\n\t\t\thttp://open-data.europa.eu/kos/dataset-type/Mapping\n\t\t\thttp://open-data.europa.eu/kos/dataset-type/NameAuthorityList\n\t\t\thttp://open-data.europa.eu/kos/dataset-type/Ontology\n\t\t\thttp://open-data.europa.eu/kos/dataset-type/Schema\n\t\t\thttp://open-data.europa.eu/kos/dataset-type/Statistical\n\t\t\thttp://open-data.europa.eu/kos/dataset-type/SyntaxEncodingScheme\n\t\t\thttp://open-data.europa.eu/kos/dataset-type/Taxonomy\n\t\t\thttp://open-data.europa.eu/kos/dataset-type/Thesaurus \n\n            Use http://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription for a normal dataset description with standard data : economy, environment, health, chemical, political, ...\n-->\n        <ecodp:datasetType>\n            <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/NameAuthorityList\"/>\n        </ecodp:datasetType>\n        <!-- Geographical coverage, 0..*, dataype NAL code . Use ISO 3166-1code 3 characters of MDR authority country table\n               http://publications.europa.eu/mdr/resource/authority/country/skos/countries-skos.rdf. \n               EU28 code is an exception, use for mention all EU countries -->\n          <!-- dct:spatial>\n             <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/AUT\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BEL\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BGR\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CYP\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CZE\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DEU\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DNK\"/>\n             <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ESP\"/>\n             <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/EST\"/>\n             <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FIN\"/>\n             <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FRA\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GRC\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HRV\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HUN\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/IRL\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ITA\"/>\n             <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LVA\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LTU\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LUX\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LVA\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/MLT\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/NLD\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/POL\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/PRT\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ROU\"/>\n             <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVK\"/>\n             <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVN\"/>\n             <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SWE\"/>  \n              <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GBR\"/>        \n        </dct:spatial>\n-->\n    <!-- Publisher, 1..1, dataype NAL code -->\n        <!-- Use code list of MDR http://publications.europa.eu/mdr/resource/authority/corporate-body/skos/corporatebodies-skos.rdf-->\n        <dct:publisher>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/JRC\"/>\n        </dct:publisher>\n        <!--  Contact point, 1..1  -->\n        <!-- foaf:name, 1..1, datatype RDF literal -->\n        <!-- foaf:mbox, 0..1, datatype RDF literal -->\n        <!-- foaf:phone, 0..1, datatype RDF literal. -->\n        <!-- ecodp:contactAddress, 0..1, datatype RDF literal -->\n        <!-- foaf:workplaceHomepage, 0..1, datatype RDF literal -->\n        <!-- Contact point, 0..1, datatype resource -->\n        <ecodp:contactPoint>\n            <foaf:Agent rdf:about=\"https://ec.europa.eu/jrc/\">\n                 <foaf:name xml:lang=\"en\">European Commission - Joint Research Centre - IPSC institute - Global Security and Crisis Management Unit</foaf:name>\n                 <ecodp:contactAddress xml:lang=\"en\">Via Enrico Fermi 2749, I - 21027 Ispra (VA), Italia</ecodp:contactAddress>\n                  <foaf:mbox>https://ec.europa.eu/jrc/en/contact/form</foaf:mbox>\n               \n            </foaf:Agent>\n        </ecodp:contactPoint>\n            <!--  Version 0..1, datatype RDF literal for identifer and description\n        <dct:hasVersion rdf:parseType=\"Resource\">\n            <dct:identifier>v1.0a</dct:identifier>\n            <dct:description xml:lang=\"en\">Version 1.0</dct:description>\n        </dct:hasVersion>\n        -->\n        <!-- Dataset issued 0..1 -->\n        <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-02-25</dct:issued>\n        <!-- Dataset last modification 0..1 -->\n<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-04-01</dct:modified> --&gt;\n        <!-- License 1..*, datatype NAL code -->\n        <!-- The values allowed for this attribute actually are :\n            <http://open-data.europa.eu/kos/licence/EuroStat>\n            <http://open-data.europa.eu/kos/licence/EuropeanCommission> -->\n        <dct:license>\n            <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n        </dct:license>\n        <!-- Status 1..1, datatype NAL code -->\n        <!-- The values allowed for this attribute are :\n               http://open-data.europa.eu/kos/dataset-status/Completed\n               http://open-data.europa.eu/kos/dataset-status/Deprecated\n                http://open-data.europa.eu/kos/dataset-status/UnderDevelopment\n                http://open-data.europa.eu/kos/dataset-status/Withdrawn -->\n       <ecodp:datasetStatus>\n            <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n        </ecodp:datasetStatus>\n      \n      <!-- Accrual Periodicity, 0..1, datatype NAL code -->\n        <!--   The values allowed for this attribute are :\n               http://open-data.europa.eu/kos/accrual-periodicity/never\n                http://open-data.europa.eu/kos/accrual-periodicity/discontinued\n                http://open-data.europa.eu/kos/accrual-periodicity/annual\n                http://open-data.europa.eu/kos/accrual-periodicity/quartely\n                http://open-data.europa.eu/kos/accrual-periodicity/monthly\n                http://open-data.europa.eu/kos/accrual-periodicity/daily\n                http://open-data.europa.eu/kos/accrual-periodicity/other  \n                But by tthe moment use  this format   <ecodp:accrualPeriodicity xml:lang=\"en\">Daily</ecodp:accrualPeriodicity>  \n          -->\n           \n           <ecodp:accrualPeriodicity xml:lang=\"en\">other</ecodp:accrualPeriodicity> \n    \n         <!--Temporal coverage (period) 0..1, datetype Date \n                   <dct:temporal>\n            <dct:PeriodOfTime>\n                <ecodp:periodStart>1983-05-03</ecodp:periodStart>\n                          </dct:PeriodOfTime>             \n        </dct:temporal>\n<ecodp:periodEnd>2014-08-27</ecodp:periodEnd> -->\n          \n        <!-- Language, 0..*,datatype NAL code -->\n        <!-- Use ISO 639-3 language code of MDR authority table http://publications.europa.eu/mdr/resource/authority/language/skos/languages-skos.rdf -->\n        <dct:language>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/BUL\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/CES\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/DAN\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/DEU\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/EST\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/FIN\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/FRA\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/GLE\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/HRV\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/HUN\"/>\n             <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ITA\"/>\n             <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/LAV\"/>\n             <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/LIT\"/>\n              <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/MLT\"/>\n              <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/NLD\"/>\n               <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/POL\"/>\n               <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/POR\"/>\n               <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/SLK\"/>\n               <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/SLV\"/>\n            <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/SPA\"/>\n             <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/SWE\"/> \n            \n        </dct:language>\n       \n                \n        <!-- DOCUMENTATION ABOUT DATASET-->\n        <!-- Documentation, 0..* -->\n      \n            <!-- Documentation type, 1..1, datetype NAL code -->\n            <!-- The values allowed for this attribute are :\n                http://open-data.europa.eu/kos/documentation-type/MainDocumentation\n                http://open-data.europa.eu/kos/documentation-type/RelatedDocumentation\n                http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\n               http://open-data.europa.eu/kos/documentation-type/Visualization -->\n  <!-- Documentation access URL, 1..1, datetype URL. To see the HTML graphic in search presentation, the URL need to be finishe by extension \".htm\" -->\n <!-- Documentation title, 1..1, datetype RDF literal. Note by the moment used only for information, not displayed in the ODP Portal-->\n  <!-- Documentation description, 1..1, RDF literal. This is the information used in the ODP Portal -->\n \n   <!-- Test adding in documentation the properties: format, issue date and modified date in documentation-->\n    <!-- Distribution last modification data, 0..1, datatype dateTime  -->\n    <!-- Distribution issued, 0..1 -->\n  <!--\n  <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n  \n            <ecodp:documentationType>\n                <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n            </ecodp:documentationType>\n                       <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ted.europa.eu/TED/main/HomePage.do</ecodp:accessURL>\n           \n            <dct:title xml:lang=\"en\">TED home page</dct:title>\n            <dct:description xml:lang=\"en\">TED home page</dct:description>         \n            <ecodp:distributionFormat>text/html</ecodp:distributionFormat>\n           <dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-09-11</dct:modified>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-09-11</dct:issued>\n        </ecodp:isDocumentedBy>\n-->\n       \n   <!-- RESOURCES  OF DATASET -->\n             \n<!--\n<dcat:distribution rdf:parseType=\"Resource\">    \n<dct:title xml:lang=\"en\">JRC-Names home page</dct:title>\n<dct:description xml:lang=\"en\">JRC-Names is a highly multilingual named entity resource for person and organisation names (called 'entities'). It consists of large lists of names and their many spelling variants (up to hundreds for a single person), including across scripts (Latin, Greek, Arabic, Cyrillic, Japanese, Chinese, etc.). </dct:description>\n    <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://ec.europa.eu/jrc/en/language-technologies/jrc-names</dcat:accessURL>\n             <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>                    \n            <ecodp:distributionFormat>text/html</ecodp:distributionFormat>\n           <dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-11-18</dct:modified>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-11-18</dct:issued>\n </dcat:distribution>    \n-->\n<dcat:distribution rdf:parseType=\"Resource\">    \n<dct:title xml:lang=\"en\">JRC data model for JRC-Names</dct:title>\n<dct:description xml:lang=\"en\">Definitions of classes and properties defined by JRC for JRC-names where no already existing vocabulary could appropriately answer the needs.</dct:description>\n    <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">ftp://cidportal.jrc.ec.europa.eu/jrc-opendata/EMM/JRC-Names/LATEST/jrcNamesModel.rdf</dcat:accessURL>\n             <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>                    \n            <ecodp:distributionFormat>application/rdf+xml</ecodp:distributionFormat>\n           <dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-04-01</dct:modified>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-11-18</dct:issued>\n </dcat:distribution>    \n\n<dcat:distribution rdf:parseType=\"Resource\">    \n<dct:title xml:lang=\"en\">SPARQL endpoint access</dct:title>\n<dct:description xml:lang=\"en\">\nAccess to the JRC-Names dataset via the Open Data Portal SPARQL endpoint. \nFor example to see all the properties of the jrc-names graph, use this query : \nSELECT DISTINCT ?property WHERE {graph  &lt;http://open-data.europa.eu/jrc-names/&gt; { [] ?property [] . }} ORDER BY ?property   \n   \n   . Some more specific query examples are provided in the SPARQL endpoint webpage.\n\n</dct:description>\n    <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://open-data.europa.eu/en/linked-data</dcat:accessURL>\n             <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>                    \n            <ecodp:distributionFormat>text/html</ecodp:distributionFormat>\n           <dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-04-01</dct:modified>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-11-18</dct:issued>\n </dcat:distribution>    \n \n <!--\n<dcat:distribution rdf:parseType=\"Resource\">    \n<dct:title xml:lang=\"en\">SPARQL endpoint only for machines</dct:title>\n<dct:description xml:lang=\"en\">Access to the dump download of RDF files via a SPQARQL endpoint accessible directely to machines.</dct:description>\n    <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://open-data.europa.eu/sparqlep</dcat:accessURL>\n             <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>                    \n            <ecodp:distributionFormat>application/sparql-query</ecodp:distributionFormat>\n           <dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-11-18</dct:modified>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-11-18</dct:issued>\n </dcat:distribution>    \n-->\n\n     <dcat:distribution rdf:parseType=\"Resource\">    \n<dct:title xml:lang=\"en\">JRC -Names data statistics</dct:title>\n<dct:description xml:lang=\"en\">Some statistics on JRC-Names</dct:description>\n    <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">ftp://cidportal.jrc.ec.europa.eu/jrc-opendata/EMM/JRC-Names/LATEST/RDF-STATS-entity.txt</dcat:accessURL>\n             <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>                    \n            <ecodp:distributionFormat>text/plain</ecodp:distributionFormat>\n           <dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-04-01</dct:modified>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-11-18</dct:issued>\n </dcat:distribution>     \n                                        \n  <dcat:distribution rdf:parseType=\"Resource\"> \n             <dct:title xml:lang=\"en\">JRC-Names, RDF files</dct:title>\n             <dct:description xml:lang=\"en\">This resource ftp offer the last version of the JRC-names content.</dct:description>\n                     <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">ftp://cidportal.jrc.ec.europa.eu/jrc-opendata/EMM/JRC-Names/LATEST/jrcnames_uri.zip</dcat:accessURL>\n             <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>    \n            <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>   \n            <dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-04-01</dct:modified>\n            <dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-11-18</dct:issued>      \n            </dcat:distribution> \n        \n    </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/jrc-names\"><foaf:primaryTopic>https://ec.europa.eu/jrc/en/language-technologies/jrc-names</foaf:primaryTopic><dct:modified>2015-04-01T08:52:14.802503</dct:modified><dct:issued>2015-04-01T08:52:14.802503</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Joint Research Centre", 
+        "created": "2012-12-12T13:50:55.444363", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:55.419747", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "28b63966-20b9-4bc9-826a-7fad675c212f", 
+        "type": "organization", 
+        "id": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5", 
+        "name": "jrc"
+    }, 
+    "revision_id": "e4ac3cbe-7cad-4010-8da2-7573249a3f23"
+}

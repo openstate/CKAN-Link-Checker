@@ -1,0 +1,342 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 29, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU27"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Atlantic Tunas", 
+            "name": "Atlantic Tunas", 
+            "revision_timestamp": "2013-07-11T14:31:51.037462", 
+            "state": "active", 
+            "id": "8c269db2-b4f1-406c-bc82-6f82d7c575e9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EFCA", 
+            "name": "EFCA", 
+            "revision_timestamp": "2013-07-11T14:31:51.037462", 
+            "state": "active", 
+            "id": "3bafe5f5-cf21-4292-9417-08a634e0a29a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "allowable catches", 
+            "name": "allowable catches", 
+            "revision_timestamp": "2013-07-11T14:31:51.037462", 
+            "state": "active", 
+            "id": "a99cbc7d-0d74-45ba-a048-7c90a7184d25"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "blue fin tuna", 
+            "name": "blue fin tuna", 
+            "revision_timestamp": "2013-07-11T14:31:51.037462", 
+            "state": "active", 
+            "id": "dc2fc5b4-e654-41d6-a030-1a43d9cc9d5e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "control", 
+            "name": "control", 
+            "revision_timestamp": "2013-07-15T08:34:08.600026", 
+            "state": "active", 
+            "id": "3328d602-1d79-4a5a-b2d6-8801fee828c3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "fishery", 
+            "name": "fishery", 
+            "revision_timestamp": "2013-07-11T14:31:51.037462", 
+            "state": "active", 
+            "id": "76e4d60e-9d0a-4354-8d20-d6fab5f84101"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "overfishing", 
+            "name": "overfishing", 
+            "revision_timestamp": "2013-07-11T14:31:51.037462", 
+            "state": "active", 
+            "id": "c0f02b5d-db83-45d8-894e-175736749a60"
+        }
+    ], 
+    "contact_name": "EFCA - European Fisheries Control Agency", 
+    "id": "d60faf30-307b-44e3-8f13-6fb21c255408", 
+    "metadata_created": "2015-07-27T16:55:52.420992", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T16:55:52.422286", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2556", 
+            "name": "http://eurovoc.europa.eu/2556", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "78ab6f1a-e55e-44d6-9c24-ac83bdeabbed"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2308", 
+            "name": "http://eurovoc.europa.eu/2308", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "f9d3de39-98d5-465b-bf87-a736717a965f"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5228", 
+            "name": "http://eurovoc.europa.eu/5228", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "6d59e756-ef7e-4c91-9c0c-de7570ee44e8"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/133", 
+            "name": "http://eurovoc.europa.eu/133", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "e5428292-2cfd-49db-a6b4-3e2b5d74f01e"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5229", 
+            "name": "http://eurovoc.europa.eu/5229", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "3249f883-c4f8-41ec-90eb-d2afcadcfb3a"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4790", 
+            "name": "http://eurovoc.europa.eu/4790", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "f407cd0e-6b5b-4416-a294-c7fefbeb1463"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5255", 
+            "name": "http://eurovoc.europa.eu/5255", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "b7ff301c-37b0-41d5-8e1c-9a65d51ee7c6"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3544", 
+            "name": "http://eurovoc.europa.eu/3544", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "8642b22b-9b12-44a0-bdd6-e8b441169095"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5256", 
+            "name": "http://eurovoc.europa.eu/5256", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "e74086e1-c4bc-4753-bbd6-63763aabfc24"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3531", 
+            "name": "http://eurovoc.europa.eu/3531", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "9dbafc36-843d-401a-a461-b3dff9ae2795"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2437", 
+            "name": "http://eurovoc.europa.eu/2437", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "e0373d04-79fb-4ba1-8e26-7208a2155c8b"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/134", 
+            "name": "http://eurovoc.europa.eu/134", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "0b1a9411-6d0e-4b52-8643-5e0ce2c1d272"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2476", 
+            "name": "http://eurovoc.europa.eu/2476", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "848eff2d-a704-426e-aec4-ed4f97c057eb"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/544", 
+            "name": "http://eurovoc.europa.eu/544", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "e45e91d2-95f2-41b6-ba15-db62ff215bcc"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/8284", 
+            "name": "http://eurovoc.europa.eu/8284", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "1fab6f0f-30e7-4d35-92bd-a8efdcc72eb6"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2435", 
+            "name": "http://eurovoc.europa.eu/2435", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "f4ac182b-cf25-40ca-b542-f06021c288e8"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2455", 
+            "name": "http://eurovoc.europa.eu/2455", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "7b1fe5f0-06c3-4fcf-a731-fce211250c9b"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3338", 
+            "name": "http://eurovoc.europa.eu/3338", 
+            "revision_timestamp": "2015-03-24T10:40:25.230163", 
+            "state": "active", 
+            "id": "0a0ddc44-0e35-4e56-a72e-842a977d7495"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "5e87ccf5-18dc-4bd3-846a-22444b70ab83", 
+            "revision_timestamp": "2015-04-15T14:19:38.946415", 
+            "datastore_active": false, 
+            "id": "8597a96e-0d2a-483e-8659-45b62db8934a", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "JDP Blue fin tuna 2011", 
+            "format": "application/pdf", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "name": "Results of the Joint Deployment Plan for blue fin tuna in 2011", 
+            "created": "2013-07-11T16:28:58.314555", 
+            "url": "http://www.efca.europa.eu/pages/docs/BFT/WEB%20summary%20-%20BFT%20_2_.pdf", 
+            "url_error": "URL unobtainable", 
+            "webstore_url": "enabled", 
+            "position": 0, 
+            "revision_id": "1bce48b6-c129-4fe5-912c-c6212e0d74cc", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "5e87ccf5-18dc-4bd3-846a-22444b70ab83", 
+            "revision_timestamp": "2015-04-15T14:23:28.711849", 
+            "datastore_active": false, 
+            "id": "8bf184a2-0ede-42cd-871d-3219bb279550", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "JDP Blue fin tuna 2012", 
+            "format": "application/pdf", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "name": "Results of the Joint Deployment Plan for blue fin tuna in 2012", 
+            "created": "2013-07-11T16:26:52.519615", 
+            "url": "http://www.efca.europa.eu/pages/docs/BFT/WEB%20summary%20-%20BFT%20December%202012.pdf", 
+            "url_error": "URL unobtainable", 
+            "webstore_url": "enabled", 
+            "position": 1, 
+            "revision_id": "6c3cd39b-ab7a-424d-8331-535d24ea43f7", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 2, 
+    "description": "Blue fin tuna Joint Deployment Plan \r\nBluefin tuna has been overfished for decades and if not protected accordingly, could disappear from EU waters. For this reason, tough measures to secure the future of the blue fin tuna stock have been taken immediately by the International Commission for the Conservation of Atlantic Tunas (ICCAT) ICCAT. They have taken the format of a special recovery plan adopted in 2006 with the objective to bring back this stock within safe biological limits.\r\nthe European Union, as a contractor party of the ICCAT has transposed all the legislation into Community law with a view to fulfil its international obligations in this fishery. To ensure the full implementation of the recovery plan, the Commission has established a Specific Control and Inspection Programme to monitor its implementation and enforcement.", 
+    "title": "Blue fin tuna Joint Deployment Plan", 
+    "tracking_summary": {
+        "total": 328, 
+        "recent": 9
+    }, 
+    "contact_email": "efca@efca.europa.eu ", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100156", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100156", 
+            "image_display_url": "", 
+            "id": "1587205c-f517-4f6c-9613-cfd1eaea4ca5", 
+            "name": "eurovoc_domain_100156"
+        }
+    ], 
+    "creator_user_id": "48ebe1f9-bcdf-4725-a2cc-5c50519865df", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T16:55:52.420992", 
+    "name": "blue-fin-tuna-joint-deployment-plan", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "a3e99a55-3dc4-4cc0-98ad-9b221e306614", 
+    "contact_address": "Edificio Odriozola, Avenida Garc\u00eda Barb\u00f3n 4, E-36201 Vigo, Spain", 
+    "contact_telephone": "+34 986 12 06 10 ", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://efca.europa.eu/pages/home/cfca_contact.htm", 
+    "url": "http://www.efca.europa.eu/pages/home/jdp_bft.htm", 
+    "organization": {
+        "description": "", 
+        "title": "European Fisheries Control Agency", 
+        "created": "2012-12-12T13:50:45.762741", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:45.737804", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "0874292b-782a-4358-ba40-ffd96d9014c0", 
+        "type": "organization", 
+        "id": "a3e99a55-3dc4-4cc0-98ad-9b221e306614", 
+        "name": "cfca"
+    }, 
+    "revision_id": "cc7f2128-4965-40d3-b9ab-7da3b0185565", 
+    "identifier": "", 
+    "version_description": ""
+}

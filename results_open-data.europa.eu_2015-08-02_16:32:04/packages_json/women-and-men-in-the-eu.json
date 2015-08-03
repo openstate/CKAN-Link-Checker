@@ -1,0 +1,496 @@
+{
+    "temporal_granularity": [
+        "year"
+    ], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 34, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU27"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "GBV", 
+            "name": "GBV", 
+            "revision_timestamp": "2014-06-05T16:15:29.596055", 
+            "state": "active", 
+            "id": "87f88d42-4b74-45d4-b41a-2a87f7d02651"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "armed conflict", 
+            "name": "armed conflict", 
+            "revision_timestamp": "2014-06-06T10:00:32.831753", 
+            "state": "active", 
+            "id": "e5de1c00-176d-4117-9bf3-6c00219dda1f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "decision making", 
+            "name": "decision making", 
+            "revision_timestamp": "2014-06-06T10:00:32.831753", 
+            "state": "active", 
+            "id": "1b3f9dff-afd8-485a-873d-b9e69c1d58eb"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "economy", 
+            "name": "economy", 
+            "revision_timestamp": "2014-06-05T15:40:42.429250", 
+            "state": "active", 
+            "id": "5066fa62-06b7-4155-b30e-e212afe90573"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "education", 
+            "name": "education", 
+            "revision_timestamp": "2014-06-05T15:40:42.429250", 
+            "state": "active", 
+            "id": "cecdf167-580e-419f-b549-900bbc3826c7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "environment", 
+            "name": "environment", 
+            "revision_timestamp": "2014-06-05T15:40:42.429250", 
+            "state": "active", 
+            "id": "52d2d273-40b4-4510-b948-7d5209391ba4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gender equality", 
+            "name": "gender equality", 
+            "revision_timestamp": "2014-06-06T10:00:32.831753", 
+            "state": "active", 
+            "id": "b8a61cc4-e1de-462b-a265-4dc643227540"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gender statistics", 
+            "name": "gender statistics", 
+            "revision_timestamp": "2014-06-06T10:00:32.831753", 
+            "state": "active", 
+            "id": "b8f5bb7f-a612-4107-b9a1-1cd72737b79c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gender-based violence", 
+            "name": "gender-based violence", 
+            "revision_timestamp": "2014-06-06T10:00:32.831753", 
+            "state": "active", 
+            "id": "e53298a0-15e5-4caa-a7ae-1751d0022ed8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "health", 
+            "name": "health", 
+            "revision_timestamp": "2014-06-05T15:40:42.429250", 
+            "state": "active", 
+            "id": "7febc79a-9e3f-412a-b4e3-1efde29318c6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "human rights", 
+            "name": "human rights", 
+            "revision_timestamp": "2014-06-06T10:00:32.831753", 
+            "state": "active", 
+            "id": "f5bb33b4-3744-4edb-8784-65aef9099d5c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "institutional mechanisms", 
+            "name": "institutional mechanisms", 
+            "revision_timestamp": "2014-06-06T10:00:32.831753", 
+            "state": "active", 
+            "id": "b7d72166-0694-42de-a305-1a482331672c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "media", 
+            "name": "media", 
+            "revision_timestamp": "2014-06-05T15:40:42.429250", 
+            "state": "active", 
+            "id": "31b6c141-4bd1-4c25-ac3c-967b27170251"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "poverty", 
+            "name": "poverty", 
+            "revision_timestamp": "2014-06-05T15:40:42.429250", 
+            "state": "active", 
+            "id": "8fb076da-513a-40ce-b735-779e5e5ab2af"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "power", 
+            "name": "power", 
+            "revision_timestamp": "2014-06-05T15:40:42.429250", 
+            "state": "active", 
+            "id": "fe085dfb-f5b9-4a23-b041-e0584d94b450"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "the girl child", 
+            "name": "the girl child", 
+            "revision_timestamp": "2014-06-06T10:00:32.831753", 
+            "state": "active", 
+            "id": "84404946-9b99-4fe5-8a9a-2d3c94fd48a9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "training", 
+            "name": "training", 
+            "revision_timestamp": "2014-06-05T15:40:42.429250", 
+            "state": "active", 
+            "id": "bf901bd0-fc84-4eb9-a014-8a9d74c1b0f6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "violence against women", 
+            "name": "violence against women", 
+            "revision_timestamp": "2014-06-06T10:00:32.831753", 
+            "state": "active", 
+            "id": "f3289ee4-a8b8-4a38-96d7-e7bf5076455e"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "f9585d41-6b54-432b-b903-172ef3ad22b6", 
+    "metadata_created": "2015-07-27T17:49:35.764627", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:49:35.765847", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4706", 
+            "name": "http://eurovoc.europa.eu/4706", 
+            "revision_timestamp": "2015-02-16T11:28:02.889457", 
+            "state": "active", 
+            "id": "570af9f8-b1d7-4225-bfce-34934bd8ffd2"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/674", 
+            "name": "http://eurovoc.europa.eu/674", 
+            "revision_timestamp": "2015-02-16T11:28:02.889457", 
+            "state": "active", 
+            "id": "64efbe45-b8e8-49e3-8ab7-c4ee5c88aaa6"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/81", 
+            "name": "http://eurovoc.europa.eu/81", 
+            "revision_timestamp": "2015-02-16T11:28:02.889457", 
+            "state": "active", 
+            "id": "2fd7b7a6-1501-4074-b3c3-65f84c6c2328"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/585", 
+            "name": "http://eurovoc.europa.eu/585", 
+            "revision_timestamp": "2015-02-16T11:28:02.889457", 
+            "state": "active", 
+            "id": "5eef0e50-9f2d-42f5-9562-96614aed08d5"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5280", 
+            "name": "http://eurovoc.europa.eu/5280", 
+            "revision_timestamp": "2015-02-16T11:28:02.889457", 
+            "state": "active", 
+            "id": "15bb844e-e4d0-4d34-87af-7e94782b6d9f"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/447756", 
+            "name": "http://eurovoc.europa.eu/447756", 
+            "revision_timestamp": "2015-02-16T11:28:02.889457", 
+            "state": "active", 
+            "id": "57633836-3cdd-41d7-9989-8c2492158bbf"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2265", 
+            "name": "http://eurovoc.europa.eu/2265", 
+            "revision_timestamp": "2015-02-16T11:28:02.889457", 
+            "state": "active", 
+            "id": "c855fe38-8f37-4547-ae52-4b62c836d2f1"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3913", 
+            "name": "http://eurovoc.europa.eu/3913", 
+            "revision_timestamp": "2015-02-16T11:28:02.889457", 
+            "state": "active", 
+            "id": "3dde5212-49a6-45af-9a02-05a2afff91d8"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2517", 
+            "name": "http://eurovoc.europa.eu/2517", 
+            "revision_timestamp": "2015-02-16T11:28:02.889457", 
+            "state": "active", 
+            "id": "0c0dcaa7-7d8e-49bb-84aa-2a74f79c2a86"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/454", 
+            "name": "http://eurovoc.europa.eu/454", 
+            "revision_timestamp": "2015-02-16T11:28:02.889457", 
+            "state": "active", 
+            "id": "008c954a-65c9-453b-9c75-7dca9c12d4ec"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Advancing gender equality in decision-making in media organisations", 
+            "format": "application/pdf", 
+            "url": "http://eige.europa.eu/sites/default/files/MH3113742ENC-Women-and-Media-Report-EIGE.pdf", 
+            "datastore_active": false, 
+            "created": "2014-06-05T17:19:29.973552", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T11:25:28.057700", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "59b507be-8a9f-46c8-8937-076e5ac7b76a", 
+            "size": null, 
+            "resource_group_id": "4d8091cc-a665-4ca5-aeb9-0dc1b7faacfc", 
+            "id": "44b46efd-4cd2-417c-bb88-76f61503b995", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Advancing gender equality in decision-making in media organisations"
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Effectiveness of Institutional Mechanisms for the Advancement of Gender Equality", 
+            "format": "application/pdf", 
+            "url": "http://eige.europa.eu/sites/default/files/MH0213481ENC_0.pdf", 
+            "datastore_active": false, 
+            "created": "2014-06-05T17:16:14.679975", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T11:25:28.057700", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "59b507be-8a9f-46c8-8937-076e5ac7b76a", 
+            "size": null, 
+            "resource_group_id": "4d8091cc-a665-4ca5-aeb9-0dc1b7faacfc", 
+            "id": "1a8994e7-f8bf-41b1-9c2c-94b158c2e9b0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Effectiveness of Institutional Mechanisms for the Advancement of Gender Equality"
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Gender Equality and Climate Change", 
+            "format": "application/pdf", 
+            "url": "http://eige.europa.eu/sites/default/files/Gender-Equality-and-Climate-Change-Report.pdf", 
+            "datastore_active": false, 
+            "created": "2014-06-05T17:21:56.488705", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T11:25:28.057700", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "59b507be-8a9f-46c8-8937-076e5ac7b76a", 
+            "size": null, 
+            "resource_group_id": "4d8091cc-a665-4ca5-aeb9-0dc1b7faacfc", 
+            "id": "666fdb05-c973-4f1c-a8da-9d17fcf38f49", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Gender Equality and Climate Change"
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Violence against Women Victim Support", 
+            "format": "application/pdf", 
+            "url": "http://eige.europa.eu/sites/default/files/Violence-against-Women-Victim-Support-Report.pdf", 
+            "datastore_active": false, 
+            "created": "2014-06-05T17:21:17.493621", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T11:25:28.057700", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "59b507be-8a9f-46c8-8937-076e5ac7b76a", 
+            "size": null, 
+            "resource_group_id": "4d8091cc-a665-4ca5-aeb9-0dc1b7faacfc", 
+            "id": "5b39ca7e-a8f2-4a98-b29b-c94038f4c57e", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Violence against Women Victim Support"
+        }, 
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "text/html", 
+            "url": "http://eige.europa.eu/content/women-and-men-in-the-eu-facts-and-figures", 
+            "datastore_active": false, 
+            "created": "2014-06-05T17:48:54.314858", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T11:25:28.057700", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "59b507be-8a9f-46c8-8937-076e5ac7b76a", 
+            "size": null, 
+            "resource_group_id": "4d8091cc-a665-4ca5-aeb9-0dc1b7faacfc", 
+            "id": "df94a22f-71e6-4d19-860f-d2f187e9c8c2", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Women and men in the EU - Facts and figures"
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Women and the Economy", 
+            "format": "application/pdf", 
+            "url": "http://eige.europa.eu/sites/default/files/Review-of-the-Implementation-of-the-Beijing-Platform-for-Action-in-the-area-F-Women-and-the-Economy_0.pdf", 
+            "datastore_active": false, 
+            "created": "2014-06-05T17:22:42.716234", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T11:25:28.057700", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 5, 
+            "revision_id": "59b507be-8a9f-46c8-8937-076e5ac7b76a", 
+            "size": null, 
+            "resource_group_id": "4d8091cc-a665-4ca5-aeb9-0dc1b7faacfc", 
+            "id": "e80d65a5-5a5b-4c23-aab1-f6f59ace700e", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Women and the Economy"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 6, 
+    "description": "Quantitative and qualitative indicators to monitor progress towards the achievement of the goals of the Beijing Platform for Action (BPfA), developed by the Presidencies of the EU Council. The BPfA has 12 critical areas of concern:\r\n<ol>\r\n<li>Women and poverty (A)</li>\r\n<li>Education and Training of Women (B)</li>\r\n<li>Women and Health (C)</li>\r\n<li>Violence Against Women (D)</li>\r\n<li>Women and Armed Conflict (E)</li>\r\n<li>Women and the economy (F)</li>\r\n<li>Women in Power and Decision-making (G)</li>\r\n<li>Institutional Mechanisms for the Advancement of Women (H)</li>\r\n<li>Human Rights of Women (I)</li>\r\n<li>Women and the Media (J)</li>\r\n<li>Women and the Environment (K)</li>\r\n<li>The Girl Child (L) </li>\r\n</ol>", 
+    "title": "Women and men in the EU - facts and figures", 
+    "tracking_summary": {
+        "total": 277, 
+        "recent": 2
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100145", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100145", 
+            "image_display_url": "", 
+            "id": "b4c18652-77ac-48e0-a2c3-b431695009b8", 
+            "name": "eurovoc_domain_100145"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100150", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100150", 
+            "image_display_url": "", 
+            "id": "f9b717f1-427b-4fa9-ae8e-bd33144b4f3b", 
+            "name": "eurovoc_domain_100150"
+        }
+    ], 
+    "creator_user_id": "34bc6316-edaa-499c-8caf-b66b2433d172", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T17:49:35.764627", 
+    "name": "women-and-men-in-the-eu", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "f99b85bc-98f8-4b00-b775-cae56f752ddf", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://eige.europa.eu/content/women-and-men-in-the-eu-facts-and-figures", 
+    "organization": {
+        "description": "", 
+        "title": "European Institute for Gender Equality", 
+        "created": "2012-12-12T13:50:49.671651", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:49.646021", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "1548bf7d-5d86-43eb-bbd3-4368a009283c", 
+        "type": "organization", 
+        "id": "f99b85bc-98f8-4b00-b775-cae56f752ddf", 
+        "name": "eige"
+    }, 
+    "revision_id": "20029c07-2501-44f0-9529-f6717e8525c4", 
+    "identifier": "", 
+    "version_description": ""
+}
