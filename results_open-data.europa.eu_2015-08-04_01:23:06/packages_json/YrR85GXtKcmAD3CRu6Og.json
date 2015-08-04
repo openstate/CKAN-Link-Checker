@@ -1,0 +1,253 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "External balance", 
+            "name": "External balance", 
+            "revision_timestamp": "2014-12-22T08:11:09.856026", 
+            "state": "active", 
+            "id": "30a21bf6-1a89-416a-9521-1b9e0c331e3a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "goods and services", 
+            "name": "goods and services", 
+            "revision_timestamp": "2014-12-22T08:11:09.856026", 
+            "state": "active", 
+            "id": "46c8677e-3ed2-4b59-90c4-1e71beeb88aa"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "trade balance", 
+            "name": "trade balance", 
+            "revision_timestamp": "2014-12-22T08:11:09.856026", 
+            "state": "active", 
+            "id": "8bb4ab43-8b88-41a9-857c-944aaaa6ca4b"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "47c74e19-45e9-442e-845c-0b0052895e13", 
+    "metadata_created": "2014-12-22T08:11:09.856026", 
+    "modified_date": "2015-07-31", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T09:00:20.678437", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/56", 
+            "name": "http://eurovoc.europa.eu/56", 
+            "revision_timestamp": "2015-03-03T22:13:31.700245", 
+            "state": "active", 
+            "id": "e11c40fd-4749-49a0-934e-4d4f391248e8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina050.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:00:20.814763", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:00:20.675864", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "54b3d414-d47e-4c8e-89fe-179e60ea37fa", 
+            "size": null, 
+            "resource_group_id": "f9712b34-3db7-416f-974e-490f8d3df735", 
+            "id": "7106452f-2893-4fc8-93f3-49c75ec0522b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina050.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:00:20.814769", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:00:20.675864", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "54b3d414-d47e-4c8e-89fe-179e60ea37fa", 
+            "size": null, 
+            "resource_group_id": "f9712b34-3db7-416f-974e-490f8d3df735", 
+            "id": "1151f280-397c-4f0a-89af-a86af7ba0a21", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ei_qna_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ei_qna_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:00:20.814721", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:00:20.675864", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "54b3d414-d47e-4c8e-89fe-179e60ea37fa", 
+            "size": null, 
+            "resource_group_id": "f9712b34-3db7-416f-974e-490f8d3df735", 
+            "id": "03855d8b-b552-4970-9409-4fe4adec7be4", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_qna_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:00:20.814748", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:00:20.675864", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "54b3d414-d47e-4c8e-89fe-179e60ea37fa", 
+            "size": null, 
+            "resource_group_id": "f9712b34-3db7-416f-974e-490f8d3df735", 
+            "id": "912c3235-1a6d-4fb5-9235-8b2b1de51021", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina050", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:00:20.814756", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:00:20.675864", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "54b3d414-d47e-4c8e-89fe-179e60ea37fa", 
+            "size": null, 
+            "resource_group_id": "f9712b34-3db7-416f-974e-490f8d3df735", 
+            "id": "47c10dc0-6589-40b8-9076-46420ad03f2b", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The external balance of goods and services (ESA 2010, 8.68) is the difference between exports of goods and services and imports of goods and services. If positive, the economy exports more goods and services than it imports, and vice versa. Values are seasonally adjusted (SA). The ESA 2010 (European System of Accounts) regulation may be referred to for more specific explanations on methodology.", 
+    "title": "External balance of goods and services, current prices", 
+    "temporal_coverage_from": "2012", 
+    "tracking_summary": {
+        "total": 26, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T08:11:09.856026", 
+    "name": "YrR85GXtKcmAD3CRu6Og", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina050", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teina050\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/56\"/>\n    <dct:title xml:lang=\"en\">External balance of goods and services, current prices</dct:title>\n    <dct:title xml:lang=\"fr\">Balance ext&#233;rieure des biens et services, prix courants</dct:title>\n    <dct:title xml:lang=\"de\">Au&#223;enbeitrag, jeweilige Preise</dct:title>\n    <ecodp:keyword xml:lang=\"en\">External balance</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">goods and services</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">trade balance</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Solde des &#233;changes ext&#233;rieurs de biens et de services</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">biens et de services</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Solde des &#233;changes ext&#233;rieurs</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">&#233;changes ext&#233;rieurs</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Volkswirtschaftliche Gesamtrechnungen</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Bilanz des internationalen Handels</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">G&#252;ter und Dienstleistungen</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Bilanz des internationalen Handels</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">internationaler Handel</ecodp:keyword>\n    <dct:identifier>teina050</dct:identifier>\n    <dct:description xml:lang=\"en\">The external balance of goods and services (ESA 2010, 8.68) is the difference between exports of goods and services and imports of goods and services. If positive, the economy exports more goods and services than it imports, and vice versa. Values are seasonally adjusted (SA). The ESA 2010 (European System of Accounts) regulation may be referred to for more specific explanations on methodology.</dct:description>\n    <dct:description xml:lang=\"fr\">La balance ext&#233;rieure des biens et services (SEC 2010, 8.68) est la diff&#233;rence entre l&#8217;exportation d&#8217;une part et l&#8217;importation d&#8217;autre part des biens et services. Si le solde est positif, l&#8217;&#233;conomie exporte plus de biens et services qu&#8217;elle n&#8217;en importe, et vice versa. Les valeurs sont ajust&#233;es des variations saisonni&#232;res (SA). Pour des explications m&#233;thodologiques plus sp&#233;cifiques, il est conseill&#233; de consulter le SEC 2010 (Syst&#232;me europ&#233;en des comptes nationaux et r&#233;gionaux).</dct:description>\n    <dct:description xml:lang=\"de\">Der Au&#223;enbeitrag (ESVG 2010, 8.68) ist definiert als Differenz zwischen dem Wert der Ausfuhren von Waren und Dienstleistungen und dem Wert der Einfuhren von Waren und Dienstleistungen. Ein positiver Au&#223;enbeitrag signalisiert, dass die Volkswirtschaft mehr exportiert als importiert, und umgekehrt. Die angegebenen Werte sind saisonbereinigt (SA). Ausf&#252;hrlichere Erl&#228;uterungen zur Methodik k&#246;nnen der Verordnung zum ESVG 2010 (Europ&#228;isches System volkswirtschaftlicher Gesamtrechnungen) entnommen werden.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ei_qna_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_qna_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teina050</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina050.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina050.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-31</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2012</ecodp:periodStart>\n        <ecodp:periodEnd>2015</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/YrR85GXtKcmAD3CRu6Og\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teina050</foaf:primaryTopic><dct:modified>2015-07-31T08:30:05.087411</dct:modified><dct:issued>2014-12-22T08:11:09.856026</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "1ba4e718-568f-42df-9888-4e8b6fcdb421", 
+    "identifier": "teina050"
+}

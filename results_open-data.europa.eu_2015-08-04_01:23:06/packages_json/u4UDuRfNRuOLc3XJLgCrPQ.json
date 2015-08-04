@@ -1,0 +1,175 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 3, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "5169ef92-df75-44ab-8b12-98fc903d6dde", 
+    "metadata_created": "2014-12-22T08:22:04.163110", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:40:07.445858", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/56", 
+            "name": "http://eurovoc.europa.eu/56", 
+            "revision_timestamp": "2015-03-03T16:30:30.891444", 
+            "state": "active", 
+            "id": "e11c40fd-4749-49a0-934e-4d4f391248e8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsdpc520.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:40:07.527781", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:40:07.443542", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "bdb0c883-33de-42b4-9eba-2f79efa1f61c", 
+            "size": null, 
+            "resource_group_id": "00e9ae6b-7db4-447b-bf8a-f078ea718ce5", 
+            "id": "dea233e2-b2bb-4914-974b-0958cce45617", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsdpc520.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:40:07.527789", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:40:07.443542", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "bdb0c883-33de-42b4-9eba-2f79efa1f61c", 
+            "size": null, 
+            "resource_group_id": "00e9ae6b-7db4-447b-bf8a-f078ea718ce5", 
+            "id": "9d9c53d4-1064-47e5-87fd-1c150cfd2a28", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tsdpc520", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:40:07.527751", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:40:07.443542", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "bdb0c883-33de-42b4-9eba-2f79efa1f61c", 
+            "size": null, 
+            "resource_group_id": "00e9ae6b-7db4-447b-bf8a-f078ea718ce5", 
+            "id": "75d77442-3ad5-4aa5-9099-ee0cbf6b6a68", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Household expenditure refers to any spending done by a person living alone or by a group of people living together in shared accommodation and with common domestic expenses. It includes expenditure incurred on the domestic territory (by residents and non-residents) for the direct satisfaction of individual needs and covers the purchase of goods and services, the consumption of own production (such as garden produce) and the imputed rent of owner-occupied dwellings.", 
+    "title": "Final consumption expenditure of households, by consumption purpose", 
+    "temporal_coverage_from": "1990", 
+    "tracking_summary": {
+        "total": 34, 
+        "recent": 4
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T08:22:04.163110", 
+    "name": "u4UDuRfNRuOLc3XJLgCrPQ", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tsdpc520", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tsdpc520\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/56\"/>\n    <dct:title xml:lang=\"en\">Final consumption expenditure of households, by consumption purpose</dct:title>\n    <dct:title xml:lang=\"fr\">D&#233;pense de consommation des m&#233;nages par fonction de consommation</dct:title>\n    <dct:title xml:lang=\"de\">Konsumausgaben der privaten Haushalte nach Verwendungszwecken</dct:title>\n    <dct:identifier>tsdpc520</dct:identifier>\n    <dct:description xml:lang=\"en\">Household expenditure refers to any spending done by a person living alone or by a group of people living together in shared accommodation and with common domestic expenses. It includes expenditure incurred on the domestic territory (by residents and non-residents) for the direct satisfaction of individual needs and covers the purchase of goods and services, the consumption of own production (such as garden produce) and the imputed rent of owner-occupied dwellings.</dct:description>\n    <dct:description xml:lang=\"fr\">Les d&#233;penses des m&#233;nages se rapportent &#224; toutes les d&#233;penses effectu&#233;es par une personne vivant seule ou par un groupe de personnes vivant ensemble dans une m&#234;me habitation et ayant des d&#233;penses domestiques communes. Cela inclut les d&#233;penses effectu&#233;es sur le territoire national (par des r&#233;sidents et des non-r&#233;sidents) pour la satisfaction directe des besoins individuels et couvre l'achat de biens et services, la consommation de la production propre (tels que les produits du jardin) et les loyers imput&#233;s des habitations occup&#233;es par leur propri&#233;taire.</dct:description>\n    <dct:description xml:lang=\"de\">Haushaltsausgaben beziehen sich auf die Gesamtausgaben einer Person, die alleine oder mit mehreren Personen zusammen eine Wohnung teilt, und den Gemeinschaftsausgaben. Es beinhaltet anfallende Ausgaben f&#252;r das heimische Terrain (f&#252;r ortsans&#228;ssige Personen und Nichtans&#228;ssige) zur direkten Bed&#252;rfnisbefriedigung und deckt die Beschaffung von Waren und Dienstleistungen, den Verbrauch von eigenen Produkten (wie Gartenprodukte) und die kalkulatorische Miete von Hausbesitzern zum Eigennutz ab.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tsdpc520</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsdpc520.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsdpc520.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>1990</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/u4UDuRfNRuOLc3XJLgCrPQ\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tsdpc520</foaf:primaryTopic><dct:modified>2015-07-31T09:21:18.937517</dct:modified><dct:issued>2014-12-22T08:22:04.163110</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "2d234534-ccf9-4dc3-b107-48622a77b4af", 
+    "identifier": "tsdpc520"
+}

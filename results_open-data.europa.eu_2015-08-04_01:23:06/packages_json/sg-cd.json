@@ -1,0 +1,240 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 10, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "contact_name": "SG R3 Information Systems Support", 
+    "id": "69789d58-43e0-48a2-8b9d-fb8e114e1c18", 
+    "metadata_created": "2015-07-27T14:55:50.672021", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:55:50.673154", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2189", 
+            "name": "http://eurovoc.europa.eu/2189", 
+            "revision_timestamp": "2015-03-05T13:46:14.643111", 
+            "state": "active", 
+            "id": "7a31eba8-a564-48ea-9ab3-18d871003393"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3228", 
+            "name": "http://eurovoc.europa.eu/3228", 
+            "revision_timestamp": "2015-03-05T13:46:14.643111", 
+            "state": "active", 
+            "id": "e78aa52e-ebf7-4917-9136-60e6bfd82a10"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3578", 
+            "name": "http://eurovoc.europa.eu/3578", 
+            "revision_timestamp": "2015-03-05T13:46:14.643111", 
+            "state": "active", 
+            "id": "5a2c6dc5-c615-4ff0-86d9-8bcd09308bf0"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3367", 
+            "name": "http://eurovoc.europa.eu/3367", 
+            "revision_timestamp": "2015-03-05T13:46:14.643111", 
+            "state": "active", 
+            "id": "e204b643-f00e-4c1f-97cd-4cea1852705c"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/216", 
+            "name": "http://eurovoc.europa.eu/216", 
+            "revision_timestamp": "2015-03-05T13:46:14.643111", 
+            "state": "active", 
+            "id": "9dbd9296-0a26-4bbc-873b-46744bdf429c"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4038", 
+            "name": "http://eurovoc.europa.eu/4038", 
+            "revision_timestamp": "2015-03-05T14:21:16.265993", 
+            "state": "active", 
+            "id": "0d2c1569-fa52-4997-a74a-efdad28c0562"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3206", 
+            "name": "http://eurovoc.europa.eu/3206", 
+            "revision_timestamp": "2015-03-05T13:46:14.643111", 
+            "state": "active", 
+            "id": "8912845e-9b1b-4505-8d77-174ae70f0c60"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3474", 
+            "name": "http://eurovoc.europa.eu/3474", 
+            "revision_timestamp": "2015-03-05T13:46:14.643111", 
+            "state": "active", 
+            "id": "30c5124d-19e5-4386-bdd3-db537a22bcc9"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Precedence of Heads of Mission", 
+            "format": "text/xml", 
+            "url": "http://ec.europa.eu/dgs/secretariat_general/corps/openXMLHeads.cfm", 
+            "datastore_active": false, 
+            "created": "2013-11-06T11:17:26.849573", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": "", 
+            "revision_timestamp": "2015-07-27T14:55:50.672021", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "97a1abcc-84b3-4dcf-ba8a-3125d871b378", 
+            "size": null, 
+            "resource_group_id": "cd889878-9b80-4413-b15f-fe1c0723b5dc", 
+            "id": "7bf64ab0-554a-41fe-945a-4774b39b5960", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Heads of Mission"
+        }, 
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "List of Missions accredited to the EU and to the EAEC ", 
+            "format": "text/xml", 
+            "url": "http://ec.europa.eu/dgs/secretariat_general/corps/openXMLMissions.cfm", 
+            "datastore_active": false, 
+            "created": "2013-11-06T11:14:59.343200", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": "", 
+            "revision_timestamp": "2015-07-27T14:55:50.672021", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "97a1abcc-84b3-4dcf-ba8a-3125d871b378", 
+            "size": null, 
+            "resource_group_id": "cd889878-9b80-4413-b15f-fe1c0723b5dc", 
+            "id": "7a6c9d91-5caa-4e9e-8e3d-a22be39af82a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Missions"
+        }, 
+        {
+            "mimetype": "", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "List of International organisations and other representations to the European Commission", 
+            "format": "text/xml", 
+            "url": "http://ec.europa.eu/dgs/secretariat_general/corps/openXMLRepresentations.cfm", 
+            "datastore_active": false, 
+            "created": "2013-11-06T11:16:15.081494", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": "", 
+            "revision_timestamp": "2015-07-27T14:55:50.672021", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "97a1abcc-84b3-4dcf-ba8a-3125d871b378", 
+            "size": null, 
+            "resource_group_id": "cd889878-9b80-4413-b15f-fe1c0723b5dc", 
+            "id": "3bcbae14-9a97-4d06-af3d-47d8fd5817f2", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Representations"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "List of Missions accredited to the EU and to the EAEC,   International organisations and other representations to the European Commission and Precedence of Heads of Mission.", 
+    "title": "CD - Diplomatic Corps", 
+    "tracking_summary": {
+        "total": 278, 
+        "recent": 4
+    }, 
+    "contact_email": "SG-R3-INFORMATION-SYSTEM-SUPPORT@ec.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100143", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100143", 
+            "image_display_url": "", 
+            "id": "5663c43f-efe6-4814-b47b-ee909cda54a7", 
+            "name": "eurovoc_domain_100143"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100162", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100162", 
+            "image_display_url": "", 
+            "id": "0dc3cc03-e600-4d01-8e73-a428fa5280e9", 
+            "name": "eurovoc_domain_100162"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T14:55:50.672021", 
+    "name": "sg-cd", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "e3814f3c-1ebf-4bd3-a74a-9dd94bfc9133", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://ec.europa.eu/dgs/secretariat_general/corps/index.cfm?go=transparancy.showList", 
+    "organization": {
+        "description": "", 
+        "title": "Secretariat-General", 
+        "created": "2012-12-12T13:50:56.968694", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:56.943745", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "e08f939d-1cdf-4f44-ad6c-cb2f927e98b7", 
+        "type": "organization", 
+        "id": "e3814f3c-1ebf-4bd3-a74a-9dd94bfc9133", 
+        "name": "sg"
+    }, 
+    "revision_id": "97a1abcc-84b3-4dcf-ba8a-3125d871b378", 
+    "identifier": "", 
+    "version_description": ""
+}

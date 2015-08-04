@@ -1,0 +1,156 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 35, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/FIN", 
+        "http://publications.europa.eu/resource/authority/country/CZE", 
+        "http://publications.europa.eu/resource/authority/country/HUN", 
+        "http://publications.europa.eu/resource/authority/country/BGR", 
+        "http://publications.europa.eu/resource/authority/country/ROU", 
+        "http://publications.europa.eu/resource/authority/country/SVK", 
+        "http://publications.europa.eu/resource/authority/country/PRT", 
+        "http://publications.europa.eu/resource/authority/country/GBR", 
+        "http://publications.europa.eu/resource/authority/country/SVN", 
+        "http://publications.europa.eu/resource/authority/country/GRC", 
+        "http://publications.europa.eu/resource/authority/country/AUT", 
+        "http://publications.europa.eu/resource/authority/country/HRV", 
+        "http://publications.europa.eu/resource/authority/country/DNK", 
+        "http://publications.europa.eu/resource/authority/country/MLT", 
+        "http://publications.europa.eu/resource/authority/country/IRL", 
+        "http://publications.europa.eu/resource/authority/country/CYP", 
+        "http://publications.europa.eu/resource/authority/country/EST", 
+        "http://publications.europa.eu/resource/authority/country/LUX", 
+        "http://publications.europa.eu/resource/authority/country/NLD", 
+        "http://publications.europa.eu/resource/authority/country/SWE", 
+        "http://publications.europa.eu/resource/authority/country/LVA", 
+        "http://publications.europa.eu/resource/authority/country/LTU", 
+        "http://publications.europa.eu/resource/authority/country/DEU", 
+        "http://publications.europa.eu/resource/authority/country/ITA", 
+        "http://publications.europa.eu/resource/authority/country/ESP", 
+        "http://publications.europa.eu/resource/authority/country/BEL", 
+        "http://publications.europa.eu/resource/authority/country/POL", 
+        "http://publications.europa.eu/resource/authority/country/FRA"
+    ], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Publications Office", 
+            "name": "Publications Office", 
+            "revision_timestamp": "2014-08-18T14:45:51.923973", 
+            "state": "active", 
+            "id": "5098f006-c357-4bf9-bc43-60477227e7ee"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "bibliographical", 
+            "name": "bibliographical", 
+            "revision_timestamp": "2014-08-18T14:45:51.923973", 
+            "state": "active", 
+            "id": "b278f9bf-840a-44fd-aafd-8a8226eacd6a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "metadata", 
+            "name": "metadata", 
+            "revision_timestamp": "2014-08-18T14:45:51.923973", 
+            "state": "active", 
+            "id": "ba550217-887b-45da-ae84-5cbdca431233"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "reuse", 
+            "name": "reuse", 
+            "revision_timestamp": "2014-08-18T14:45:51.923973", 
+            "state": "active", 
+            "id": "ca7d6c22-2107-48c2-a0e7-f25da7fd967e"
+        }
+    ], 
+    "contact_name": "Publications Office", 
+    "id": "77091e0a-04d9-4109-be02-bd0bd7dc5802", 
+    "metadata_created": "2014-08-18T14:45:51.923973", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:06:16.162722", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [], 
+    "creator_user_id": null, 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "The Publications Office online public access catalogue", 
+            "format": "text/html", 
+            "url": "http://opac.publications.europa.eu/", 
+            "datastore_active": false, 
+            "created": "2014-08-18T16:45:53.158751", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-08-18T14:45:51.923973", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "69b8a9a5-3c81-4034-86f9-e61065eadb97", 
+            "size": null, 
+            "resource_group_id": "22959da6-adb3-4620-b560-f926d660a8a5", 
+            "id": "e6b1cdc0-e034-4a42-be13-0f2949fe0b3c", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": null
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "The Publications Office currently offers access to its metadata for general publications through its Online Public Access Catalogue (OPAC). This site permits the downloading of bibliographical records for reuse. The records are offered in a standardised format used by many libraries and information aggregators.", 
+    "title": "OPac - the Publications Office online public access catalogue", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "tracking_summary": {
+        "total": 281, 
+        "recent": 9
+    }, 
+    "contact_email": "OPDL-PROCAT-PROD@publications.europa.eu", 
+    "groups": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2014-08-18T14:45:51.923973", 
+    "name": "opac", 
+    "isopen": true, 
+    "url": "http://opac.publications.europa.eu/", 
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+    "rdf": "<rdf:RDF xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns=\"http://open-data.europa.eu/ontologies/ec-odp-example#\"><!--Dataset type and URI, don't fill in the CKAN catalog idnetifier here--><dcat:Dataset rdf:about=\"http://opac.publications.europa.eu/\"><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"en\">OPac - the Publications Office online public access catalogue</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><dct:description xml:lang=\"en\">The Publications Office currently offers access to its metadata for general publications through its Online Public Access Catalogue (OPAC). This site permits the downloading of bibliographical records for reuse. The records are offered in a standardised format used by many libraries and information aggregators.</dct:description>\n      <!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Identifier, 0..*--><ecodp:ckan-name>opac</ecodp:ckan-name>\n      <!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><ecodp:keyword xml:lang=\"en\">Publications Office</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">reuse</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">metadata</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">bibliographical</ecodp:keyword>\n      <!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Identifier, 0..*--><!--Interoperability level, 0..1--><ecodp:interoperabilityLevel>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/interoperability-level/Semantic\"/>\n      </ecodp:interoperabilityLevel>\n      <!--Dataset type, 0..--><!--Links and resources--><!--Documentation, 0..--><!--valid value are in set of  : Main Related WebPage--><!--Distribution, 0..--><dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://opac.publications.europa.eu/</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>text/html</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">The Publications Office online public access catalogue</dct:description><!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n      <!--Catalog record , 0..*--><!--Geographical coverage , 0..*--><dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/AUT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BEL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CYP\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CZE\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DNK\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/EST\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GRC\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ESP\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FIN\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FRA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HRV\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/IRL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ITA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LTU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LUX\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LVA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/MLT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/NLD\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/POL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/PRT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ROU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SWE\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVN\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVK\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GBR\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BGR\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DEU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HUN\"/>\n      </dct:spatial>\n      <!--Publisher , 1..1--><dct:publisher>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/PUBL\"/>\n      </dct:publisher>\n      <!--Contact point , 0..1--><ecodp:contactPoint>\n         <foaf:Agent rdf:about=\"http://publications.europa.eu/\"><!--Contact point telephone, 0..1--><!--Contact point email, 0..1--><foaf:mbox>OPDL-PROCAT-PROD@publications.europa.eu</foaf:mbox>\n            <!--Contact point web page, 0..1--><!--Contact point address, 0..1--><!--Contact point name, 1..1--><foaf:name xml:lang=\"en\">Publications Office</foaf:name>\n         </foaf:Agent>\n      </ecodp:contactPoint>\n      <!--Dateset  issued , 0..1  []--><!--Dateset  last modified , 0..1--><!--Version 0..1--><!--License 1..--><dct:license>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n      </dct:license>\n      <!--Status 1..1--><ecodp:datasetStatus>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n      </ecodp:datasetStatus>\n      <!--Language 0..--><dct:language>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n      </dct:language>\n      <!--valid value are in set of  : Main Related WebPage--><!--Accrual Periodicity--><!--Temporal coverage (periode) 0..1--></dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/opac\"><foaf:primaryTopic>http://opac.publications.europa.eu/</foaf:primaryTopic><dct:modified>2014-08-18T16:45:51.901956</dct:modified><dct:issued>2014-08-18T16:45:51.901956</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Publications Office", 
+        "created": "2012-12-12T13:50:56.476905", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:56.451833", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "702713e9-905d-4061-9847-18d42c3d395d", 
+        "type": "organization", 
+        "id": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+        "name": "publ"
+    }, 
+    "revision_id": "69b8a9a5-3c81-4034-86f9-e61065eadb97"
+}

@@ -1,0 +1,193 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Landwirtschaft", 
+            "name": "Landwirtschaft", 
+            "revision_timestamp": "2014-12-22T07:39:11.670938", 
+            "state": "active", 
+            "id": "782f4bac-0520-4501-ad53-46851e858c55"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Milch", 
+            "name": "Milch", 
+            "revision_timestamp": "2014-12-22T07:39:11.670938", 
+            "state": "active", 
+            "id": "1b9e490b-6e8c-468e-be83-95079740e9ac"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "landwirtschaftliche Erzeugung", 
+            "name": "landwirtschaftliche Erzeugung", 
+            "revision_timestamp": "2014-12-22T07:39:11.670938", 
+            "state": "active", 
+            "id": "868f6754-54c1-49bd-80ba-060536720c7a"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "15113842-63e1-4302-9ef9-98490206908f", 
+    "metadata_created": "2014-12-22T07:39:11.670938", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T09:39:03.215601", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4257", 
+            "name": "http://eurovoc.europa.eu/4257", 
+            "revision_timestamp": "2015-03-03T20:39:12.152735", 
+            "state": "active", 
+            "id": "fbbb4b11-c727-4b85-a19d-627230feb8f5"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00041.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:39:03.447028", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:39:03.213232", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "f65f1198-9d13-4752-b3c3-1538f5fa2525", 
+            "size": null, 
+            "resource_group_id": "e9a392e4-5e3a-4adc-a6f4-ffe5dab7b30c", 
+            "id": "99ec8224-82e8-4548-8eaa-9b4c8e7d94ab", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00041.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:39:03.447037", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:39:03.213232", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "f65f1198-9d13-4752-b3c3-1538f5fa2525", 
+            "size": null, 
+            "resource_group_id": "e9a392e4-5e3a-4adc-a6f4-ffe5dab7b30c", 
+            "id": "5e73e369-87e5-4354-8702-94633f4f10ea", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tag00041", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:39:03.446995", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:39:03.213232", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "f65f1198-9d13-4752-b3c3-1538f5fa2525", 
+            "size": null, 
+            "resource_group_id": "e9a392e4-5e3a-4adc-a6f4-ffe5dab7b30c", 
+            "id": "36b06681-46ba-4938-b594-dfb22db56114", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Milk production on the farm covers milk from cows, ewes, goats and buffaloes. Attention should be paid to the fact that some Member States produce only cow's milk. EU15: Eurostat estimation including confidential data.", 
+    "title": "Production and utilisation of milk on the farm", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 5, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100156", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100156", 
+            "image_display_url": "", 
+            "id": "1587205c-f517-4f6c-9613-cfd1eaea4ca5", 
+            "name": "eurovoc_domain_100156"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:39:11.670938", 
+    "name": "IY5eWAdCGuflW20yNn4w", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tag00041", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tag00041\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100156\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4257\"/>\n    <dct:title xml:lang=\"en\">Production and utilisation of milk on the farm</dct:title>\n    <dct:title xml:lang=\"fr\">Production et utilisation du lait &#224; la ferme</dct:title>\n    <dct:title xml:lang=\"de\">Erzeugung und Verwendung von Milch in den landwirtschaftlichen Betrieben</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Landwirtschaft</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">landwirtschaftliche Erzeugung</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Milch</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">agriculture</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">production agricole</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Landwirtschaft</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">landwirtschaftliche Erzeugung</ecodp:keyword>\n    <dct:identifier>tag00041</dct:identifier>\n    <dct:description xml:lang=\"en\">Milk production on the farm covers milk from cows, ewes, goats and buffaloes. Attention should be paid to the fact that some Member States produce only cow's milk. EU15: Eurostat estimation including confidential data.</dct:description>\n    <dct:description xml:lang=\"fr\">La production de lait &#224; la ferme comprend le lait de vache, de brebis, de ch&#232;vre et de buffle. Il convient de noter que certains &#201;tats membres ne produisent que du lait de vache. UE15: l'estimation d'Eurostat comprend des donn&#233;es confidentielles.</dct:description>\n    <dct:description xml:lang=\"de\">Die Milcherzeugung in den landwirtschaftlichen Betrieben umfasst die Erzeugung von Kuh-, Schaf-, Ziegen- und B&#252;ffelkuhmilch. Hierbei ist zu beachten, dass in einigen Mitgliedstaaten nur Kuhmilch produziert wird. EU15: Eurostat-Sch&#228;tzung einschlie&#223;lich vertraulicher Daten.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tag00041</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00041.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00041.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/IY5eWAdCGuflW20yNn4w\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tag00041</foaf:primaryTopic><dct:modified>2015-07-31T10:15:37.485772</dct:modified><dct:issued>2014-12-22T07:39:11.670938</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "52d44e9d-3105-4874-a07f-a4c4c90f99d8", 
+    "identifier": "tag00041"
+}

@@ -1,0 +1,167 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2000", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 3, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "9af7d2ec-0fd6-43ff-9f61-64a644bfc0b9", 
+    "metadata_created": "2014-12-22T09:38:40.648284", 
+    "modified_date": "2009-03-26", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:44:29.804558", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1802", 
+            "name": "http://eurovoc.europa.eu/1802", 
+            "revision_timestamp": "2015-03-03T17:38:25.420347", 
+            "state": "active", 
+            "id": "01b42e14-0e3e-412b-bbaa-420e17766787"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lc_n00struc.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:44:29.854746", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:44:29.803474", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "e7d2aeb3-81a3-4565-a66c-0b22e47984e9", 
+            "size": null, 
+            "resource_group_id": "5a43dbff-b6a5-479b-9aa7-b93ab2ace098", 
+            "id": "c303c468-eb76-4e54-a993-47565466731f", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lc_n00struc.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:44:29.854754", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:44:29.803474", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "e7d2aeb3-81a3-4565-a66c-0b22e47984e9", 
+            "size": null, 
+            "resource_group_id": "5a43dbff-b6a5-479b-9aa7-b93ab2ace098", 
+            "id": "a3ed38ed-1ff7-44e3-94ed-d65f0950128a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/lc_n00struc", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:44:29.854711", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:44:29.803474", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "e7d2aeb3-81a3-4565-a66c-0b22e47984e9", 
+            "size": null, 
+            "resource_group_id": "5a43dbff-b6a5-479b-9aa7-b93ab2ace098", 
+            "id": "6de02a5a-674a-4c8e-872c-1f584e522e89", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Structure of labour cost as % of total cost", 
+    "title": "Structure of labour cost as % of total cost", 
+    "temporal_coverage_from": "2000", 
+    "tracking_summary": {
+        "total": 2, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:38:40.648284", 
+    "name": "uGOVbXgm9UQO2dmSqIllw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/lc_n00struc", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/lc_n00struc\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1802\"/>\n    <dct:title xml:lang=\"en\">Structure of labour cost as % of total cost</dct:title>\n    <dct:title xml:lang=\"fr\">Structure du co&#251;t de la main d'oeuvre en % des co&#251;ts totaux</dct:title>\n    <dct:title xml:lang=\"de\">Struktur der Arbeitskosten in Prozent der Arbeitskosten insgesamt</dct:title>\n    <dct:identifier>lc_n00struc</dct:identifier>\n    <dct:description xml:lang=\"en\">Structure of labour cost as % of total cost</dct:description>\n    <dct:description xml:lang=\"fr\">Structure du co&#251;t de la main d'oeuvre en % des co&#251;ts totaux</dct:description>\n    <dct:description xml:lang=\"de\">Struktur der Arbeitskosten in Prozent der Arbeitskosten insgesamt</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/lc_n00struc</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lc_n00struc.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/lc_n00struc.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2009-03-26</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2000</ecodp:periodStart>\n        <ecodp:periodEnd>2000</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/uGOVbXgm9UQO2dmSqIllw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/lc_n00struc</foaf:primaryTopic><dct:modified>2015-07-31T10:04:38.093266</dct:modified><dct:issued>2014-12-22T09:38:40.648284</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "bfd5e6b0-9977-4be6-9878-58f80cc08663", 
+    "identifier": "lc_n00struc"
+}

@@ -1,0 +1,167 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 3, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "3f63fd33-11d2-4864-b09d-25d63344ca33", 
+    "metadata_created": "2014-12-22T08:41:34.364729", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T11:22:49.022072", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1909", 
+            "name": "http://eurovoc.europa.eu/1909", 
+            "revision_timestamp": "2015-03-03T16:33:56.282468", 
+            "state": "active", 
+            "id": "f511e0ec-7e8d-422a-a796-b20e809f470c"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00170.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:22:49.075523", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:22:49.021004", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "5cec494f-dac6-4d16-a21f-34882842cb9b", 
+            "size": null, 
+            "resource_group_id": "c82d86fe-b954-4f65-91f4-73e705fcdef0", 
+            "id": "592a5ecc-40f9-4adc-a7f4-46733069cf64", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00170.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:22:49.075531", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:22:49.021004", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "5cec494f-dac6-4d16-a21f-34882842cb9b", 
+            "size": null, 
+            "resource_group_id": "c82d86fe-b954-4f65-91f4-73e705fcdef0", 
+            "id": "05a8cd22-9e89-4096-9f49-a16d9e0ef1c1", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00170", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:22:49.075494", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:22:49.021004", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "5cec494f-dac6-4d16-a21f-34882842cb9b", 
+            "size": null, 
+            "resource_group_id": "c82d86fe-b954-4f65-91f4-73e705fcdef0", 
+            "id": "ddbee843-c9fe-4dd7-af78-b59206113283", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Residence permit means any authorisation valid for at least 3 months issued by the authorities of a Member State allowing a third country national to stay legally on its territory. First permit means the residence permit issued to a person for the first time. A residence permit is considered as a first permit also if the time gap between expiry of the old permit and the start of validity of the new permit issued for the same reason is at least 6 months, irrespective of the year of issuance of the permit.", 
+    "title": "First permits by reason", 
+    "temporal_coverage_from": "2008", 
+    "tracking_summary": {
+        "total": 6, 
+        "recent": 0
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T08:41:34.364729", 
+    "name": "tevzw332AP1lvvHldoJUhw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00170", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tps00170\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100149\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1909\"/>\n    <dct:title xml:lang=\"en\">First permits by reason</dct:title>\n    <dct:title xml:lang=\"fr\">Permis d&#233;livr&#233;s pour la premi&#232;re fois par raison</dct:title>\n    <dct:title xml:lang=\"de\">Erstmals erteilte Aufenthaltstitel nach dem Grund f&#252;r die Erteilung</dct:title>\n    <dct:identifier>tps00170</dct:identifier>\n    <dct:description xml:lang=\"en\">Residence permit means any authorisation valid for at least 3 months issued by the authorities of a Member State allowing a third country national to stay legally on its territory. First permit means the residence permit issued to a person for the first time. A residence permit is considered as a first permit also if the time gap between expiry of the old permit and the start of validity of the new permit issued for the same reason is at least 6 months, irrespective of the year of issuance of the permit.</dct:description>\n    <dct:description xml:lang=\"fr\">Permis de s&#233;jour, signifie: toute autorisation valide pour au moins trois mois &#233;mis par les autorit&#233;s d'un &#201;tat membre et permettant &#224; un ressortissant de pays tiers de s&#233;journer l&#233;galement sur son territoire. Premier permis signifie: le permis de s&#233;jour d&#233;livr&#233; &#224; une personne pour la premi&#232;re fois. Un permis de s&#233;jour est consid&#233;r&#233; comme un premier permis m&#234;me si l'intervalle de temps entre l'expiration de l'ancien permis et le d&#233;but de validit&#233; du nouveau permis d&#233;livr&#233; pour la m&#234;me raison est d'au moins six mois, ind&#233;pendamment de l'ann&#233;e de d&#233;livrance du permis.</dct:description>\n    <dct:description xml:lang=\"de\">Eine Aufenthaltserlaubnis bedeutet jegliche g&#252;ltige Genehmigung die von den Beh&#246;rden eines Mitgliedstaats ausgestellt wird zum rechtm&#228;&#223;igen Aufenthalt im Hoheitsgebiet eines Drittstaatsangeh&#246;rigen und f&#252;r mindestens 3 Monate g&#252;ltig ist. Erste Genehmigung bedeutet die Aufenthaltserlaubnis die f&#252;r eine Person zum ersten Mal ausgestellt wird. Eine Aufenthaltserlaubnis wird ebenfalls als eine erste Genehmigung ber&#252;cksichtigt, wenn die Zeitspanne zwischen Ablauf der alten Bewilligung und dem Beginn der G&#252;ltigkeit der neuen aus dem gleichen Grund erteilten Genehmigung mindestens 6 Monate ist, unabh&#228;ngig von der Jahr der Ausgabe der Genehmigung.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tps00170</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00170.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00170.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2008</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/tevzw332AP1lvvHldoJUhw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tps00170</foaf:primaryTopic><dct:modified>2015-07-31T08:20:13.754161</dct:modified><dct:issued>2014-12-22T08:41:34.364729</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "4b97c3c4-f2b8-45c3-bf94-5be1e9cc8853", 
+    "identifier": "tps00170"
+}

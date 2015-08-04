@@ -1,0 +1,191 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "b404c07d-3e67-461b-bdc5-722ca449811f", 
+    "metadata_created": "2014-12-22T09:14:45.912656", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:28:10.216379", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5909", 
+            "name": "http://eurovoc.europa.eu/5909", 
+            "revision_timestamp": "2015-03-03T19:04:48.965825", 
+            "state": "active", 
+            "id": "116c8dd4-590c-4ec9-957e-ef4176f52948"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4470", 
+            "name": "http://eurovoc.europa.eu/4470", 
+            "revision_timestamp": "2015-03-03T19:04:48.965825", 
+            "state": "active", 
+            "id": "b2dd1c5b-a6de-4814-98de-6406c3fcb0a4"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00112.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:28:10.453134", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:28:10.212481", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "ce30aa7b-a74f-4fa4-abc9-a020ee83097d", 
+            "size": null, 
+            "resource_group_id": "000a0e82-b303-469a-9988-27936e8a5b3b", 
+            "id": "2506cf99-267c-450f-99dd-3c8694a94be7", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00112.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:28:10.453142", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:28:10.212481", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "ce30aa7b-a74f-4fa4-abc9-a020ee83097d", 
+            "size": null, 
+            "resource_group_id": "000a0e82-b303-469a-9988-27936e8a5b3b", 
+            "id": "9e0592a9-5552-4e2a-b2ac-658aa4009636", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00112", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:28:10.453101", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:28:10.212481", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "ce30aa7b-a74f-4fa4-abc9-a020ee83097d", 
+            "size": null, 
+            "resource_group_id": "000a0e82-b303-469a-9988-27936e8a5b3b", 
+            "id": "d1d40857-5f5e-456b-90d8-9670e371e9a9", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "A tourist accommodation establishment is defined as any facility that regularly or occasionally provides short-term accommodation for tourists as a paid service (although the price might be partially or fully subsidised). Data is reported at the level of a local kind-of-activity unit. The number of bed places in a tourist accommodation establishment is determined by the number of persons who can stay overnight in the beds set up in the establishment, ignoring any extra beds that may be set up upon customer request. The term bed place applies to a single bed; a double bed is counted as two bed places.", 
+    "title": "Number of establishments and bed-places by NUTS 2 regions", 
+    "temporal_coverage_from": "2003", 
+    "tracking_summary": {
+        "total": 3, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100147", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100147", 
+            "image_display_url": "", 
+            "id": "0b3e112c-4a87-450a-8212-dd997bd8ffaf", 
+            "name": "eurovoc_domain_100147"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100160", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100160", 
+            "image_display_url": "", 
+            "id": "23bb695d-0233-4ed9-bfbb-38e1bf181b80", 
+            "name": "eurovoc_domain_100160"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:14:45.912656", 
+    "name": "v0u8V2z0WyPj0kSKbQrBQ", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00112", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00112\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100160\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100149\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100147\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/5909\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4470\"/>\n    <dct:title xml:lang=\"en\">Number of establishments and bed-places by NUTS 2 regions</dct:title>\n    <dct:title xml:lang=\"fr\">Nombre d'&#233;tablissements et places-lits par r&#233;gion NUTS 2</dct:title>\n    <dct:title xml:lang=\"de\">Anzahl der Betriebe und Schlafgelegenheiten nach NUTS-2 Regionen</dct:title>\n    <dct:identifier>tgs00112</dct:identifier>\n    <dct:description xml:lang=\"en\">A tourist accommodation establishment is defined as any facility that regularly or occasionally provides short-term accommodation for tourists as a paid service (although the price might be partially or fully subsidised). Data is reported at the level of a local kind-of-activity unit. The number of bed places in a tourist accommodation establishment is determined by the number of persons who can stay overnight in the beds set up in the establishment, ignoring any extra beds that may be set up upon customer request. The term bed place applies to a single bed; a double bed is counted as two bed places.</dct:description>\n    <dct:description xml:lang=\"fr\">Par &#233;tablissement d&#8217;h&#233;bergement touristique, on entend toute installation qui, r&#233;guli&#232;rement ou occasionnellement, fournit &#224; des touristes un h&#233;bergement de courte dur&#233;e &#224; titre payant (bien que le prix puisse &#234;tre partiellement ou enti&#232;rement subventionn&#233;). Les donn&#233;es sont d&#233;clar&#233;es au niveau d&#8217;une unit&#233; d&#8217;activit&#233; &#233;conomique locale. Le nombre de places-lits dans un &#233;tablissement est d&#233;termin&#233; par le nombre de personnes qui peuvent passer la nuit dans les lits install&#233;s dans l'&#233;tablissement, sans compter les lits qui peuvent &#234;tre ajout&#233;s &#224; la demande du client. Le terme place-lit s'applique &#224; un lit simple, les lits de deux personnes comptant pour deux places-lits.</dct:description>\n    <dct:description xml:lang=\"de\">Als Beherbergungsbetrieb gilt eine Einrichtung, die Reisenden regelm&#228;&#223;ig oder gelegentlich gegen Entgelt (auch zu teilweise oder vollst&#228;ndig subventionierten Preisen) Dienstleistungen der vor&#252;bergehenden Beherbergung anbietet. Die Daten werden auf Ebene der lokalen fachlichen Einheit erfasst. Die Anzahl der Schlafgelegenheiten eines Betriebes ist definiert als die Anzahl der Personen, die in regul&#228;ren Betten in dem Betrieb &#252;bernachten k&#246;nnen, wobei vom Gast verlangte Zusatzbetten nicht ber&#252;cksichtigt werden. Die Bezeichnung Schlafgelegenheit bezieht sich auf ein Einzelbett, Doppelbetten werden als zwei Schlafgelegenheiten gez&#228;hlt.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00112</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00112.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00112.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2003</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/v0u8V2z0WyPj0kSKbQrBQ\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00112</foaf:primaryTopic><dct:modified>2015-07-31T08:16:06.130471</dct:modified><dct:issued>2014-12-22T09:14:45.912656</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "fde9fd03-0f4e-4438-ad86-3da3e9ce77ab", 
+    "identifier": "tgs00112"
+}

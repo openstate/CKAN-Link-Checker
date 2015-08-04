@@ -1,0 +1,237 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "General government fixed investment", 
+            "name": "General government fixed investment", 
+            "revision_timestamp": "2014-12-22T09:18:14.534141", 
+            "state": "active", 
+            "id": "adc345ca-454b-4ac7-a001-966494a087a1"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "cafaea2d-4919-4ac4-9faf-0e219d2759ac", 
+    "metadata_created": "2014-12-22T09:18:14.534141", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T09:34:53.072691", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1018", 
+            "name": "http://eurovoc.europa.eu/1018", 
+            "revision_timestamp": "2015-03-03T20:48:05.577127", 
+            "state": "active", 
+            "id": "5860711e-1680-434a-ae36-2c7bec0d3855"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina210.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:34:53.175627", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:34:53.069578", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "4af829ba-4540-423e-9df4-613064fa5ee5", 
+            "size": null, 
+            "resource_group_id": "26bf03f1-52a0-4177-816b-c8aa264f3737", 
+            "id": "c875a390-228d-4130-b98e-4202e163431d", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina210.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:34:53.175634", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:34:53.069578", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "4af829ba-4540-423e-9df4-613064fa5ee5", 
+            "size": null, 
+            "resource_group_id": "26bf03f1-52a0-4177-816b-c8aa264f3737", 
+            "id": "f5d4e69d-b0b2-4b46-a992-1fe5fa43c39a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "gov_10a_main_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/gov_10a_main_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:34:53.175577", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:34:53.069578", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "4af829ba-4540-423e-9df4-613064fa5ee5", 
+            "size": null, 
+            "resource_group_id": "26bf03f1-52a0-4177-816b-c8aa264f3737", 
+            "id": "c6e60a6f-9892-4b4c-a91d-1c2ff40f87a6", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/gov_10a_main_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:34:53.175611", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:34:53.069578", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "4af829ba-4540-423e-9df4-613064fa5ee5", 
+            "size": null, 
+            "resource_group_id": "26bf03f1-52a0-4177-816b-c8aa264f3737", 
+            "id": "a1123965-7260-4697-b7f3-d1dd3df836c0", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina210", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:34:53.175620", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:34:53.069578", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "4af829ba-4540-423e-9df4-613064fa5ee5", 
+            "size": null, 
+            "resource_group_id": "26bf03f1-52a0-4177-816b-c8aa264f3737", 
+            "id": "ce5f3b56-1aeb-40a6-a8fc-453ea168ad5c", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "General government gross fixed capital formation (ESA2010 code P.51g) consists of resident producers' acquisitions, less disposals of fixed assets during a given period plus certain additions to the value of non-produced assets realised by the productive activity of government producer or units. Fixed assets are produced assets used in production for more than one year.", 
+    "title": "General government fixed investment - annual data", 
+    "temporal_coverage_from": "2003", 
+    "tracking_summary": {
+        "total": 26, 
+        "recent": 8
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:18:14.534141", 
+    "name": "Ym0GHw1WBPfhTQvemj2q8g", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina210", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teina210\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1018\"/>\n    <dct:title xml:lang=\"en\">General government fixed investment - annual data</dct:title>\n    <dct:title xml:lang=\"fr\">La formation brute de capital fixe de des administrations publiques (SEC2010 code P.51g) est constitu&#233;e par les acquisitions moins les cessions d&#8217;actifs fixes r&#233;alis&#233;es par les producteurs r&#233;sidents au cours de la p&#233;riode de r&#233;f&#233;rence, plus certains ajouts &#224; la valeur d&#8217;actifs non produits d&#233;coulant de l&#8217;activit&#233; de production des unit&#233;s productives ou institutionnelles. Les actifs fixes sont des actifs produits utilis&#233;s dans des processus de production pendant plus d&#8217;un an.</dct:title>\n    <dct:title xml:lang=\"de\">Anlageinvestitionen des Staates - j&#228;hrliche Daten</dct:title>\n    <ecodp:keyword xml:lang=\"en\">General government fixed investment</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Investissement fixe des administrations publiques</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Investitionen des Staates</ecodp:keyword>\n    <dct:identifier>teina210</dct:identifier>\n    <dct:description xml:lang=\"en\">General government gross fixed capital formation (ESA2010 code P.51g) consists of resident producers' acquisitions, less disposals of fixed assets during a given period plus certain additions to the value of non-produced assets realised by the productive activity of government producer or units. Fixed assets are produced assets used in production for more than one year.</dct:description>\n    <dct:description xml:lang=\"fr\">Ce groupe contient des donn&#233;es annuelles uniquement sur certains agr&#233;gats pr&#233;sentant un int&#233;r&#234;t particulier concernant les comptes des administrations publiques, notamment des donn&#233;es notifi&#233;es au titre de la Proc&#233;dure en cas de d&#233;ficit excessif. Le secteur des administrations publiques (secteur S.13 dans le SEC 95, 2.68) comprend l'administration centrale, les administrations d'&#201;tats f&#233;d&#233;r&#233;s, les administrations locales et les administrations de s&#233;curit&#233; sociale. Les donn&#233;es pour le secteur des administrations publiques sont consolid&#233;es entre les sous-secteurs au niveau national. Les s&#233;ries sont mesur&#233;es en euros (&#233;cus avant 1999) et exprim&#233;es en pourcentage du PIB. Investissement fixe des administrations publiques : formation brute de capital fixe des administrations publiques (agr&#233;gat P.51 dans le SEC 95, 3.102).</dct:description>\n    <dct:description xml:lang=\"de\">Die Bruttoanlageninvestitionen des Staates (Code P.51g ESVG 2010) umfassen den Erwerb abz&#252;glich der Ver&#228;u&#223;erungen von Anlageg&#252;tern durch gebietsans&#228;ssige Produzenten in einem Zeitraum zuz&#252;glich gewisser Werterh&#246;hungen an nichtproduzierten Verm&#246;gensg&#252;tern durch produktive T&#228;tigkeiten von Produzenten oder institutionellen Einheiten. Zu den Anlageg&#252;tern z&#228;hlen produzierte G&#252;ter, die l&#228;nger als ein Jahr in der Produktion eingesetzt werden.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/gov_10a_main_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/gov_10a_main_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teina210</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina210.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina210.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2003</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/Ym0GHw1WBPfhTQvemj2q8g\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teina210</foaf:primaryTopic><dct:modified>2015-07-31T08:09:27.426757</dct:modified><dct:issued>2014-12-22T09:18:14.534141</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "f87364b7-2b2a-4520-b510-9bc9a5db1f0f", 
+    "identifier": "teina210"
+}

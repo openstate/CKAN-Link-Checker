@@ -1,0 +1,253 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "GDP", 
+            "name": "GDP", 
+            "revision_timestamp": "2014-12-22T09:14:33.353792", 
+            "state": "active", 
+            "id": "d81dec83-e845-4b6b-8868-3d9d66d6bcf7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "domestic product", 
+            "name": "domestic product", 
+            "revision_timestamp": "2014-12-22T09:14:33.353792", 
+            "state": "active", 
+            "id": "c6177f81-be3f-482f-b288-7a7c9056b6b6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gross domestic product", 
+            "name": "gross domestic product", 
+            "revision_timestamp": "2014-12-22T09:14:33.353792", 
+            "state": "active", 
+            "id": "1ae323c4-c57d-491e-85eb-7c2b51d80dcc"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "41ced6a6-49c2-4029-a744-9b1c4d37a8c9", 
+    "metadata_created": "2014-12-22T09:14:33.353792", 
+    "modified_date": "2015-07-31", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T09:21:29.013130", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/56", 
+            "name": "http://eurovoc.europa.eu/56", 
+            "revision_timestamp": "2015-03-03T20:10:28.195224", 
+            "state": "active", 
+            "id": "e11c40fd-4749-49a0-934e-4d4f391248e8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina010.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:21:29.100645", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:21:29.011973", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "7465264b-7e16-4584-b596-53463afac38d", 
+            "size": null, 
+            "resource_group_id": "ce91f9dd-15c5-4654-a8f4-59def49aaa56", 
+            "id": "3a377250-1107-44d6-8bfa-02a57345ad8a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina010.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:21:29.100652", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:21:29.011973", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "7465264b-7e16-4584-b596-53463afac38d", 
+            "size": null, 
+            "resource_group_id": "ce91f9dd-15c5-4654-a8f4-59def49aaa56", 
+            "id": "4d200b6c-f7df-4b86-aa55-f9833d83ec95", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ei_qna_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ei_qna_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:21:29.100597", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:21:29.011973", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "7465264b-7e16-4584-b596-53463afac38d", 
+            "size": null, 
+            "resource_group_id": "ce91f9dd-15c5-4654-a8f4-59def49aaa56", 
+            "id": "7fd10e7e-4d36-4a52-b4b2-4fef844d96bf", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_qna_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:21:29.100630", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:21:29.011973", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "7465264b-7e16-4584-b596-53463afac38d", 
+            "size": null, 
+            "resource_group_id": "ce91f9dd-15c5-4654-a8f4-59def49aaa56", 
+            "id": "e5c09c08-ad3f-4985-8d01-c92df645eae7", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina010", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:21:29.100638", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:21:29.011973", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "7465264b-7e16-4584-b596-53463afac38d", 
+            "size": null, 
+            "resource_group_id": "ce91f9dd-15c5-4654-a8f4-59def49aaa56", 
+            "id": "89fbe610-8ad4-4813-812e-6886870399dc", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Gross domestic product (GDP) at market prices is the final result of the production activity of resident producer units (ESA 2010, 8.89). It can be defined in three ways: a production approach, an income approach and an expenditure approach. Values are seasonally adjusted (SA). The ESA 2010 (European System of Accounts) regulation may be referred to for more specific explanations on methodology.", 
+    "title": "Gross domestic product, current prices", 
+    "temporal_coverage_from": "2012", 
+    "tracking_summary": {
+        "total": 11, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:14:33.353792", 
+    "name": "dysKhq3dMlKqC18lmVAUQ", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina010", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teina010\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/56\"/>\n    <dct:title xml:lang=\"en\">Gross domestic product, current prices</dct:title>\n    <dct:title xml:lang=\"fr\">Produit int&#233;rieur brut, prix courants</dct:title>\n    <dct:title xml:lang=\"de\">Bruttoinlandsprodukt, jeweilige Preise</dct:title>\n    <ecodp:keyword xml:lang=\"en\">gross domestic product</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">GDP</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">domestic product</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Produit int&#233;rieur brut</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">PIB</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">produit national</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Bruttoinlandsprodukt</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">BIP</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Sozialprodukt</ecodp:keyword>\n    <dct:identifier>teina010</dct:identifier>\n    <dct:description xml:lang=\"en\">Gross domestic product (GDP) at market prices is the final result of the production activity of resident producer units (ESA 2010, 8.89). It can be defined in three ways: a production approach, an income approach and an expenditure approach. Values are seasonally adjusted (SA). The ESA 2010 (European System of Accounts) regulation may be referred to for more specific explanations on methodology.</dct:description>\n    <dct:description xml:lang=\"fr\">Le produit int&#233;rieur brut (PIB) aux prix du march&#233; repr&#233;sente le r&#233;sultat final de l'activit&#233; de production des unit&#233;s productrices r&#233;sidentes (SEC 2010, 8.89). Il est obtenu selon 3 m&#233;thodes : l&#8217;approche par la production, l&#8217;approche par les revenus ou l&#8217;approche par les d&#233;penses. Les donn&#233;es sont d&#233;saisonnalis&#233;es. Pour des explications m&#233;thodologiques plus sp&#233;cifiques, il est conseill&#233; de consulter le SEC 2010 (Syst&#232;me europ&#233;en des comptes nationaux et r&#233;gionaux).</dct:description>\n    <dct:description xml:lang=\"de\">Das Bruttoinlandsprodukt (BIP) ist das Endergebnis aller produktiven T&#228;tigkeiten von gebietsans&#228;ssigen Produktionseinheiten (ESVG 2010, 8.89). Es kann auf dreierlei Weise dargestellt werden: von der Produktionsseite, der Verteilungsseite und von der Verwendungsseite. Die angegebenen Werte sind saisonbereinigt (SA). Ausf&#252;hrlichere Erl&#228;uterungen zur Methodik k&#246;nnen der Verordnung zum ESVG 2010 (Europ&#228;isches System volkswirtschaftlicher Gesamtrechnungen) entnommen werden.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ei_qna_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_qna_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teina010</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina010.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina010.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-31</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2012</ecodp:periodStart>\n        <ecodp:periodEnd>2015</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/dysKhq3dMlKqC18lmVAUQ\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teina010</foaf:primaryTopic><dct:modified>2015-07-31T09:39:18.480817</dct:modified><dct:issued>2014-12-22T09:14:33.353792</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "294ddd3e-0010-490a-9c16-e03213659d9f", 
+    "identifier": "teina010"
+}

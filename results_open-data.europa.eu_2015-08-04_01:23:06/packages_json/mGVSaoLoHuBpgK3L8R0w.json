@@ -1,0 +1,252 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2012", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "insurance premium", 
+            "name": "insurance premium", 
+            "revision_timestamp": "2014-12-22T09:58:26.228811", 
+            "state": "active", 
+            "id": "71b56c1c-192a-4050-9373-7ccbc1b61c9d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "life assurance", 
+            "name": "life assurance", 
+            "revision_timestamp": "2014-12-22T09:58:26.228811", 
+            "state": "active", 
+            "id": "80e6abc3-ee71-44c6-b3ff-06592c6b4ab6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "service", 
+            "name": "service", 
+            "revision_timestamp": "2014-12-22T09:58:26.228811", 
+            "state": "active", 
+            "id": "e6cbb8ef-8881-4a6f-a8ee-314de6b906f0"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "46192525-ba0f-47e4-83b4-c8b8f8dcc4f3", 
+    "metadata_created": "2014-12-22T09:58:26.228811", 
+    "modified_date": "2015-07-09", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T11:04:18.765899", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00027.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:04:18.836800", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:04:18.764812", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "8c9dbd1a-dbc3-4bb8-9dab-26002c8a6e8b", 
+            "size": null, 
+            "resource_group_id": "2883de46-198a-45bf-97ff-da559da166db", 
+            "id": "e76978f8-e177-49f7-a2a9-0cb029af0e4e", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00027.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:04:18.836807", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:04:18.764812", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "8c9dbd1a-dbc3-4bb8-9dab-26002c8a6e8b", 
+            "size": null, 
+            "resource_group_id": "2883de46-198a-45bf-97ff-da559da166db", 
+            "id": "feeff9bd-d0de-4857-83b4-c95776e23e4d", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "sbs_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/sbs_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:04:18.836757", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:04:18.764812", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "8c9dbd1a-dbc3-4bb8-9dab-26002c8a6e8b", 
+            "size": null, 
+            "resource_group_id": "2883de46-198a-45bf-97ff-da559da166db", 
+            "id": "d387aea9-6d59-473b-ab75-c25e0bfb71e4", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/sbs_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:04:18.836785", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:04:18.764812", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "8c9dbd1a-dbc3-4bb8-9dab-26002c8a6e8b", 
+            "size": null, 
+            "resource_group_id": "2883de46-198a-45bf-97ff-da559da166db", 
+            "id": "89537bec-6414-460c-9a68-93151a4bfc01", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tin00027", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:04:18.836793", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:04:18.764812", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "8c9dbd1a-dbc3-4bb8-9dab-26002c8a6e8b", 
+            "size": null, 
+            "resource_group_id": "2883de46-198a-45bf-97ff-da559da166db", 
+            "id": "7149b2c0-df8f-4325-8187-2d0b3baa6852", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Gross premiums written shall comprise all amounts due during the financial year in respect of insurance contracts regardless of the fact that such amounts may relate in whole or in part to a later financial year, and shall include inter alia reinsurance premiums received from other insurance undertakings. The above amounts shall not include the amounts of taxes or charges levied with premiums.", 
+    "title": "Insurance, gross premiums written by type of enterprise", 
+    "temporal_coverage_from": "2001", 
+    "tracking_summary": {
+        "total": 43, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100147", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100147", 
+            "image_display_url": "", 
+            "id": "0b3e112c-4a87-450a-8212-dd997bd8ffaf", 
+            "name": "eurovoc_domain_100147"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100152", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100152", 
+            "image_display_url": "", 
+            "id": "08994bb7-2827-4215-a10b-d0f520fd70bb", 
+            "name": "eurovoc_domain_100152"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100160", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100160", 
+            "image_display_url": "", 
+            "id": "23bb695d-0233-4ed9-bfbb-38e1bf181b80", 
+            "name": "eurovoc_domain_100160"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:58:26.228811", 
+    "name": "mGVSaoLoHuBpgK3L8R0w", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tin00027", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tin00027\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100152\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100160\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100147\"/>\n    <dct:title xml:lang=\"en\">Insurance, gross premiums written by type of enterprise</dct:title>\n    <dct:title xml:lang=\"fr\">Compagnies d'assurances, primes brutes souscrites par type d'entreprise</dct:title>\n    <dct:title xml:lang=\"de\">Versicherungsunternehmen, gebuchte Bruttopr&#228;mien by Typ der Unternehmen</dct:title>\n    <ecodp:keyword xml:lang=\"en\">service</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">life assurance</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">insurance premium</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">service</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">assurance vie</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">prime d'assurance</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Dienstleistung</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Lebensversicherung</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Versicherungspr&#228;mie</ecodp:keyword>\n    <dct:identifier>tin00027</dct:identifier>\n    <dct:description xml:lang=\"en\">Gross premiums written shall comprise all amounts due during the financial year in respect of insurance contracts regardless of the fact that such amounts may relate in whole or in part to a later financial year, and shall include inter alia reinsurance premiums received from other insurance undertakings. The above amounts shall not include the amounts of taxes or charges levied with premiums.</dct:description>\n    <dct:description xml:lang=\"fr\">Les primes brutes &#233;mises englobent tous les montants dus au cours de l'exercice financier au titre de contrats d'assurance, ind&#233;pendamment du fait que ces montants portent en tout ou en partie sur un exercice ult&#233;rieur, et incluent entre autres les primes de r&#233;assurance vers&#233;es par d'autres compagnies d'assurances. Les montants ci-dessus ne comprennent pas les montants des taxes ou des charges associ&#233;es aux primes.</dct:description>\n    <dct:description xml:lang=\"de\">Die gebuchten Bruttobeitr&#228;ge umfassen alle w&#228;hrend des Gesch&#228;ftsjahres f&#252;r die Versicherungsvertr&#228;ge f&#228;llig gewordenen Beitr&#228;ge, unabh&#228;ngig davon, ob sich diese Beitr&#228;ge ganz oder teilweise auf ein sp&#228;teres Gesch&#228;ftsjahr beziehen; dazu geh&#246;ren insbesondere auch die von anderen Versicherungsunternehmen entrichteten R&#252;ckversicherungsbeitr&#228;ge. Diese Betr&#228;ge verstehen sich ohne Steuern und steuer&#228;hnliche Abgaben, die auf die Beitr&#228;ge erhoben werden.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/sbs_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/sbs_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tin00027</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00027.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00027.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-09</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2001</ecodp:periodStart>\n        <ecodp:periodEnd>2012</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/mGVSaoLoHuBpgK3L8R0w\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tin00027</foaf:primaryTopic><dct:modified>2015-07-31T08:14:49.654305</dct:modified><dct:issued>2014-12-22T09:58:26.228811</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "7c8c6429-0277-46f8-95aa-c945afdf9541", 
+    "identifier": "tin00027"
+}

@@ -1,0 +1,222 @@
+{
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 3, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "a5ca8385-6c10-48d0-9a34-0c2458c95614", 
+    "metadata_created": "2014-12-22T06:59:09.320271", 
+    "modified_date": "2015-06-10", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T09:38:53.700402", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "interoperability_level": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4671", 
+            "name": "http://eurovoc.europa.eu/4671", 
+            "revision_timestamp": "2015-03-03T17:31:19.796710", 
+            "state": "active", 
+            "id": "3afe1f42-9f55-4b7e-8d37-1053df2293ea"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "name": null, 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/bop_its6_tot.tsv.gz", 
+            "created": "2015-08-03T11:38:53.761742", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:38:53.699449", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "resource_group_id": "3efb8b7a-85a1-44c8-90aa-44e92f1d17f7", 
+            "revision_id": "45d8bb0a-c90c-40df-bd5e-d2a73ceeb475", 
+            "id": "0fb0d629-61c5-4467-860b-d1aa0156256b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "name": null, 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/bop_its6_tot.sdmx.zip", 
+            "created": "2015-08-03T11:38:53.761749", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:38:53.699449", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "resource_group_id": "3efb8b7a-85a1-44c8-90aa-44e92f1d17f7", 
+            "revision_id": "45d8bb0a-c90c-40df-bd5e-d2a73ceeb475", 
+            "id": "22bed0d7-0ea2-483c-b7b0-622e4ab54c62", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "bop_6_esms.htm", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/bop_6_esms.htm", 
+            "created": "2015-08-03T11:38:53.761693", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:38:53.699449", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "resource_group_id": "3efb8b7a-85a1-44c8-90aa-44e92f1d17f7", 
+            "revision_id": "45d8bb0a-c90c-40df-bd5e-d2a73ceeb475", 
+            "id": "fc58b7ab-7cbe-4769-92c9-32c2e6bd402c", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/bop_6_esms.sdmx.zip", 
+            "created": "2015-08-03T11:38:53.761726", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:38:53.699449", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "resource_group_id": "3efb8b7a-85a1-44c8-90aa-44e92f1d17f7", 
+            "revision_id": "45d8bb0a-c90c-40df-bd5e-d2a73ceeb475", 
+            "id": "5a338725-6c2d-480f-a8aa-9696cc99b183", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "name": "More information on Eurostat Website", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/bop_its6_tot", 
+            "created": "2015-08-03T11:38:53.761735", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:38:53.699449", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "resource_group_id": "3efb8b7a-85a1-44c8-90aa-44e92f1d17f7", 
+            "revision_id": "45d8bb0a-c90c-40df-bd5e-d2a73ceeb475", 
+            "id": "7aa223df-3da8-47c1-9900-865ecc6f2534", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "size": null
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Total services, detailed geographical breakdown by EU Member States (since 2010) (BPM6)", 
+    "temporal_coverage_from": "2010", 
+    "language": [], 
+    "tracking_summary": {
+        "total": 37, 
+        "recent": 6
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "image_display_url": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "image_display_url": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "relationships_as_subject": [], 
+    "license_title": "Legal Notice", 
+    "revision_timestamp": "2014-12-22T06:59:09.320271", 
+    "organization": {
+        "description": "", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "title": "Eurostat", 
+        "name": "estat", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "approval_status": "approved"
+    }, 
+    "name": "7czbdHsQigK0sjTd4z0g", 
+    "isopen": true, 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/bop_its6_tot", 
+    "temporal_granularity": [], 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/bop_its6_tot\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4671\"/>\n    <dct:title xml:lang=\"en\">Total services, detailed geographical breakdown by EU Member States (since 2010) (BPM6)</dct:title>\n    <dct:title xml:lang=\"fr\">Total des services, ventilation g&#233;ographique d&#233;taill&#233;e par Etat Membre de l'UE (&#224; partir de 2010) (BPM6)</dct:title>\n    <dct:title xml:lang=\"de\">Dienstleistungsverkehr, insgesamt, Aufgliederung nach Partner der EU Mitgliedsstaaten (ab 2010) (BPM6)</dct:title>\n    <dct:identifier>bop_its6_tot</dct:identifier>\n    <dct:description xml:lang=\"en\">Total services, detailed geographical breakdown by EU Member States (since 2010) (BPM6)</dct:description>\n    <dct:description xml:lang=\"fr\">Total des services, ventilation g&#233;ographique d&#233;taill&#233;e par Etat Membre de l'UE (&#224; partir de 2010) (BPM6)</dct:description>\n    <dct:description xml:lang=\"de\">Dienstleistungsverkehr, insgesamt, Aufgliederung nach Partner der EU Mitgliedsstaaten (ab 2010) (BPM6)</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/bop_6_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/bop_6_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/bop_its6_tot</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/bop_its6_tot.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/bop_its6_tot.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-06-10</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2010</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/7czbdHsQigK0sjTd4z0g\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/bop_its6_tot</foaf:primaryTopic><dct:modified>2015-07-31T08:38:02.229585</dct:modified><dct:issued>2014-12-22T06:59:09.320271</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "title": "Total services, detailed geographical breakdown by EU Member States (since 2010) (BPM6)", 
+    "revision_id": "296ab073-967b-41a6-8e1d-75445919864d", 
+    "identifier": "bop_its6_tot"
+}

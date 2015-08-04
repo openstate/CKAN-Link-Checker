@@ -1,0 +1,182 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 9, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "CDS", 
+            "name": "CDS", 
+            "revision_timestamp": "2014-02-26T12:53:39.463959", 
+            "state": "active", 
+            "id": "0b0faaff-1093-4606-9958-7614c424f03a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "exempted shares", 
+            "name": "exempted shares", 
+            "revision_timestamp": "2014-02-26T12:53:39.463959", 
+            "state": "active", 
+            "id": "8afb49fb-f20c-44de-894e-fe409bc8f915"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "short selling", 
+            "name": "short selling", 
+            "revision_timestamp": "2014-02-26T12:53:39.463959", 
+            "state": "active", 
+            "id": "a11fe709-784b-4f09-854f-aa06c23ca7b2"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "82ae14cf-249a-4a03-8764-a33aa543d3cf", 
+    "metadata_created": "2015-07-27T15:14:33.316285", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:14:33.317293", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/614", 
+            "name": "http://eurovoc.europa.eu/614", 
+            "revision_timestamp": "2015-02-23T11:32:24.479205", 
+            "state": "active", 
+            "id": "1d787180-f1cf-485a-8622-61221d131d9a"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1804", 
+            "name": "http://eurovoc.europa.eu/1804", 
+            "revision_timestamp": "2015-02-23T11:32:24.479205", 
+            "state": "active", 
+            "id": "6a93dbab-785a-4293-a785-9869c0aea6c9"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1488", 
+            "name": "http://eurovoc.europa.eu/1488", 
+            "revision_timestamp": "2015-02-23T11:32:24.479205", 
+            "state": "active", 
+            "id": "7959ea17-5087-449b-9155-677f8bfdbbb9"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/8469", 
+            "name": "http://eurovoc.europa.eu/8469", 
+            "revision_timestamp": "2015-02-23T11:32:24.479205", 
+            "state": "active", 
+            "id": "983e256b-17f1-4728-9ed6-47be9516703e"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "text/csv", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "The exempted shares file to download is a text file formatted as CSV file (comma separated values).", 
+            "format": "text/csv", 
+            "url": "http://www.esma.europa.eu/system/files/ssr_exempted-shares_publication.csv", 
+            "datastore_active": false, 
+            "created": "2015-02-23T12:28:12.968345", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-23T11:28:12.885073", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "87729797-1448-487f-90d7-9fe23d34135b", 
+            "size": null, 
+            "resource_group_id": "c5e0cc00-8b9b-4a33-a5bb-923e18f15780", 
+            "id": "4a936ca2-3c63-4b3f-a160-217ba5b440f0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "List of exempted shares"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "The Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March on short selling and certain aspects of credit default swaps (the Regulation) requires the relevant competent authorities to identify shares having their principal trading venue located in a third country. Further to provisions of Article 16(2) of the Regulation, ESMA publishes here the list of exempted shares to which provisions of Article 5, 6, 12 and 15 do not apply. \r\n\r\nNational competent authorities are responsible for the content of this file. Any queries regarding the content should be addressed directly to the relevant competent authority for that share.\r\n\r\nIn accordance with Commission implementing Regulation (EU) No 827/2012 of 29 June 2012 (the implementing Regulation), this information, covering shares admitted to trading on a trading venues in the Union by the end of the previous calendar year, will be published before the first trading day of April every two years. They will be valid from 1 April for the next 24 months.\r\n\r\nHowever the list will be updated on a case by case basis by the national competent authorities when required by Article 12(2) of the implementing Regulation. Any revised list will be published between 4pm and 5pm CET and shall be effective the next day.", 
+    "title": "List of exempted shares", 
+    "tracking_summary": {
+        "total": 154, 
+        "recent": 1
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100152", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100152", 
+            "image_display_url": "", 
+            "id": "08994bb7-2827-4215-a10b-d0f520fd70bb", 
+            "name": "eurovoc_domain_100152"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T15:14:33.316285", 
+    "name": "list-of-exempted-shares", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://www.esma.europa.eu/page/List-exempted-shares", 
+    "organization": {
+        "description": "", 
+        "title": "European Securities and Markets Authority", 
+        "created": "2012-12-12T13:50:52.497925", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.471964", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "0d60eb1d-b406-43d3-94ad-26f3bea3f39b", 
+        "type": "organization", 
+        "id": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+        "name": "esma"
+    }, 
+    "revision_id": "713da55c-7381-4647-80b6-21db34341771", 
+    "identifier": "", 
+    "version_description": ""
+}

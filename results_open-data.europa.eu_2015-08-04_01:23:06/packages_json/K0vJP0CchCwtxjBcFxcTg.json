@@ -1,0 +1,237 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "General government gross debt", 
+            "name": "General government gross debt", 
+            "revision_timestamp": "2014-12-22T10:00:32.873503", 
+            "state": "active", 
+            "id": "3e583c41-6c50-407c-ac34-6bf03c9a6b29"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "e37da764-0e69-4897-90be-f293fcfc6280", 
+    "metadata_created": "2014-12-22T10:00:32.873503", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T11:11:46.954393", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1018", 
+            "name": "http://eurovoc.europa.eu/1018", 
+            "revision_timestamp": "2015-03-03T18:10:53.961484", 
+            "state": "active", 
+            "id": "5860711e-1680-434a-ae36-2c7bec0d3855"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina225.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:11:47.044639", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:11:46.953306", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "bfdf358e-076d-492c-83ad-ce82a87ff5ad", 
+            "size": null, 
+            "resource_group_id": "29029073-723a-48e8-9d71-d16f419f650c", 
+            "id": "0536a2b1-f118-4f4a-8ab7-438e35e2f14b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina225.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:11:47.044653", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:11:46.953306", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "bfdf358e-076d-492c-83ad-ce82a87ff5ad", 
+            "size": null, 
+            "resource_group_id": "29029073-723a-48e8-9d71-d16f419f650c", 
+            "id": "2bca73c9-2cd0-482f-adf2-057ff51e75b7", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "gov_10dd_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/gov_10dd_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:11:47.044573", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:11:46.953306", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "bfdf358e-076d-492c-83ad-ce82a87ff5ad", 
+            "size": null, 
+            "resource_group_id": "29029073-723a-48e8-9d71-d16f419f650c", 
+            "id": "5dd4a863-11e4-4b74-9677-f651d2ebe81e", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/gov_10dd_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:11:47.044604", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:11:46.953306", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "bfdf358e-076d-492c-83ad-ce82a87ff5ad", 
+            "size": null, 
+            "resource_group_id": "29029073-723a-48e8-9d71-d16f419f650c", 
+            "id": "6e03a44e-418f-4116-b458-ee0d9fb25439", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina225", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:11:47.044612", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:11:46.953306", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "bfdf358e-076d-492c-83ad-ce82a87ff5ad", 
+            "size": null, 
+            "resource_group_id": "29029073-723a-48e8-9d71-d16f419f650c", 
+            "id": "a070ddb6-b0ec-4609-8c8f-4f8a5d38b4fc", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The indicator is defined (in the Maastricht Treaty) as consolidated general government gross debt at nominal (face) value, outstanding at the end of the year in the following categories of government liabilities (as defined in ESA2010): currency and deposits, debt securities and loans. The general government sector comprises the subsectors: central government, state government, local government and social security funds.", 
+    "title": "General government gross debt - annual data", 
+    "temporal_coverage_from": "2003", 
+    "tracking_summary": {
+        "total": 35, 
+        "recent": 3
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T10:00:32.873503", 
+    "name": "K0vJP0CchCwtxjBcFxcTg", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina225", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teina225\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1018\"/>\n    <dct:title xml:lang=\"en\">General government gross debt - annual data</dct:title>\n    <dct:title xml:lang=\"fr\">Dette brute des administrations publiques - donn&#233;es annuelles</dct:title>\n    <dct:title xml:lang=\"de\">Bruttoverschuldung des Staates - j&#228;hrliche Daten</dct:title>\n    <ecodp:keyword xml:lang=\"en\">General government gross debt</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Dette brute des administrations publiques</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">&#214;ffentliche Verschuldung</ecodp:keyword>\n    <dct:identifier>teina225</dct:identifier>\n    <dct:description xml:lang=\"en\">The indicator is defined (in the Maastricht Treaty) as consolidated general government gross debt at nominal (face) value, outstanding at the end of the year in the following categories of government liabilities (as defined in ESA2010): currency and deposits, debt securities and loans. The general government sector comprises the subsectors: central government, state government, local government and social security funds.</dct:description>\n    <dct:description xml:lang=\"fr\">L&#8217;indicateur est d&#233;fini (dans le Trait&#233; de Maastricht) comme la dette brute consolid&#233;e des administrations publiques en valeur nominale (num&#233;raire), le passif exigible des administrations publiques dans les comptes suivants (tels que d&#233;finis dans le SEC2010) : les num&#233;raires et d&#233;p&#244;ts, les titres de cr&#233;ance et les cr&#233;dits. Le secteur des administrations publiques comprend : l&#8217;administration centrale, les administrations d&#8217;Etats f&#233;d&#233;r&#233;s, les administrations locales et les administrations de s&#233;curit&#233; sociale.</dct:description>\n    <dct:description xml:lang=\"de\">Der Indikator wird definiert (im Vertrag von Maastricht) als Brutto-Gesamtschuldenstand zum Nominalwert (Nennwert) am Jahresende nach Konsolidierung innerhalb den einzelnen Bereichen der Verbindlichkeiten des Staatssektors (wie definiert in ESVG2010): Bargeld und Einlagen, Schuldverschreibungen und Kredite. Der allgemeine Staatssektor umfasst die Teilsektoren: Zentralregierung, Staatsregierung, Kommunen und Sozialversicherungsfonds.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/gov_10dd_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/gov_10dd_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teina225</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina225.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina225.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2003</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/K0vJP0CchCwtxjBcFxcTg\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teina225</foaf:primaryTopic><dct:modified>2015-07-31T08:02:38.973531</dct:modified><dct:issued>2014-12-22T10:00:32.873503</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "ea0b2e8e-70a3-4486-a8b5-8e19c2254800", 
+    "identifier": "teina225"
+}

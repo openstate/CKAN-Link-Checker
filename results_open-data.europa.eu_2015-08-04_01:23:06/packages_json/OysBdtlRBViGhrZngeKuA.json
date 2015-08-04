@@ -1,0 +1,201 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "region", 
+            "name": "region", 
+            "revision_timestamp": "2014-12-22T09:40:57.802138", 
+            "state": "active", 
+            "id": "c19b1560-638a-47a6-985e-72d06744d1d3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "regions", 
+            "name": "regions", 
+            "revision_timestamp": "2014-12-22T09:40:57.802138", 
+            "state": "active", 
+            "id": "3a372c2d-f39d-412d-83b6-a1783cf6e338"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "058a95d2-8b19-442d-8a20-52e493977702", 
+    "metadata_created": "2014-12-22T09:40:57.802138", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:14:55.448216", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4268", 
+            "name": "http://eurovoc.europa.eu/4268", 
+            "revision_timestamp": "2015-07-17T22:06:33.483292", 
+            "state": "active", 
+            "id": "d11e9e7c-98dc-41a9-aa89-71d29a9e5dc9"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2914", 
+            "name": "http://eurovoc.europa.eu/2914", 
+            "revision_timestamp": "2015-08-03T10:14:55.447043", 
+            "state": "active", 
+            "id": "fd0f5924-858b-406b-b5e5-6cf1616e1a37"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00042.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:14:55.569078", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:14:55.447043", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "d33ed801-f537-40cc-bcb9-f7210454b05f", 
+            "size": null, 
+            "resource_group_id": "b72574fd-57fc-4bf5-bdf9-582c43afd2b6", 
+            "id": "0b7416e7-4a3e-4375-85f4-bfcd66578411", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00042.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:14:55.569087", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:14:55.447043", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "d33ed801-f537-40cc-bcb9-f7210454b05f", 
+            "size": null, 
+            "resource_group_id": "b72574fd-57fc-4bf5-bdf9-582c43afd2b6", 
+            "id": "8bbbaa39-4e43-405f-b9b1-d9f3fc2b16e4", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00042", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:14:55.569028", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:14:55.447043", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "d33ed801-f537-40cc-bcb9-f7210454b05f", 
+            "size": null, 
+            "resource_group_id": "b72574fd-57fc-4bf5-bdf9-582c43afd2b6", 
+            "id": "dde5a76a-7ef6-46c4-93b3-6b941e0159c1", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Research and experimental development (R) comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society and the use of this stock of knowledge to devise new applications (Frascati Manual, 2002 edition, \u00a7 63 ). R intensity (R expenditures as a percentage of GDP) is an indicator of high political importance at the EU, national and regional levels.", 
+    "title": "Total intramural R&D expenditure (GERD) by NUTS 2 regions", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 84, 
+        "recent": 4
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100151", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100151", 
+            "image_display_url": "", 
+            "id": "5fe330e5-0901-4296-ac07-a19c0ccf5f06", 
+            "name": "eurovoc_domain_100151"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100158", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100158", 
+            "image_display_url": "", 
+            "id": "361d621d-3400-4cfe-a1f2-e54e38653a17", 
+            "name": "eurovoc_domain_100158"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:40:57.802138", 
+    "name": "OysBdtlRBViGhrZngeKuA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00042", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00042\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100158\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100151\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2914\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4268\"/>\n    <dct:title xml:lang=\"en\">Total intramural R&amp;D expenditure (GERD) by NUTS 2 regions</dct:title>\n    <dct:title xml:lang=\"fr\">D&#233;penses de R&amp;D intra-muros, par r&#233;gion NUTS 2</dct:title>\n    <dct:title xml:lang=\"de\">Innerbetriebliche FuE-Ausgaben insgesamt, nach NUTS-2-Regionen</dct:title>\n    <ecodp:keyword xml:lang=\"en\">region</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">regions</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">r&#233;gion</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">r&#233;gions</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Region</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Regionen</ecodp:keyword>\n    <dct:identifier>tgs00042</dct:identifier>\n    <dct:description xml:lang=\"en\">Research and experimental development (R) comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society and the use of this stock of knowledge to devise new applications (Frascati Manual, 2002 edition, &#167; 63 ). R intensity (R expenditures as a percentage of GDP) is an indicator of high political importance at the EU, national and regional levels.</dct:description>\n    <dct:description xml:lang=\"fr\">La recherche et le d&#233;veloppement exp&#233;rimental (R &amp; D) englobent les travaux de cr&#233;ation entrepris de fa&#231;on syst&#233;matique en vue d'accro&#238;tre la somme des connaissances, y compris la connaissance de l'homme, de la culture et de la soci&#233;t&#233;, ainsi que l'utilisation de cette somme de connaissances pour de nouvelles applications&#187; (Manuel de Frascati, &#233;dition 2002, &#167; 63). L'intensit&#233; de R&amp;D (les d&#233;penses de R&amp;D en pourcentage du PIB) est un indicateur de grande importance politique aux niveaux r&#233;gional, national et de l'Union europ&#233;enne.</dct:description>\n    <dct:description xml:lang=\"de\">Unter Forschung und Entwicklung (FuE) wird eine kreative T&#228;tigkeit auf einer systematischen Basis verstanden, mit dem Ziel, neue Kenntnisse - einschlie&#223;lich Menschen-, Landes- und Gesellschaftskunde - zu gewinnen, sowie den Kenntnisbestand f&#252;r neue Anwendungen zu nutzen (Frascati Manual, 2002 Edition, &#167; 63). Die FuE-Intensit&#228;t (FuE-Ausgaben in % des BIP) ist ein Indikator, der auf Ebene der EU sowie auf nationaler und regionaler Ebene hohe politische Bedeutung hat.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00042</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00042.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00042.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/OysBdtlRBViGhrZngeKuA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00042</foaf:primaryTopic><dct:modified>2015-07-31T08:06:38.399643</dct:modified><dct:issued>2014-12-22T09:40:57.802138</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "8db6189e-26c3-4dbc-88f3-1421edc79dab", 
+    "identifier": "tgs00042"
+}

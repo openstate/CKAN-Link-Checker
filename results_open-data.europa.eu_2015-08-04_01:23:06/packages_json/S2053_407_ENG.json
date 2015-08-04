@@ -1,0 +1,221 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 9, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/AUT", 
+        "http://publications.europa.eu/resource/authority/country/SWE", 
+        "http://publications.europa.eu/resource/authority/country/FIN"
+    ], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "austria", 
+            "name": "austria", 
+            "revision_timestamp": "2015-04-09T07:12:58.076155", 
+            "state": "active", 
+            "id": "56e06e95-6882-455e-b3e5-c61a4c52545c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "finland", 
+            "name": "finland", 
+            "revision_timestamp": "2015-04-09T07:12:58.076155", 
+            "state": "active", 
+            "id": "dc7184f1-2ae4-4bba-b60f-8c14ff1d337d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "flash survey", 
+            "name": "flash survey", 
+            "revision_timestamp": "2015-04-09T07:12:58.076155", 
+            "state": "active", 
+            "id": "3a0cb0a1-60a7-4689-93f6-e7503596ea17"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "sweden", 
+            "name": "sweden", 
+            "revision_timestamp": "2015-04-09T07:12:58.076155", 
+            "state": "active", 
+            "id": "d9e0aad1-90ff-4976-b6b6-c4fabbc6b2e4"
+        }
+    ], 
+    "contact_name": "DG COMM", 
+    "id": "a3f4f6c9-489a-404a-8bf5-b1b80566c434", 
+    "metadata_created": "2015-04-09T07:12:58.076155", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:45:30.285881", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "v1.00", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "flash_arch_420_405_en.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/public_opinion/archives/flash_arch_420_405_en.htm#407", 
+            "datastore_active": false, 
+            "created": "2015-04-09T09:12:59.095617", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:45:30.284757", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "b6b4297c-6a8c-49f4-a40e-3a5c7ab08e0d", 
+            "size": null, 
+            "resource_group_id": "60df13c1-be78-4b65-a5de-deefed99675e", 
+            "id": "1e89abfa-c784-44a2-b968-521bc466bf92", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "Detailed information on public opinion website"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "FL407 - Volume A_xls", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?F02E439FFF825544B60E686557F25F3D", 
+            "datastore_active": false, 
+            "created": "2015-04-09T09:12:59.095651", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:45:30.284757", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "b6b4297c-6a8c-49f4-a40e-3a5c7ab08e0d", 
+            "size": null, 
+            "resource_group_id": "60df13c1-be78-4b65-a5de-deefed99675e", 
+            "id": "cd16681f-999d-466e-a392-2a53f0cb7f12", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to FL407 - Volume A_xls.zip"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "FL407 - Volume B_xls", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?0AE33E57122F070FAB23FC41A82DE914", 
+            "datastore_active": false, 
+            "created": "2015-04-09T09:12:59.095660", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:45:30.284757", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "b6b4297c-6a8c-49f4-a40e-3a5c7ab08e0d", 
+            "size": null, 
+            "resource_group_id": "60df13c1-be78-4b65-a5de-deefed99675e", 
+            "id": "77e8a871-c0ac-49d3-92ed-548483863819", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to FL407 - Volume B_xls.zip"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "FL407 - Volume C_xls", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?5E79C1CEBEF38696252104E4D8C09E76", 
+            "datastore_active": false, 
+            "created": "2015-04-09T09:12:59.095668", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:45:30.284757", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "b6b4297c-6a8c-49f4-a40e-3a5c7ab08e0d", 
+            "size": null, 
+            "resource_group_id": "60df13c1-be78-4b65-a5de-deefed99675e", 
+            "id": "93c4af02-d19f-43e6-9c61-59a148addde1", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to FL407 - Volume C_xls.zip"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 4, 
+    "description": "In the fourth round of enlargement, Finland, Austria and Sweden joined the European Union on 1 January 1995, bringing the number of Member States to 15. These three countries were the first new countries to join the EU after the end of the Cold War.\nThis survey was commissioned to understand how people in these three countries view the EU and the impact of EU membership, twenty years after accession.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume C: Country/socio-demographics", 
+    "title": "Flash Eurobarometer 407: Austria, Finland and Sweden: 20 Years in the EU - Aggregate report", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "tracking_summary": {
+        "total": 110, 
+        "recent": 5
+    }, 
+    "contact_email": "Eurobarometer@ec.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-04-09T07:12:58.076155", 
+    "name": "S2053_407_ENG", 
+    "isopen": true, 
+    "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?S2053_407_ENG", 
+    "release_date": "2015-02-09", 
+    "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a", 
+    "contact_address": "Rue de La Loi, 56, Brussels", 
+    "rdf": "<rdf:RDF xmlns=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\"><dcat:Dataset rdf:about=\"http://ec.europa.eu/COMMFrontOffice/downloadODP/?S2053_407_ENG\"><!-- Title, 1..1 - can be filled in in multiple translations though-->\n\t\t\t\t\t\t<dct:title xml:lang=\"en\">Flash Eurobarometer 407: Austria, Finland and Sweden: 20 Years in the EU - Aggregate report</dct:title> <!-- A name given to the resource --><ecodp:ckan-name>S2053_407_ENG</ecodp:ckan-name><!-- Description, 1..*-->\n\t\t\t\t\t\t<dct:description xml:lang=\"en\">In the fourth round of enlargement, Finland, Austria and Sweden joined the European Union on 1 January 1995, bringing the number of Member States to 15. These three countries were the first new countries to join the EU after the end of the Cold War.\nThis survey was commissioned to understand how people in these three countries view the EU and the impact of EU membership, twenty years after accession.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume C: Country/socio-demographics  </dct:description><!--An unambiguous reference to the resource within a given context -->\n\t\t\t\t\t\t<dct:identifier>S2053_407_ENG</dct:identifier><!-- Keyword, 0..*--><ecodp:keyword xml:lang=\"en\">sweden</ecodp:keyword><ecodp:keyword xml:lang=\"en\">finland</ecodp:keyword><ecodp:keyword xml:lang=\"en\">austria</ecodp:keyword><dct:theme rdf:resource=\"http://eurovoc.europa.eu/4214\"/><ecodp:keyword xml:lang=\"en\">flash survey</ecodp:keyword><dct:subject rdf:resource=\"http://eurovoc.europa.eu/100144\"/><!-- Documentation details -->\n\t\t\t\t\t\t<ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<ecodp:documentationType>\n\t\t\t\t\t\t    \t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n\t\t\t\t\t\t\t</ecodp:documentationType>\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Detailed information on public opinion website</dct:title>\n\t\t\t\t\t\t\t<dct:title xml:lang=\"fr\">Plus d'informations sur l'opinion publique site</dct:title>\n\t\t\t\t\t\t\t<!--Kumar: Shall be populated manually -->\n\t\t\t\t\t\t\t<ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/public_opinion/archives/flash_arch_420_405_en.htm#407</ecodp:accessURL>\n\t\t\t\t\t\t</ecodp:isDocumentedBy><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to FL407 - Volume A_xls.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">FL407 - Volume A_xls</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?F02E439FFF825544B60E686557F25F3D</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-02-09</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to FL407 - Volume B_xls.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">FL407 - Volume B_xls</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?0AE33E57122F070FAB23FC41A82DE914</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-02-09</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to FL407 - Volume C_xls.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">FL407 - Volume C_xls</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?5E79C1CEBEF38696252104E4D8C09E76</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-02-09</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Geographical coverage 0..* --><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/AUT\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FIN\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SWE\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><!-- Publisher 1..1 -->\n\t\t\t\t\t\t<dct:publisher>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/COMMU\"/>\n\t\t\t\t\t\t</dct:publisher><!-- Contact point 0..1 -->\n\t\t\t\t\t\t<ecodp:contactPoint>\n\t\t\t\t\t\t\t<foaf:Agent rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/COMMU\">\n\t\t\t\t\t\t\t\t<!--<foaf:phone rdf:resource=\"\"/>-->\n\t\t\t\t\t\t\t\t<foaf:mbox>Eurobarometer@ec.europa.eu</foaf:mbox>\n\t\t\t\t\t\t\t\t<foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/public_opinion/index_en.htm\"/>\n\t\t\t\t\t\t\t\t<ecodp:contactAddress xml:lang=\"en\">Rue de La Loi, 56, Brussels</ecodp:contactAddress>\n\t\t\t\t\t\t\t\t<foaf:name xml:lang=\"en\">DG COMM</foaf:name>\n\t\t\t\t\t\t\t</foaf:Agent>\n\t\t\t\t\t\t</ecodp:contactPoint><!-- Version 0..1 -->\n\t\t\t\t\t\t<dct:hasVersion rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<dct:identifier>v1.00</dct:identifier>\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Version 1.0</dct:description>\n\t\t\t\t\t\t</dct:hasVersion><!-- Dataset issued 0..1 -->\n\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-02-09</dct:issued><!-- License 1..* -->\n\t\t\t\t\t\t<dct:license>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n\t\t\t\t\t\t</dct:license><!-- Status 1..1 -->\n\t\t\t\t\t\t<ecodp:datasetStatus>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n\t\t\t\t\t\t</ecodp:datasetStatus>\n\t\t\t\t\t\t<dct:language>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n\t\t\t\t\t\t</dct:language></dcat:Dataset><dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/S2053_407_ENG\"><foaf:primaryTopic>http://ec.europa.eu/COMMFrontOffice/downloadODP/?S2053_407_ENG</foaf:primaryTopic><dct:modified>2015-04-09T09:12:58.039789</dct:modified><dct:issued>2015-04-09T09:12:58.039789</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/public_opinion/index_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Communication", 
+        "created": "2012-12-12T13:50:46.475520", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:46.449434", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "4b21ab59-71d2-4140-a1ee-a411abb6888d", 
+        "type": "organization", 
+        "id": "dbda9968-cb1e-47c3-b115-245a057e4d4a", 
+        "name": "commu"
+    }, 
+    "revision_id": "f7c16058-f222-4358-80e7-20b42611dcd0", 
+    "identifier": "S2053_407_ENG", 
+    "version_description": "Version 1.0"
+}

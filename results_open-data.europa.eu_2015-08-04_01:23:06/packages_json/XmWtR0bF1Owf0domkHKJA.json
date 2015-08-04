@@ -1,0 +1,253 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "government", 
+            "name": "government", 
+            "revision_timestamp": "2014-12-22T07:16:45.808242", 
+            "state": "active", 
+            "id": "154aefa8-3539-4496-8fbd-d092c44c8e4b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "public finance", 
+            "name": "public finance", 
+            "revision_timestamp": "2014-12-22T07:16:45.808242", 
+            "state": "active", 
+            "id": "82cda3c6-7d19-402b-87fc-7a921a8ebd5a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "social-security benefit", 
+            "name": "social-security benefit", 
+            "revision_timestamp": "2014-12-22T07:16:45.808242", 
+            "state": "active", 
+            "id": "04501af9-576e-4d47-a3e5-3e73bca0c08b"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "1c9427cf-d053-4b48-95b0-fdd9240c4b92", 
+    "metadata_created": "2014-12-22T07:16:45.808242", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T11:13:28.383605", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1018", 
+            "name": "http://eurovoc.europa.eu/1018", 
+            "revision_timestamp": "2015-03-03T17:26:56.758682", 
+            "state": "active", 
+            "id": "5860711e-1680-434a-ae36-2c7bec0d3855"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00026.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:13:28.450720", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:13:28.382707", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "46d8522a-9646-4eb6-9f7b-adfadc8f4397", 
+            "size": null, 
+            "resource_group_id": "dc211af7-ec3c-4236-b768-f91f45c9b7d1", 
+            "id": "5ca5dd68-a246-4ad8-907f-16bf03f9bca7", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00026.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:13:28.450727", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:13:28.382707", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "46d8522a-9646-4eb6-9f7b-adfadc8f4397", 
+            "size": null, 
+            "resource_group_id": "dc211af7-ec3c-4236-b768-f91f45c9b7d1", 
+            "id": "43b3facd-20ce-445b-9822-7b6f7bbdc6a8", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "gov_10a_main_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/gov_10a_main_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:13:28.450667", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:13:28.382707", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "46d8522a-9646-4eb6-9f7b-adfadc8f4397", 
+            "size": null, 
+            "resource_group_id": "dc211af7-ec3c-4236-b768-f91f45c9b7d1", 
+            "id": "ea834b93-4ca4-455b-bd12-701169e3bc2e", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/gov_10a_main_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:13:28.450704", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:13:28.382707", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "46d8522a-9646-4eb6-9f7b-adfadc8f4397", 
+            "size": null, 
+            "resource_group_id": "dc211af7-ec3c-4236-b768-f91f45c9b7d1", 
+            "id": "6e65bf9b-334a-4012-9fa8-a0a55e969413", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00026", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:13:28.450713", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:13:28.382707", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "46d8522a-9646-4eb6-9f7b-adfadc8f4397", 
+            "size": null, 
+            "resource_group_id": "dc211af7-ec3c-4236-b768-f91f45c9b7d1", 
+            "id": "529ce6ff-a9e8-4cde-b7f5-240a6c106025", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Social benefits (other than social transfers in kind) paid by government (ESA2010 code D.62) are transfers to households, in cash or in kind, intended to relieve them from financial burden of a number of risks or needs (by convention: sickness, invalidity, disability, occupational accident or disease, old age, survivors, maternity, family, promotion of employment, unemployment, housing, education and general neediness), made through collective schemes, or outside such schemes by government units.", 
+    "title": "Social benefits (other than social transfers in kind) paid by general government", 
+    "temporal_coverage_from": "2003", 
+    "tracking_summary": {
+        "total": 138, 
+        "recent": 7
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:16:45.808242", 
+    "name": "XmWtR0bF1Owf0domkHKJA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00026", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tec00026\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1018\"/>\n    <dct:title xml:lang=\"en\">Social benefits (other than social transfers in kind) paid by general government</dct:title>\n    <dct:title xml:lang=\"fr\">Prestations sociales (autres que les transferts sociaux en nature) pay&#233;es par les administrations publiques</dct:title>\n    <dct:title xml:lang=\"de\">Staatliche Sozialleistungen (ohne Sozialtransfers in Form von Sachleistungen)</dct:title>\n    <ecodp:keyword xml:lang=\"en\">government</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">public finance</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">social-security benefit</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">gouvernement</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">finances publiques</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">prestation sociale</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Regierung</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">&#246;ffentliche Finanzen</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Sozialleistung</ecodp:keyword>\n    <dct:identifier>tec00026</dct:identifier>\n    <dct:description xml:lang=\"en\">Social benefits (other than social transfers in kind) paid by government (ESA2010 code D.62) are transfers to households, in cash or in kind, intended to relieve them from financial burden of a number of risks or needs (by convention: sickness, invalidity, disability, occupational accident or disease, old age, survivors, maternity, family, promotion of employment, unemployment, housing, education and general neediness), made through collective schemes, or outside such schemes by government units.</dct:description>\n    <dct:description xml:lang=\"fr\">Les prestations sociales (autres que les transferts sociaux en nature) (SEC2010 code D.62) vers&#233;es par les administrations publiques sont des transferts, en esp&#232;ces ou en nature, accord&#233;s aux m&#233;nages pour &#224; all&#233;ger la charge financi&#232;re entra&#238;n&#233;e par un certain nombre de besoins ou de situations &#224; risque (par convention: maladie, invalidit&#233;, infirmit&#233;, accident du travail ou maladie professionnelle, vieillesse, survivants, maternit&#233;, famille, promotion de l'emploi, ch&#244;mage, logement, &#233;ducation et indigence en g&#233;n&#233;ral et vers&#233;s par le biais de r&#233;gimes collectifs ou, en dehors de ces programmes, par des unit&#233;s institutionnelles.</dct:description>\n    <dct:description xml:lang=\"de\">Monet&#228;ren Sozialleistungen des Staates (Code D.62 ESVG 2010) sind Geld- oder Sachleistungen, die von kollektiven Vorsorgesystemen oder staatlichen Einheiten an private Haushalte erbracht werden, um die Lasten zu decken, die den privaten Haushalten durch bestimmte Risiken oder Bed&#252;rfnisse entstehen (per Konvention: Krankheit, Invalidit&#228;t, Gebrechen, Arbeitsunfall, Berufskrankheit, Alter, Hinterbliebene, Mutterschaft, Familie, Besch&#228;ftigungsf&#246;rderung, Arbeitslosigkeit, Wohnung, Ausbildung und allgemeine Bed&#252;rftigkeit).</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/gov_10a_main_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/gov_10a_main_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tec00026</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00026.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00026.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2003</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/XmWtR0bF1Owf0domkHKJA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tec00026</foaf:primaryTopic><dct:modified>2015-07-31T09:15:28.384627</dct:modified><dct:issued>2014-12-22T07:16:45.808242</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "013ff09c-3657-4e39-aba2-63934512d3c5", 
+    "identifier": "tec00026"
+}

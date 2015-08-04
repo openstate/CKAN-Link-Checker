@@ -1,0 +1,317 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 43, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/BGR", 
+        "http://publications.europa.eu/resource/authority/country/SVK", 
+        "http://publications.europa.eu/resource/authority/country/DEU", 
+        "http://publications.europa.eu/resource/authority/country/EST", 
+        "http://publications.europa.eu/resource/authority/country/ITA", 
+        "http://publications.europa.eu/resource/authority/country/HUN", 
+        "http://publications.europa.eu/resource/authority/country/CZE", 
+        "http://publications.europa.eu/resource/authority/country/LTU", 
+        "http://publications.europa.eu/resource/authority/country/SVN", 
+        "http://publications.europa.eu/resource/authority/country/CYP", 
+        "http://publications.europa.eu/resource/authority/country/AUT", 
+        "http://publications.europa.eu/resource/authority/country/NLD", 
+        "http://publications.europa.eu/resource/authority/country/GBR", 
+        "http://publications.europa.eu/resource/authority/country/DNK", 
+        "http://publications.europa.eu/resource/authority/country/ROU", 
+        "http://publications.europa.eu/resource/authority/country/FIN", 
+        "http://publications.europa.eu/resource/authority/country/GRC", 
+        "http://publications.europa.eu/resource/authority/country/MLT", 
+        "http://publications.europa.eu/resource/authority/country/LUX", 
+        "http://publications.europa.eu/resource/authority/country/FRA", 
+        "http://publications.europa.eu/resource/authority/country/PRT", 
+        "http://publications.europa.eu/resource/authority/country/ESP", 
+        "http://publications.europa.eu/resource/authority/country/HRV", 
+        "http://publications.europa.eu/resource/authority/country/BEL", 
+        "http://publications.europa.eu/resource/authority/country/IRL", 
+        "http://publications.europa.eu/resource/authority/country/POL", 
+        "http://publications.europa.eu/resource/authority/country/LVA", 
+        "http://publications.europa.eu/resource/authority/country/SWE"
+    ], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Council of the European Union", 
+            "name": "Council of the European Union", 
+            "revision_timestamp": "2014-10-29T07:42:35.011245", 
+            "state": "active", 
+            "id": "8a3e78a8-2ded-4fff-91b4-349a479b53ae"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EU Official Journal", 
+            "name": "EU Official Journal", 
+            "revision_timestamp": "2014-10-29T07:42:35.011245", 
+            "state": "active", 
+            "id": "8c453e19-17c7-4f33-8946-6ca935c860f0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EU law", 
+            "name": "EU law", 
+            "revision_timestamp": "2014-10-29T07:42:35.011245", 
+            "state": "active", 
+            "id": "555288d5-4de3-4268-bd2d-a40ee2630ee6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EUR-Lex", 
+            "name": "EUR-Lex", 
+            "revision_timestamp": "2014-10-29T07:42:35.011245", 
+            "state": "active", 
+            "id": "6682255c-2219-49c9-b837-907fbf85b18e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Commission", 
+            "name": "European Commission", 
+            "revision_timestamp": "2014-10-29T07:42:35.011245", 
+            "state": "active", 
+            "id": "582f172f-fa79-42e7-9967-a47a8da76e46"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Parliament", 
+            "name": "European Parliament", 
+            "revision_timestamp": "2014-10-29T07:42:35.011245", 
+            "state": "active", 
+            "id": "d7f73111-aa4f-4444-b437-12b41165fb90"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Regulation", 
+            "name": "Regulation", 
+            "revision_timestamp": "2014-10-29T07:42:35.011245", 
+            "state": "active", 
+            "id": "184f8bf0-70e4-406f-90dc-025ddb15fd08"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "basic acts", 
+            "name": "basic acts", 
+            "revision_timestamp": "2014-10-29T07:42:35.011245", 
+            "state": "active", 
+            "id": "ca4dad1c-295b-433c-a6c6-42b19c95fe8d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "decision", 
+            "name": "decision", 
+            "revision_timestamp": "2014-10-29T07:42:35.011245", 
+            "state": "active", 
+            "id": "bc740545-35ef-4ce3-9b4c-3669252ad270"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "directive", 
+            "name": "directive", 
+            "revision_timestamp": "2014-10-29T07:42:35.011245", 
+            "state": "active", 
+            "id": "c038b6a7-cb69-4862-8c5f-9b711182844a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "legislation", 
+            "name": "legislation", 
+            "revision_timestamp": "2014-10-29T07:42:35.011245", 
+            "state": "active", 
+            "id": "e38710e8-5f6d-478d-825a-a1d62fac081e"
+        }
+    ], 
+    "contact_name": "Publications Office of the European Union", 
+    "id": "df2bd0de-a954-40d1-9437-1cfab38ee644", 
+    "metadata_created": "2014-10-29T07:42:35.011245", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:09:33.634857", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1589", 
+            "name": "http://eurovoc.europa.eu/1589", 
+            "revision_timestamp": "2015-01-30T15:14:33.659405", 
+            "state": "active", 
+            "id": "3d072120-d882-4826-a4a6-1c917c66578e"
+        }
+    ], 
+    "creator_user_id": null, 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "List of basic legislative acts", 
+            "format": "text/html", 
+            "url": "http://eur-lex.europa.eu/search.html?REP=REP&instInvStatus=ALL&qid=1414072917933&DTC=false&DTS_DOM=EU_LAW&type=advanced&lang=en&SUBDOM_INIT=LEGISLATION&DTS_SUBDOM=LEGISLATION", 
+            "datastore_active": false, 
+            "created": "2015-01-30T16:14:33.914598", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-01-30T15:14:33.659405", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "7d4846a1-b8f0-4455-ab1e-aa90cd2bb049", 
+            "size": null, 
+            "resource_group_id": "b757f821-d222-43f6-9ecd-e6b898817a0b", 
+            "id": "c2750804-d727-4cb1-b746-566894bf2201", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Advanced Search", 
+            "format": "text/html", 
+            "url": "http://eur-lex.europa.eu/advanced-search-form.html", 
+            "datastore_active": false, 
+            "created": "2015-01-30T16:14:33.914630", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-01-30T15:14:33.659405", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "7d4846a1-b8f0-4455-ab1e-aa90cd2bb049", 
+            "size": null, 
+            "resource_group_id": "b757f821-d222-43f6-9ecd-e6b898817a0b", 
+            "id": "e28acd04-81d8-4fed-86a9-d635a1f439e3", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Directory of European Union legislation - legislation in force", 
+            "format": "text/html", 
+            "url": "http://eur-lex.europa.eu/browse/directories/legislation.html", 
+            "datastore_active": false, 
+            "created": "2015-01-30T16:14:33.914639", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-01-30T15:14:33.659405", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "7d4846a1-b8f0-4455-ab1e-aa90cd2bb049", 
+            "size": null, 
+            "resource_group_id": "b757f821-d222-43f6-9ecd-e6b898817a0b", 
+            "id": "9354d3e4-f393-4fef-af95-54b3cf38aaad", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Directory of European Union legislation - legislation not in force", 
+            "format": "text/html", 
+            "url": "http://eur-lex.europa.eu/browse/directories/legislation.html?displayProfile=allRelAllConsDocProfile&classification=not-in-force", 
+            "datastore_active": false, 
+            "created": "2015-01-30T16:14:33.914646", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-01-30T15:14:33.659405", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "7d4846a1-b8f0-4455-ab1e-aa90cd2bb049", 
+            "size": null, 
+            "resource_group_id": "b757f821-d222-43f6-9ecd-e6b898817a0b", 
+            "id": "9eb9a610-0485-4313-bc74-3bfdb3385330", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": null
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 4, 
+    "description": "A very relevant part of EU law is the EU legislation. The main document types of EU legislation are directives, regulations and decisions.\n\nThese acts may undergo amendments in the course of time, by means of other similar acts. In this context, \"Basic act\" is the term to refer to the acts affected by the posterior amendments (referred to as \"amending acts\", in opposition to the \"basic acts\").", 
+    "title": "EU legislation - basic acts", 
+    "tracking_summary": {
+        "total": 235, 
+        "recent": 10
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100145", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100145", 
+            "image_display_url": "", 
+            "id": "b4c18652-77ac-48e0-a2c3-b431695009b8", 
+            "name": "eurovoc_domain_100145"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2014-10-29T07:42:35.011245", 
+    "name": "eu-legislation-basic-acts", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "accrual_periodicity": "daily", 
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+    "url": "http://eur-lex.europa.eu/oj/direct-access.html", 
+    "rdf": "<rdf:RDF xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns=\"http://open-data.europa.eu/ontologies/ec-odp-example#\"><!--Dataset type and URI, don't fill in the CKAN catalog identifier here-->\n         <dcat:Dataset rdf:about=\"http://eur-lex.europa.eu/oj/direct-access.html\"><!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"bg\">&#1047;&#1072;&#1082;&#1086;&#1085;&#1086;&#1076;&#1072;&#1090;&#1077;&#1083;&#1089;&#1090;&#1074;&#1086; &#1085;&#1072; &#1045;&#1057; - &#1086;&#1089;&#1085;&#1086;&#1074;&#1085;&#1080; &#1072;&#1082;&#1090;&#1086;&#1074;&#1077;</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"es\">Legislaci&#243;n de la UE - texto de base</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"cs\">Pr&#225;vn&#237; p&#345;edpisy EU - z&#225;kladn&#237; akty</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"da\">EU-lovgivning - grundl&#230;ggende retsakter</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"de\">EU-Rechtsvorschriften - zugrundeliegende Rechtsakte</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"el\">&#925;&#959;&#956;&#959;&#952;&#949;&#963;&#943;&#945; &#964;&#951;&#962; &#917;&#917; - &#963;&#964;&#953;&#962; &#946;&#945;&#963;&#953;&#954;&#941;&#962; &#960;&#961;&#940;&#958;&#949;&#953;&#962;</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"en\">EU legislation - basic acts</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"et\">Euroopa Liidu &#245;igusaktid - alusaktid</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"fr\">L&#233;gislation europ&#233;enne - actes de base</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"ga\">Reachta&#237;ocht an AE - Gn&#237;omhartha bun&#250;sacha</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"hr\">Zakonodavstvo - osnovne akte</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"it\">Normativa UE - atti di base</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"lv\">ES ties&#299;bu akti - pamatakti</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"lt\">ES teis&#279;s aktai - pagrindiniai aktai</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"hu\">Uni&#243;s jogszab&#225;lyok - alap-jogiaktusokra</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"mt\">le&#289;islazzjoni tal-UE - atti ba&#380;i&#267;i</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"nl\">EU-wetgeving - basisbesluiten</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"pl\">Akty prawne EU - akty podstawowe</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"pt\">Legisla&#231;&#227;o da UE - atos de base</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"ro\">Legisla&#539;ia comunitar&#259; - actele de baz&#259;</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"sk\">Pr&#225;vne predpisy E&#218; - z&#225;kladn&#233; akty</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"sl\">Zakonodaja EU - temeljnih aktih</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"fi\">EU:n lains&#228;&#228;d&#228;nt&#246; - perusasiakirjoihin</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"sv\">EU-lagstiftning - grundl&#228;ggande r&#228;ttsakter</dct:title>\n      <!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><dct:description xml:lang=\"en\">\nA very relevant part of EU law is the EU legislation. The main document types of EU legislation are directives, regulations and decisions.\n\nThese acts may undergo amendments in the course of time, by means of other similar acts. In this context, \"Basic act\" is the term to refer to the acts affected by the posterior amendments (referred to as \"amending acts\", in opposition to the \"basic acts\").\n\n    </dct:description>\n<dct:description xml:lang=\"bg\"> &#1042;&#1072;&#1078;&#1085;&#1072; &#1095;&#1072;&#1089;&#1090; &#1086;&#1090; &#1087;&#1088;&#1072;&#1074;&#1086;&#1090;&#1086; &#1085;&#1072; &#1045;&#1057; &#1077; &#1079;&#1072;&#1082;&#1086;&#1085;&#1086;&#1076;&#1072;&#1090;&#1077;&#1083;&#1089;&#1090;&#1074;&#1086;&#1090;&#1086; &#1085;&#1072; &#1045;&#1057;. &#1054;&#1089;&#1085;&#1086;&#1074;&#1085;&#1080;&#1090;&#1077; &#1074;&#1080;&#1076;&#1086;&#1074;&#1077; &#1076;&#1086;&#1082;&#1091;&#1084;&#1077;&#1085;&#1090;&#1080; &#1074; &#1079;&#1072;&#1082;&#1086;&#1085;&#1086;&#1076;&#1072;&#1090;&#1077;&#1083;&#1089;&#1090;&#1074;&#1086;&#1090;&#1086; &#1085;&#1072; &#1045;&#1057; &#1089;&#1072; &#1076;&#1080;&#1088;&#1077;&#1082;&#1090;&#1080;&#1074;&#1080;&#1090;&#1077;, &#1088;&#1077;&#1075;&#1083;&#1072;&#1084;&#1077;&#1085;&#1090;&#1080;&#1090;&#1077; &#1080; &#1088;&#1077;&#1096;&#1077;&#1085;&#1080;&#1103;&#1090;&#1072;. \n\n&#1057; &#1090;&#1077;&#1095;&#1077;&#1085;&#1080;&#1077; &#1085;&#1072; &#1074;&#1088;&#1077;&#1084;&#1077;&#1090;&#1086; &#1090;&#1077;&#1079;&#1080; &#1072;&#1082;&#1090;&#1086;&#1074;&#1077; &#1084;&#1086;&#1075;&#1072;&#1090; &#1076;&#1072; &#1073;&#1098;&#1076;&#1072;&#1090; &#1080;&#1079;&#1084;&#1077;&#1085;&#1103;&#1085;&#1080; &#1089; &#1076;&#1088;&#1091;&#1075;&#1080; &#1087;&#1086;&#1076;&#1086;&#1073;&#1085;&#1080; &#1072;&#1082;&#1090;&#1086;&#1074;&#1077;. &#1042; &#1090;&#1086;&#1079;&#1080; &#1082;&#1086;&#1085;&#1090;&#1077;&#1082;&#1089;&#1090; &#8222;&#1086;&#1089;&#1085;&#1086;&#1074;&#1077;&#1085; &#1072;&#1082;&#1090;&#8220; &#1077; &#1090;&#1077;&#1088;&#1084;&#1080;&#1085;&#1098;&#1090;, &#1089; &#1082;&#1086;&#1080;&#1090;&#1086; &#1089;&#1077; &#1086;&#1073;&#1086;&#1079;&#1085;&#1072;&#1095;&#1072;&#1074;&#1072;&#1090; &#1072;&#1082;&#1090;&#1086;&#1074;&#1077;, &#1079;&#1072;&#1089;&#1077;&#1075;&#1085;&#1072;&#1090;&#1080; &#1086;&#1090; &#1087;&#1086;&#1089;&#1083;&#1077;&#1076;&#1074;&#1072;&#1097;&#1080; &#1080;&#1079;&#1084;&#1077;&#1085;&#1077;&#1085;&#1080;&#1103; (&#1089; &#1090;.&#1085;&#1072;&#1088;. &#8222;&#1072;&#1082;&#1090;&#1086;&#1074;&#1077; &#1079;&#1072; &#1080;&#1079;&#1084;&#1077;&#1085;&#1077;&#1085;&#1080;&#1077;&#8220;). \n \n</dct:description>\n<dct:description xml:lang=\"es\">  La legislaci&#243;n de la UE es parte esencial del Derecho de la UE. Los principales tipos de documentos de la legislaci&#243;n europea son las directivas, los reglamentos y las decisiones. \n\nCon el paso del tiempo, estos actos pueden someterse a modificaciones por medio de otros actos similares. En este contexto, el t&#233;rmino \"acto de base\" hace referencia a los actos afectados por modificaciones posteriores (denominados \"actos modificativos\" en oposici&#243;n a los \"actos de base\"). \n\n\n</dct:description>\n<dct:description xml:lang=\"cs\">  Velmi v&#253;znamnou &#269;&#225;st pr&#225;va EU tvo&#345;&#237; pr&#225;vn&#237; p&#345;edpisy EU. Hlavn&#237; typy legislativn&#237;ch dokument&#367; EU jsou sm&#283;rnice, na&#345;&#237;zen&#237; a rozhodnut&#237;. \n\nTyto akty mohou b&#253;t v pr&#367;b&#283;hu &#269;asu pozm&#283;n&#283;ny jin&#253;mi podobn&#253;mi pr&#225;vn&#237;mi p&#345;edpisy. V t&#233;to souvislosti term&#237;n &#8222;z&#225;kladn&#237; akt&#8220; odkazuje na akty ovlivn&#283;n&#233; pozd&#283;j&#353;&#237;mi zm&#283;nami (d&#225;le jen &#8222;pozm&#283;&#328;uj&#237;c&#237; akty&#8220;). \n\n\n</dct:description>\n<dct:description xml:lang=\"da\">  En meget relevant del af EU-retten er EU's lovgivning. De vigtigste dokumenttyper i EU-lovgivningen er direktiver, forordninger og afg&#248;relser. \nDisse retsakter kan blive &#230;ndret i tidens l&#248;b ved hj&#230;lp af andre lignende retsakter. I denne sammenh&#230;ng bruges termen \"basisretsakt\" om de retsakter, der er ber&#248;rt af senere &#230;ndringer (kaldet \"&#230;ndringsretsakter\" i mods&#230;tning til \"basisretsakter\"). \n\n\n</dct:description>\n<dct:description xml:lang=\"de\">  EU-Rechtsvorschriften sind ein sehr wichtiger Bestandteil der EU-Gesetzgebung. Die wichtigsten Textarten f&#252;r EU-Rechtsvorschriften sind Richtlinien, Verordnungen und Entscheidungen oder Beschl&#252;sse. \n\nDiese Rechtsakte k&#246;nnen im Lauf der Zeit durch &#228;hnliche Akte  abge&#228;ndert werden.  In diesem Zusammenhang bezieht sich der Begriff &#8222;Basisrechtsakt&#8220; auf die von sp&#228;teren Ab&#228;nderungen betroffenen Rechtsakte, die im Gegensatz zu den &#8222;Basisrechtsakten&#8220; als &#8222;&#196;nderungsrechtsakte&#8220; bezeichnet werden.  \n\n\n</dct:description>\n<dct:description xml:lang=\"et\">  V&#228;ga olulise osa Euroopa Liidu &#245;igusest moodustavad ELi &#245;igusaktid. Peamised ELi &#245;igusaktide dokumendiliigid on direktiivid, m&#228;&#228;rused ja otsused. \n\nNeid &#245;igusakte v&#245;idakse aja jooksul muuta muude samalaadsete &#245;igusaktidega. Selles kontekstis viitab m&#245;iste &#8222;alusakt&#8221; &#245;igusaktidele, mida on hiljem muudetud (asjaomastele aktidele viidatakse kui &#8222;muutmisaktidele&#8221;, mis on &#8222;alusaktide&#8221; vastandiks). \n\n\n</dct:description>\n<dct:description xml:lang=\"el\">  &#904;&#957;&#945; &#960;&#959;&#955;&#973; &#963;&#951;&#956;&#945;&#957;&#964;&#953;&#954;&#972; &#964;&#956;&#942;&#956;&#945; &#964;&#959;&#965; &#948;&#953;&#954;&#945;&#943;&#959;&#965; &#964;&#951;&#962; &#917;&#917; &#949;&#943;&#957;&#945;&#953; &#951; &#957;&#959;&#956;&#959;&#952;&#949;&#963;&#943;&#945; &#964;&#951;&#962; &#917;&#917;. &#932;&#945; &#954;&#973;&#961;&#953;&#945; &#949;&#943;&#948;&#951; &#949;&#947;&#947;&#961;&#940;&#966;&#969;&#957; &#964;&#951;&#962; &#957;&#959;&#956;&#959;&#952;&#949;&#963;&#943;&#945;&#962; &#964;&#951;&#962; &#917;&#917; &#949;&#943;&#957;&#945;&#953; &#959;&#953; &#959;&#948;&#951;&#947;&#943;&#949;&#962;, &#959;&#953; &#954;&#945;&#957;&#959;&#957;&#953;&#963;&#956;&#959;&#943; &#954;&#945;&#953; &#959;&#953; &#945;&#960;&#959;&#966;&#940;&#963;&#949;&#953;&#962;. \n\n&#927;&#953; &#960;&#961;&#940;&#958;&#949;&#953;&#962; &#945;&#965;&#964;&#941;&#962; &#949;&#957;&#948;&#941;&#967;&#949;&#964;&#945;&#953; &#957;&#945; &#964;&#961;&#959;&#960;&#959;&#960;&#959;&#953;&#959;&#973;&#957;&#964;&#945;&#953; &#954;&#940;&#960;&#959;&#953;&#945; &#963;&#964;&#953;&#947;&#956;&#942;, &#956;&#941;&#963;&#969; &#940;&#955;&#955;&#969;&#957; &#960;&#945;&#961;&#972;&#956;&#959;&#953;&#969;&#957; &#960;&#961;&#940;&#958;&#949;&#969;&#957;. &#931;&#964;&#959; &#960;&#955;&#945;&#943;&#963;&#953;&#959; &#945;&#965;&#964;&#972;, &#959; &#972;&#961;&#959;&#962; \"&#946;&#945;&#963;&#953;&#954;&#942; &#960;&#961;&#940;&#958;&#951;\" &#945;&#957;&#945;&#966;&#941;&#961;&#949;&#964;&#945;&#953; &#963;&#964;&#953;&#962; &#945;&#961;&#967;&#953;&#954;&#941;&#962; &#960;&#961;&#940;&#958;&#949;&#953;&#962; &#959;&#953; &#959;&#960;&#959;&#943;&#949;&#962; &#945;&#955;&#955;&#940;&#950;&#959;&#965;&#957; &#956;&#949;&#964;&#940; &#964;&#951;&#957; &#964;&#961;&#959;&#960;&#959;&#960;&#959;&#943;&#951;&#963;&#951; (&#951; &#959;&#960;&#959;&#943;&#945; &#959;&#957;&#959;&#956;&#940;&#950;&#949;&#964;&#945;&#953; \"&#964;&#961;&#959;&#960;&#959;&#960;&#959;&#953;&#951;&#964;&#953;&#954;&#942; &#960;&#961;&#940;&#958;&#951;\", &#963;&#949; &#945;&#957;&#964;&#953;&#948;&#953;&#945;&#963;&#964;&#959;&#955;&#942; &#960;&#961;&#959;&#962; &#964;&#951;&#957; \"&#946;&#945;&#963;&#953;&#954;&#942; &#960;&#961;&#940;&#958;&#951;\"). \n\n\n</dct:description>\n<dct:description xml:lang=\"fr\">  La l&#233;gislation de l&#8217;UE est une partie tr&#232;s importante du droit de l&#8217;UE. Les principaux types de documents de cette l&#233;gislation sont les directives, r&#232;glements et d&#233;cisions. \n\nAu cours du temps, ces actes peuvent &#234;tre modifi&#233;s par des actes similaires. Dans ce contexte, le terme &#171;actes de base&#187; d&#233;signe les actes modifi&#233;s par des actes post&#233;rieurs (d&#233;nomm&#233;s &#171;actes modificatifs&#187;, par opposition aux &#171;actes de base&#187;). \n\n\n</dct:description>\n<dct:description xml:lang=\"hr\">  Zakonodavstvo EU-a vrlo je va&#382;an dio prava EU-a. Glavne vrste zakonodavnih akata EU-a su direktive, uredbe i odluke. \n\nTi akti s vremenom mogu biti izmijenjeni drugim sli&#269;nim aktima. U ovom je kontekstu &#8222;temeljni akt&#8221; pojam koji se odnosi na akte koji su naknadno izmijenjeni (za razliku od &#8222;temeljnih akata&#8221;, ti se akti nazivaju &#8222;akti o izmjenama&#8221;). \n\n</dct:description>\n<dct:description xml:lang=\"it\">  La legislazione dell'UE &#232; una componente fondamentale del diritto dell'Unione europea. I principali tipi di documenti legislativi sono le direttive, i regolamenti e le decisioni. \n\nTali atti possono subire modifiche nel corso del tempo, mediante altri atti simili. In questo contesto, per \"atti di base\" si intendono gli atti interessati dalle modifiche posteriori (gli \"atti modificativi\", che si contrappongono appunto agli \"atti di base\"). \n\n\n</dct:description>\n<dct:description xml:lang=\"lv\">  &#315;oti svar&#299;ga ES ties&#299;bu da&#316;a ir ES ties&#299;bu akti. Noz&#299;m&#299;g&#257;kie ES ties&#299;bu akti ir direkt&#299;vas, regulas un l&#275;mumi. \n\nLaika gait&#257; &#353;ie akti var tikt groz&#299;ti ar citiem l&#299;dz&#299;giem aktiem. &#352;aj&#257; kontekst&#257; ar terminu &#8220;pamatakts&#8221; saprot aktu, kur&#353; v&#275;l&#257;k ir groz&#299;ts (proti, &#8220;groz&#299;jumu akts&#8221; pretstat&#257; &#8220;pamataktam&#8221;). \n\n\n</dct:description>\n<dct:description xml:lang=\"lt\">  Labai svarbi ES teis&#279;s dalis yra ES teis&#279;s aktai. Pagrindin&#279;s ES teis&#279;s akt&#371; r&#363;&#353;ys &#8211; direktyvos, reglamentai ir sprendimai. \n\nLaikui b&#279;gant &#353;ie aktai gali b&#363;ti i&#353; dalies kei&#269;iami kitais pana&#353;iais teis&#279;s aktais. &#352;iame kontekste &#8222;pagrindinis aktas&#8220; yra aktas, kuris v&#279;liau buvo kei&#269;iamas (dokumentai, kuriais i&#353; dalies kei&#269;iami aktai, vadinami i&#353; dalies kei&#269;ian&#269;iais aktais, norint juos atskirti nuo pagrindini&#371; akt&#371;). \n\n\n</dct:description>\n<dct:description xml:lang=\"hu\">  Az uni&#243;s jog gerinc&#233;t az uni&#243;s jogszab&#225;lyok alkotj&#225;k. A f&#337; dokumentumt&#237;pusok a k&#246;vetkez&#337;k: ir&#225;nyelvek, rendeletek &#233;s hat&#225;rozatok. \n\nA jogszab&#225;lyokat id&#337;nk&#233;nt m&#243;dos&#237;t&#243; jogszab&#225;lyok v&#225;ltj&#225;k fel. Az ut&#243;lag hozott, m&#243;dos&#237;t&#243; jogszab&#225;lyok el&#337;tti jogszab&#225;lyt h&#237;vjuk alap-jogiaktusnak. \n\n\n</dct:description>\n<dct:description xml:lang=\"mt\">  Parti rilevanti &#295;afna tal-li&#289;i tal-UE hija l-le&#289;i&#380;lazzjoni tal-UE. It-tipi ta&#8217; dokumenti ewlenin tal-le&#289;i&#380;lazzjoni tal-UE huma direttivi, regolamenti u de&#267;i&#380;jonijiet. \n\nDawn l-atti jistg&#295;u ji&#289;u emendati matul i&#380;-&#380;mien, permezz ta&#8217; atti simili o&#295;ra. F&#8217;dan il-kuntest, &#8220;Att ba&#380;iku&#8221; huwa t-terminu sabiex jirreferi g&#295;all-atti affettwati minn emendi posterjuri (iimsej&#295;a &#8220;atti ta' emenda&#8221;, kontra &#8220;atti ba&#380;i&#267;i&#8221;). \n\n\n</dct:description>\n<dct:description xml:lang=\"nl\">  De EU-wetgeving vormt een wezenlijk deel van het EU-recht. De belangrijkste soorten EU-wetgeving zijn richtlijnen, verordeningen, besluiten en beschikkingen. \n\nDeze besluiten kunnen in de loop der tijd worden gewijzigd door andere vergelijkbare besluiten. In dit verband wordt onder \"basisbesluit\" een besluit verstaan dat door een recenter besluit (\"wijzigingsbesluit\") is gewijzigd. \n\n\n</dct:description>\n<dct:description xml:lang=\"pl\">  Wa&#380;nym elementem prawa UE s&#261; unijne akty prawne. Podstawowe rodzaje unijnych akt&#243;w prawnych to dyrektywy, rozporz&#261;dzenia i decyzje. \n\nZ biegiem czasu mog&#261; one by&#263; zmieniane przy pomocy podobnych akt&#243;w prawnych. W tym kontek&#347;cie &#8222;akt podstawowy&#8221; oznacza akt, do kt&#243;rego wprowadzono zmiany  przy pomocy &#8222;akt&#243;w zmieniaj&#261;cych&#8221;. \n\n\n</dct:description>\n<dct:description xml:lang=\"pt\">  A legisla&#231;&#227;o europeia &#233; uma parte fundamental do direito europeu. Os principais tipos de atos legislativos da UE s&#227;o as diretivas, os regulamentos e as decis&#245;es. \n\nEstes atos podem ser alterados por outros atos similares. Neste contexto, entende-se por &#171;ato de base&#187;, o ato submetido a altera&#231;&#245;es posteriores (a seguir denominados &#171;atos modificativos&#187; por oposi&#231;&#227;o aos &#171;atos de base&#187;). \n\n\n</dct:description>\n<dct:description xml:lang=\"ro\">  O parte foarte relevant&#259; din dreptul UE este legisla&#539;ia UE. Principalele tipuri de documente legislative europene sunt directivele, regulamentele &#537;i deciziile. \n\nAceste acte pot suferi modific&#259;ri &#238;n timp, prin intermediul altor acte similare. &#206;n acest context, &#8222;act de baz&#259;&#8221; &#238;nseamn&#259; actele afectate de modific&#259;ri ulterioare (denumite &#238;n continuare &#8222;acte de modificare&#8221;, &#238;n opozi&#539;ie cu &#8222;acte de baz&#259;&#8221;). \n\n\n</dct:description>\n<dct:description xml:lang=\"sk\">  V&#253;znamnou s&#250;&#269;as&#357;ou prame&#328;ov pr&#225;va E&#218; s&#250; pr&#225;vne predpisy. Hlavn&#233; typy pr&#225;vnych predpisov E&#218; s&#250; smernice, nariadenia a rozhodnutia. \n\nTieto akty m&#244;&#382;u by&#357; &#269;asom novelizovan&#233; in&#253;mi podobn&#253;mi aktmi. V tomto kontexte pojem &#8222;z&#225;kladn&#253; akt&#8220; ozna&#269;uje akt, ktor&#253; je predmetom neskor&#353;&#237;ch zmien (opakom z&#225;kladn&#233;ho aktu je &#8222;pozme&#328;uj&#250;ci akt&#8220;). \n\n\n</dct:description>\n<dct:description xml:lang=\"sl\">  Zakonodaja EU je zelo pomemben del prava EU ter zajema direktive, uredbe in sklepe/odlo&#269;be. \n\nS sprejemanjem podobnih dokumentov se lahko ti akti s&#269;asoma spreminjajo. Temeljni akt je podlaga drugim, ki ga naknadno spreminjajo z drugimi akti (akt o spremembah v nasprotju s temeljnim aktom). \n\n\n</dct:description>\n<dct:description xml:lang=\"fi\">  Lains&#228;&#228;d&#228;nt&#246; on keskeinen osa EU:n oikeutta. EU-lains&#228;&#228;d&#228;nn&#246;n t&#228;rkeimm&#228;t asiakirjatyypit ovat direktiivi, asetus ja p&#228;&#228;t&#246;s. \n\nN&#228;ihin s&#228;&#228;d&#246;ksiin saatetaan ajan my&#246;t&#228; tehd&#228; muutoksia toisilla vastaavilla s&#228;&#228;d&#246;ksill&#228;. T&#228;ss&#228; yhteydess&#228; peruss&#228;&#228;d&#246;ksill&#228; tarkoitetaan s&#228;&#228;d&#246;ksi&#228;, joihin my&#246;hemmin niin kutsutuilla muutoss&#228;&#228;d&#246;ksill&#228; teht&#228;v&#228;t muutokset vaikuttavat. \n\n\n</dct:description>\n<dct:description xml:lang=\"sv\">  En mycket viktig del av EU-r&#228;tten &#228;r EU-lagstiftningen. EU-lagstiftningens vanligaste dokumenttyper &#228;r direktiv, f&#246;rordningar och beslut. \n\nDe &#228;ndras d&#229; och d&#229; genom andra liknande r&#228;ttsakter. &#8221;Grundl&#228;ggande akter&#8221; &#228;r ett begrepp som anv&#228;nds f&#246;r de r&#228;ttsakter som &#228;ndras genom senare &#228;ndringar (som kallas &#8221;&#228;ndringsakter&#8221; i motsats till de grundl&#228;ggande akterna). \n\n\n</dct:description>\n\n<dct:description xml:lang=\"ga\">Cuid an t&#225;bhachtach de dhl&#237; an Aontais Eorpaigh is ea reachta&#237;ocht an Aontais. Treoracha, rialach&#225;in agus cinnt&#237; na pr&#237;omhchine&#225;lacha doicim&#233;ad at&#225; i reachta&#237;ocht an Aontais Eorpaigh. \n\nLe himeacht ama, d'fh&#233;adfadh s&#233; go nd&#233;anfa&#237; leasuithe ar na gn&#237;omhartha sin, tr&#237; bh&#237;thin gn&#237;omhartha eile den chine&#225;l c&#233;anna. Sa chomhth&#233;acs seo, tagra&#237;onn 'gn&#237;omh bun&#250;sach' do na gn&#237;omhartha sin a nd&#233;anann leasuithe iardain difear d&#243;ibh (d&#225; ngairtear 'gn&#237;omhartha leasaitheacha' seachas 'gn&#237;omhartha bun&#250;sacha'). \n\n\n</dct:description>\n      <!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Identifier, 0..*-->\n      <ecodp:ckan-name>eu-legislation-basic-acts</ecodp:ckan-name>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"bg\">&#1087;&#1088;&#1072;&#1074;&#1086; &#1085;&#1072; &#1045;&#1057;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1079;&#1072;&#1082;&#1086;&#1085;&#1086;&#1076;&#1072;&#1090;&#1077;&#1083;&#1089;&#1090;&#1074;&#1086;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1054;&#1092;&#1080;&#1094;&#1080;&#1072;&#1083;&#1077;&#1085; &#1074;&#1077;&#1089;&#1090;&#1085;&#1080;&#1082; &#1085;&#1072; &#1045;&#1054;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1057;&#1098;&#1074;&#1077;&#1090; &#1085;&#1072; &#1045;&#1074;&#1088;&#1086;&#1087;&#1077;&#1081;&#1089;&#1082;&#1080;&#1103; &#1089;&#1098;&#1102;&#1079;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1045;&#1074;&#1088;&#1086;&#1087;&#1077;&#1081;&#1089;&#1082;&#1072; &#1082;&#1086;&#1084;&#1080;&#1089;&#1080;&#1103;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1045;&#1074;&#1088;&#1086;&#1087;&#1077;&#1081;&#1089;&#1082;&#1080; &#1087;&#1072;&#1088;&#1083;&#1072;&#1084;&#1077;&#1085;&#1090;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1086;&#1089;&#1085;&#1086;&#1074;&#1085;&#1080; &#1072;&#1082;&#1090;&#1086;&#1074;&#1077;</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"es\">Derecho de la UE</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">legislaci&#243;n</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">Diario Oficial UE</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">Consejo de la Uni&#243;n Europea</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">Comisi&#243;n Europea</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">Parlamento Europeo</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">texto de base</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"cs\">pr&#225;vo EU</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">legislativa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">legislativn&#237; postupy</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">Dokon&#269;en&#253; postup</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">&#218;&#345;edn&#237; v&#283;stn&#237;k Evropsk&#233; unie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">Rada Evropsk&#233; unie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">Evropsk&#225; komise</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">Evropsk&#253; parlament</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">z&#225;kladn&#237; akty</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"da\">EU-ret</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">lovgivning</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">EU-Tidende</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">Gennemf&#248;relsesdirektiv</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">R&#229;det for Den Europ&#230;iske Union</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">Europa-Kommissionen</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">Europa-Parlamentet</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">grundl&#230;ggende retsakter</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"de\">EU-Recht</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Gesetzgebung</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Amtsblatt EU</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Durchf&#252;hrungsrichtlinie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Rat der Europ&#228;ischen Union</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Europ&#228;ische Kommission</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Europ&#228;isches Parlament</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">zugrundeliegende Rechtsakte</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\"/>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"el\">&#948;&#943;&#954;&#945;&#953;&#959; &#964;&#951;&#962; &#917;&#917;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#957;&#959;&#956;&#959;&#952;&#949;&#963;&#943;&#945;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#917;&#960;&#943;&#963;&#951;&#956;&#951; &#917;&#966;&#951;&#956;&#949;&#961;&#943;&#948;&#945; &#964;&#969;&#957; &#917;&#917;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#931;&#965;&#956;&#946;&#959;&#973;&#955;&#953;&#959; &#964;&#951;&#962; &#917;&#965;&#961;&#969;&#960;&#945;&#970;&#954;&#942;&#962; &#904;&#957;&#969;&#963;&#951;&#962;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#917;&#965;&#961;&#969;&#960;&#945;&#970;&#954;&#942; &#917;&#960;&#953;&#964;&#961;&#959;&#960;&#942;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#917;&#965;&#961;&#969;&#960;&#945;&#970;&#954;&#972; &#922;&#959;&#953;&#957;&#959;&#946;&#959;&#973;&#955;&#953;&#959;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#963;&#964;&#953;&#962; &#946;&#945;&#963;&#953;&#954;&#941;&#962; &#960;&#961;&#940;&#958;&#949;&#953;&#962;</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"en\">EU law</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">legislation</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">basic acts</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">EU Official Journal</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">Council of the European Union</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">European Commission</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">European Parliament</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">Regulation</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">basic acts</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">decision</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">directive</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"et\">ELi &#245;igus</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">seadusandlus</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">K&#228;imasolev menetlus Euroopa Liidu Teataja</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">rakendusdirektiiv</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">Euroopa Liidu N&#245;ukogu</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">Euroopa Komisjon</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">Euroopa Parlament</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">alusaktid</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"fr\">droit de l'UE</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">l&#233;gislation</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">Journal officiel UE</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">Conseil de l'Union europ&#233;enne</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">Commission europ&#233;enne</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">Parlement europ&#233;en</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">Proc&#233;dures l&#233;gislatives</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">Proc&#233;dure achev&#233;e</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">actes de base</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"ga\">Comhairle an Aontais Eorpaigh</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ga\">An Coimisi&#250;n Eorpach</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ga\">Parlaimint na hEorpa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ga\">EU law</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ga\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ga\">Comhfhogas&#250; dl&#237;the</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ga\">Gn&#237;omhartha bun&#250;sacha</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"hr\">pravo EU-a</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">zakonodavstvo</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">Slu&#382;beni list EU-a</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">Vije&#263;e Europske unije</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">Europska komisija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">Europski parlament</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">osnovne akte</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"it\">diritto dell'UE</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">legislazione</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">Gazzetta ufficiale UE</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">Consiglio dell&#8217;Unione europea</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">Commissione europea</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">Parlamento europeo</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">atti di base</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"lv\">ES ties&#299;bas</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">likumdo&#353;ana</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">Eiropas Savien&#299;bas Ofici&#257;lais V&#275;stnesis</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">Eiropas Savien&#299;bas Padome</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">Eiropas Komisija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">Eiropas Parlaments</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">pamatakti</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"lt\">ES teis&#279;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">teis&#279;k&#363;ra</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">ES oficialusis leidinys</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">Europos S&#261;jungos Taryba</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">Europos Komisija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">Europos Parlamentas</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">pagrindiniai aktai</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"hu\">uni&#243;s jog</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">t&#246;rv&#233;nyalkot&#225;s</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">az EU Hivatalos Lapja</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">Az Eur&#243;pai Uni&#243; Tan&#225;csa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">Eur&#243;pai Bizotts&#225;g</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">Eur&#243;pai Parlament</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">alap-jogiaktusokra</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"mt\">li&#289;i tal-UE</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">Il-&#288;urnal Uffi&#267;jali ta&#8217; l-Unjoni Ewropea</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">Il-Kunsill tal-Unjoni Ewropea</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">Il-Kummissjoni Ewropea</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">Il-Parlament Ewropew</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">atti ba&#380;i&#267;i</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"nl\">EU-recht</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">wetgeving</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">Publicatieblad EU</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">Raad van de Europese Unie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">Europese Commissie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">Europees Parlement</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">basisbesluiten</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"pl\">prawo unijne</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">ustawodawstwo</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">Dziennik Urz&#281;dowy UE</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">Rada Unii Europejskiej</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">Komisja Europejska</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">Parlament Europejski</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">akty podstawowe</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"pt\">direito da EU</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">legisla&#231;&#227;o</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">Jornal Oficial EU</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">Conselho da Uni&#227;o Europeia</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">Comiss&#227;o Europeia</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">Parlamento Europeu</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">atos de base</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"ro\">legisla&#539;ia EU</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">legisla&#539;ie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">Jurnal Oficial al Uniunii Europene</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">Consiliul Uniunii Europene</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">Comisia European&#259;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">Parlamentul European</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">actele de baz&#259;</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"sk\">pr&#225;vo E&#218;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">legislat&#237;va</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">&#218;radn&#253; vestn&#237;k E&#218;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">Rada Eur&#243;pskej &#250;nie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">Eur&#243;pska komisia</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">Eur&#243;psky parlament</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">z&#225;kladn&#233; akty</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"sl\">pravo EU</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">zakonodaja</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">Uradni list EU</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">Svet Evropske unije</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">Evropska komisija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">Evropski parlament</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">temeljnih aktih</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"fi\">unionin oikeus</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fi\">lains&#228;&#228;d&#228;nt&#246;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fi\">Euroopan unionin virallinen lehti</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fi\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fi\">Euroopan unionin neuvosto</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fi\">Euroopan komissio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fi\">Euroopan parlamentti</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fi\">perusasiakirjoihin</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"sv\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">Europeiska unionens r&#229;d</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">Europeiska kommissionen</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">Europaparlamentet</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">EU-r&#228;tt</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">tilln&#228;rmning av lagstiftning</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">Europeiska unionens officiella tidning</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">grundl&#228;ggande r&#228;ttsakter</ecodp:keyword>\n      <!--Identifier, 0..*--><!--Interoperability level, 0..1--><ecodp:interoperabilityLevel>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/interoperability-level/Legal\"/>\n       </ecodp:interoperabilityLevel>\n\t    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100145\"/> \n\t  <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100144\"/> \n\t <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1589\"/>\n      <!--Dataset type, 0..--><!--Documentation, 0..--><!--valid value are in set of  : Main Related WebPage--><!--Distribution, 0..--><dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1-->\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://eur-lex.europa.eu/search.html?REP=REP&amp;instInvStatus=ALL&amp;qid=1414072917933&amp;DTC=false&amp;DTS_DOM=EU_LAW&amp;type=advanced&amp;lang=en&amp;SUBDOM_INIT=LEGISLATION&amp;DTS_SUBDOM=LEGISLATION</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>text/html</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">List of basic legislative acts</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n      <dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://eur-lex.europa.eu/advanced-search-form.html</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>text/html</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Advanced Search</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n      <dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://eur-lex.europa.eu/browse/directories/legislation.html</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>text/html</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Directory of European Union legislation - legislation in force</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n\t\t  <dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://eur-lex.europa.eu/browse/directories/legislation.html?displayProfile=allRelAllConsDocProfile&amp;classification=not-in-force</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>text/html</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Directory of European Union legislation - legislation not in force</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n      <!--Catalog record , 0..*--><!--Geographical coverage , 0..*--><dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/AUT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BEL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CYP\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CZE\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DNK\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/EST\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GRC\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ESP\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FIN\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FRA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HRV\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/IRL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ITA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LTU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LUX\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LVA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/MLT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/NLD\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/POL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/PRT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ROU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SWE\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVN\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVK\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GBR\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BGR\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DEU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HUN\"/>\n      </dct:spatial>\n      <!--Publisher , 1..1--><dct:publisher>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/PUBL\"/>\n      </dct:publisher>\n      <!--Contact point , 0..1--><ecodp:contactPoint>\n         <foaf:Agent rdf:about=\"http://publications.europa.eu/\"><!--Contact point telephone, 0..1--><!--Contact point email, 0..1--><!--Contact point web page, 0..1--><foaf:workplaceHomepage rdf:resource=\"http://eur-lex.europa.eu/contact.html\"/>\n            <!--Contact point address, 0..1--><!--Contact point name, 1..1--><foaf:name xml:lang=\"en\">Publications Office of the European Union</foaf:name>\n         </foaf:Agent>\n      </ecodp:contactPoint>\n      <!--Dateset  issued , 0..1  []--><!--Dateset  last modified , 0..1--><!--Version 0..1--><!--License 1..--><dct:license>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n      </dct:license>\n      <!--Status 1..1--><ecodp:datasetStatus>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n      </ecodp:datasetStatus>\n      <!--Language 0..--><dct:language>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n      </dct:language>\n      <!--valid value are in set of  : Main Related WebPage--><!--Accrual Periodicity--><ecodp:accrualPeriodicity xml:lang=\"en\">daily</ecodp:accrualPeriodicity>\n      <!--Temporal coverage (periode) 0..1--></dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/eu-legislation-basic-acts\"><foaf:primaryTopic>http://eur-lex.europa.eu/oj/direct-access.html</foaf:primaryTopic><dct:modified>2014-10-29T07:42:35.011245</dct:modified><dct:issued>2014-10-29T07:42:35.011245</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://eur-lex.europa.eu/contact.html", 
+    "organization": {
+        "description": "", 
+        "title": "Publications Office", 
+        "created": "2012-12-12T13:50:56.476905", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:56.451833", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "702713e9-905d-4061-9847-18d42c3d395d", 
+        "type": "organization", 
+        "id": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+        "name": "publ"
+    }, 
+    "revision_id": "9f0a22d0-7130-4b65-8a87-3dc9a1e037ce"
+}

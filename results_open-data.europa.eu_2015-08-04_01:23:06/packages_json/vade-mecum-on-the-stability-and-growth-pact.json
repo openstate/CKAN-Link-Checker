@@ -1,0 +1,252 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 21, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU27"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Budget", 
+            "name": "Budget", 
+            "revision_timestamp": "2013-07-25T12:29:00.682283", 
+            "state": "active", 
+            "id": "d227ebef-5667-4b88-8a86-813063d9aaa5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Convergence Programmes", 
+            "name": "Convergence Programmes", 
+            "revision_timestamp": "2013-07-25T18:19:37.700213", 
+            "state": "active", 
+            "id": "5c4a1c99-5618-4f51-a527-5b05d5d1cc42"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Euro area", 
+            "name": "Euro area", 
+            "revision_timestamp": "2013-07-25T18:19:37.700213", 
+            "state": "active", 
+            "id": "ea77409e-f819-4d19-86fa-26b7519303ef"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Union", 
+            "name": "European Union", 
+            "revision_timestamp": "2013-07-25T12:29:00.682283", 
+            "state": "active", 
+            "id": "8442a859-c90c-4f14-b0e0-54d20a2835ee"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Fiscal policies", 
+            "name": "Fiscal policies", 
+            "revision_timestamp": "2013-07-25T12:29:00.682283", 
+            "state": "active", 
+            "id": "5c68c09f-bb76-419d-a2ee-6e9d62b0f732"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "General government deficit", 
+            "name": "General government deficit", 
+            "revision_timestamp": "2013-07-25T12:29:00.682283", 
+            "state": "active", 
+            "id": "9b906f02-5e87-4dc1-bebb-1b8e23b458d6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Legislation", 
+            "name": "Legislation", 
+            "revision_timestamp": "2013-07-25T12:29:00.682283", 
+            "state": "active", 
+            "id": "7420dcd8-aa9e-4385-a294-276e91407160"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Public debt", 
+            "name": "Public debt", 
+            "revision_timestamp": "2013-07-25T12:30:18.574190", 
+            "state": "active", 
+            "id": "f4eb5237-0417-486a-a6cf-8d85a684730c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Public deficit", 
+            "name": "Public deficit", 
+            "revision_timestamp": "2013-07-25T12:30:18.574190", 
+            "state": "active", 
+            "id": "d34f3837-cd57-4517-a23e-6db68852b2d2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Public finance", 
+            "name": "Public finance", 
+            "revision_timestamp": "2013-07-25T12:29:00.682283", 
+            "state": "active", 
+            "id": "6b66ad19-cce3-4b93-95c4-c034f567df44"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Stability and Growth Pact", 
+            "name": "Stability and Growth Pact", 
+            "revision_timestamp": "2013-07-25T18:19:37.700213", 
+            "state": "active", 
+            "id": "837c14e9-952b-4504-b79d-b28c1d8764eb"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Two Pack", 
+            "name": "Two Pack", 
+            "revision_timestamp": "2013-07-25T18:19:37.700213", 
+            "state": "active", 
+            "id": "070d4053-2cb8-43c5-9151-dc59e1712d7b"
+        }
+    ], 
+    "contact_name": "DG Economic and Financial Affairs (ECFIN) - Unit R5 - Communication", 
+    "id": "c01f20e2-0e53-4b77-96a9-71ae76244056", 
+    "metadata_created": "2015-07-27T16:21:07.166056", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T16:21:07.167151", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2504", 
+            "name": "http://eurovoc.europa.eu/2504", 
+            "revision_timestamp": "2015-02-02T10:05:20.794774", 
+            "state": "active", 
+            "id": "9f69c8e8-2d4e-4641-ade8-f2fd58c89c7b"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4602", 
+            "name": "http://eurovoc.europa.eu/4602", 
+            "revision_timestamp": "2015-02-02T10:05:20.794774", 
+            "state": "active", 
+            "id": "f5bd122c-ab8d-482e-8dc8-de6254fc40de"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6212", 
+            "name": "http://eurovoc.europa.eu/6212", 
+            "revision_timestamp": "2015-02-02T10:05:20.794774", 
+            "state": "active", 
+            "id": "3efd65ee-5d75-4e41-b2d9-48cdfb5022fc"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1018", 
+            "name": "http://eurovoc.europa.eu/1018", 
+            "revision_timestamp": "2015-02-02T10:05:20.794774", 
+            "state": "active", 
+            "id": "5860711e-1680-434a-ae36-2c7bec0d3855"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/424", 
+            "name": "http://eurovoc.europa.eu/424", 
+            "revision_timestamp": "2015-02-02T10:05:20.794774", 
+            "state": "active", 
+            "id": "26bbe068-3c29-4777-8ef9-3396e5595697"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "3c17b94b-811b-4aa8-94c5-558e0b8f715e", 
+            "revision_timestamp": "2013-12-17T15:25:06.584654", 
+            "datastore_active": false, 
+            "id": "989be863-0ef9-4265-a263-b8ff1265cfac", 
+            "size": "4853077", 
+            "state": "active", 
+            "hash": "", 
+            "description": "This vade mecum is a manual prepared by DG ECFIN presenting the procedures and methodologies for implementing the Stability and Growth Pact (SGP), the rule-based framework for fiscal policy in the European Union. It is primarily aimed at individuals and organisations working on public finance issues in European Union (EU) countries, but should be of interest for anyone wanting an in-depth understanding of the SGP's functioning or searching for details on its implementation. It presents the legal basis, methodologies and procedures for implementing the SGP's two arms \u2013 the preventive arm and the corrective arm", 
+            "format": "application/pdf", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2013-07-08T13:19:39", 
+            "url_type": null, 
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "name": "Vade mecum on the Stability and Growth Pact", 
+            "created": "2013-07-25T12:42:02.632012", 
+            "url": "http://ec.europa.eu/economy_finance/publications/occasional_paper/2013/pdf/ocp151_en.pdf", 
+            "webstore_url": "enabled", 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "5018da76-7004-4aa8-a163-d7450e9cf6e0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "This vade mecum is a manual prepared by DG ECFIN presenting the procedures and methodologies for implementing the Stability and Growth Pact (SGP), the rule-based framework for fiscal policy in the European Union. It is primarily aimed at individuals and organisations working on public finance issues in European Union (EU) countries, but should be of interest for anyone wanting an in-depth understanding of the SGP's functioning or searching for details on its implementation. It presents the legal basis, methodologies and procedures for implementing the SGP's two arms \u2013 the preventive arm and the corrective arm.", 
+    "title": "Vade mecum on the Stability and Growth Pact", 
+    "tracking_summary": {
+        "total": 261, 
+        "recent": 3
+    }, 
+    "contact_email": "Ecfin-Info@ec.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T16:21:07.166056", 
+    "name": "vade-mecum-on-the-stability-and-growth-pact", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "release_date": "2013-05", 
+    "owner_org": "54319292-2f80-4f60-afaf-1ec2476d6eed", 
+    "contact_address": "European Commission, Directorate-General for Economic and Financial Affairs, Publications, B-1049 Brussels, Belgium", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/economy_finance/contact_en.htm", 
+    "url": "http://ec.europa.eu/economy_finance/publications/occasional_paper/2013/op151_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Economic and Financial Affairs", 
+        "created": "2012-12-12T13:50:48.171840", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:48.147135", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "01ccf212-6a3e-41fc-addf-55941413bf89", 
+        "type": "organization", 
+        "id": "54319292-2f80-4f60-afaf-1ec2476d6eed", 
+        "name": "ecfin"
+    }, 
+    "revision_id": "bee61d17-8319-4bd2-8c3b-21a5530d1b4a", 
+    "identifier": "ISBN 978-92-79-29353-5, doi: 10.2765/47845, ISSN 1725-3209", 
+    "version_description": ""
+}

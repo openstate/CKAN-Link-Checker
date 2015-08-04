@@ -1,0 +1,243 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "50950fa3-8e80-493a-bc41-d04467c9f1e1", 
+    "metadata_created": "2014-12-22T09:50:17.161670", 
+    "modified_date": "2015-06-15", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:17:04.116521", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3659", 
+            "name": "http://eurovoc.europa.eu/3659", 
+            "revision_timestamp": "2015-03-03T19:13:59.851239", 
+            "state": "active", 
+            "id": "594c40af-ba49-4b83-b3df-c57038596f66"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/83", 
+            "name": "http://eurovoc.europa.eu/83", 
+            "revision_timestamp": "2015-03-03T19:13:59.851239", 
+            "state": "active", 
+            "id": "854914bb-6c6b-43b3-8947-3359b3212b78"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1469", 
+            "name": "http://eurovoc.europa.eu/1469", 
+            "revision_timestamp": "2015-03-03T19:13:59.851239", 
+            "state": "active", 
+            "id": "98a6a5ca-9d52-43fa-a102-0d8561bdd067"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4050", 
+            "name": "http://eurovoc.europa.eu/4050", 
+            "revision_timestamp": "2015-03-03T19:13:59.851239", 
+            "state": "active", 
+            "id": "1978694c-2b0b-4111-af02-57cf5e045e44"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00185.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:17:04.217777", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:17:04.112360", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "4c5f0018-f2b6-400f-9740-6dc8f8e08f9c", 
+            "size": null, 
+            "resource_group_id": "37abf0e8-4bb0-4e38-866c-d4b9a27947ea", 
+            "id": "afa16094-11f9-4314-a37f-c1d7ec800e37", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00185.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:17:04.217784", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:17:04.112360", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "4c5f0018-f2b6-400f-9740-6dc8f8e08f9c", 
+            "size": null, 
+            "resource_group_id": "37abf0e8-4bb0-4e38-866c-d4b9a27947ea", 
+            "id": "75966b73-90fd-4f87-a7ad-d53895105105", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ilc_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ilc_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:17:04.217731", 
+            "tracking_summary": {
+                "total": 3, 
+                "recent": 2
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:17:04.112360", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "4c5f0018-f2b6-400f-9740-6dc8f8e08f9c", 
+            "size": null, 
+            "resource_group_id": "37abf0e8-4bb0-4e38-866c-d4b9a27947ea", 
+            "id": "2d3c8f53-c05f-436e-836f-7fc48f55130d", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ilc_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:17:04.217761", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:17:04.112360", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "4c5f0018-f2b6-400f-9740-6dc8f8e08f9c", 
+            "size": null, 
+            "resource_group_id": "37abf0e8-4bb0-4e38-866c-d4b9a27947ea", 
+            "id": "bb74d7fb-3123-4bf0-b3af-107c3f6c1fa8", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00185", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:17:04.217770", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:17:04.112360", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "4c5f0018-f2b6-400f-9740-6dc8f8e08f9c", 
+            "size": null, 
+            "resource_group_id": "37abf0e8-4bb0-4e38-866c-d4b9a27947ea", 
+            "id": "557d8a76-9f6d-4b81-abea-a2dffc32d0dd", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "As formal arrangements are considered four types of childcare and education: Education at pre-school, Education at compulsory school, Childcare at centre-based services outside school hours (before/after) and Childcare at day-care centre. Therefore, formal arrangements include all kind of care organised/controlled by a structure (public, private). Care provided by childminders without any structure between the carer and the parents (direct arrangements) have been excluded from the definition of \"formal care\" in order to take into account only childcare recognised as fulfilling certain quality patterns. The duration refers to average number of hours during a usual week. This information is collected from EU-SILC.", 
+    "title": "Formal child care by duration and age group", 
+    "temporal_coverage_from": "2005", 
+    "tracking_summary": {
+        "total": 3, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:50:17.161670", 
+    "name": "JL5rITnPOvJI7d7z92Gtg", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00185", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tps00185\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100149\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1469\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4050\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/3659\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/83\"/>\n    <dct:title xml:lang=\"en\">Formal child care by duration and age group</dct:title>\n    <dct:title xml:lang=\"fr\">Syst&#232;me formel de garde d'enfants par dur&#233;e et tranche d'&#226;ge</dct:title>\n    <dct:title xml:lang=\"de\">Formale Kinderbetreuung nach Altersklassen und zeitlicher Nutzung</dct:title>\n    <dct:identifier>tps00185</dct:identifier>\n    <dct:description xml:lang=\"en\">As formal arrangements are considered four types of childcare and education: Education at pre-school, Education at compulsory school, Childcare at centre-based services outside school hours (before/after) and Childcare at day-care centre. Therefore, formal arrangements include all kind of care organised/controlled by a structure (public, private). Care provided by childminders without any structure between the carer and the parents (direct arrangements) have been excluded from the definition of \"formal care\" in order to take into account only childcare recognised as fulfilling certain quality patterns. The duration refers to average number of hours during a usual week. This information is collected from EU-SILC.</dct:description>\n    <dct:description xml:lang=\"fr\">Quatre types de garde d'enfants et d'&#233;ducation sont consid&#233;r&#233;s comme des syst&#232;mes formels: l'&#233;ducation pr&#233;scolaire, l'&#233;ducation &#224; l'&#233;cole obligatoire, les gardes d'enfants dans des centres en dehors des heures scolaires (avant/apr&#232;s) et les gardes d'enfants dans des centres de jour. Par cons&#233;quent les syst&#232;mes formels incluent tous types de garde organis&#233;s/contr&#244;l&#233;s par une structure (publique, priv&#233;e). Les gardes effectu&#233;es par des personnes en accords directs avec les parents (en dehors de toute structure) ont &#233;t&#233; exclues de la d&#233;finition de syst&#232;me formel de garde\" dans le but de ne prendre en compte que les gardes d'enfant conformes &#224; certains standards de qualit&#233;. La dur&#233;e fait r&#233;f&#233;rence &#224; un nombre moyen d'heures pendant une semaine classique. Cette information provient du syst&#232;me EU-SILC.\"</dct:description>\n    <dct:description xml:lang=\"de\">Als formale Vereinbarung werden vier Arten der Kinderbetreuung und -erziehung ber&#252;cksichtigt: Erziehung im Vorschulalter, Erziehung im schulpflichtigen Alter, Kinderbetreuung in zentralen Einrichtungen au&#223;erhalb der Schule (vorher/nachher) und Kinderbetreuung in Tagesst&#228;tten. Somit schlie&#223;en die formalen Vereinbarungen\" alle organisierten und kontrollierten Kinderbetreuungssysteme (&#246;ffentlich/privat) mit ein. Kinderbetreuung durch Tagesm&#252;tter, die keine formalen Strukturen zwischen dem Betreuer und den Eltern aufweisen (direkte Vereinbarungen) sind von der Definition der formalen Betreuung ausgenommen, da darin nur r Kinderbetreuung mit bestimmten Qualit&#228;tsmustern ber&#252;cksichtigt werden.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ilc_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ilc_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tps00185</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00185.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00185.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-06-15</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2005</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/JL5rITnPOvJI7d7z92Gtg\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tps00185</foaf:primaryTopic><dct:modified>2015-07-31T07:38:47.843764</dct:modified><dct:issued>2014-12-22T09:50:17.161670</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "cdb276c1-512d-4ebc-ac3d-4627343ee421", 
+    "identifier": "tps00185"
+}

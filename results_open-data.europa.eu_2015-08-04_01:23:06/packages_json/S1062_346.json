@@ -1,0 +1,235 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 10, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/FRA"
+    ], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "europeenne", 
+            "name": "europeenne", 
+            "revision_timestamp": "2015-02-03T06:06:59.319974", 
+            "state": "active", 
+            "id": "1f826e96-547e-4683-9dd4-92938e642f4c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "flash", 
+            "name": "flash", 
+            "revision_timestamp": "2015-02-03T06:06:59.319974", 
+            "state": "active", 
+            "id": "1430b17f-d2e7-4e35-8756-8ab91bf0c93a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "fran\u00e7ais", 
+            "name": "fran\u00e7ais", 
+            "revision_timestamp": "2015-02-03T06:06:59.319974", 
+            "state": "active", 
+            "id": "cc46dcea-7afa-47be-8d0f-56aedd7618a4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "opinion", 
+            "name": "opinion", 
+            "revision_timestamp": "2015-02-03T06:06:59.319974", 
+            "state": "active", 
+            "id": "ad523f58-00d0-4a16-8b0e-bb718601c398"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "polls", 
+            "name": "polls", 
+            "revision_timestamp": "2015-02-03T06:06:59.319974", 
+            "state": "active", 
+            "id": "c086ca00-bd50-4cea-9bad-4b7188c3c51d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "surveys", 
+            "name": "surveys", 
+            "revision_timestamp": "2015-02-03T06:06:59.319974", 
+            "state": "active", 
+            "id": "57740d91-e252-47af-b95c-578300b9880f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "union", 
+            "name": "union", 
+            "revision_timestamp": "2015-02-03T06:06:59.319974", 
+            "state": "active", 
+            "id": "6886c945-43f5-460d-b6eb-2ee0a0ebddf6"
+        }
+    ], 
+    "contact_name": "DG COMM", 
+    "id": "a754cebe-603f-4828-a2c7-5b4c1f5c83a5", 
+    "metadata_created": "2015-02-03T06:06:59.319974", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:49:21.889333", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "v1.00", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "flash_arch_360_345_en.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/public_opinion/archives/flash_arch_360_345_en.htm#346", 
+            "datastore_active": false, 
+            "created": "2015-02-03T07:06:59.447748", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:49:21.888288", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "6baa90be-325c-4e90-905e-e97118189c94", 
+            "size": null, 
+            "resource_group_id": "f4e9cf59-0241-4f6a-b801-0a207bfaa4bc", 
+            "id": "af8013d0-ab9a-45cc-a764-bf8f9436630d", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "Detailed information on public opinion website"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: FL346 Volume A", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?DFB1F59844AD40920672AB53672DC110", 
+            "datastore_active": false, 
+            "created": "2015-02-03T07:06:59.447769", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:49:21.888288", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "6baa90be-325c-4e90-905e-e97118189c94", 
+            "size": null, 
+            "resource_group_id": "f4e9cf59-0241-4f6a-b801-0a207bfaa4bc", 
+            "id": "09da84a8-c0a5-40c6-b417-3162a2fe67fd", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to FL346 Volume A.zip"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: FL346 Volume AP", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?E0F326C840C2FD8539D6A4424E78E3CA", 
+            "datastore_active": false, 
+            "created": "2015-02-03T07:06:59.447777", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:49:21.888288", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "6baa90be-325c-4e90-905e-e97118189c94", 
+            "size": null, 
+            "resource_group_id": "f4e9cf59-0241-4f6a-b801-0a207bfaa4bc", 
+            "id": "4b780a7a-0519-4a50-91fa-768392c6bd39", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to FL346 Volume AP.zip"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: FL346 Volume C", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?4FECE7AA20AC8B5AE5017C6705A9F288", 
+            "datastore_active": false, 
+            "created": "2015-02-03T07:06:59.447784", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:49:21.888288", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "6baa90be-325c-4e90-905e-e97118189c94", 
+            "size": null, 
+            "resource_group_id": "f4e9cf59-0241-4f6a-b801-0a207bfaa4bc", 
+            "id": "2424a570-c093-4f0b-bd33-53c5b1c07448", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to FL346 Volume C.zip"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 4, 
+    "description": "Enqu\u00eate sur les attitudes des Fran\u00e7ais vis-\u00e0-vis de l\u2019Union europ\u00e9enne. Des enqu\u00eates similaires avaient d\u00e9j\u00e0 \u00e9t\u00e9 r\u00e9alis\u00e9es en 2006 (EB Flash 178) et en 2009 (EB Flash 230). Certaines questions sont d\u2019ailleurs tir\u00e9es des questionnaires pr\u00e9c\u00e9dents, tandis que d\u2019autres sont nouvelles.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume C: Country/socio-demographics", 
+    "title": "Flash Eurobarometer 346: Les Fran\u00e7ais et l'Union europ\u00e9enne", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "tracking_summary": {
+        "total": 20, 
+        "recent": 4
+    }, 
+    "contact_email": "Eurobarometer@ec.europa.eu", 
+    "groups": [], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-02-03T06:06:59.319974", 
+    "name": "S1062_346", 
+    "isopen": true, 
+    "alternative_title": "Les fran\u00e7ais et l'Union europ\u00e9enne", 
+    "url": "http://ec.europa.eu/public_opinion/archives/flash_arch_360_345_en.htm#346", 
+    "release_date": "2015-01-19", 
+    "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a", 
+    "contact_address": "Rue de La Loi, 56, Brussels", 
+    "rdf": "<rdf:RDF xmlns=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\"><dcat:Dataset rdf:about=\"http://ec.europa.eu/public_opinion/archives/flash_arch_360_345_en.htm#346\"><!-- Title, 1..1 - can be filled in in multiple translations though-->\n\t\t\t\t\t\t<dct:title xml:lang=\"en\">Flash Eurobarometer 346: Les Fran&#231;ais et l'Union europ&#233;enne</dct:title> <!-- A name given to the resource --><!-- Alternative Title(s), 0..*-->\n\t\t\t\t\t\t<dct:alternative xml:lang=\"en\">Les fran&#231;ais et l'Union europ&#233;enne</dct:alternative> <!-- An alternative name for the resource --><ecodp:ckan-name>S1062_346</ecodp:ckan-name><!-- Description, 1..*-->\n\t\t\t\t\t\t<dct:description xml:lang=\"en\">Enqu&#234;te sur les attitudes des Fran&#231;ais vis-&#224;-vis de l&#8217;Union europ&#233;enne. Des enqu&#234;tes similaires avaient d&#233;j&#224; &#233;t&#233; r&#233;alis&#233;es en 2006 (EB Flash 178) et en 2009 (EB Flash 230). Certaines questions sont d&#8217;ailleurs tir&#233;es des questionnaires pr&#233;c&#233;dents, tandis que d&#8217;autres sont nouvelles.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume C: Country/socio-demographics  </dct:description><!--An unambiguous reference to the resource within a given context -->\n\t\t\t\t\t\t<dct:identifier>S1062_346</dct:identifier><!-- Keyword, 0..*--><ecodp:keyword xml:lang=\"en\">fran&#231;ais</ecodp:keyword><ecodp:keyword xml:lang=\"en\">union</ecodp:keyword><ecodp:keyword xml:lang=\"en\">europeenne</ecodp:keyword><ecodp:keyword xml:lang=\"en\">opinion</ecodp:keyword><ecodp:keyword xml:lang=\"en\">polls</ecodp:keyword><ecodp:keyword xml:lang=\"en\">flash</ecodp:keyword><ecodp:keyword xml:lang=\"en\">surveys</ecodp:keyword><!-- Documentation details -->\n\t\t\t\t\t\t<ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<ecodp:documentationType>\n\t\t\t\t\t\t    \t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n\t\t\t\t\t\t\t</ecodp:documentationType>\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Detailed information on public opinion website</dct:title>\n\t\t\t\t\t\t\t<dct:title xml:lang=\"fr\">Plus d'informations sur l'opinion publique site</dct:title>\n\t\t\t\t\t\t\t<!--Kumar: Shall be populated manually -->\n\t\t\t\t\t\t\t<ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/public_opinion/archives/flash_arch_360_345_en.htm#346</ecodp:accessURL>\n\t\t\t\t\t\t</ecodp:isDocumentedBy><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to FL346 Volume A.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: FL346 Volume A</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?DFB1F59844AD40920672AB53672DC110</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-01-13</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to FL346 Volume AP.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: FL346 Volume AP</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?E0F326C840C2FD8539D6A4424E78E3CA</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-01-13</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to FL346 Volume C.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: FL346 Volume C</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?4FECE7AA20AC8B5AE5017C6705A9F288</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-01-13</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Geographical coverage 0..* --><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FRA\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><!-- Publisher 1..1 -->\n\t\t\t\t\t\t<dct:publisher>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/COMMU\"/>\n\t\t\t\t\t\t</dct:publisher><!-- Contact point 0..1 -->\n\t\t\t\t\t\t<ecodp:contactPoint>\n\t\t\t\t\t\t\t<foaf:Agent rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/COMMU\">\n\t\t\t\t\t\t\t\t<!--<foaf:phone rdf:resource=\"\"/>-->\n\t\t\t\t\t\t\t\t<foaf:mbox>Eurobarometer@ec.europa.eu</foaf:mbox>\n\t\t\t\t\t\t\t\t<foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/public_opinion/index_en.htm\"/>\n\t\t\t\t\t\t\t\t<ecodp:contactAddress xml:lang=\"en\">Rue de La Loi, 56, Brussels</ecodp:contactAddress>\n\t\t\t\t\t\t\t\t<foaf:name xml:lang=\"en\">DG COMM</foaf:name>\n\t\t\t\t\t\t\t</foaf:Agent>\n\t\t\t\t\t\t</ecodp:contactPoint><!-- Version 0..1 -->\n\t\t\t\t\t\t<dct:hasVersion rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<dct:identifier>v1.00</dct:identifier>\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Version 1.0</dct:description>\n\t\t\t\t\t\t</dct:hasVersion><!-- Dataset issued 0..1 -->\n\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-01-19</dct:issued><!-- License 1..* -->\n\t\t\t\t\t\t<dct:license>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n\t\t\t\t\t\t</dct:license><!-- Status 1..1 -->\n\t\t\t\t\t\t<ecodp:datasetStatus>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n\t\t\t\t\t\t</ecodp:datasetStatus>\n\t\t\t\t\t\t<dct:language>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n\t\t\t\t\t\t</dct:language></dcat:Dataset><dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/S1062_346\"><foaf:primaryTopic>http://ec.europa.eu/public_opinion/archives/flash_arch_360_345_en.htm#346</foaf:primaryTopic><dct:modified>2015-02-03T07:06:59.297714</dct:modified><dct:issued>2015-02-03T07:06:59.297714</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/public_opinion/index_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Communication", 
+        "created": "2012-12-12T13:50:46.475520", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:46.449434", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "4b21ab59-71d2-4140-a1ee-a411abb6888d", 
+        "type": "organization", 
+        "id": "dbda9968-cb1e-47c3-b115-245a057e4d4a", 
+        "name": "commu"
+    }, 
+    "revision_id": "04f45564-07ee-445f-8bcd-793ed4e360d6", 
+    "identifier": "S1062_346", 
+    "version_description": "Version 1.0"
+}

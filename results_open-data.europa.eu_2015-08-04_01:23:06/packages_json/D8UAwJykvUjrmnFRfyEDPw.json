@@ -1,0 +1,383 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 34, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Community body established by the Treaties", 
+            "name": "Community body established by the Treaties", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "fd6b3329-111f-48d5-b8b9-c1f1c8424476"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Community certification", 
+            "name": "Community certification", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "fc485908-772b-4ee3-ad2b-074ea624cb83"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Community import", 
+            "name": "Community import", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "c100fd92-6d7e-4373-9c19-b7f520b40633"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "access to information", 
+            "name": "access to information", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "dc13c493-ac00-48fc-887c-06aecb265dd4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "administrative cooperation", 
+            "name": "administrative cooperation", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "bfd4677f-6045-41b9-bea1-4a0ff8910524"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "derogation from Community law", 
+            "name": "derogation from Community law", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "490e3e53-2f94-4300-86e3-88532904a083"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "document", 
+            "name": "document", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "4343206c-d414-4f19-b923-8b6fcd5c70e3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "fodder plant", 
+            "name": "fodder plant", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "76f57b64-e2c3-48b8-a1f5-86f1a5889a57"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "forest", 
+            "name": "forest", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "1ddbd2a8-a0e7-4017-bbaa-54f5453ce657"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "forest certification", 
+            "name": "forest certification", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "5c137c16-20c8-4e78-b8c2-355d6c87d99e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "forest conservation", 
+            "name": "forest conservation", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "44fd608b-6dbe-4c08-be96-7a53be996eac"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "forestry holding", 
+            "name": "forestry holding", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "cceefb40-9936-493b-98ac-d0e34a29b6be"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "import", 
+            "name": "import", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "7b2d07ad-6975-407f-a14a-2347636b5dc7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "information transfer", 
+            "name": "information transfer", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "cf50d107-5834-4252-8a68-b3db1d95ac3d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "marketing", 
+            "name": "marketing", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "fc81468d-3c20-4d03-a4af-d3308ac7d388"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "marketing restriction", 
+            "name": "marketing restriction", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "8b291623-72fb-417e-835a-565ba34a2c2f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "marketing standard", 
+            "name": "marketing standard", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "4aa8bdef-77cd-4daf-916d-a4aaa16c77a2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "oleaginous plant", 
+            "name": "oleaginous plant", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "6073f1b9-39ea-4805-8fdb-be8d036d7d23"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "originating product", 
+            "name": "originating product", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "22a6d06d-2468-4e3c-b458-7e726671b502"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "plant health legislation", 
+            "name": "plant health legislation", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "ad157e71-2214-4974-9176-92dd721a5abe"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "plant propagation", 
+            "name": "plant propagation", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "13b3080b-137f-453b-8c05-9c7957d8c878"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "plantation", 
+            "name": "plantation", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "36c214f1-d56b-4f13-9f7e-473555001352"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "production standard", 
+            "name": "production standard", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "4fab44bd-269c-439d-989e-1b4e431ea512"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "scientific research", 
+            "name": "scientific research", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "b4d27ce9-24c8-4114-aee6-d3470c36080f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "seed", 
+            "name": "seed", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "f6d83fb1-c1c8-45b3-9bf3-49b6f97d8b85"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "silviculture", 
+            "name": "silviculture", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "57fbd894-3714-47d5-8b94-646dc2b8449a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "terminology", 
+            "name": "terminology", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "f9e1cc43-2424-48f0-bf70-108be1cb31b8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "testing", 
+            "name": "testing", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "eab5cd9d-4498-4382-b003-dc9ca912d30c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "textile plant", 
+            "name": "textile plant", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "d27ce85e-8a31-4bd3-85b8-f127bf314b4a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "third country", 
+            "name": "third country", 
+            "revision_timestamp": "2014-05-07T13:28:40.696718", 
+            "state": "active", 
+            "id": "0b7a222a-97a9-4a75-978d-383d8e2e382e"
+        }
+    ], 
+    "contact_name": "SANCO", 
+    "id": "258f5623-6e3c-41a7-bf72-85b4b6b3429e", 
+    "metadata_created": "2015-07-27T14:03:02.427503", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:03:02.429847", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "v0.0", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download open data", 
+            "format": "text/xml", 
+            "url": "https://circabc.europa.eu/d/a/workspace/SpacesStore/557c6b7c-7982-438e-bfa6-8d09a379f278/Forestry.zip", 
+            "datastore_active": false, 
+            "created": "2014-10-23T09:07:26.370031", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T14:03:02.427503", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "353e2bb0-abfe-4c9f-b281-ae259778432b", 
+            "size": null, 
+            "resource_group_id": "61141a83-b729-4480-9744-7def6d7ed526", 
+            "id": "21b64203-7509-49ce-a10b-909786234b8b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/dgs/health_consumer/", 
+            "datastore_active": false, 
+            "created": "2014-10-23T09:07:26.369999", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T14:03:02.427503", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "353e2bb0-abfe-4c9f-b281-ae259778432b", 
+            "size": null, 
+            "resource_group_id": "61141a83-b729-4480-9744-7def6d7ed526", 
+            "id": "79328da7-a91d-480e-b234-6242d816867d", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "Health and Consumers Directorate-General homepage"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "forest_material_en.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/food/plant/plant_propagation_material/eu_marketing_requirements/forest_material_en.htm", 
+            "datastore_active": false, 
+            "created": "2014-10-23T09:07:26.370023", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T14:03:02.427503", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "353e2bb0-abfe-4c9f-b281-ae259778432b", 
+            "size": null, 
+            "resource_group_id": "61141a83-b729-4480-9744-7def6d7ed526", 
+            "id": "58c09022-e69b-4a89-a441-6fcefbdd2e67", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "Seeds and Plant Propagating Material - Forests homepage"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "accrual_periodicity": "other", 
+    "num_resources": 3, 
+    "description": "Forestry reproductive material within the Community may not be marketed unless it is of one of four categories specified by legislation and only approved basic material may be used for its production if the material is to be marketed.  Basic material must be approved by an official body as fulfilling minimum requirements laid down in legislation which allows for local conditions.  Data is collated in the form of a Community List is drawn up on the basis of national lists ensuring strict production and marketing conditions are adhered to at EU level.", 
+    "title": "Community List of Approved Basic Material for Forest Reproduction Material (Catalogue Forestry)", 
+    "tracking_summary": {
+        "total": 229, 
+        "recent": 0
+    }, 
+    "contact_email": "mailto:sanco-e2-plant-reproductive-material@ec.europa.eu", 
+    "groups": [], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2015-07-27T14:03:02.427503", 
+    "name": "D8UAwJykvUjrmnFRfyEDPw", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "Catalogue Forestry", 
+    "url": "http://ec.europa.eu/food/plant/plant_propagation_material/eu_marketing_requirements/forest_material_en.htm", 
+    "owner_org": "c5cd2538-7ad0-4de4-907a-9fbe58b0f0da", 
+    "contact_address": "Health and Consumers Directorate-General, B - 1049 Brussels, Belgium", 
+    "contact_telephone": "+32 2 299 11 11", 
+    "rdf": "<rdf:RDF xmlns=\"http://open-data.europa.eu/ontologies/ec-odp-example#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\">\n  <!-- Dataset type and URI, don't fill in the CKAN catalog identifier here -->\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/food/plant/plant_propagation_material/eu_marketing_requirements/forest_material_en.htm\">\n    <!-- Title, 1..1 - can be filled in in multiple translations though-->\n    <dct:title xml:lang=\"en\">Community List of Approved Basic Material for Forest Reproduction Material (Catalogue Forestry)</dct:title>\n    <!-- Alternative Title(s), 0..*-->\n    <dct:alternative xml:lang=\"en\">Catalogue Forestry</dct:alternative>\n    <!-- Description, 1..*-->\n    <dct:description xml:lang=\"en\">Forestry reproductive material within the Community may not be marketed unless it is of one of four categories specified by legislation and only approved basic material may be used for its production if the material is to be marketed.  Basic material must be approved by an official body as fulfilling minimum requirements laid down in legislation which allows for local conditions.  Data is collated in the form of a Community List is drawn up on the basis of national lists ensuring strict production and marketing conditions are adhered to at EU level.</dct:description>\n    <!-- Keyword, 0..*-->\n    <ecodp:keyword xml:lang=\"en\">access to information</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">administrative cooperation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Community body established by the Treaties</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Community certification</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Community import</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">derogation from Community law</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">document</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">fodder plant</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">forest</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">forest certification</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">forest conservation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">forestry holding</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">import</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">information transfer</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">marketing</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">marketing restriction</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">marketing standard</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">oleaginous plant</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">originating product</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">plant health legislation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">plant propagation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">plantation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">production standard</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">scientific research</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">seed</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">silviculture</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">terminology</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">testing</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">textile plant</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">third country</ecodp:keyword>\n    <!-- Identifier, 0..*-->\n    <dct:identifier>plants-forestry</dct:identifier>\n    <!-- Interoperability level, 0..1-->\n    <ecodp:interoperabilityLevel>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/interoperability-level/Semantic\"/>\n    </ecodp:interoperabilityLevel>\n    <!-- Dataset type, 0..* -->\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription\"/>\n    </ecodp:datasetType>\n    <!-- Documentation, 0..* -->\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <!-- Documentation type, 1..1 -->\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <!-- Documentation access URL, 1..1 -->\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/dgs/health_consumer/</ecodp:accessURL>\n      <!-- Documentation title, 1..1 -->\n      <dct:title xml:lang=\"en\">Health and Consumers Directorate-General homepage</dct:title>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">Seeds and Plant Propagating Material - Forests homepage</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/food/plant/plant_propagation_material/eu_marketing_requirements/forest_material_en.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <!-- Distribution, 0..* -->\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://circabc.europa.eu/d/a/workspace/SpacesStore/557c6b7c-7982-438e-bfa6-8d09a379f278/Forestry.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <ecodp:distributionFormat>rdf/xml</ecodp:distributionFormat>\n      <dct:description xml:lang=\"en\">Download open data</dct:description>\n    </dcat:distribution>\n    <!-- Catalog record, 0..* -->\n    <!-- Geographical coverage 0..* -->\n    <!-- Publisher 1..1 -->\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/SANTE\"/>\n    </dct:publisher>\n    <!-- Contact point 0..1 -->\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/health_consumer/\">\n        <foaf:phone rdf:resource=\"tel:+32 2 299 11 11\"/>\n        <foaf:mbox rdf:resource=\"mailto:sanco-e2-plant-reproductive-material@ec.europa.eu\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/dgs/health_consumer/index_en.htm\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Health and Consumers Directorate-General, B - 1049 Brussels, Belgium</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">SANTE</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <!-- Dataset issued 0..1 -->\n    <!-- Dataset last modification 0..1 -->\n    <!-- Version 0..1 -->\n    <dct:hasVersion rdf:parseType=\"Resource\">\n      <dct:identifier>v0.0</dct:identifier>\n      <dct:description xml:lang=\"en\">regular updates</dct:description>\n    </dct:hasVersion>\n    <!-- License 1..* -->\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <!-- Status 1..1 -->\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <!-- Language 0..* -->\n    <dct:language>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n    </dct:language>\n    <!-- Accrial Periodicity 0..1 -->\n    <ecodp:accrualPeriodicity xml:lang=\"en\">other</ecodp:accrualPeriodicity>\n    <!-- Temporal coverage (period) 0..1 -->\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://opsrv529/data/dataset/D8UAwJykvUjrmnFRfyEDPw\"><foaf:primaryTopic>http://ec.europa.eu/food/plant/plant_propagation_material/eu_marketing_requirements/forest_material_en.htm</foaf:primaryTopic><dct:modified>2014-07-25T08:36:32.168523</dct:modified><dct:issued>2014-05-07T13:28:40.696718</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/dgs/health_consumer/index_en.htm", 
+    "organization": null, 
+    "revision_id": "353e2bb0-abfe-4c9f-b281-ae259778432b", 
+    "identifier": "plants-forestry", 
+    "version_description": "regular updates"
+}

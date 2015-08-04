@@ -1,0 +1,209 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2007", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 8, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "agricultural labour force", 
+            "name": "agricultural labour force", 
+            "revision_timestamp": "2014-12-22T08:38:39.534020", 
+            "state": "active", 
+            "id": "4450ba2e-d616-4fb2-9e63-2688a2f150ff"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "agricultural structure", 
+            "name": "agricultural structure", 
+            "revision_timestamp": "2014-12-22T08:38:39.534020", 
+            "state": "active", 
+            "id": "86ec6a5b-a74b-4253-a5e9-974b876c810c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "agriculture", 
+            "name": "agriculture", 
+            "revision_timestamp": "2014-12-22T08:38:39.534020", 
+            "state": "active", 
+            "id": "209615ae-d761-41e2-83d5-fa3af6eacc52"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "family worker", 
+            "name": "family worker", 
+            "revision_timestamp": "2014-12-22T08:38:39.534020", 
+            "state": "active", 
+            "id": "ff14ba61-be73-40db-a120-a637dcf9be3b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "labour force", 
+            "name": "labour force", 
+            "revision_timestamp": "2014-12-22T08:38:39.534020", 
+            "state": "active", 
+            "id": "3873e17f-7daf-401a-94c0-af5afbc2647a"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "5defb25a-c90b-45bd-8cf1-043966966f83", 
+    "metadata_created": "2014-12-22T08:38:39.534020", 
+    "modified_date": "2015-04-22", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:34:05.769421", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4257", 
+            "name": "http://eurovoc.europa.eu/4257", 
+            "revision_timestamp": "2015-03-03T17:30:05.001380", 
+            "state": "active", 
+            "id": "fbbb4b11-c727-4b85-a19d-627230feb8f5"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00021.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:34:05.894902", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:34:05.766857", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "0bbc724c-c9e4-492b-91e5-803284bbaf7f", 
+            "size": null, 
+            "resource_group_id": "13621cbb-feb6-4b57-92bb-df22f5963ee0", 
+            "id": "f83e046e-67bb-43d1-8ce0-161b986cd826", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00021.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:34:05.894911", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:34:05.766857", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "0bbc724c-c9e4-492b-91e5-803284bbaf7f", 
+            "size": null, 
+            "resource_group_id": "13621cbb-feb6-4b57-92bb-df22f5963ee0", 
+            "id": "29a67c7d-7564-4097-a717-6a71768d8c4f", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tag00021", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:34:05.894868", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:34:05.766857", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "0bbc724c-c9e4-492b-91e5-803284bbaf7f", 
+            "size": null, 
+            "resource_group_id": "13621cbb-feb6-4b57-92bb-df22f5963ee0", 
+            "id": "5674b6bd-e773-4fa6-8be8-ab210ad93f80", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Every member of the holder's family (over the compulsory school age), including the holder himself, having provided an agricultural work on and for the holding during the last 12 months.", 
+    "title": "Family farm labour force", 
+    "temporal_coverage_from": "1990", 
+    "tracking_summary": {
+        "total": 58, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100156", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100156", 
+            "image_display_url": "", 
+            "id": "1587205c-f517-4f6c-9613-cfd1eaea4ca5", 
+            "name": "eurovoc_domain_100156"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T08:38:39.534020", 
+    "name": "8jEWwS7WvztJfoBMkaQfbg", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tag00021", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tag00021\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100156\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4257\"/>\n    <dct:title xml:lang=\"en\">Family farm labour force</dct:title>\n    <dct:title xml:lang=\"fr\">Main-d'oeuvre agricole familiale</dct:title>\n    <dct:title xml:lang=\"de\">Landwirtschaftliche Familienarbeitskr&#228;fte insgesamt</dct:title>\n    <ecodp:keyword xml:lang=\"en\">agriculture</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">agricultural labour force</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">labour force</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">family worker</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">agricultural structure</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">agriculture</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">main-d'oeuvre agricole</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">main-d'oeuvre</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">main-d'oeuvre familiale</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">structure agricole</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Landwirtschaft</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">landwirtschaftliche Arbeitskraft</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Arbeitskr&#228;fte</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">mitarbeitender Familienangeh&#246;riger</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Agrarstruktur</ecodp:keyword>\n    <dct:identifier>tag00021</dct:identifier>\n    <dct:description xml:lang=\"en\">Every member of the holder's family (over the compulsory school age), including the holder himself, having provided an agricultural work on and for the holding during the last 12 months.</dct:description>\n    <dct:description xml:lang=\"fr\">Tous les membres de la famille de l'exploitant (ayant pass&#233; l'&#226;ge scolaire obligatoire), y compris l'exploitant lui-m&#234;me, ayant travaill&#233; sur l'exploitation et pour le compte de cette derni&#232;re au cours des 12 derniers mois.</dct:description>\n    <dct:description xml:lang=\"de\">Alle Familienmitglieder des Betriebsinhabers ab Ende des schulpflichtigen Alters einschlie&#223;lich des Betriebsinhabers, die in den letzten 12 Monaten landwirtschaftliche Arbeiten im oder f&#252;r den landwirtschaftlichen Betrieb verrichtet haben.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tag00021</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00021.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tag00021.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-04-22</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>1990</ecodp:periodStart>\n        <ecodp:periodEnd>2007</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/8jEWwS7WvztJfoBMkaQfbg\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tag00021</foaf:primaryTopic><dct:modified>2015-07-31T09:56:00.153267</dct:modified><dct:issued>2014-12-22T08:38:39.534020</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "b5c70811-0463-4eab-8b06-f3957a7263e7", 
+    "identifier": "tag00021"
+}

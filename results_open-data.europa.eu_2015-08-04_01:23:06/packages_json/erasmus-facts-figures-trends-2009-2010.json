@@ -1,0 +1,172 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 8, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "contact_name": "", 
+    "id": "4443cc70-7842-44bc-acad-cd550157d4bb", 
+    "metadata_created": "2015-07-27T14:26:50.122475", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:26:50.123513", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6920", 
+            "name": "http://eurovoc.europa.eu/6920", 
+            "revision_timestamp": "2015-03-04T09:34:06.216450", 
+            "state": "active", 
+            "id": "3502257a-9225-4ca0-984a-ed6012b105ad"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2467", 
+            "name": "http://eurovoc.europa.eu/2467", 
+            "revision_timestamp": "2015-03-04T09:34:06.216450", 
+            "state": "active", 
+            "id": "5710257f-c843-4d34-bdb4-e52776ed7131"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5905", 
+            "name": "http://eurovoc.europa.eu/5905", 
+            "revision_timestamp": "2015-03-04T09:34:06.216450", 
+            "state": "active", 
+            "id": "4a2416d1-e441-44ff-be1a-badd82ac4c62"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5176", 
+            "name": "http://eurovoc.europa.eu/5176", 
+            "revision_timestamp": "2015-03-04T09:34:06.216450", 
+            "state": "active", 
+            "id": "bb81436b-11f8-4322-bcbd-7f12f8ad5c92"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/778", 
+            "name": "http://eurovoc.europa.eu/778", 
+            "revision_timestamp": "2015-03-04T09:42:23.760692", 
+            "state": "active", 
+            "id": "f16020d7-c70e-47f0-8162-0e7c43714b03"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1950", 
+            "name": "http://eurovoc.europa.eu/1950", 
+            "revision_timestamp": "2015-03-04T09:34:06.216450", 
+            "state": "active", 
+            "id": "5eec5fa9-72c0-49cb-ac08-b65e3105a153"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Erasmus Facts, figures & trends 2009-10", 
+            "format": "application/pdf", 
+            "url": "http://ec.europa.eu/education/tools/docs/statistics-ay-0910_en.pdf", 
+            "datastore_active": false, 
+            "created": "2014-11-05T16:12:24.275207", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-04T09:30:47.132753", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "fe36f1b3-9a89-49e9-9cd7-64b3d413df28", 
+            "size": null, 
+            "resource_group_id": "b7b20aff-05ea-4398-bf56-10e53a6f8012", 
+            "id": "7a8776af-73b4-40b3-a075-c28573d6e68e", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Erasmus Facts, figures & trends 2009-10"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "ERASMUS \u2013 FACTS, FIGURES & TRENDS: The European Union support for student and staff exchanges and university cooperation in 2009/2010", 
+    "title": "Erasmus Facts, figures & trends 2009-2010", 
+    "tracking_summary": {
+        "total": 381, 
+        "recent": 9
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100143", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100143", 
+            "image_display_url": "", 
+            "id": "5663c43f-efe6-4814-b47b-ee909cda54a7", 
+            "name": "eurovoc_domain_100143"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100150", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100150", 
+            "image_display_url": "", 
+            "id": "f9b717f1-427b-4fa9-ae8e-bd33144b4f3b", 
+            "name": "eurovoc_domain_100150"
+        }
+    ], 
+    "creator_user_id": "e664f44b-db1c-4486-853d-db25cbf53057", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T14:26:50.122475", 
+    "name": "erasmus-facts-figures-trends-2009-2010", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "46d36837-fde9-4eb9-a97e-a30c497ce66b", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://ec.europa.eu/education/tools/docs/statistics-ay-0910_en.pdf", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Education and Culture", 
+        "created": "2012-12-12T13:50:47.501192", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:47.476763", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "0d3d815e-7ee3-41e7-a7cb-91afd12ed741", 
+        "type": "organization", 
+        "id": "46d36837-fde9-4eb9-a97e-a30c497ce66b", 
+        "name": "eac"
+    }, 
+    "revision_id": "2bb91853-c294-4524-9b1e-d12625aba16d", 
+    "identifier": "", 
+    "version_description": ""
+}

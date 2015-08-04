@@ -1,0 +1,243 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "735304d6-00f0-40d0-97b4-778912d60da5", 
+    "metadata_created": "2014-12-22T08:09:01.055177", 
+    "modified_date": "2015-07-07", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:17:56.955608", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3659", 
+            "name": "http://eurovoc.europa.eu/3659", 
+            "revision_timestamp": "2015-03-03T17:46:08.684700", 
+            "state": "active", 
+            "id": "594c40af-ba49-4b83-b3df-c57038596f66"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/83", 
+            "name": "http://eurovoc.europa.eu/83", 
+            "revision_timestamp": "2015-03-03T17:46:08.684700", 
+            "state": "active", 
+            "id": "854914bb-6c6b-43b3-8947-3359b3212b78"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1469", 
+            "name": "http://eurovoc.europa.eu/1469", 
+            "revision_timestamp": "2015-03-03T17:46:08.684700", 
+            "state": "active", 
+            "id": "98a6a5ca-9d52-43fa-a102-0d8561bdd067"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4050", 
+            "name": "http://eurovoc.europa.eu/4050", 
+            "revision_timestamp": "2015-03-03T17:46:08.684700", 
+            "state": "active", 
+            "id": "1978694c-2b0b-4111-af02-57cf5e045e44"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ilc_lvhl23.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:17:57.121584", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:17:56.953308", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "8990ab56-0d3b-47a2-8ecf-90d8e8d59329", 
+            "size": null, 
+            "resource_group_id": "cd477a6d-35c7-407b-aaf7-5fdd593c285f", 
+            "id": "59ca0641-162e-4c1c-a162-baeb3aac63e0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ilc_lvhl23.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:17:57.121592", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:17:56.953308", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "8990ab56-0d3b-47a2-8ecf-90d8e8d59329", 
+            "size": null, 
+            "resource_group_id": "cd477a6d-35c7-407b-aaf7-5fdd593c285f", 
+            "id": "85523c39-263e-49b5-bdee-3d8cef8f8c7e", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ilc_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ilc_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:17:57.121515", 
+            "tracking_summary": {
+                "total": 3, 
+                "recent": 2
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:17:56.953308", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "8990ab56-0d3b-47a2-8ecf-90d8e8d59329", 
+            "size": null, 
+            "resource_group_id": "cd477a6d-35c7-407b-aaf7-5fdd593c285f", 
+            "id": "32c79136-8b52-4313-94ae-4eafdc71d846", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ilc_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:17:57.121568", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:17:56.953308", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "8990ab56-0d3b-47a2-8ecf-90d8e8d59329", 
+            "size": null, 
+            "resource_group_id": "cd477a6d-35c7-407b-aaf7-5fdd593c285f", 
+            "id": "41982466-4d75-48ee-9f2f-dde832593a2b", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ilc_lvhl23", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:17:57.121577", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:17:56.953308", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "8990ab56-0d3b-47a2-8ecf-90d8e8d59329", 
+            "size": null, 
+            "resource_group_id": "cd477a6d-35c7-407b-aaf7-5fdd593c285f", 
+            "id": "489399f3-5142-47ab-859b-cea9fe4a8b1c", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "People living in households with very low work intensity by degree of urbanisation (population aged 0 to 59 years)", 
+    "title": "People living in households with very low work intensity by degree of urbanisation (population aged 0 to 59 years)", 
+    "temporal_coverage_from": "2003", 
+    "tracking_summary": {
+        "total": 2, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T08:09:01.055177", 
+    "name": "mBULOFnUPX2lpISnmonkA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ilc_lvhl23", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/ilc_lvhl23\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100149\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1469\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4050\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/3659\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/83\"/>\n    <dct:title xml:lang=\"en\">People living in households with very low work intensity by degree of urbanisation (population aged 0 to 59 years)</dct:title>\n    <dct:title xml:lang=\"fr\">Personnes vivant dans un m&#233;nage &#224; tr&#232;s faible intensit&#233; de travail par degr&#233; d'urbanisation (population &#226;g&#233;e de 0 &#224; 59 ans)</dct:title>\n    <dct:title xml:lang=\"de\">In Haushalten mit sehr niedriger Erwerbst&#228;tigkeit lebende Menschen nach Verst&#228;dterungsgrad (Personen im Alter von 0 bis 59 Jahren)</dct:title>\n    <dct:identifier>ilc_lvhl23</dct:identifier>\n    <dct:description xml:lang=\"en\">People living in households with very low work intensity by degree of urbanisation (population aged 0 to 59 years)</dct:description>\n    <dct:description xml:lang=\"fr\">Personnes vivant dans un m&#233;nage &#224; tr&#232;s faible intensit&#233; de travail par degr&#233; d'urbanisation (population &#226;g&#233;e de 0 &#224; 59 ans)</dct:description>\n    <dct:description xml:lang=\"de\">In Haushalten mit sehr niedriger Erwerbst&#228;tigkeit lebende Menschen nach Verst&#228;dterungsgrad (Personen im Alter von 0 bis 59 Jahren)</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ilc_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ilc_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/ilc_lvhl23</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ilc_lvhl23.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ilc_lvhl23.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-07</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2003</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/mBULOFnUPX2lpISnmonkA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/ilc_lvhl23</foaf:primaryTopic><dct:modified>2015-07-31T08:02:48.137458</dct:modified><dct:issued>2014-12-22T08:09:01.055177</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "b20def86-8c13-43cb-8c2a-678eedc014b0", 
+    "identifier": "ilc_lvhl23"
+}

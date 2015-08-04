@@ -1,0 +1,189 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 23, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/ITA", 
+        "http://publications.europa.eu/resource/authority/country/AUT", 
+        "http://publications.europa.eu/resource/authority/country/FIN", 
+        "http://publications.europa.eu/resource/authority/country/DNK", 
+        "http://publications.europa.eu/resource/authority/country/PRT", 
+        "http://publications.europa.eu/resource/authority/country/BEL", 
+        "http://publications.europa.eu/resource/authority/country/SWE", 
+        "http://publications.europa.eu/resource/authority/country/NLD", 
+        "http://publications.europa.eu/resource/authority/country/GBR", 
+        "http://publications.europa.eu/resource/authority/country/ESP", 
+        "http://publications.europa.eu/resource/authority/country/IRL", 
+        "http://publications.europa.eu/resource/authority/country/FRA", 
+        "http://publications.europa.eu/resource/authority/country/GRC", 
+        "http://publications.europa.eu/resource/authority/country/DEU", 
+        "http://publications.europa.eu/resource/authority/country/LUX"
+    ], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "2002", 
+            "name": "2002", 
+            "revision_timestamp": "2015-02-03T05:57:52.266109", 
+            "state": "active", 
+            "id": "13b49715-5a12-4dcb-816b-3fc15c57ae2e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "flash", 
+            "name": "flash", 
+            "revision_timestamp": "2015-02-03T05:57:52.266109", 
+            "state": "active", 
+            "id": "1430b17f-d2e7-4e35-8756-8ab91bf0c93a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "innobarometer", 
+            "name": "innobarometer", 
+            "revision_timestamp": "2015-02-03T05:57:52.266109", 
+            "state": "active", 
+            "id": "3675ce60-ce8e-45ab-82be-c7b6d95ee981"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "opinion", 
+            "name": "opinion", 
+            "revision_timestamp": "2015-02-03T05:57:52.266109", 
+            "state": "active", 
+            "id": "ad523f58-00d0-4a16-8b0e-bb718601c398"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "polls", 
+            "name": "polls", 
+            "revision_timestamp": "2015-02-03T05:57:52.266109", 
+            "state": "active", 
+            "id": "c086ca00-bd50-4cea-9bad-4b7188c3c51d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "surveys", 
+            "name": "surveys", 
+            "revision_timestamp": "2015-02-03T05:57:52.266109", 
+            "state": "active", 
+            "id": "57740d91-e252-47af-b95c-578300b9880f"
+        }
+    ], 
+    "contact_name": "DG COMM", 
+    "id": "56f43e56-32e1-4a6e-a4b8-e913a379002a", 
+    "metadata_created": "2015-02-03T05:57:52.266109", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:42:08.998739", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "v1.00", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "flash_arch_134_124_en.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/public_opinion/archives/flash_arch_134_124_en.htm#129", 
+            "datastore_active": false, 
+            "created": "2015-07-13T08:23:17.492048", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T14:42:08.994503", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "517e4a64-4715-44ef-ae06-e9a70dcb8f39", 
+            "size": null, 
+            "resource_group_id": "131b9cb9-afbf-4058-8ead-729f32946dc2", 
+            "id": "1714fca7-62bf-4925-b151-4caa46f79842", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "Detailed information on public opinion website"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: FLASH129", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?62FAEA46EFF891DB9683C7F18472A654", 
+            "datastore_active": false, 
+            "created": "2015-01-09T00:00:00", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T14:42:08.994503", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "517e4a64-4715-44ef-ae06-e9a70dcb8f39", 
+            "size": null, 
+            "resource_group_id": "131b9cb9-afbf-4058-8ead-729f32946dc2", 
+            "id": "db54afc2-045b-4783-8a51-1fb85f453f47", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to FLASH129.zip"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 2, 
+    "description": "The objective was to sound out the opinions of European managers on their companies\u2019 strengths and needs in innovation, the investments in innovation and the output achieved, as well as the actual practice of co-operation and sharing of knowledge.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume C: Country/socio-demographics", 
+    "title": "Flash Eurobarometer 129: Innobarometer 2002", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "tracking_summary": {
+        "total": 13, 
+        "recent": 1
+    }, 
+    "contact_email": "Eurobarometer@ec.europa.eu", 
+    "groups": [], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-02-03T05:57:52.266109", 
+    "name": "S49_129", 
+    "isopen": true, 
+    "alternative_title": "Innobarometer 2002", 
+    "url": "http://ec.europa.eu/public_opinion/archives/flash_arch_134_124_en.htm#129", 
+    "release_date": "2015-01-19", 
+    "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a", 
+    "contact_address": "Rue de La Loi, 56, Brussels", 
+    "rdf": "<rdf:RDF xmlns=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\"><dcat:Dataset rdf:about=\"http://ec.europa.eu/public_opinion/archives/flash_arch_134_124_en.htm#129\"><!-- Title, 1..1 - can be filled in in multiple translations though-->\n\t\t\t\t\t\t<dct:title xml:lang=\"en\">Flash Eurobarometer 129: Innobarometer 2002</dct:title> <!-- A name given to the resource --><!-- Alternative Title(s), 0..*-->\n\t\t\t\t\t\t<dct:alternative xml:lang=\"en\">Innobarometer 2002</dct:alternative> <!-- An alternative name for the resource --><ecodp:ckan-name>S49_129</ecodp:ckan-name><!-- Description, 1..*-->\n\t\t\t\t\t\t<dct:description xml:lang=\"en\">The objective was to sound out the opinions of European managers on their companies&#8217; strengths and needs in innovation, the investments in innovation and the output achieved, as well as the actual practice of co-operation and sharing of knowledge.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume C: Country/socio-demographics  </dct:description><!--An unambiguous reference to the resource within a given context -->\n\t\t\t\t\t\t<dct:identifier>S49_129</dct:identifier><!-- Keyword, 0..*--><ecodp:keyword xml:lang=\"en\">innobarometer</ecodp:keyword><ecodp:keyword xml:lang=\"en\">2002</ecodp:keyword><ecodp:keyword xml:lang=\"en\">opinion</ecodp:keyword><ecodp:keyword xml:lang=\"en\">polls</ecodp:keyword><ecodp:keyword xml:lang=\"en\">flash</ecodp:keyword><ecodp:keyword xml:lang=\"en\">surveys</ecodp:keyword><!-- Documentation details -->\n\t\t\t\t\t\t<ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<ecodp:documentationType>\n\t\t\t\t\t\t    \t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n\t\t\t\t\t\t\t</ecodp:documentationType>\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Detailed information on public opinion website</dct:title>\n\t\t\t\t\t\t\t<dct:title xml:lang=\"fr\">Plus d'informations sur l'opinion publique site</dct:title>\n\t\t\t\t\t\t\t<!--Kumar: Shall be populated manually -->\n\t\t\t\t\t\t\t<ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/public_opinion/archives/flash_arch_134_124_en.htm#129</ecodp:accessURL>\n\t\t\t\t\t\t</ecodp:isDocumentedBy><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to FLASH129.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: FLASH129</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?62FAEA46EFF891DB9683C7F18472A654</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-01-09</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Geographical coverage 0..* --><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/AUT\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BEL\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DEU\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DNK\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GRC\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ESP\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FIN\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FRA\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/IRL\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ITA\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LUX\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/NLD\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/PRT\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SWE\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GBR\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><!-- Publisher 1..1 -->\n\t\t\t\t\t\t<dct:publisher>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/COMMU\"/>\n\t\t\t\t\t\t</dct:publisher><!-- Contact point 0..1 -->\n\t\t\t\t\t\t<ecodp:contactPoint>\n\t\t\t\t\t\t\t<foaf:Agent rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/COMMU\">\n\t\t\t\t\t\t\t\t<!--<foaf:phone rdf:resource=\"\"/>-->\n\t\t\t\t\t\t\t\t<foaf:mbox>Eurobarometer@ec.europa.eu</foaf:mbox>\n\t\t\t\t\t\t\t\t<foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/public_opinion/index_en.htm\"/>\n\t\t\t\t\t\t\t\t<ecodp:contactAddress xml:lang=\"en\">Rue de La Loi, 56, Brussels</ecodp:contactAddress>\n\t\t\t\t\t\t\t\t<foaf:name xml:lang=\"en\">DG COMM</foaf:name>\n\t\t\t\t\t\t\t</foaf:Agent>\n\t\t\t\t\t\t</ecodp:contactPoint><!-- Version 0..1 -->\n\t\t\t\t\t\t<dct:hasVersion rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<dct:identifier>v1.00</dct:identifier>\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Version 1.0</dct:description>\n\t\t\t\t\t\t</dct:hasVersion><!-- Dataset issued 0..1 -->\n\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-01-19</dct:issued><!-- License 1..* -->\n\t\t\t\t\t\t<dct:license>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n\t\t\t\t\t\t</dct:license><!-- Status 1..1 -->\n\t\t\t\t\t\t<ecodp:datasetStatus>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n\t\t\t\t\t\t</ecodp:datasetStatus>\n\t\t\t\t\t\t<dct:language>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n\t\t\t\t\t\t</dct:language></dcat:Dataset><dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/S49_129\"><foaf:primaryTopic>http://ec.europa.eu/public_opinion/archives/flash_arch_134_124_en.htm#129</foaf:primaryTopic><dct:modified>2015-02-03T05:57:52.266109</dct:modified><dct:issued>2015-02-03T05:57:52.266109</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/public_opinion/index_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Communication", 
+        "created": "2012-12-12T13:50:46.475520", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:46.449434", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "4b21ab59-71d2-4140-a1ee-a411abb6888d", 
+        "type": "organization", 
+        "id": "dbda9968-cb1e-47c3-b115-245a057e4d4a", 
+        "name": "commu"
+    }, 
+    "revision_id": "013a89ed-2c67-404f-81fe-3ce1ab4595fb", 
+    "identifier": "S49_129", 
+    "version_description": "Version 1.0"
+}

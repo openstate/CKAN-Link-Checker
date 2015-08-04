@@ -1,0 +1,320 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 19, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU28"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Benficiary", 
+            "name": "Benficiary", 
+            "revision_timestamp": "2014-09-24T13:12:11.982566", 
+            "state": "active", 
+            "id": "5d5420c8-d52d-4fd2-81da-e30c7534caf7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Energy", 
+            "name": "Energy", 
+            "revision_timestamp": "2014-09-24T13:12:11.982566", 
+            "state": "active", 
+            "id": "eef5209f-32fe-4d14-bd74-5405b108be8c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Intelligent Energy Europe", 
+            "name": "Intelligent Energy Europe", 
+            "revision_timestamp": "2014-09-16T08:25:14.919978", 
+            "state": "active", 
+            "id": "99bdd1ea-857a-4275-bbd1-2a0d38f8f33d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Programme", 
+            "name": "Programme", 
+            "revision_timestamp": "2014-09-24T13:12:11.982566", 
+            "state": "active", 
+            "id": "765f739a-efd0-46da-8d62-96abe18659d3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "build-up", 
+            "name": "build-up", 
+            "revision_timestamp": "2014-09-24T13:12:11.982566", 
+            "state": "active", 
+            "id": "6dad8ed0-cdbe-4ef6-919b-f3983e7e372f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "clean-vehicles", 
+            "name": "clean-vehicles", 
+            "revision_timestamp": "2014-09-24T13:12:11.982566", 
+            "state": "active", 
+            "id": "0173a2b4-6e33-455f-81f6-a543c32e837b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "energy-efficiency", 
+            "name": "energy-efficiency", 
+            "revision_timestamp": "2014-09-24T13:12:11.982566", 
+            "state": "active", 
+            "id": "15da3505-f00f-4d69-b43e-4b4eb68f288f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "energy-in-transport", 
+            "name": "energy-in-transport", 
+            "revision_timestamp": "2014-09-24T13:12:11.982566", 
+            "state": "active", 
+            "id": "8b211bfd-2ff7-400c-beba-079c1d600b9e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "renewable", 
+            "name": "renewable", 
+            "revision_timestamp": "2014-09-24T13:12:11.982566", 
+            "state": "active", 
+            "id": "50146a2d-e831-4bc0-9a1d-2d4264fb6842"
+        }
+    ], 
+    "contact_name": "EASME", 
+    "id": "62135e0a-1af3-49bb-9e39-47f7bdf9bbbd", 
+    "metadata_created": "2015-07-27T14:49:56.278590", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:49:56.279658", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2917", 
+            "name": "http://eurovoc.europa.eu/2917", 
+            "revision_timestamp": "2015-03-10T14:27:22.965234", 
+            "state": "active", 
+            "id": "86c1bca6-a3f2-4ef3-9447-0aec4ad37f08"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/754", 
+            "name": "http://eurovoc.europa.eu/754", 
+            "revision_timestamp": "2015-03-10T14:27:22.965234", 
+            "state": "active", 
+            "id": "1e429f38-2514-44b6-8913-3e1a79c7eb9e"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4420", 
+            "name": "http://eurovoc.europa.eu/4420", 
+            "revision_timestamp": "2015-03-10T14:27:22.965234", 
+            "state": "active", 
+            "id": "d8784bb1-b6e2-4afe-a619-a851ec6e4122"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6700", 
+            "name": "http://eurovoc.europa.eu/6700", 
+            "revision_timestamp": "2015-03-10T14:27:22.965234", 
+            "state": "active", 
+            "id": "64c21786-97be-49db-9161-fbf39191aea1"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3538", 
+            "name": "http://eurovoc.europa.eu/3538", 
+            "revision_timestamp": "2015-03-10T14:27:22.965234", 
+            "state": "active", 
+            "id": "05293191-e206-4954-80f7-18dac67051d6"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5824", 
+            "name": "http://eurovoc.europa.eu/5824", 
+            "revision_timestamp": "2015-03-10T14:27:22.965234", 
+            "state": "active", 
+            "id": "b090451f-168a-4418-8c2c-8839b4ce4f38"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/rss+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "The list of beneficiaries of the Intelligent Energy Europe programme", 
+            "format": "application/rss+xml", 
+            "url": "http://ec.europa.eu/energy/intelligent/projects/en/beneficiaries-list.xml", 
+            "datastore_active": false, 
+            "created": "2014-09-17T16:44:22.578075", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-10T14:19:23.529594", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "b9fd4f11-590a-4de4-afc7-a6a5851c0956", 
+            "size": null, 
+            "resource_group_id": "62e54582-fa7c-4276-a5da-cb36cdaf7206", 
+            "id": "627d2790-e7d9-46b9-9d5b-c415a49f717b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Feed", 
+            "name": "Beneficiaries of IEE Programme"
+        }, 
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/energy/intelligent/projects", 
+            "datastore_active": false, 
+            "created": "2014-09-16T10:29:19.831468", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-10T14:19:23.529594", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "b9fd4f11-590a-4de4-afc7-a6a5851c0956", 
+            "size": null, 
+            "resource_group_id": "62e54582-fa7c-4276-a5da-cb36cdaf7206", 
+            "id": "b3a7100e-dbef-4e31-b929-e5c740ca9c50", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "Link to the IEE Project Database"
+        }, 
+        {
+            "mimetype": "application/rss+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Projects funded by IEE programme (rss)", 
+            "format": "application/rss+xml", 
+            "url": "http://ec.europa.eu/energy/intelligent/projects/en/projects-list.xml", 
+            "datastore_active": false, 
+            "created": "2014-09-17T17:05:54.181548", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-10T14:19:23.529594", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "b9fd4f11-590a-4de4-afc7-a6a5851c0956", 
+            "size": null, 
+            "resource_group_id": "62e54582-fa7c-4276-a5da-cb36cdaf7206", 
+            "id": "ac10a230-1336-4bf1-a237-389115d4c15a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Feed", 
+            "name": "Projects funded by IEE programme (rss)"
+        }, 
+        {
+            "mimetype": "application/xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Projects funded by IEE programme (xml)", 
+            "format": "text/xml", 
+            "url": "http://ec.europa.eu/energy/intelligent/projects/en/projects-list-xml", 
+            "datastore_active": false, 
+            "created": "2014-09-17T17:10:48.654714", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-10T14:19:23.529594", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "b9fd4f11-590a-4de4-afc7-a6a5851c0956", 
+            "size": null, 
+            "resource_group_id": "62e54582-fa7c-4276-a5da-cb36cdaf7206", 
+            "id": "767fa99f-db27-4341-8edb-d41cbfcc13e5", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Projects funded by IEE programme (xml)"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 4, 
+    "description": "Intelligent Energy \u2013 Europe (IEE) offers a helping hand to organisations willing to improve energy sustainability. Launched in 2003 by the European Commission, the programme is part of a broad push to create an energy-intelligent future for us all. It supports EU energy efficiency and renewable energy policies, with a view to reaching the EU 2020 targets (20% cut in greenhouse gas emissions, 20% improvement in energy efficiency and 20% of renewables in EU energy consumption).\r\n\r\nThe programme is a pillar of the EU's Competitiveness and Innovation Framework Programme (CIP).\r\n\r\nMore than 600 projects across Europe have been co-funded by programme since 2003. These projects cover fields as diverse as education and electrical appliances, yet all contribute to building a greener and more secure energy future for the EU. You can find the list of beneficiaries and projects funded by the programme.", 
+    "title": "Intelligent Energy Europe Project Database", 
+    "tracking_summary": {
+        "total": 385, 
+        "recent": 23
+    }, 
+    "contact_email": "EASME-IEE-ENQUIRIES@ec.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100158", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100158", 
+            "image_display_url": "", 
+            "id": "361d621d-3400-4cfe-a1f2-e54e38653a17", 
+            "name": "eurovoc_domain_100158"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100159", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100159", 
+            "image_display_url": "", 
+            "id": "411bf1e5-296f-4f4c-8ddf-2838d86ce110", 
+            "name": "eurovoc_domain_100159"
+        }
+    ], 
+    "creator_user_id": "7e0005f5-9c21-4197-9abd-4a9ae8cb1496", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T14:49:56.278590", 
+    "name": "intelligent-energy-europe-project-database", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "annual", 
+    "owner_org": "5da6c29f-545d-4914-ad1b-d98389da19f6", 
+    "contact_address": "Covent Garden, 16, Place Rogier, 1210 Brussels", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/energy/intelligent/contact/specialists/index_en.htm", 
+    "url": "http://ec.europa.eu/energy/intelligent/projects", 
+    "organization": {
+        "description": "", 
+        "title": "Executive Agency for Small and Medium-sized Enterprises", 
+        "created": "2014-03-06T12:02:46.792785", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2014-03-06T11:02:46.767362", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "b7276018-5684-4bd6-a590-41058a788fe8", 
+        "type": "organization", 
+        "id": "5da6c29f-545d-4914-ad1b-d98389da19f6", 
+        "name": "easme"
+    }, 
+    "revision_id": "a30905ba-6b7e-48be-8979-6a2c2c863ef5", 
+    "identifier": "", 
+    "version_description": ""
+}

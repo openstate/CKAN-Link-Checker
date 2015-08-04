@@ -1,0 +1,268 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 16, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "DG MARE", 
+            "name": "DG MARE", 
+            "revision_timestamp": "2013-08-02T16:39:38.015527", 
+            "state": "active", 
+            "id": "4b07af00-984d-400b-8ae5-39ca22bf0119"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "fishery", 
+            "name": "fishery", 
+            "revision_timestamp": "2013-08-02T16:45:31.326877", 
+            "state": "active", 
+            "id": "76e4d60e-9d0a-4354-8d20-d6fab5f84101"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "fleet", 
+            "name": "fleet", 
+            "revision_timestamp": "2013-08-02T16:39:38.015527", 
+            "state": "active", 
+            "id": "2d882e32-fa7a-4dc8-bdb8-d1593773c280"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "maritime transport", 
+            "name": "maritime transport", 
+            "revision_timestamp": "2013-08-02T16:39:38.015527", 
+            "state": "active", 
+            "id": "43bc21a2-6cc1-4a7b-95d1-495d56230362"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "register", 
+            "name": "register", 
+            "revision_timestamp": "2015-03-05T08:12:30.244766", 
+            "state": "active", 
+            "id": "8f2fb18e-63a4-4db6-a067-28a80b83e74b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ships", 
+            "name": "ships", 
+            "revision_timestamp": "2013-08-02T16:39:38.015527", 
+            "state": "active", 
+            "id": "06c92926-7294-410f-86fb-4a5609476c10"
+        }
+    ], 
+    "contact_name": "The European Commission, Maritime Affairs and Fisheries DG", 
+    "id": "16e1690b-5b71-4677-a02b-6fe0913a6b3a", 
+    "metadata_created": "2014-01-14T09:51:14.977157", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T13:51:02.381566", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1035", 
+            "name": "http://eurovoc.europa.eu/1035", 
+            "revision_timestamp": "2015-03-05T08:12:30.244766", 
+            "state": "active", 
+            "id": "ceb180e9-7f7b-4daa-8b58-075442bc8c66"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5229", 
+            "name": "http://eurovoc.europa.eu/5229", 
+            "revision_timestamp": "2015-03-05T08:12:30.244766", 
+            "state": "active", 
+            "id": "3249f883-c4f8-41ec-90eb-d2afcadcfb3a"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4827", 
+            "name": "http://eurovoc.europa.eu/4827", 
+            "revision_timestamp": "2015-03-05T08:12:30.244766", 
+            "state": "active", 
+            "id": "71601742-5c6e-4ffd-a3ed-0d60c18736a2"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2476", 
+            "name": "http://eurovoc.europa.eu/2476", 
+            "revision_timestamp": "2015-03-05T08:12:30.244766", 
+            "state": "active", 
+            "id": "848eff2d-a704-426e-aec4-ed4f97c057eb"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4829", 
+            "name": "http://eurovoc.europa.eu/4829", 
+            "revision_timestamp": "2015-03-05T08:12:30.244766", 
+            "state": "active", 
+            "id": "a4319479-84d7-4531-851e-0f175d34bd68"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5913", 
+            "name": "http://eurovoc.europa.eu/5913", 
+            "revision_timestamp": "2015-03-05T08:12:30.244766", 
+            "state": "active", 
+            "id": "08abef28-0186-4ab6-a6e7-b137ad473610"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3111", 
+            "name": "http://eurovoc.europa.eu/3111", 
+            "revision_timestamp": "2015-03-05T08:12:30.244766", 
+            "state": "active", 
+            "id": "1660165b-41a5-43e6-9390-1736fc86f882"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/fisheries/fleet/index.cfm?method=Download.menu", 
+            "datastore_active": false, 
+            "created": "2013-08-02T18:33:33.279361", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": "enabled", 
+            "revision_timestamp": "2015-03-05T08:03:34.210554", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "98125e7f-e9a6-4e41-87fe-8248d381ec93", 
+            "size": null, 
+            "resource_group_id": "a367e9e5-3510-402f-9f68-b48f77daeb21", 
+            "id": "50c032cf-19c5-460b-bc8d-857f274b34c5", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Download - Search - Fleet Register"
+        }, 
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/fisheries/fleet/index.cfm?method=RES1.Stat", 
+            "datastore_active": false, 
+            "created": "2013-08-02T18:32:23.644997", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": "enabled", 
+            "revision_timestamp": "2015-03-05T08:03:34.210554", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "98125e7f-e9a6-4e41-87fe-8248d381ec93", 
+            "size": null, 
+            "resource_group_id": "a367e9e5-3510-402f-9f68-b48f77daeb21", 
+            "id": "585486d9-df6d-4555-a623-84d1df7aaf94", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Entry-Exit Regime - Fleet Management-Statistics"
+        }, 
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "With the \"Simple Search\" menu, you can make requests about the Fleet Register, for each or all Member States.   You can both use dropdown-lists or type yourself the parameters. The Ports are available once selected the country. \r\n With the \"Advanced Search\" menu, you can use more parameters to precise your request about the Fleet Register, for each of all Member States.   You can both use dropdown-lists or type yourself the parameters. \r\nThe Ports, Segments and Nuts are available once selected the country. \r\nYou can save your personnal \"My Search\". \r\n \r\nWith the \"My Search\" menu, you can retrieve personal search previouly saved by you in the \"Advanced Search\" menu.  \r\n", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/fisheries/fleet/index.cfm?method=Search.menu", 
+            "datastore_active": false, 
+            "created": "2013-08-02T18:29:45.253141", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": "enabled", 
+            "revision_timestamp": "2015-03-05T08:03:34.210554", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "98125e7f-e9a6-4e41-87fe-8248d381ec93", 
+            "size": null, 
+            "resource_group_id": "a367e9e5-3510-402f-9f68-b48f77daeb21", 
+            "id": "17471b24-b048-4799-afc7-2675c515e6b0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Search Fleet Register Menu"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "The Fleet Register is a database where all the fishing vessels flying the flag of a Member State have to be registered in accordance with Community legislation.", 
+    "title": "The Community Fishing Fleet Register", 
+    "tracking_summary": {
+        "total": 494, 
+        "recent": 12
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100156", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100156", 
+            "image_display_url": "", 
+            "id": "1587205c-f517-4f6c-9613-cfd1eaea4ca5", 
+            "name": "eurovoc_domain_100156"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2014-01-14T09:51:14.977157", 
+    "name": "the-community-fishing-fleet-register", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "Each 3 months", 
+    "owner_org": "344ce8ed-98f3-4c74-aaa8-d2ccf3239841", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/fisheries/tools/feedback_en.htm", 
+    "url": "http://ec.europa.eu/fisheries/fleet/index.cfm?method=AnIntroduction.menu", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Maritime Affairs and Fisheries", 
+        "created": "2012-12-12T13:50:55.868246", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:55.844082", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "9b823e46-c268-4d5b-a1eb-19d8bb14af06", 
+        "type": "organization", 
+        "id": "344ce8ed-98f3-4c74-aaa8-d2ccf3239841", 
+        "name": "mare"
+    }, 
+    "revision_id": "0242e2d8-bb66-4203-ac99-20512c173cab", 
+    "identifier": "", 
+    "version_description": ""
+}

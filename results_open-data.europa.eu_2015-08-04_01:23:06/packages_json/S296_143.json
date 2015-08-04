@@ -1,0 +1,201 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 14, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/GBR", 
+        "http://publications.europa.eu/resource/authority/country/SWE", 
+        "http://publications.europa.eu/resource/authority/country/DNK"
+    ], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "attitudes", 
+            "name": "attitudes", 
+            "revision_timestamp": "2015-02-03T06:08:12.796161", 
+            "state": "active", 
+            "id": "a8e7f801-5c55-4569-a2c9-6291b3f32a90"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "euro", 
+            "name": "euro", 
+            "revision_timestamp": "2015-02-03T06:08:12.796161", 
+            "state": "active", 
+            "id": "67f7e9cb-ac98-4733-81ee-0b3a3cc72595"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "finace", 
+            "name": "finace", 
+            "revision_timestamp": "2015-02-03T06:08:12.796161", 
+            "state": "active", 
+            "id": "66fbac65-fe0e-452d-a0b8-c0b0e6b8ebc1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "flash", 
+            "name": "flash", 
+            "revision_timestamp": "2015-02-03T06:08:12.796161", 
+            "state": "active", 
+            "id": "1430b17f-d2e7-4e35-8756-8ab91bf0c93a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "hors", 
+            "name": "hors", 
+            "revision_timestamp": "2015-02-03T06:08:12.796161", 
+            "state": "active", 
+            "id": "81c7fb81-59ba-4775-b73a-79f87d4355b6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "opinion", 
+            "name": "opinion", 
+            "revision_timestamp": "2015-02-03T06:08:12.796161", 
+            "state": "active", 
+            "id": "ad523f58-00d0-4a16-8b0e-bb718601c398"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "polls", 
+            "name": "polls", 
+            "revision_timestamp": "2015-02-03T06:08:12.796161", 
+            "state": "active", 
+            "id": "c086ca00-bd50-4cea-9bad-4b7188c3c51d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "surveys", 
+            "name": "surveys", 
+            "revision_timestamp": "2015-02-03T06:08:12.796161", 
+            "state": "active", 
+            "id": "57740d91-e252-47af-b95c-578300b9880f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "zone", 
+            "name": "zone", 
+            "revision_timestamp": "2015-02-03T06:08:12.796161", 
+            "state": "active", 
+            "id": "e235eb22-a32f-41fb-98d6-af3167e6b22f"
+        }
+    ], 
+    "contact_name": "DG COMM", 
+    "id": "ccafbb66-f5f8-4297-8907-be04b4d54b30", 
+    "metadata_created": "2015-02-03T06:08:12.796161", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T16:41:02.601332", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "v1.00", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "flash_arch_152_135_en.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/public_opinion/archives/flash_arch_152_135_en.htm#143", 
+            "datastore_active": false, 
+            "created": "2015-02-03T07:08:12.980869", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T16:41:02.600246", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "f792b617-38cd-4f06-844f-907547c7232f", 
+            "size": null, 
+            "resource_group_id": "f037a909-8a9a-4bdc-981f-c3cd25b20adf", 
+            "id": "546072fb-25de-48ba-8050-47904b327b5c", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "Detailed information on public opinion website"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: data_143", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?3BEE332C758F91F211895BC777F390F9", 
+            "datastore_active": false, 
+            "created": "2015-02-03T07:08:12.980892", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T16:41:02.600246", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "f792b617-38cd-4f06-844f-907547c7232f", 
+            "size": null, 
+            "resource_group_id": "f037a909-8a9a-4bdc-981f-c3cd25b20adf", 
+            "id": "2969aaf7-abfd-4437-8b1c-4661c46949a5", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to OP_data_143.zip"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 2, 
+    "description": "Pour mesurer l'\u00e9volution de l'opinion publique au Danemark, en Su\u00e8de et au Royaume-Uni par rapport \u00e0 la probl\u00e9matique de l\u2019euro.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume C: Country/socio-demographics", 
+    "title": "Flash Eurobarometer 143: Attitudes sur l'euro - Hors Zone Euro", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "tracking_summary": {
+        "total": 36, 
+        "recent": 4
+    }, 
+    "contact_email": "Eurobarometer@ec.europa.eu", 
+    "groups": [], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-02-03T06:08:12.796161", 
+    "name": "S296_143", 
+    "isopen": true, 
+    "alternative_title": "\u20ac - Pre-in", 
+    "url": "http://ec.europa.eu/public_opinion/archives/flash_arch_152_135_en.htm#143", 
+    "release_date": "2015-01-19", 
+    "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a", 
+    "contact_address": "Rue de La Loi, 56, Brussels", 
+    "rdf": "<rdf:RDF xmlns=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\"><dcat:Dataset rdf:about=\"http://ec.europa.eu/public_opinion/archives/flash_arch_152_135_en.htm#143\"><!-- Title, 1..1 - can be filled in in multiple translations though-->\n\t\t\t\t\t\t<dct:title xml:lang=\"en\">Flash Eurobarometer 143: Attitudes sur l'euro - Hors Zone Euro</dct:title> <!-- A name given to the resource --><!-- Alternative Title(s), 0..*-->\n\t\t\t\t\t\t<dct:alternative xml:lang=\"en\">&#8364; - Pre-in</dct:alternative> <!-- An alternative name for the resource --><ecodp:ckan-name>S296_143</ecodp:ckan-name><!-- Description, 1..*-->\n\t\t\t\t\t\t<dct:description xml:lang=\"en\">Pour mesurer l'&#233;volution de l'opinion publique au Danemark, en Su&#232;de et au Royaume-Uni par rapport &#224; la probl&#233;matique de l&#8217;euro.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume C: Country/socio-demographics  </dct:description><!--An unambiguous reference to the resource within a given context -->\n\t\t\t\t\t\t<dct:identifier>S296_143</dct:identifier><!-- Keyword, 0..*--><ecodp:keyword xml:lang=\"en\">attitudes</ecodp:keyword><ecodp:keyword xml:lang=\"en\">euro</ecodp:keyword><ecodp:keyword xml:lang=\"en\">hors</ecodp:keyword><ecodp:keyword xml:lang=\"en\">zone</ecodp:keyword><ecodp:keyword xml:lang=\"en\">euro</ecodp:keyword><ecodp:keyword xml:lang=\"en\">finace</ecodp:keyword><ecodp:keyword xml:lang=\"en\">opinion</ecodp:keyword><ecodp:keyword xml:lang=\"en\">polls</ecodp:keyword><ecodp:keyword xml:lang=\"en\">flash</ecodp:keyword><ecodp:keyword xml:lang=\"en\">surveys</ecodp:keyword><!-- Documentation details -->\n\t\t\t\t\t\t<ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<ecodp:documentationType>\n\t\t\t\t\t\t    \t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n\t\t\t\t\t\t\t</ecodp:documentationType>\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Detailed information on public opinion website</dct:title>\n\t\t\t\t\t\t\t<dct:title xml:lang=\"fr\">Plus d'informations sur l'opinion publique site</dct:title>\n\t\t\t\t\t\t\t<!--Kumar: Shall be populated manually -->\n\t\t\t\t\t\t\t<ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/public_opinion/archives/flash_arch_152_135_en.htm#143</ecodp:accessURL>\n\t\t\t\t\t\t</ecodp:isDocumentedBy><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to OP_data_143.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: data_143</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?3BEE332C758F91F211895BC777F390F9</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-01-09</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Geographical coverage 0..* --><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DNK\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GBR\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SWE\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><!-- Publisher 1..1 -->\n\t\t\t\t\t\t<dct:publisher>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/COMMU\"/>\n\t\t\t\t\t\t</dct:publisher><!-- Contact point 0..1 -->\n\t\t\t\t\t\t<ecodp:contactPoint>\n\t\t\t\t\t\t\t<foaf:Agent rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/COMMU\">\n\t\t\t\t\t\t\t\t<!--<foaf:phone rdf:resource=\"\"/>-->\n\t\t\t\t\t\t\t\t<foaf:mbox>Eurobarometer@ec.europa.eu</foaf:mbox>\n\t\t\t\t\t\t\t\t<foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/public_opinion/index_en.htm\"/>\n\t\t\t\t\t\t\t\t<ecodp:contactAddress xml:lang=\"en\">Rue de La Loi, 56, Brussels</ecodp:contactAddress>\n\t\t\t\t\t\t\t\t<foaf:name xml:lang=\"en\">DG COMM</foaf:name>\n\t\t\t\t\t\t\t</foaf:Agent>\n\t\t\t\t\t\t</ecodp:contactPoint><!-- Version 0..1 -->\n\t\t\t\t\t\t<dct:hasVersion rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<dct:identifier>v1.00</dct:identifier>\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Version 1.0</dct:description>\n\t\t\t\t\t\t</dct:hasVersion><!-- Dataset issued 0..1 -->\n\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-01-19</dct:issued><!-- License 1..* -->\n\t\t\t\t\t\t<dct:license>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n\t\t\t\t\t\t</dct:license><!-- Status 1..1 -->\n\t\t\t\t\t\t<ecodp:datasetStatus>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n\t\t\t\t\t\t</ecodp:datasetStatus>\n\t\t\t\t\t\t<dct:language>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n\t\t\t\t\t\t</dct:language></dcat:Dataset><dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/S296_143\"><foaf:primaryTopic>http://ec.europa.eu/public_opinion/archives/flash_arch_152_135_en.htm#143</foaf:primaryTopic><dct:modified>2015-02-03T07:08:12.755991</dct:modified><dct:issued>2015-02-03T07:08:12.755991</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/public_opinion/index_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Communication", 
+        "created": "2012-12-12T13:50:46.475520", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:46.449434", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "4b21ab59-71d2-4140-a1ee-a411abb6888d", 
+        "type": "organization", 
+        "id": "dbda9968-cb1e-47c3-b115-245a057e4d4a", 
+        "name": "commu"
+    }, 
+    "revision_id": "56a9e067-7d35-4bde-823a-c4b6b1b6c521", 
+    "identifier": "S296_143", 
+    "version_description": "Version 1.0"
+}

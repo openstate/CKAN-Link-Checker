@@ -1,0 +1,388 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 43, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/GBR", 
+        "http://publications.europa.eu/resource/authority/country/BEL", 
+        "http://publications.europa.eu/resource/authority/country/MLT", 
+        "http://publications.europa.eu/resource/authority/country/PRT", 
+        "http://publications.europa.eu/resource/authority/country/HRV", 
+        "http://publications.europa.eu/resource/authority/country/CYP", 
+        "http://publications.europa.eu/resource/authority/country/AUT", 
+        "http://publications.europa.eu/resource/authority/country/IRL", 
+        "http://publications.europa.eu/resource/authority/country/SVN", 
+        "http://publications.europa.eu/resource/authority/country/ROU", 
+        "http://publications.europa.eu/resource/authority/country/DNK", 
+        "http://publications.europa.eu/resource/authority/country/LVA", 
+        "http://publications.europa.eu/resource/authority/country/FIN", 
+        "http://publications.europa.eu/resource/authority/country/LUX", 
+        "http://publications.europa.eu/resource/authority/country/ITA", 
+        "http://publications.europa.eu/resource/authority/country/NLD", 
+        "http://publications.europa.eu/resource/authority/country/BGR", 
+        "http://publications.europa.eu/resource/authority/country/HUN", 
+        "http://publications.europa.eu/resource/authority/country/POL", 
+        "http://publications.europa.eu/resource/authority/country/GRC", 
+        "http://publications.europa.eu/resource/authority/country/SVK", 
+        "http://publications.europa.eu/resource/authority/country/FRA", 
+        "http://publications.europa.eu/resource/authority/country/SWE", 
+        "http://publications.europa.eu/resource/authority/country/EST", 
+        "http://publications.europa.eu/resource/authority/country/LTU", 
+        "http://publications.europa.eu/resource/authority/country/DEU", 
+        "http://publications.europa.eu/resource/authority/country/CZE", 
+        "http://publications.europa.eu/resource/authority/country/ESP"
+    ], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "e-communications", 
+            "name": "e-communications", 
+            "revision_timestamp": "2015-01-08T11:04:42.361518", 
+            "state": "active", 
+            "id": "38a0fc6a-fe0d-4957-aafc-b4d71eb13f38"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "household", 
+            "name": "household", 
+            "revision_timestamp": "2015-01-08T11:04:42.361518", 
+            "state": "active", 
+            "id": "1d1df36b-96c8-45f7-9b09-801bd31feb33"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "market", 
+            "name": "market", 
+            "revision_timestamp": "2015-01-08T11:04:42.361518", 
+            "state": "active", 
+            "id": "bb9babd2-e558-4c0d-9853-5c7fd18c3377"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "opinion", 
+            "name": "opinion", 
+            "revision_timestamp": "2015-01-08T11:04:42.361518", 
+            "state": "active", 
+            "id": "ad523f58-00d0-4a16-8b0e-bb718601c398"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "pollsspecial", 
+            "name": "pollsspecial", 
+            "revision_timestamp": "2015-01-08T11:04:42.361518", 
+            "state": "active", 
+            "id": "c96c445b-33a3-44e6-bccb-418a62b68753"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "single", 
+            "name": "single", 
+            "revision_timestamp": "2015-01-08T11:04:42.361518", 
+            "state": "active", 
+            "id": "228bc9a5-678b-4bbf-8674-e5b61c39a2f6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "survey", 
+            "name": "survey", 
+            "revision_timestamp": "2015-01-08T11:04:42.361518", 
+            "state": "active", 
+            "id": "3b927ff9-d219-4621-b323-8646d93ba567"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "surveys", 
+            "name": "surveys", 
+            "revision_timestamp": "2015-01-08T11:04:42.361518", 
+            "state": "active", 
+            "id": "57740d91-e252-47af-b95c-578300b9880f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "telecom", 
+            "name": "telecom", 
+            "revision_timestamp": "2015-01-08T11:04:42.361518", 
+            "state": "active", 
+            "id": "425bde55-a366-4189-b760-677dd40fd085"
+        }
+    ], 
+    "contact_name": "DG COMM", 
+    "id": "ffd4075f-71a5-4965-ba11-29308b4a421d", 
+    "metadata_created": "2015-01-08T11:04:42.361518", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:59:56.824070", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "v1.00", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6284", 
+            "name": "http://eurovoc.europa.eu/6284", 
+            "revision_timestamp": "2015-01-30T15:28:53.527608", 
+            "state": "active", 
+            "id": "d8330722-ebb8-4981-8d38-c5a7bf4302e9"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2152", 
+            "name": "http://eurovoc.europa.eu/2152", 
+            "revision_timestamp": "2015-01-30T15:28:53.527608", 
+            "state": "active", 
+            "id": "2816e8cc-4d6c-4ca1-8929-ce99937caa5c"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4214", 
+            "name": "http://eurovoc.europa.eu/4214", 
+            "revision_timestamp": "2015-01-30T15:28:53.527608", 
+            "state": "active", 
+            "id": "6f5fb596-7cf8-4cb0-8d89-dbb7fb0591d6"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2001", 
+            "name": "http://eurovoc.europa.eu/2001", 
+            "revision_timestamp": "2015-01-30T15:28:53.527608", 
+            "state": "active", 
+            "id": "c933cc92-ba53-407e-9087-924b584bdad2"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "eb_special_419_400_en.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/public_opinion/archives/eb_special_419_400_en.htm#414", 
+            "datastore_active": false, 
+            "created": "2015-01-30T16:28:53.972806", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T17:59:56.823021", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "19a2ec34-657c-483d-a6e6-c89bc38b37d4", 
+            "size": null, 
+            "resource_group_id": "e05ffd75-dd19-4282-8b2a-4a1ff8d5c544", 
+            "id": "d3281fa6-bd1d-4fe5-866d-5c483b2b027f", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "Detailed information on public opinion website"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: VolumeAAPEB811CNECTecomm", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?B7B7946672961A346E1B82DADC984AE3", 
+            "datastore_active": false, 
+            "created": "2015-01-30T16:28:53.972840", 
+            "tracking_summary": {
+                "total": 2, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T17:59:56.823021", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "19a2ec34-657c-483d-a6e6-c89bc38b37d4", 
+            "size": null, 
+            "resource_group_id": "e05ffd75-dd19-4282-8b2a-4a1ff8d5c544", 
+            "id": "b552fb29-cf3d-4dee-88c4-d975f3f089af", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to OP_VolumeAAPEB811CNECTecomm.zip"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: VolumeAEB811CNECTecomm_v3", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?049AF0A149B9E726FF02407E88D7BF09", 
+            "datastore_active": false, 
+            "created": "2015-01-30T16:28:53.972862", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T17:59:56.823021", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "19a2ec34-657c-483d-a6e6-c89bc38b37d4", 
+            "size": null, 
+            "resource_group_id": "e05ffd75-dd19-4282-8b2a-4a1ff8d5c544", 
+            "id": "79af9bc3-3734-4f0f-9db1-7f7e9bf252f9", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to OP_VolumeAEB811CNECTecomm_v3.zip"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: VolumeAPEB811CNECTecomm_v1", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?B14CB64030EB5257C5C684FB3388084C", 
+            "datastore_active": false, 
+            "created": "2015-01-30T16:28:53.972855", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T17:59:56.823021", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "19a2ec34-657c-483d-a6e6-c89bc38b37d4", 
+            "size": null, 
+            "resource_group_id": "e05ffd75-dd19-4282-8b2a-4a1ff8d5c544", 
+            "id": "ecc9864f-7ed6-4283-b069-cce53f23cd07", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to OP_VolumeAPEB811CNECTecomm_v1.zip"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: VolumeBEB811CNECTecomm", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?ADCBD44BE2439B671B23956BD6F966FF", 
+            "datastore_active": false, 
+            "created": "2015-01-30T16:28:53.972832", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T17:59:56.823021", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "19a2ec34-657c-483d-a6e6-c89bc38b37d4", 
+            "size": null, 
+            "resource_group_id": "e05ffd75-dd19-4282-8b2a-4a1ff8d5c544", 
+            "id": "bbed0dd3-ea50-488f-97e9-bdac31313fe8", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to OP_VolumeBEB811CNECTecomm.zip"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: VolumesCEB811CNECTecommxls", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?C3056C8F97CFED2EB0DBA634AE1F3307", 
+            "datastore_active": false, 
+            "created": "2015-01-30T16:28:53.972848", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T17:59:56.823021", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 5, 
+            "revision_id": "19a2ec34-657c-483d-a6e6-c89bc38b37d4", 
+            "size": null, 
+            "resource_group_id": "e05ffd75-dd19-4282-8b2a-4a1ff8d5c544", 
+            "id": "766dd7e0-5823-4e5a-8d30-f2d0ac5fcf6a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to OP_VolumesCEB811CNECTecommxls.zip"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 6, 
+    "description": "The Commission has released the results of a Eurobarometer survey to measure the attitude of EU households and citizens towards the main e-communications services in the Single Market: fixed and mobile voice telephony and Internet access, TV broadcast services and service packages. The survey measures consumer's perception of mobile roaming, broadband speed, quality of experience of access services, affordability, switching service provider and price transparency, 112 awareness and use of public payphone and directory enquiry services. The fieldwork was conducted between 18 and 27 January 2014. It covers the 28 EU Member States, with a total of 27,736 respondents interviewed. It follows on from the previous Eurobarometer survey which was conducted in February-March 2013. \n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume C: Country/socio-demographics", 
+    "title": "Special Eurobarometer 414: E-communications household survey and Telecom Single Market survey", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "tracking_summary": {
+        "total": 111, 
+        "recent": 19
+    }, 
+    "contact_email": "Eurobarometer@ec.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100150", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100150", 
+            "image_display_url": "", 
+            "id": "f9b717f1-427b-4fa9-ae8e-bd33144b4f3b", 
+            "name": "eurovoc_domain_100150"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-01-08T11:04:42.361518", 
+    "name": "S2021_81_1_414", 
+    "isopen": true, 
+    "alternative_title": "E-communications household survey and Telecom Single Market survey", 
+    "url": "http://ec.europa.eu/public_opinion/archives/eb_special_419_400_en.htm#414", 
+    "release_date": "2014-12-11", 
+    "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a", 
+    "contact_address": "Rue de La Loi, 56, Brussels", 
+    "rdf": "<rdf:RDF xmlns=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\"><dcat:Dataset rdf:about=\"http://ec.europa.eu/public_opinion/archives/eb_special_419_400_en.htm#414\"><!-- Title, 1..1 - can be filled in in multiple translations though-->\n\t\t\t\t\t\t<dct:title xml:lang=\"en\">Special Eurobarometer 414: E-communications household survey and Telecom Single Market survey</dct:title> <!-- A name given to the resource --><!-- Alternative Title(s), 0..*-->\n\t\t\t\t\t\t<dct:alternative xml:lang=\"en\">E-communications household survey and Telecom Single Market survey</dct:alternative> <!-- An alternative name for the resource --><ecodp:ckan-name>S2021_81_1_414</ecodp:ckan-name><!-- Description, 1..*-->\n\t\t\t\t\t\t<dct:description xml:lang=\"en\">The Commission has released the results of a Eurobarometer survey to measure the attitude of EU households and citizens towards the main e-communications services in the Single Market: fixed and mobile voice telephony and Internet access, TV broadcast services and service packages. The survey measures consumer's perception of mobile roaming, broadband speed, quality of experience of access services, affordability, switching service provider and price transparency, 112 awareness and use of public payphone and directory enquiry services. The fieldwork was conducted between 18 and 27 January 2014. It covers the 28 EU Member States, with a total of 27,736 respondents interviewed. It follows on from the previous Eurobarometer survey which was conducted in February-March 2013. \n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume C: Country/socio-demographics  </dct:description><!--An unambiguous reference to the resource within a given context -->\n\t\t\t\t\t\t<dct:identifier>S2021_81_1_414</dct:identifier><!-- Keyword, 0..*--><ecodp:keyword xml:lang=\"en\">e-communications</ecodp:keyword><ecodp:keyword xml:lang=\"en\">household</ecodp:keyword><ecodp:keyword xml:lang=\"en\">survey</ecodp:keyword><ecodp:keyword xml:lang=\"en\">telecom</ecodp:keyword><ecodp:keyword xml:lang=\"en\">single</ecodp:keyword><ecodp:keyword xml:lang=\"en\">market</ecodp:keyword><ecodp:keyword xml:lang=\"en\">survey</ecodp:keyword><ecodp:keyword xml:lang=\"en\">opinion</ecodp:keyword><ecodp:keyword xml:lang=\"en\">pollsspecial</ecodp:keyword><ecodp:keyword xml:lang=\"en\">surveys</ecodp:keyword><!-- Documentation details -->\n\t\t\t\t\t\t<ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<ecodp:documentationType>\n\t\t\t\t\t\t    \t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n\t\t\t\t\t\t\t</ecodp:documentationType>\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Detailed information on public opinion website</dct:title>\n\t\t\t\t\t\t\t<dct:title xml:lang=\"fr\">Plus d'informations sur l'opinion publique site</dct:title>\n\t\t\t\t\t\t\t<!--Kumar: Shall be populated manually -->\n\t\t\t\t\t\t\t<ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/public_opinion/archives/eb_special_419_400_en.htm#414</ecodp:accessURL>\n\t\t\t\t\t\t</ecodp:isDocumentedBy><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to OP_VolumeBEB811CNECTecomm.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: VolumeBEB811CNECTecomm</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?ADCBD44BE2439B671B23956BD6F966FF</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-12-11</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to OP_VolumeAAPEB811CNECTecomm.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: VolumeAAPEB811CNECTecomm</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?B7B7946672961A346E1B82DADC984AE3</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-12-11</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to OP_VolumesCEB811CNECTecommxls.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: VolumesCEB811CNECTecommxls</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?C3056C8F97CFED2EB0DBA634AE1F3307</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-12-11</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to OP_VolumeAPEB811CNECTecomm_v1.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: VolumeAPEB811CNECTecomm_v1</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?B14CB64030EB5257C5C684FB3388084C</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-12-11</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to OP_VolumeAEB811CNECTecomm_v3.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: VolumeAEB811CNECTecomm_v3</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?049AF0A149B9E726FF02407E88D7BF09</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-12-11</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Geographical coverage 0..* --><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/AUT\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BEL\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BGR\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CYP\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CZE\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DEU\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DNK\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ESP\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/EST\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FIN\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FRA\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GBR\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GRC\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HRV\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HUN\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/IRL\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ITA\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LTU\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LUX\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LVA\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/MLT\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/NLD\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/POL\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/PRT\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ROU\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVK\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVN\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SWE\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><!-- Publisher 1..1 -->\n\t\t\t\t\t\t<dct:publisher>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/COMMU\"/>\n\t\t\t\t\t\t</dct:publisher><!-- Contact point 0..1 -->\n\t\t\t\t\t\t<ecodp:contactPoint>\n\t\t\t\t\t\t\t<foaf:Agent rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/COMMU\">\n\t\t\t\t\t\t\t\t<!--<foaf:phone rdf:resource=\"\"/>-->\n\t\t\t\t\t\t\t\t<foaf:mbox>Eurobarometer@ec.europa.eu</foaf:mbox>\n\t\t\t\t\t\t\t\t<foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/public_opinion/index_en.htm\"/>\n\t\t\t\t\t\t\t\t<ecodp:contactAddress xml:lang=\"en\">Rue de La Loi, 56, Brussels</ecodp:contactAddress>\n\t\t\t\t\t\t\t\t<foaf:name xml:lang=\"en\">DG COMM</foaf:name>\n\t\t\t\t\t\t\t</foaf:Agent>\n\t\t\t\t\t\t</ecodp:contactPoint><!-- Version 0..1 -->\n\t\t\t\t\t\t<dct:hasVersion rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<dct:identifier>v1.00</dct:identifier>\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Version 1.0</dct:description>\n\t\t\t\t\t\t</dct:hasVersion><!-- Dataset issued 0..1 -->\n\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-12-11</dct:issued><!-- License 1..* -->\n\t\t\t\t\t\t<dct:license>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n\t\t\t\t\t\t</dct:license><!-- Status 1..1 -->\n\t\t\t\t\t\t<ecodp:datasetStatus>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n\t\t\t\t\t\t</ecodp:datasetStatus>\n\t\t\t\t\t\t \n\t  <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100144\"/> \n\t    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100149\"/> \n\t  <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100150\"/> \n\t <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/6284\"/>\n\t <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2001\"/>\n\t \t <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2152\"/>\n\t\t \t <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4214\"/>\n\t\t\t\t\t\t<dct:language>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n\t\t\t\t\t\t</dct:language></dcat:Dataset><dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/S2021_81_1_414\"><foaf:primaryTopic>http://ec.europa.eu/public_opinion/archives/eb_special_419_400_en.htm#414</foaf:primaryTopic><dct:modified>2015-01-22T11:54:43.405222</dct:modified><dct:issued>2015-01-08T11:04:42.361518</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/public_opinion/index_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Communication", 
+        "created": "2012-12-12T13:50:46.475520", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:46.449434", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "4b21ab59-71d2-4140-a1ee-a411abb6888d", 
+        "type": "organization", 
+        "id": "dbda9968-cb1e-47c3-b115-245a057e4d4a", 
+        "name": "commu"
+    }, 
+    "revision_id": "1bcb9840-471c-4e7a-b436-bdb81ba3545b", 
+    "identifier": "S2021_81_1_414", 
+    "version_description": "Version 1.0"
+}

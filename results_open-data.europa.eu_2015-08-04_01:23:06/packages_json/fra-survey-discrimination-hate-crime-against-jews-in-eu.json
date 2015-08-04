@@ -1,0 +1,174 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2012-10-08", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 15, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/GBR", 
+        "http://publications.europa.eu/resource/authority/country/DEU", 
+        "http://publications.europa.eu/resource/authority/country/ITA", 
+        "http://publications.europa.eu/resource/authority/country/FRA", 
+        "http://publications.europa.eu/resource/authority/country/SWE", 
+        "http://publications.europa.eu/resource/authority/country/BEL", 
+        "http://publications.europa.eu/resource/authority/country/HUN", 
+        "http://publications.europa.eu/resource/authority/country/LVA"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "antisemitism", 
+            "name": "antisemitism", 
+            "revision_timestamp": "2014-01-28T15:46:10.897927", 
+            "state": "active", 
+            "id": "c58f77a4-064b-4944-bafd-72e426d3ded1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "discrimination", 
+            "name": "discrimination", 
+            "revision_timestamp": "2014-01-28T15:46:10.897927", 
+            "state": "active", 
+            "id": "af2f3531-73e3-471a-8022-d35c11e804c6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "hate crime", 
+            "name": "hate crime", 
+            "revision_timestamp": "2014-01-28T16:03:22.341430", 
+            "state": "active", 
+            "id": "85b9092e-9ac3-4228-931f-de70006cc4fc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rights awareness", 
+            "name": "rights awareness", 
+            "revision_timestamp": "2014-01-28T16:03:22.341430", 
+            "state": "active", 
+            "id": "a7e28e9d-784e-46fb-94d9-80102d03c660"
+        }
+    ], 
+    "contact_name": "Statistics and surveys team", 
+    "id": "8c24798d-b0b2-4b5f-bdce-f5457a7c96f9", 
+    "metadata_created": "2015-07-27T15:23:11.772498", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:23:11.777003", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "f36d6bab-9cf3-4a13-b068-1afcf76d8cd4", 
+            "revision_timestamp": "2014-01-28T15:50:43.072249", 
+            "datastore_active": false, 
+            "id": "74aa85b7-a398-462f-b266-f2ad80bc0a50", 
+            "size": "7581204", 
+            "state": "active", 
+            "hash": "", 
+            "description": "This report presents the findings of the FRA survey on\r\nexperiences and perceptions of hate crime, discrimination\r\nand antisemitism among self-identified Jewish\r\nrespondents in eight EU Member States \u2013 Belgium,\r\nFrance, Germany, Hungary, Italy, Latvia, Sweden and the\r\nUnited Kingdom.8 It describes the personal experiences\r\nand perceptions of 5,847 Jewish persons concerning the\r\nextent and nature of various incidents in their daily lives\r\n\u2013 including incidents of hate crime and discrimination\r\nwhich they felt have taken place because they are Jewish,\r\nas well as various manifestations of antisemitism.", 
+            "format": "application/pdf", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2013-11-08T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "name": "Discrimination and hate crime against Jews in EU Member States: experiences and perceptions of antisemitism", 
+            "created": "2014-01-28T16:50:43.138251", 
+            "url": "http://fra.europa.eu/sites/default/files/fra-2013-discrimination-hate-crime-against-jews-eu-member-states_en.pdf", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "c43851f2-b059-4c89-ab2b-28c73fd6c112", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation"
+        }, 
+        {
+            "resource_group_id": "f36d6bab-9cf3-4a13-b068-1afcf76d8cd4", 
+            "revision_timestamp": "2014-08-07T10:27:22.873127", 
+            "datastore_active": false, 
+            "id": "65d84f77-f942-4ba7-acf9-4ae87017c7ff", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "This data explorer provides access to survey results and allows the filtering of responses by different categories of respondent such as age, gender and strength of Jewish identity.", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2013-11-08T00:00:00", 
+            "url_type": null, 
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "name": "Survey data explorer - Jewish people\u2019s experiences and perceptions of hate crime, discrimination and antisemitism", 
+            "created": "2014-01-28T16:58:50.039567", 
+            "url": "http://fra.europa.eu/en/publications-and-resources/data-and-maps/survey-data-explorer-discrimination-and-hate-crime-against", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 1, 
+            "revision_id": "4b01e50c-c6c9-410e-98aa-407f02ed88a4", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 2, 
+    "description": "Survey results are based on the responses from 5,847 self-identified Jewish respondents (aged 16 or over) living in one of eight EU Member States \u2013 Belgium, France, Germany, Hungary, Italy, Latvia, Sweden, and the United Kingdom for their opinions and perceptions on antisemitic trends and antisemitism as a problem in everyday life. The respondents were also asked to describe their personal experiences of antisemitic incidents, witnessing antisemitic incidents and worrying about being a victim of an antisemitic attack (affecting their personal safety, safety of children, or other family members and friends). The survey also provides data on whether the occurrence of antisemitic acts against the Jewish community, such as vandalism of Jewish sites or antisemitic messages in the broadcast media or in the internet, is considered to be a problem in their countries by the Jewish respondents.", 
+    "title": "FRA survey - Discrimination and hate crime against Jews in EU Member States: experiences and perceptions of antisemitism", 
+    "temporal_coverage_from": "2012-09-03", 
+    "tracking_summary": {
+        "total": 255, 
+        "recent": 2
+    }, 
+    "contact_email": "statistics&surveys@fra.europa.eu", 
+    "groups": [], 
+    "creator_user_id": "afb2e66b-5a6b-4d87-a48b-ca3ffaac2157", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2015-07-27T15:23:11.772498", 
+    "name": "fra-survey-discrimination-hate-crime-against-jews-in-eu", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "release_date": "2013-11-08", 
+    "owner_org": "c254d501-1e16-4fde-a1dd-e015994ea6eb", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://fra.europa.eu/en/survey/2012/fra-survey-jewish-peoples-experiences-and-perceptions-discrimination-and-hate-crime", 
+    "organization": {
+        "description": "", 
+        "title": "European Union Agency for Fundamental Rights", 
+        "created": "2012-12-12T13:50:53.929902", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:53.905500", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "1f5e333b-2116-4dba-80be-610d0c4cabf3", 
+        "type": "organization", 
+        "id": "c254d501-1e16-4fde-a1dd-e015994ea6eb", 
+        "name": "fra"
+    }, 
+    "revision_id": "016bef0c-1e3b-4c6f-8951-1ecb5d15101f", 
+    "identifier": "", 
+    "version_description": ""
+}

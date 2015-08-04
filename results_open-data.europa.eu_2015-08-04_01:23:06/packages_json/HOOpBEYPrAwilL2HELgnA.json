@@ -1,0 +1,245 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "carriage of goods", 
+            "name": "carriage of goods", 
+            "revision_timestamp": "2014-12-22T09:14:43.410025", 
+            "state": "active", 
+            "id": "6c6329cc-fc17-4d36-98eb-0e9944c88a78"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "inland waterway", 
+            "name": "inland waterway", 
+            "revision_timestamp": "2014-12-22T09:14:43.410025", 
+            "state": "active", 
+            "id": "b3ed6bf7-ba42-4412-98c1-b65701efcab3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "transport statistics", 
+            "name": "transport statistics", 
+            "revision_timestamp": "2014-12-22T09:14:43.410025", 
+            "state": "active", 
+            "id": "43620a33-03ea-4cb1-b236-b36b4197a28f"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "18e8f9b5-9264-4e84-ace0-50a69c6494ee", 
+    "metadata_created": "2014-12-22T09:14:43.410025", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:08:18.996826", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4735", 
+            "name": "http://eurovoc.europa.eu/4735", 
+            "revision_timestamp": "2015-03-03T16:56:15.251582", 
+            "state": "active", 
+            "id": "27dcaf16-6dce-4370-8c44-4d3974eb10a1"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ttr00007.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:08:19.100037", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:08:18.994314", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "2c0cad5c-3711-41ab-8c02-af4ff36a4bb3", 
+            "size": null, 
+            "resource_group_id": "283761a7-ddc7-4fb9-a7cd-9b6da23a5c1d", 
+            "id": "17cfb6d4-25de-4894-b0d2-474f97e8f2c1", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ttr00007.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:08:19.100044", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:08:18.994314", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "2c0cad5c-3711-41ab-8c02-af4ff36a4bb3", 
+            "size": null, 
+            "resource_group_id": "283761a7-ddc7-4fb9-a7cd-9b6da23a5c1d", 
+            "id": "f8d7d3f2-f240-453c-8057-37fa7b0459d2", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "iww_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/iww_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:08:19.099990", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:08:18.994314", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "2c0cad5c-3711-41ab-8c02-af4ff36a4bb3", 
+            "size": null, 
+            "resource_group_id": "283761a7-ddc7-4fb9-a7cd-9b6da23a5c1d", 
+            "id": "b00c4bf2-0527-4e83-95a6-62c1a35b33bd", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/iww_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:08:19.100021", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:08:18.994314", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "2c0cad5c-3711-41ab-8c02-af4ff36a4bb3", 
+            "size": null, 
+            "resource_group_id": "283761a7-ddc7-4fb9-a7cd-9b6da23a5c1d", 
+            "id": "eaad78e3-4621-4e4c-81d3-022ab5eeff23", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ttr00007", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:08:19.100030", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:08:18.994314", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "2c0cad5c-3711-41ab-8c02-af4ff36a4bb3", 
+            "size": null, 
+            "resource_group_id": "283761a7-ddc7-4fb9-a7cd-9b6da23a5c1d", 
+            "id": "56e0e4a4-bdb2-4686-8e4e-e22c1cab730b", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Inland waterway transport progressed by only 17 % in nearly three decades. It should however be noted that the efficiency of this transport mode made a big step forward since the transport performance was done with a considerably reduced vessel fleet. For some countries, like the Netherlands, it is the second mode of transport after road, and for other countries, it still has a major share of the market.", 
+    "title": "Goods transport by inland waterways", 
+    "temporal_coverage_from": "2003", 
+    "tracking_summary": {
+        "total": 14, 
+        "recent": 0
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100154", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100154", 
+            "image_display_url": "", 
+            "id": "48655103-3cc3-43b2-87df-e883a1ee38ae", 
+            "name": "eurovoc_domain_100154"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:14:43.410025", 
+    "name": "HOOpBEYPrAwilL2HELgnA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ttr00007", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/ttr00007\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100154\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4735\"/>\n    <dct:title xml:lang=\"en\">Goods transport by inland waterways</dct:title>\n    <dct:title xml:lang=\"fr\">Transport de marchandises par voies navigables int&#233;rieures</dct:title>\n    <dct:title xml:lang=\"de\">G&#252;terverkehr auf Binnenwasserstra&#223;en</dct:title>\n    <ecodp:keyword xml:lang=\"en\">transport statistics</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">carriage of goods</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">inland waterway</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique des transports</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">transport de marchandises</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">voie d'eau int&#233;rieure</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Verkehrsstatistik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">G&#252;terverkehr</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Binnenwasserstra&#223;e</ecodp:keyword>\n    <dct:identifier>ttr00007</dct:identifier>\n    <dct:description xml:lang=\"en\">Inland waterway transport progressed by only 17 % in nearly three decades. It should however be noted that the efficiency of this transport mode made a big step forward since the transport performance was done with a considerably reduced vessel fleet. For some countries, like the Netherlands, it is the second mode of transport after road, and for other countries, it still has a major share of the market.</dct:description>\n    <dct:description xml:lang=\"fr\">En pr&#232;s de 30 ans, le transport par voies navigables int&#233;rieures n'a progress&#233; que de 17 %. Il convient cependant de noter que l'efficacit&#233; de ce mode de transport a largement progress&#233; puisque les performances sont r&#233;alis&#233;es avec une flotte consid&#233;rablement r&#233;duite. Dans certains pays, comme aux Pays-Bas, ce mode de transport arrive en deuxi&#232;me position apr&#232;s la route et, dans d'autres pays, il occupe toujours une place de choix sur le march&#233;.</dct:description>\n    <dct:description xml:lang=\"de\">Der Binnenschiffsverkehr hat sich in nahezu drei Jahrzehnten um lediglich 17 % ausgeweitet. Dabei ist jedoch festzustellen, dass hinsichtlich der Effizienz dieses Verkehrszweigs gro&#223;e Fortschritte erzielt wurden, denn die Verkehrsleistung wurde mit einer erheblich reduzierten Fahrzeugflotte erbracht. In einigen L&#228;ndern wie den Niederlanden ist der Binnenschiffsverkehr der zweitwichtigste Verkehrszweig nach dem Stra&#223;eng&#252;terverkehr, und in anderen L&#228;ndern entf&#228;llt immer noch ein gro&#223;er Marktanteil auf den Binnenschiffsverkehr.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/iww_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/iww_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/ttr00007</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ttr00007.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ttr00007.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2003</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/HOOpBEYPrAwilL2HELgnA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/ttr00007</foaf:primaryTopic><dct:modified>2015-07-31T10:08:03.957879</dct:modified><dct:issued>2014-12-22T09:14:43.410025</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "5bd97c02-f5cf-4034-aa9e-3a08474690b1", 
+    "identifier": "ttr00007"
+}

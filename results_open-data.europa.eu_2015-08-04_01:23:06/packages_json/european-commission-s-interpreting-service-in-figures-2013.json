@@ -1,0 +1,261 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013-12-31", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 17, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "budget", 
+            "name": "budget", 
+            "revision_timestamp": "2014-05-14T10:03:47.045955", 
+            "state": "active", 
+            "id": "0aca9e4b-81ec-4f88-8620-6527aad741c0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "conferences", 
+            "name": "conferences", 
+            "revision_timestamp": "2014-05-14T10:03:47.045955", 
+            "state": "active", 
+            "id": "a8f114e0-b7ac-43b8-8318-5504b9b53d6a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "cost", 
+            "name": "cost", 
+            "revision_timestamp": "2014-05-14T10:03:47.045955", 
+            "state": "active", 
+            "id": "551a8eb6-ccde-4f8c-9252-0524f4f20f51"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "human resources", 
+            "name": "human resources", 
+            "revision_timestamp": "2014-05-14T10:03:47.045955", 
+            "state": "active", 
+            "id": "727a7b1c-7517-4dd0-8355-c707a695c9a8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "interpretation", 
+            "name": "interpretation", 
+            "revision_timestamp": "2014-05-14T10:03:47.045955", 
+            "state": "active", 
+            "id": "bacf115f-b879-4f84-bf95-650f87c00855"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "interpreters", 
+            "name": "interpreters", 
+            "revision_timestamp": "2014-05-14T10:03:47.045955", 
+            "state": "active", 
+            "id": "d15a0648-03d1-437c-ba22-0caa231e8846"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "languages", 
+            "name": "languages", 
+            "revision_timestamp": "2014-05-14T10:03:47.045955", 
+            "state": "active", 
+            "id": "f1f396e3-f2f1-4c02-a622-db69705468bb"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "training", 
+            "name": "training", 
+            "revision_timestamp": "2014-05-14T10:03:47.045955", 
+            "state": "active", 
+            "id": "bf901bd0-fc84-4eb9-a014-8a9d74c1b0f6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "webstreaming", 
+            "name": "webstreaming", 
+            "revision_timestamp": "2014-05-14T10:03:47.045955", 
+            "state": "active", 
+            "id": "dc016b4e-5ebb-44db-9ea6-ea6f443f1873"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "21ebbbec-f0c4-40c7-ad59-529d2af5fc99", 
+    "metadata_created": "2015-07-27T13:59:54.513364", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T13:59:54.514386", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1482", 
+            "name": "http://eurovoc.europa.eu/1482", 
+            "revision_timestamp": "2015-02-26T16:06:02.098007", 
+            "state": "active", 
+            "id": "dec12192-6345-4585-8fb4-15cb26138e2a"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3585", 
+            "name": "http://eurovoc.europa.eu/3585", 
+            "revision_timestamp": "2015-02-26T16:06:02.098007", 
+            "state": "active", 
+            "id": "823007a7-0d28-4289-84c4-b8483e348198"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1670", 
+            "name": "http://eurovoc.europa.eu/1670", 
+            "revision_timestamp": "2015-02-26T16:06:02.098007", 
+            "state": "active", 
+            "id": "7d38228d-059d-43a9-b25f-c85dc44c354b"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5050", 
+            "name": "http://eurovoc.europa.eu/5050", 
+            "revision_timestamp": "2015-02-26T16:06:02.098007", 
+            "state": "active", 
+            "id": "4a61f94a-aeff-4db0-abd7-9cf2a214bd5f"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2342", 
+            "name": "http://eurovoc.europa.eu/2342", 
+            "revision_timestamp": "2015-02-26T16:06:02.098007", 
+            "state": "active", 
+            "id": "4662c7d5-bda7-4b06-92e1-636089ff7b21"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/vnd.ms-excel", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "DG Interpretation in figures - 2013 ", 
+            "format": "application/vnd.ms-excel", 
+            "url": "http://ec.europa.eu/dgs/scic/docs/about_dg_int/data_dg_interpretation_in_figures_year_2013__open_data_portal.xlsx", 
+            "datastore_active": false, 
+            "created": "2014-05-14T12:19:04.858008", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-26T15:54:06.408325", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "15eb540d-37ca-4bf3-aabc-01b5a202aeb0", 
+            "size": null, 
+            "resource_group_id": "23d927af-70cd-48ec-81dd-faee1630961a", 
+            "id": "b69c31c8-717d-4922-a56a-a0029a62c3cd", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "European Commission's interpreting service in figures \u2013 2013 (Excel)"
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "DG Interpretation in figures - 2013", 
+            "format": "application/pdf", 
+            "url": "http://ec.europa.eu/dgs/scic/docs/about_dg_int/statistics-brochure.pdf", 
+            "datastore_active": false, 
+            "created": "2014-05-14T12:23:37.801595", 
+            "tracking_summary": {
+                "total": 3, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-26T15:54:06.408325", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "15eb540d-37ca-4bf3-aabc-01b5a202aeb0", 
+            "size": null, 
+            "resource_group_id": "23d927af-70cd-48ec-81dd-faee1630961a", 
+            "id": "113c832c-b1a2-49b0-a4fe-2cd322dc9d35", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "European Commission's interpreting service in figures \u2013 2013 (PDF)"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 2, 
+    "description": "Key figures from DG Interpretation of the European Commission on interpretation and meetings in 2013. \r\nIt provides information on the number of staff,  interpretation costs,  number of meetings organised as well as  figures on interpretation services provided by languages.These figures are updated on a yearly basis. \r\n", 
+    "title": "European Commission's interpreting service in figures \u2013 2013", 
+    "temporal_coverage_from": "2013-01-01", 
+    "tracking_summary": {
+        "total": 392, 
+        "recent": 6
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100150", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100150", 
+            "image_display_url": "", 
+            "id": "f9b717f1-427b-4fa9-ae8e-bd33144b4f3b", 
+            "name": "eurovoc_domain_100150"
+        }
+    ], 
+    "creator_user_id": "65b56d49-f244-4496-aec2-9cdbd575df51", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2015-07-27T13:59:54.513364", 
+    "name": "european-commission-s-interpreting-service-in-figures-2013", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "DG Interpretation in figures", 
+    "accrual_periodicity": "yearly", 
+    "release_date": "2014-02-01", 
+    "owner_org": "51817946-a045-484c-9939-c1f985e04100", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://ec.europa.eu/dgs/scic/index_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Interpretation", 
+        "created": "2012-12-12T13:50:56.847616", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:56.822756", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "4eafd180-d738-451e-b61d-aa911fb85417", 
+        "type": "organization", 
+        "id": "51817946-a045-484c-9939-c1f985e04100", 
+        "name": "scic"
+    }, 
+    "revision_id": "f05e5b3c-7fe0-4e70-a3a3-976a9546c1dc", 
+    "identifier": "", 
+    "version_description": ""
+}

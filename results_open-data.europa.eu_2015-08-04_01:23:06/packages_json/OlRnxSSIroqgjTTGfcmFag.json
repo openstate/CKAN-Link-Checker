@@ -1,0 +1,237 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "national accounts", 
+            "name": "national accounts", 
+            "revision_timestamp": "2015-07-08T23:58:38.351499", 
+            "state": "active", 
+            "id": "b77c1f40-3b55-450c-8353-0f1c99a271ca"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "155cc9dd-0457-4185-a492-6acb629c21f5", 
+    "metadata_created": "2015-07-08T23:58:38.351499", 
+    "modified_date": "2015-08-01", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T11:25:22.706115", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/56", 
+            "name": "http://eurovoc.europa.eu/56", 
+            "revision_timestamp": "2015-07-08T23:58:38.351499", 
+            "state": "active", 
+            "id": "e11c40fd-4749-49a0-934e-4d4f391248e8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina042.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:25:22.812572", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:25:22.705081", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "46188456-e14e-4f3c-aa4b-49d9537e3827", 
+            "size": null, 
+            "resource_group_id": "ecf5fc0f-20f6-4baa-9c97-c16816d6dfe9", 
+            "id": "39c7cf6f-daa7-4303-b9d4-36b937b35785", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina042.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:25:22.812579", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:25:22.705081", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "46188456-e14e-4f3c-aa4b-49d9537e3827", 
+            "size": null, 
+            "resource_group_id": "ecf5fc0f-20f6-4baa-9c97-c16816d6dfe9", 
+            "id": "48159fa6-1fbf-4207-8fad-b1b601f79cdd", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ei_qna_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ei_qna_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:25:22.812522", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:25:22.705081", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "46188456-e14e-4f3c-aa4b-49d9537e3827", 
+            "size": null, 
+            "resource_group_id": "ecf5fc0f-20f6-4baa-9c97-c16816d6dfe9", 
+            "id": "a5bb499f-b797-482f-a0d2-3149527768b3", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_qna_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:25:22.812556", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:25:22.705081", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "46188456-e14e-4f3c-aa4b-49d9537e3827", 
+            "size": null, 
+            "resource_group_id": "ecf5fc0f-20f6-4baa-9c97-c16816d6dfe9", 
+            "id": "43dbf6bc-9465-4b07-b32d-c93c4ae5673b", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina042", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:25:22.812565", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:25:22.705081", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "46188456-e14e-4f3c-aa4b-49d9537e3827", 
+            "size": null, 
+            "resource_group_id": "ecf5fc0f-20f6-4baa-9c97-c16816d6dfe9", 
+            "id": "c98c9996-80c3-4e4b-8381-052463d61cb8", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Gross fixed capital formation (GFCF, ESA 2010, 3.124) consists of resident producers' acquisitions, less disposals, of fixed assets during a given period plus certain additions to the value of non-produced assets realised by the productive activity of producer or institutional units. GFCF includes acquisition less disposals of, e.g. buildings, structures, machinery and equipment, mineral exploration, computer software, literary or artistic originals and major improvements to land such as the clearance of forests. Values are seasonally adjusted (SA). The ESA 2010 (European System of Accounts) regulation may be referred to for more specific explanations on methodology.", 
+    "title": "Gross fixed capital formation by asset (AN_F6) - percentage change Q/Q-1", 
+    "temporal_coverage_from": "2012", 
+    "tracking_summary": {
+        "total": 0, 
+        "recent": 0
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-08T23:58:38.351499", 
+    "name": "OlRnxSSIroqgjTTGfcmFag", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teina042", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teina042\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/56\"/>\n    <dct:title xml:lang=\"en\">Gross fixed capital formation by asset (AN_F6) - percentage change Q/Q-1</dct:title>\n    <dct:title xml:lang=\"fr\">Formation brute de capital fixe par type d'actif (AN_F6) - variation en pourcentage Q/Q-1</dct:title>\n    <dct:title xml:lang=\"de\">Bruttoanlageinvestitionen nach Anlagearten (AN_F6) - Prozentver&#228;nderung Q/Q-1</dct:title>\n    <ecodp:keyword xml:lang=\"en\">national accounts</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Comptes Nationaux</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Volkswirtschaftliche Gesamtrechnungen</ecodp:keyword>\n    <dct:identifier>teina042</dct:identifier>\n    <dct:description xml:lang=\"en\">Gross fixed capital formation (GFCF, ESA 2010, 3.124) consists of resident producers' acquisitions, less disposals, of fixed assets during a given period plus certain additions to the value of non-produced assets realised by the productive activity of producer or institutional units. GFCF includes acquisition less disposals of, e.g. buildings, structures, machinery and equipment, mineral exploration, computer software, literary or artistic originals and major improvements to land such as the clearance of forests. Values are seasonally adjusted (SA). The ESA 2010 (European System of Accounts) regulation may be referred to for more specific explanations on methodology.</dct:description>\n    <dct:description xml:lang=\"fr\">La formation brute de capital fixe (FBCF, SEC 2010, 3.124), aussi nomm&#233; investissement, est &#233;gale aux acquisitions moins les cessions d'actifs fixes r&#233;alis&#233;es par les producteurs r&#233;sidents au cours de la p&#233;riode de r&#233;f&#233;rence augment&#233;es de certaines plus-values sur actifs non-produits d&#233;coulant de l'activit&#233; de production des unit&#233;s productives ou institutionnelles. Ces actifs acquis sont destin&#233;s &#224; l'utilisation dans les processus de production. FBCF inclut l'acquisition moins les cessions, par exemple des b&#226;timents, des structures, des machines et &#233;quipement, l'exploration mini&#232;re, les logiciels, les originaux litt&#233;raires ou artistiques et des am&#233;liorations importantes &#224; la terre telle que l'&#233;limination des for&#234;ts. Les valeurs sont ajust&#233;es des variations saisonni&#232;res (SA). Pour des explications m&#233;thodologiques plus sp&#233;cifiques, il est conseill&#233; de consulter le SEC 2010 (Syst&#232;me europ&#233;en des comptes nationaux et r&#233;gionaux).</dct:description>\n    <dct:description xml:lang=\"de\">Bruttoanlageinvestitionen (ESVG 2010, 3.124) umfassen den durch gebietsans&#228;ssige Produktionseinheiten get&#228;tigten Erwerb abz&#252;glich der Ver&#228;u&#223;erungen von Anlageg&#252;tern zuz&#252;glich bestimmter Werterh&#246;hungen an nichtproduzierten Verm&#246;gensg&#252;tern durch produktive T&#228;tigkeiten von Produzenten oder institutionellen Einheiten. Die Bruttoanlageinvestitionen beinhalten den Erwerb abz&#252;glich Ver&#228;u&#223;erungen von z.B. Wohnbauten und anderen Bauwerken, Ausr&#252;stungen, Suchbohrungen, Computerprogramme, Urheberrechte und erhebliche Verbesserungen an Grund und Boden, etwa die Rodung von W&#228;ldern. Die angegebenen Werte sind saisonbereinigt (SA). Ausf&#252;hrlichere Erl&#228;uterungen zur Methodik k&#246;nnen der Verordnung zum ESVG 2010 (Europ&#228;isches System volkswirtschaftlicher Gesamtrechnungen) entnommen werden.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ei_qna_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_qna_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teina042</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina042.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teina042.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-08-01</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2012</ecodp:periodStart>\n        <ecodp:periodEnd>2015</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/OlRnxSSIroqgjTTGfcmFag\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teina042</foaf:primaryTopic><dct:modified>2015-07-31T09:30:54.080169</dct:modified><dct:issued>2015-07-08T23:58:38.351499</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "bfc03fd8-7cf9-41fd-bf66-428bb4de9831", 
+    "identifier": "teina042"
+}

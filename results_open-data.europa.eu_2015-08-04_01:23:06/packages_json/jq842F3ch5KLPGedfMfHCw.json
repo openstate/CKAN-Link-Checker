@@ -1,0 +1,415 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 38, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "advertising malpractice", 
+            "name": "advertising malpractice", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "5ffa7587-4cf1-4dcd-a11a-2b992b7ca286"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "approximation of laws", 
+            "name": "approximation of laws", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "1d82c270-e8f2-4e34-819f-6c3f15cc067e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "baby food", 
+            "name": "baby food", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "41d83b93-09cf-46a9-882a-52b9e107814b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "cereal product", 
+            "name": "cereal product", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "1edbe1cf-8a71-4aa7-8016-004bbf755ee0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "codification of Community law", 
+            "name": "codification of Community law", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "53d53c1d-e7e5-4abe-9720-523c2b517b3f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "competition", 
+            "name": "competition", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "16800c7e-b172-48cf-a877-fd1439db3b6f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "consumer information", 
+            "name": "consumer information", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "6f2403c5-8adb-4d69-89ad-2c8a816eda37"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "consumer protection", 
+            "name": "consumer protection", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "3891d539-66ba-41ac-968e-71083b4653bc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "dietary product", 
+            "name": "dietary product", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "6f41bf7f-dce4-4eae-be37-9249def14274"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "early childhood", 
+            "name": "early childhood", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "14272a88-2835-4085-a6d1-553300d9bf9e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "food consumption", 
+            "name": "food consumption", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "daa8b7d9-b9f8-4a3a-9617-5b5082621f79"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "food hygiene", 
+            "name": "food hygiene", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "30b3f57c-799b-4b26-8ac5-574ac162f15a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "food inspection", 
+            "name": "food inspection", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "f37e50af-afef-46be-832f-32440d91a520"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "food poisoning", 
+            "name": "food poisoning", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "5f93b7c7-7f5c-427d-aee1-09eb4e7d4fda"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "food safety", 
+            "name": "food safety", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "ebc586b7-144f-4a16-a822-1d50e8041333"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "food standard", 
+            "name": "food standard", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "8cb99e3a-15ef-481c-b65f-bd113330322a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "foodstuff", 
+            "name": "foodstuff", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "bb11d318-6bc7-4bd8-b1eb-72e980955c1f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "genetically modified organism", 
+            "name": "genetically modified organism", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "86a857cc-558e-4670-b6f1-cc0ddec23095"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "health control", 
+            "name": "health control", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "51e5b5c5-d0f3-4d76-bc95-814865d566e1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "health policy", 
+            "name": "health policy", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "a030b003-3dd6-4e34-a939-0b75e4bb7d36"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "health risk", 
+            "name": "health risk", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "57bd735b-5c24-4cfa-986f-90db7cc25fed"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "human nutrition", 
+            "name": "human nutrition", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "b59f66c0-79d3-461d-8db7-de078d4de006"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "labelling", 
+            "name": "labelling", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "c0798a66-cd8a-45c3-b1d5-55e34b688ff9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "legal action", 
+            "name": "legal action", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "683749a7-9d1a-4810-84b9-b8f7450c7fde"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "market approval", 
+            "name": "market approval", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "4fd10eeb-b598-48d1-8f7a-aa27830dd4cf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "marketing standard", 
+            "name": "marketing standard", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "4aa8bdef-77cd-4daf-916d-a4aaa16c77a2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "milk by product", 
+            "name": "milk by product", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "e350782b-6cb8-41d3-a91d-7162e58b8a6f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "mother milk", 
+            "name": "mother milk", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "99e53c5d-5513-4f38-9ad6-d2ecb21b4bd9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "nutrition", 
+            "name": "nutrition", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "467ebe90-030a-4ba9-8b70-4a018f3f923a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "nutritional disease", 
+            "name": "nutritional disease", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "423c6df8-d472-42b7-bf48-a1d2fe25f38e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "nutritional needs", 
+            "name": "nutritional needs", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "3731a167-bb03-4251-ae1b-2dee27298e85"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "pesticide", 
+            "name": "pesticide", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "44bdb5ef-ed0c-4c91-bc30-989c220467c3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "single market", 
+            "name": "single market", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "a2c38975-6f9b-4160-9b8b-f4e51d722443"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "trade information", 
+            "name": "trade information", 
+            "revision_timestamp": "2014-05-07T13:29:09.674978", 
+            "state": "active", 
+            "id": "97b69f9d-e622-415e-a507-30db6e1030b2"
+        }
+    ], 
+    "contact_name": "SANCO", 
+    "id": "854408a8-374c-49e2-8c4c-fd0b18ec987a", 
+    "metadata_created": "2015-07-27T15:17:19.818364", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:17:19.824256", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "v0.0", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download open data", 
+            "format": "text/xml", 
+            "url": "https://circabc.europa.eu/d/a/workspace/SpacesStore/dbb7cf4a-c3da-4daf-8dcb-e69f60c403fe/HealthClaims.zip", 
+            "datastore_active": false, 
+            "created": "2014-10-23T09:08:19.886661", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:17:19.818364", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "78fe2251-debf-4dc1-9f1b-c99524241c37", 
+            "size": null, 
+            "resource_group_id": "41e1723c-3a4f-436c-b78f-02c7d26ad054", 
+            "id": "b97f01bf-f754-4ac7-a210-5c46ac171238", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/dgs/health_consumer/", 
+            "datastore_active": false, 
+            "created": "2014-10-23T09:08:19.886623", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:17:19.818364", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "78fe2251-debf-4dc1-9f1b-c99524241c37", 
+            "size": null, 
+            "resource_group_id": "41e1723c-3a4f-436c-b78f-02c7d26ad054", 
+            "id": "a347fdce-eb64-4d8c-ac43-8f8566e5441c", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "Health and Consumers Directorate-General homepage"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/nuhclaims/", 
+            "datastore_active": false, 
+            "created": "2014-10-23T09:08:19.886653", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T15:17:19.818364", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "78fe2251-debf-4dc1-9f1b-c99524241c37", 
+            "size": null, 
+            "resource_group_id": "41e1723c-3a4f-436c-b78f-02c7d26ad054", 
+            "id": "41400947-ada2-4b49-bb88-60dc49e8ef27", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "Health claims homepage"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "accrual_periodicity": "other", 
+    "num_resources": 3, 
+    "description": "Nutrition and health claims shall soon be harmonised at European level in order to better protect consumers. This Regulation establishes the authorisation procedures required to ensure that claims on food labelling, presentation and advertising are clear, concise and based on evidence accepted by the whole scientific community.  Data is collected and published in a register of accepted (and rejected) claims in accordance with legislation.", 
+    "title": "European Union Register on Nutrition and Health Claims (Health Claims)", 
+    "tracking_summary": {
+        "total": 330, 
+        "recent": 10
+    }, 
+    "contact_email": "mailto:SANCO-INFO@ec.europa.eu", 
+    "groups": [], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2015-07-27T15:17:19.818364", 
+    "name": "jq842F3ch5KLPGedfMfHCw", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "Health Claims", 
+    "url": "http://ec.europa.eu/nuhclaims/", 
+    "owner_org": "c5cd2538-7ad0-4de4-907a-9fbe58b0f0da", 
+    "contact_address": "Health and Consumers Directorate-General, B - 1049 Brussels, Belgium", 
+    "contact_telephone": "+32 2 299 11 11", 
+    "rdf": "<rdf:RDF xmlns=\"http://open-data.europa.eu/ontologies/ec-odp-example#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\">\n  <!-- Dataset type and URI, don't fill in the CKAN catalog identifier here -->\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/nuhclaims/\">\n    <!-- Title, 1..1 - can be filled in in multiple translations though-->\n    <dct:title xml:lang=\"en\">European Union Register on Nutrition and Health Claims (Health Claims)</dct:title>\n    <!-- Alternative Title(s), 0..*-->\n    <dct:alternative xml:lang=\"en\">Health Claims</dct:alternative>\n    <!-- Description, 1..*-->\n    <dct:description xml:lang=\"en\">Nutrition and health claims shall soon be harmonised at European level in order to better protect consumers. This Regulation establishes the authorisation procedures required to ensure that claims on food labelling, presentation and advertising are clear, concise and based on evidence accepted by the whole scientific community.  Data is collected and published in a register of accepted (and rejected) claims in accordance with legislation.</dct:description>\n    <!-- Keyword, 0..*-->\n    <ecodp:keyword xml:lang=\"en\">advertising malpractice</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">approximation of laws</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">baby food</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">cereal product</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">codification of Community law</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">competition</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">consumer information</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">consumer protection</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">dietary product</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">early childhood</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">food consumption</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">food hygiene</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">food inspection</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">food poisoning</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">food safety</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">food standard</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">foodstuff</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">genetically modified organism</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">health control</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">health policy</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">health risk</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">human nutrition</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">labelling</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">legal action</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">market approval</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">marketing standard</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">milk by product</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">mother milk</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">nutrition</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">nutritional disease</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">nutritional needs</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">pesticide</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">single market</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">trade information</ecodp:keyword>\n    <!-- Identifier, 0..*-->\n    <dct:identifier>food-healthclaims</dct:identifier>\n    <!-- Interoperability level, 0..1-->\n    <ecodp:interoperabilityLevel>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/interoperability-level/Semantic\"/>\n    </ecodp:interoperabilityLevel>\n    <!-- Dataset type, 0..* -->\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription\"/>\n    </ecodp:datasetType>\n    <!-- Documentation, 0..* -->\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <!-- Documentation type, 1..1 -->\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <!-- Documentation access URL, 1..1 -->\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/dgs/health_consumer/</ecodp:accessURL>\n      <!-- Documentation title, 1..1 -->\n      <dct:title xml:lang=\"en\">Health and Consumers Directorate-General homepage</dct:title>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">Health claims homepage</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/nuhclaims/</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <!-- Distribution, 0..* -->\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://circabc.europa.eu/d/a/workspace/SpacesStore/dbb7cf4a-c3da-4daf-8dcb-e69f60c403fe/HealthClaims.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <ecodp:distributionFormat>rdf/xml</ecodp:distributionFormat>\n      <dct:description xml:lang=\"en\">Download open data</dct:description>\n    </dcat:distribution>\n    <!-- Catalog record, 0..* -->\n    <!-- Geographical coverage 0..* -->\n    <!-- Publisher 1..1 -->\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/SANTE\"/>\n    </dct:publisher>\n    <!-- Contact point 0..1 -->\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/health_consumer/\">\n        <foaf:phone rdf:resource=\"tel:+32 2 299 11 11\"/>\n        <foaf:mbox rdf:resource=\"mailto:SANCO-INFO@ec.europa.eu\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/dgs/health_consumer/index_en.htm\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Health and Consumers Directorate-General, B - 1049 Brussels, Belgium</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">SANTE</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <!-- Dataset issued 0..1 -->\n    <!-- Dataset last modification 0..1 -->\n    <!-- Version 0..1 -->\n    <dct:hasVersion rdf:parseType=\"Resource\">\n      <dct:identifier>v0.0</dct:identifier>\n      <dct:description xml:lang=\"en\">regular updates</dct:description>\n    </dct:hasVersion>\n    <!-- License 1..* -->\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <!-- Status 1..1 -->\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <!-- Language 0..* -->\n    <dct:language>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n    </dct:language>\n    <!-- Accrial Periodicity 0..1 -->\n    <ecodp:accrualPeriodicity xml:lang=\"en\">other</ecodp:accrualPeriodicity>\n    <!-- Temporal coverage (period) 0..1 -->\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://opsrv529/data/dataset/jq842F3ch5KLPGedfMfHCw\"><foaf:primaryTopic>http://ec.europa.eu/nuhclaims/</foaf:primaryTopic><dct:modified>2014-07-25T08:36:42.228025</dct:modified><dct:issued>2014-05-07T13:29:09.674978</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/dgs/health_consumer/index_en.htm", 
+    "organization": null, 
+    "revision_id": "78fe2251-debf-4dc1-9f1b-c99524241c37", 
+    "identifier": "food-healthclaims", 
+    "version_description": "regular updates"
+}

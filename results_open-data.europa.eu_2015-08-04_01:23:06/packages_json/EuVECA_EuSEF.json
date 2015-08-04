@@ -1,0 +1,222 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 15, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "EuSEF", 
+            "name": "EuSEF", 
+            "revision_timestamp": "2014-02-26T14:56:52.227149", 
+            "state": "active", 
+            "id": "94fc2ba1-151d-4d8f-ae4f-cdc9eebc06a3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EuVECA", 
+            "name": "EuVECA", 
+            "revision_timestamp": "2014-02-26T14:56:52.227149", 
+            "state": "active", 
+            "id": "3504a11a-c260-4d1e-ab54-0e389b79fe82"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Venture capital", 
+            "name": "Venture capital", 
+            "revision_timestamp": "2014-02-26T14:56:52.227149", 
+            "state": "active", 
+            "id": "07b65471-a50a-4d1c-b500-d72ee86ec96a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "fund", 
+            "name": "fund", 
+            "revision_timestamp": "2014-02-26T14:56:52.227149", 
+            "state": "active", 
+            "id": "bf75e2b3-5d7e-4e32-869b-3056ba3498ce"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "social entrepreneurship", 
+            "name": "social entrepreneurship", 
+            "revision_timestamp": "2014-02-26T14:56:52.227149", 
+            "state": "active", 
+            "id": "6b6d97f7-e190-4592-ad8b-98050b7371f6"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "f967a8a3-cf2b-423a-abaa-90342c23f135", 
+    "metadata_created": "2015-07-27T17:49:38.686102", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:49:38.687110", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1452", 
+            "name": "http://eurovoc.europa.eu/1452", 
+            "revision_timestamp": "2015-03-26T07:45:10.285095", 
+            "state": "active", 
+            "id": "2dc5064c-5032-42fc-80f6-e5239013b0a5"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1795", 
+            "name": "http://eurovoc.europa.eu/1795", 
+            "revision_timestamp": "2015-03-26T07:45:10.285095", 
+            "state": "active", 
+            "id": "8d3d8c8a-9b4f-4c01-855a-a04502557378"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5156", 
+            "name": "http://eurovoc.europa.eu/5156", 
+            "revision_timestamp": "2015-03-26T07:45:10.285095", 
+            "state": "active", 
+            "id": "6e3e2f01-fa87-4cef-b529-a7e9b7812192"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1786", 
+            "name": "http://eurovoc.europa.eu/1786", 
+            "revision_timestamp": "2015-03-26T07:45:10.285095", 
+            "state": "active", 
+            "id": "95049222-b902-475b-93a5-ab85542a9298"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1804", 
+            "name": "http://eurovoc.europa.eu/1804", 
+            "revision_timestamp": "2015-03-26T07:45:10.285095", 
+            "state": "active", 
+            "id": "6a93dbab-785a-4293-a785-9869c0aea6c9"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/8469", 
+            "name": "http://eurovoc.europa.eu/8469", 
+            "revision_timestamp": "2015-03-26T07:45:10.285095", 
+            "state": "active", 
+            "id": "983e256b-17f1-4728-9ed6-47be9516703e"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1459", 
+            "name": "http://eurovoc.europa.eu/1459", 
+            "revision_timestamp": "2015-03-26T07:45:10.285095", 
+            "state": "active", 
+            "id": "8f3cfa84-757f-48e7-bf44-4ad22798c86f"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5157", 
+            "name": "http://eurovoc.europa.eu/5157", 
+            "revision_timestamp": "2015-03-26T07:45:10.285095", 
+            "state": "active", 
+            "id": "610fbac6-cae8-4f35-86cc-51e5b8521e34"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "European Venture Capital Fund Managers (EuVECA)", 
+            "format": "text/html", 
+            "url": "http://www.esma.europa.eu/page/Venture-Capital-and-Social-Entrepreneurship-Funds", 
+            "datastore_active": false, 
+            "created": "2015-03-26T08:41:35.915001", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-26T07:41:35.813208", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "69711de5-2421-491b-b4e6-fa0b671747e2", 
+            "size": null, 
+            "resource_group_id": "4847f224-c122-4f54-aba3-73793b891e13", 
+            "id": "7e5bba98-d724-4e4e-a84f-f362d0190316", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Venture Capital and Social Entrepreneurship Funds "
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "ESMA makes available two databases of managers of European Venture Capital Funds (EuVECA) registered in the Member States of the European Union (EU), as required by Article 17 of the EU Regulation N. 345/2013, of 17 April 2013, on European Venture Capital Funds (the EuVECA Regulation), and managers of Social Entrepreneurship Funds (EuSEF) registered in the Member States of the EU, as required by Article 18 of the EU Regulation N. 346/2013, of 17 April 2013, on European Social Entrepreneurship Fund (the EuSEF Regulation).\r\n\r\nThe European Securities and Markets Authority (ESMA) has received the information from the competent authorities of the Member States that have registered the managers. ESMA is not responsible for the accuracy of the information displayed. ", 
+    "title": "Venture Capital and Social Entrepreneurship Funds", 
+    "tracking_summary": {
+        "total": 358, 
+        "recent": 5
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100147", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100147", 
+            "image_display_url": "", 
+            "id": "0b3e112c-4a87-450a-8212-dd997bd8ffaf", 
+            "name": "eurovoc_domain_100147"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T17:49:38.686102", 
+    "name": "EuVECA_EuSEF", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://www.esma.europa.eu/page/Venture-Capital-and-Social-Entrepreneurship-Funds", 
+    "organization": {
+        "description": "", 
+        "title": "European Securities and Markets Authority", 
+        "created": "2012-12-12T13:50:52.497925", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.471964", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "0d60eb1d-b406-43d3-94ad-26f3bea3f39b", 
+        "type": "organization", 
+        "id": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+        "name": "esma"
+    }, 
+    "revision_id": "9b179622-6807-43d6-8fd9-e1a05f336b2a", 
+    "identifier": "", 
+    "version_description": ""
+}

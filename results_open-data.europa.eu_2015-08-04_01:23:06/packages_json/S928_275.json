@@ -1,0 +1,199 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 12, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/BGR"
+    ], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "bulgaria", 
+            "name": "bulgaria", 
+            "revision_timestamp": "2015-02-04T13:30:59.850563", 
+            "state": "active", 
+            "id": "314da0fe-f0ae-43d6-9937-3bd31fc53fce"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "comsumer", 
+            "name": "comsumer", 
+            "revision_timestamp": "2015-02-04T13:30:59.850563", 
+            "state": "active", 
+            "id": "1ea25032-8c68-424b-92fa-e8b92abd9dbe"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "consumer", 
+            "name": "consumer", 
+            "revision_timestamp": "2015-02-04T13:30:59.850563", 
+            "state": "active", 
+            "id": "40e6498f-d336-415e-b623-427a2b9415b6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "flash", 
+            "name": "flash", 
+            "revision_timestamp": "2015-02-04T13:30:59.850563", 
+            "state": "active", 
+            "id": "1430b17f-d2e7-4e35-8756-8ab91bf0c93a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "opinion", 
+            "name": "opinion", 
+            "revision_timestamp": "2015-02-04T13:30:59.850563", 
+            "state": "active", 
+            "id": "ad523f58-00d0-4a16-8b0e-bb718601c398"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "polls", 
+            "name": "polls", 
+            "revision_timestamp": "2015-02-04T13:30:59.850563", 
+            "state": "active", 
+            "id": "c086ca00-bd50-4cea-9bad-4b7188c3c51d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "protection", 
+            "name": "protection", 
+            "revision_timestamp": "2015-02-04T13:30:59.850563", 
+            "state": "active", 
+            "id": "f73f17dd-cc41-461c-b8e2-b026231a79a7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rights", 
+            "name": "rights", 
+            "revision_timestamp": "2015-02-04T13:30:59.850563", 
+            "state": "active", 
+            "id": "9e94926f-6bb9-44d4-bac2-172fa06073d0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "surveys", 
+            "name": "surveys", 
+            "revision_timestamp": "2015-02-04T13:30:59.850563", 
+            "state": "active", 
+            "id": "57740d91-e252-47af-b95c-578300b9880f"
+        }
+    ], 
+    "contact_name": "DG COMM", 
+    "id": "27d8be45-3cea-4f67-bd00-f523c4d185e9", 
+    "metadata_created": "2015-02-04T13:30:59.850563", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:05:25.260333", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "v1.00", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "flash_arch_284_270_en.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/public_opinion/archives/flash_arch_284_270_en.htm#275", 
+            "datastore_active": false, 
+            "created": "2015-02-04T14:31:00.382220", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T14:05:25.259185", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "d7b3da83-ff3f-4c4c-94ac-b189ed15cf91", 
+            "size": null, 
+            "resource_group_id": "61ce1b49-f65b-43c7-ac67-a6938d36f583", 
+            "id": "7e325e05-1078-46aa-8122-85d98bf81c3d", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "Detailed information on public opinion website"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: Fl275_Wave1_Volume_C_Tables", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?67C9912C08AA66332D39154AF1D9C726", 
+            "datastore_active": false, 
+            "created": "2015-02-04T14:31:00.382254", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T14:05:25.259185", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "d7b3da83-ff3f-4c4c-94ac-b189ed15cf91", 
+            "size": null, 
+            "resource_group_id": "61ce1b49-f65b-43c7-ac67-a6938d36f583", 
+            "id": "ff23ed1d-63d6-4576-9c57-f9e33b0e2a57", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to Fl275_Wave1_Volume_C_Tables.zip"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 2, 
+    "description": "Collection of data for information campaigns on consumer rights in Bulgaria wave 1 \n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume C: Country/socio-demographics", 
+    "title": "Flash Eurobarometer 275: Comsumer Protection and Consumer Rights in Bulgaria - Wave1", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "tracking_summary": {
+        "total": 15, 
+        "recent": 1
+    }, 
+    "contact_email": "Eurobarometer@ec.europa.eu", 
+    "groups": [], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-02-04T13:30:59.850563", 
+    "name": "S928_275", 
+    "isopen": true, 
+    "alternative_title": "Consumer rights - Information campaigns Bulgaria wave 1", 
+    "url": "http://ec.europa.eu/public_opinion/archives/flash_arch_284_270_en.htm#275", 
+    "release_date": "2015-01-19", 
+    "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a", 
+    "contact_address": "Rue de La Loi, 56, Brussels", 
+    "rdf": "<rdf:RDF xmlns=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\"><dcat:Dataset rdf:about=\"http://ec.europa.eu/public_opinion/archives/flash_arch_284_270_en.htm#275\"><!-- Title, 1..1 - can be filled in in multiple translations though-->\n\t\t\t\t\t\t<dct:title xml:lang=\"en\">Flash Eurobarometer 275: Comsumer Protection and Consumer Rights in Bulgaria - Wave1</dct:title> <!-- A name given to the resource --><!-- Alternative Title(s), 0..*-->\n\t\t\t\t\t\t<dct:alternative xml:lang=\"en\">Consumer rights - Information campaigns Bulgaria wave 1</dct:alternative> <!-- An alternative name for the resource --><ecodp:ckan-name>S928_275</ecodp:ckan-name><!-- Description, 1..*-->\n\t\t\t\t\t\t<dct:description xml:lang=\"en\">Collection of data for information campaigns on consumer rights in Bulgaria wave 1 \n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume C: Country/socio-demographics  </dct:description><!--An unambiguous reference to the resource within a given context -->\n\t\t\t\t\t\t<dct:identifier>S928_275</dct:identifier><!-- Keyword, 0..*--><ecodp:keyword xml:lang=\"en\">comsumer</ecodp:keyword><ecodp:keyword xml:lang=\"en\">protection</ecodp:keyword><ecodp:keyword xml:lang=\"en\">consumer</ecodp:keyword><ecodp:keyword xml:lang=\"en\">rights</ecodp:keyword><ecodp:keyword xml:lang=\"en\">bulgaria</ecodp:keyword><ecodp:keyword xml:lang=\"en\">opinion</ecodp:keyword><ecodp:keyword xml:lang=\"en\">polls</ecodp:keyword><ecodp:keyword xml:lang=\"en\">flash</ecodp:keyword><ecodp:keyword xml:lang=\"en\">surveys</ecodp:keyword><!-- Documentation details -->\n\t\t\t\t\t\t<ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<ecodp:documentationType>\n\t\t\t\t\t\t    \t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n\t\t\t\t\t\t\t</ecodp:documentationType>\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Detailed information on public opinion website</dct:title>\n\t\t\t\t\t\t\t<dct:title xml:lang=\"fr\">Plus d'informations sur l'opinion publique site</dct:title>\n\t\t\t\t\t\t\t<!--Kumar: Shall be populated manually -->\n\t\t\t\t\t\t\t<ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/public_opinion/archives/flash_arch_284_270_en.htm#275</ecodp:accessURL>\n\t\t\t\t\t\t</ecodp:isDocumentedBy><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to Fl275_Wave1_Volume_C_Tables.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: Fl275_Wave1_Volume_C_Tables</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?67C9912C08AA66332D39154AF1D9C726</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-01-14</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Geographical coverage 0..* --><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BGR\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><!-- Publisher 1..1 -->\n\t\t\t\t\t\t<dct:publisher>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/COMMU\"/>\n\t\t\t\t\t\t</dct:publisher><!-- Contact point 0..1 -->\n\t\t\t\t\t\t<ecodp:contactPoint>\n\t\t\t\t\t\t\t<foaf:Agent rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/COMMU\">\n\t\t\t\t\t\t\t\t<!--<foaf:phone rdf:resource=\"\"/>-->\n\t\t\t\t\t\t\t\t<foaf:mbox>Eurobarometer@ec.europa.eu</foaf:mbox>\n\t\t\t\t\t\t\t\t<foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/public_opinion/index_en.htm\"/>\n\t\t\t\t\t\t\t\t<ecodp:contactAddress xml:lang=\"en\">Rue de La Loi, 56, Brussels</ecodp:contactAddress>\n\t\t\t\t\t\t\t\t<foaf:name xml:lang=\"en\">DG COMM</foaf:name>\n\t\t\t\t\t\t\t</foaf:Agent>\n\t\t\t\t\t\t</ecodp:contactPoint><!-- Version 0..1 -->\n\t\t\t\t\t\t<dct:hasVersion rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<dct:identifier>v1.00</dct:identifier>\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Version 1.0</dct:description>\n\t\t\t\t\t\t</dct:hasVersion><!-- Dataset issued 0..1 -->\n\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2015-01-19</dct:issued><!-- License 1..* -->\n\t\t\t\t\t\t<dct:license>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n\t\t\t\t\t\t</dct:license><!-- Status 1..1 -->\n\t\t\t\t\t\t<ecodp:datasetStatus>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n\t\t\t\t\t\t</ecodp:datasetStatus>\n\t\t\t\t\t\t<dct:language>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n\t\t\t\t\t\t</dct:language></dcat:Dataset><dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/S928_275\"><foaf:primaryTopic>http://ec.europa.eu/public_opinion/archives/flash_arch_284_270_en.htm#275</foaf:primaryTopic><dct:modified>2015-02-04T14:30:59.828911</dct:modified><dct:issued>2015-02-04T14:30:59.828911</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/public_opinion/index_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Communication", 
+        "created": "2012-12-12T13:50:46.475520", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:46.449434", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "4b21ab59-71d2-4140-a1ee-a411abb6888d", 
+        "type": "organization", 
+        "id": "dbda9968-cb1e-47c3-b115-245a057e4d4a", 
+        "name": "commu"
+    }, 
+    "revision_id": "b2aa9471-c7e0-404a-a7b5-864188e96723", 
+    "identifier": "S928_275", 
+    "version_description": "Version 1.0"
+}

@@ -1,0 +1,230 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 16, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/PRT"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Competitiveness", 
+            "name": "Competitiveness", 
+            "revision_timestamp": "2013-07-25T12:46:59.836435", 
+            "state": "active", 
+            "id": "e7b1461e-ed16-49c6-bbb5-da4bd5d1dc17"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Economic Adjustment Programme", 
+            "name": "Economic Adjustment Programme", 
+            "revision_timestamp": "2013-07-25T17:36:09.083339", 
+            "state": "active", 
+            "id": "cf525e78-6cc9-4213-bd5b-3d1363151fc3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Central Bank", 
+            "name": "European Central Bank", 
+            "revision_timestamp": "2013-07-25T17:36:09.083339", 
+            "state": "active", 
+            "id": "0b061ac4-1b81-4b7f-ad81-a3464d388262"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Commission", 
+            "name": "European Commission", 
+            "revision_timestamp": "2013-07-25T12:46:59.836435", 
+            "state": "active", 
+            "id": "582f172f-fa79-42e7-9967-a47a8da76e46"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Growth", 
+            "name": "Growth", 
+            "revision_timestamp": "2013-07-25T17:36:09.083339", 
+            "state": "active", 
+            "id": "03434d9e-5fda-45e4-8db8-10461070b232"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "International Monetary Found", 
+            "name": "International Monetary Found", 
+            "revision_timestamp": "2013-07-25T12:46:59.836435", 
+            "state": "active", 
+            "id": "65bb5775-1e26-402d-8ffe-9f5c106b69ae"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Macroeconomic outlook", 
+            "name": "Macroeconomic outlook", 
+            "revision_timestamp": "2013-07-25T17:36:09.083339", 
+            "state": "active", 
+            "id": "f66996e7-927a-44c3-8496-a73a6e518cc9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Portugal", 
+            "name": "Portugal", 
+            "revision_timestamp": "2013-07-25T12:46:59.836435", 
+            "state": "active", 
+            "id": "b070dac7-5abb-436f-8e8d-74b0ebf0a22d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Public deficit", 
+            "name": "Public deficit", 
+            "revision_timestamp": "2013-07-25T12:46:59.836435", 
+            "state": "active", 
+            "id": "d34f3837-cd57-4517-a23e-6db68852b2d2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Public finance and budget policy", 
+            "name": "Public finance and budget policy", 
+            "revision_timestamp": "2013-07-25T12:46:59.836435", 
+            "state": "active", 
+            "id": "a6a1264a-880a-4c85-b112-89a7dfb82d67"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Structural reform", 
+            "name": "Structural reform", 
+            "revision_timestamp": "2013-07-25T17:36:09.083339", 
+            "state": "active", 
+            "id": "bc0d2aba-b0f3-46fe-b4e2-6b400246f043"
+        }
+    ], 
+    "contact_name": "Directorate-General for Economic and Financial Affairs ", 
+    "id": "0473ff97-0cb1-40bb-a4e0-a8d97c6822ba", 
+    "metadata_created": "2015-07-27T13:25:51.480024", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T13:35:51.869078", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/310", 
+            "name": "http://eurovoc.europa.eu/310", 
+            "revision_timestamp": "2015-02-02T10:29:06.877466", 
+            "state": "active", 
+            "id": "00060bcc-4265-4046-a156-5d3855e847c3"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "a985f533-3d66-4930-802a-b7fe36c8659b", 
+            "revision_timestamp": "2013-12-17T15:24:37.721254", 
+            "datastore_active": false, 
+            "id": "837b151a-5828-43ec-bc51-0a8bb8ed270e", 
+            "size": "1411533", 
+            "state": "active", 
+            "hash": "", 
+            "description": "This report by European Commission services assesses compliance with the terms and conditions set out in the Memorandum of Understanding as updated following the Sixth Review under the Economic Adjustment Programme.", 
+            "format": "application/pdf", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2013-07-03T13:02:01", 
+            "url_type": null, 
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "name": "The Economic Adjustment Programme for Portugal. Seventh Review \u2013 Winter 2012/2013", 
+            "created": "2013-07-25T14:36:27.402893", 
+            "url": "http://ec.europa.eu/economy_finance/publications/occasional_paper/2013/pdf/ocp153_en.pdf", 
+            "webstore_url": "enabled", 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "238f1c2a-bf72-4367-bfdb-f79736417a1a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "This report by European Commission services assesses compliance with the terms and conditions set out in the Memorandum of Understanding as updated following the Sixth Review under the Economic Adjustment Programme.", 
+    "title": "The Economic Adjustment Programme for Portugal. Seventh Review \u2013 Winter 2012/2013", 
+    "temporal_coverage_from": "2012", 
+    "tracking_summary": {
+        "total": 232, 
+        "recent": 1
+    }, 
+    "contact_email": "Ecfin-Info@ec.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100152", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100152", 
+            "image_display_url": "", 
+            "id": "08994bb7-2827-4215-a10b-d0f520fd70bb", 
+            "name": "eurovoc_domain_100152"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T13:25:51.480024", 
+    "name": "the-economic-adjustment-programme-for-portugal-seventh-review-winter-2012-2013", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "ECFIN - The Economic Adjustment Programme for Portugal Seventh Review \u2013 Winter 2012/2013", 
+    "accrual_periodicity": "", 
+    "release_date": "2013-06", 
+    "owner_org": "54319292-2f80-4f60-afaf-1ec2476d6eed", 
+    "contact_address": "European Commission, Directorate-General for Economic and Financial Affairs, Publications, B-1049 Brussels, Belgium", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/economy_finance/contact_en.htm", 
+    "url": "http://ec.europa.eu/economy_finance/publications/occasional_paper/2013/op153_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Economic and Financial Affairs", 
+        "created": "2012-12-12T13:50:48.171840", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:48.147135", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "01ccf212-6a3e-41fc-addf-55941413bf89", 
+        "type": "organization", 
+        "id": "54319292-2f80-4f60-afaf-1ec2476d6eed", 
+        "name": "ecfin"
+    }, 
+    "revision_id": "305882d6-a385-4b48-82ae-cc13b8a35b01", 
+    "identifier": "ISBN 978-92-79-29357-3; doi: 10.2765/48592; ISSN 1725-3209", 
+    "version_description": ""
+}

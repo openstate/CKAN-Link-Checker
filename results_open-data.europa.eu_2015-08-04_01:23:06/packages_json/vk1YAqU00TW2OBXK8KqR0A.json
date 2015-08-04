@@ -1,0 +1,260 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 7, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Business and competition", 
+            "name": "Business and competition", 
+            "revision_timestamp": "2014-12-22T08:45:01.431383", 
+            "state": "active", 
+            "id": "5755945e-9a2e-4cec-a401-5fcb669f33d5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Competition", 
+            "name": "Competition", 
+            "revision_timestamp": "2014-12-22T08:45:01.431383", 
+            "state": "active", 
+            "id": "77ee814d-360e-44ff-b528-0709999600e6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Dominant position", 
+            "name": "Dominant position", 
+            "revision_timestamp": "2014-12-22T08:45:01.431383", 
+            "state": "active", 
+            "id": "51aa1ba7-4625-43fd-b34e-eee40eb344bf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Energy policy", 
+            "name": "Energy policy", 
+            "revision_timestamp": "2014-12-22T08:45:01.431383", 
+            "state": "active", 
+            "id": "956eb8d5-c158-48a3-904f-cae1b77f1181"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Energy production", 
+            "name": "Energy production", 
+            "revision_timestamp": "2014-12-22T08:45:01.431383", 
+            "state": "active", 
+            "id": "4f8a7006-449c-4a37-9c92-5033c2a21756"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "e30786a2-5c27-4811-ae53-94f92645cc9b", 
+    "metadata_created": "2014-12-22T08:45:01.431383", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T11:07:48.343718", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00119.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:07:48.482756", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:07:48.341594", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "9f993393-5a9f-4be9-aaac-22c066826c84", 
+            "size": null, 
+            "resource_group_id": "df9309f8-7a7d-42b2-9293-0fc82ae43e7c", 
+            "id": "255637b8-17b6-43e5-a36b-e6e54c1026cb", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00119.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:07:48.482763", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:07:48.341594", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "9f993393-5a9f-4be9-aaac-22c066826c84", 
+            "size": null, 
+            "resource_group_id": "df9309f8-7a7d-42b2-9293-0fc82ae43e7c", 
+            "id": "7bd54f1c-4cce-4587-aaae-35afb38a00e2", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ten00119_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ten00119_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:07:48.482709", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:07:48.341594", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "9f993393-5a9f-4be9-aaac-22c066826c84", 
+            "size": null, 
+            "resource_group_id": "df9309f8-7a7d-42b2-9293-0fc82ae43e7c", 
+            "id": "5405fb51-12c8-42ba-90a0-9bdf3cdf0194", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ten00119_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:07:48.482741", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:07:48.341594", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "9f993393-5a9f-4be9-aaac-22c066826c84", 
+            "size": null, 
+            "resource_group_id": "df9309f8-7a7d-42b2-9293-0fc82ae43e7c", 
+            "id": "18c44fd5-de83-47aa-812d-13c82867b3f9", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ten00119", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:07:48.482749", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:07:48.341594", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "9f993393-5a9f-4be9-aaac-22c066826c84", 
+            "size": null, 
+            "resource_group_id": "df9309f8-7a7d-42b2-9293-0fc82ae43e7c", 
+            "id": "bb85e2dc-8478-486c-99e8-81bd83418dc7", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The indicator shows the market share of the largest electricity generator in each country. To calculate this indicator, the total net electricity production during each reference year is taken into account. It means that the electricity used by generators for their own consumption is not taken into account. Then, the net production of each generator during the same year is considered in order to calculate the corresponding market shares. Only the largest market share is reported under this indicator.", 
+    "title": "Market share of the largest generator in the electricity market", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 7, 
+        "recent": 0
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100155", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100155", 
+            "image_display_url": "", 
+            "id": "f0873571-606a-4f6c-8ec7-6c94f919c8a1", 
+            "name": "eurovoc_domain_100155"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100159", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100159", 
+            "image_display_url": "", 
+            "id": "411bf1e5-296f-4f4c-8ddf-2838d86ce110", 
+            "name": "eurovoc_domain_100159"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T08:45:01.431383", 
+    "name": "vk1YAqU00TW2OBXK8KqR0A", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ten00119", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/ten00119\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100155\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100159\"/>\n    <dct:title xml:lang=\"en\">Market share of the largest generator in the electricity market</dct:title>\n    <dct:title xml:lang=\"fr\">Part de march&#233; du plus grand producteur d'&#233;lectricit&#233;</dct:title>\n    <dct:title xml:lang=\"de\">Marktanteil des gr&#246;&#223;ten Erzeugers im Strommarkt</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Energy policy</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Energy production</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Business and competition</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Competition</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Dominant position</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Politique &#233;nerg&#233;tique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Production d'&#233;nergie</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Entreprise et concurrence</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Concurrence</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Position dominante</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Energiepolitik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Energieerzeugung</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Unternehmen und Wettbewerb</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Wettbewerb</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Marktbeherrschende Stellung</ecodp:keyword>\n    <dct:identifier>ten00119</dct:identifier>\n    <dct:description xml:lang=\"en\">The indicator shows the market share of the largest electricity generator in each country. To calculate this indicator, the total net electricity production during each reference year is taken into account. It means that the electricity used by generators for their own consumption is not taken into account. Then, the net production of each generator during the same year is considered in order to calculate the corresponding market shares. Only the largest market share is reported under this indicator.</dct:description>\n    <dct:description xml:lang=\"fr\">Le pr&#233;sent indicateur montre la part de march&#233; du plus grand producteur d'&#233;lectricit&#233; de chaque pays. Pour calculer cet indicateur, on prend en consid&#233;ration la production nette totale d'&#233;lectricit&#233; au cours de chacune des p&#233;riodes de r&#233;f&#233;rence. L'&#233;lectricit&#233; consomm&#233;e par les producteurs pour leur propre usage n'est donc pas prise en compte. Pour calculer les parts de march&#233; correspondantes, on prend alors la production nette de chaque producteur au cours de l'ann&#233;e en question. Seule la part de march&#233; la plus importante est communiqu&#233;e au titre du pr&#233;sent indicateur.</dct:description>\n    <dct:description xml:lang=\"de\">Der Indikator gibt den Marktanteil des gr&#246;&#223;ten Stromerzeugers eines jeden Landes wieder. Zur Berechnung dieses Indikators wird die gesamte Nettostromerzeugung eines jeden Bezugsjahres herangezogen. Die von den Stromerzeugern selbst verbrauchte Elektrizit&#228;t wird dabei nicht ber&#252;cksichtigt. Sodann werden anhand der Nettoerzeugung eines jeden Stromerzeugers im gleichen Jahr die entsprechenden Marktanteile berechnet. Nur der gr&#246;&#223;te Marktanteil wird unter diesem Indikator ausgewiesen.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ten00119_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ten00119_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/ten00119</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00119.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00119.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/vk1YAqU00TW2OBXK8KqR0A\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/ten00119</foaf:primaryTopic><dct:modified>2015-07-31T09:29:00.656551</dct:modified><dct:issued>2014-12-22T08:45:01.431383</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "e9eb1ba7-2b9c-417c-83fb-d678b7203a90", 
+    "identifier": "ten00119"
+}

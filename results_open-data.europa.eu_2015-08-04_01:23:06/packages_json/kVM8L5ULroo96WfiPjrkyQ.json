@@ -1,0 +1,175 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2006", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 3, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "52135211-e7fa-48cb-8dc8-97c2b02ba508", 
+    "metadata_created": "2014-12-22T07:02:26.889056", 
+    "modified_date": "2014-10-20", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:30:35.429329", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1280", 
+            "name": "http://eurovoc.europa.eu/1280", 
+            "revision_timestamp": "2015-03-03T18:35:17.742503", 
+            "state": "active", 
+            "id": "33ad54dd-ba28-494c-94dd-80173920c7e6"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_ds020.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:30:35.483760", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:30:35.428110", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "029ba45e-1a6a-4623-b768-59022b920ac5", 
+            "size": null, 
+            "resource_group_id": "6e1f9cae-0105-44ab-bf46-a8e918de5e3b", 
+            "id": "8a06f2f0-d717-47c6-9d59-a00c0a245e32", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_ds020.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:30:35.483768", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:30:35.428110", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "029ba45e-1a6a-4623-b768-59022b920ac5", 
+            "size": null, 
+            "resource_group_id": "6e1f9cae-0105-44ab-bf46-a8e918de5e3b", 
+            "id": "8a52787c-3f19-4011-94be-d04aee2e418f", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/hlth_ds020", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:30:35.483733", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:30:35.428110", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "029ba45e-1a6a-4623-b768-59022b920ac5", 
+            "size": null, 
+            "resource_group_id": "6e1f9cae-0105-44ab-bf46-a8e918de5e3b", 
+            "id": "7dd9d8ee-aac8-4d41-b543-b4c26768de57", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Frequency of getting together with relatives or friends by level of activity limitation, sex and age", 
+    "title": "Frequency of getting together with relatives or friends by level of activity limitation, sex and age", 
+    "temporal_coverage_from": "2006", 
+    "tracking_summary": {
+        "total": 2, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:02:26.889056", 
+    "name": "kVM8L5ULroo96WfiPjrkyQ", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/hlth_ds020", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/hlth_ds020\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100149\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1280\"/>\n    <dct:title xml:lang=\"en\">Frequency of getting together with relatives or friends by level of activity limitation, sex and age</dct:title>\n    <dct:title xml:lang=\"fr\">Fr&#233;quence des rencontres avec la famille ou les amis par niveau de limitation des activit&#233;s, sexe et &#226;ge</dct:title>\n    <dct:title xml:lang=\"de\">H&#228;ufigkeit der Treffen mit Verwandten oder Freunden nach Grad der Aktivit&#228;tseinschrankung, Geschlecht und Alter</dct:title>\n    <dct:identifier>hlth_ds020</dct:identifier>\n    <dct:description xml:lang=\"en\">Frequency of getting together with relatives or friends by level of activity limitation, sex and age</dct:description>\n    <dct:description xml:lang=\"fr\">Fr&#233;quence des rencontres avec la famille ou les amis par niveau de limitation des activit&#233;s, sexe et &#226;ge</dct:description>\n    <dct:description xml:lang=\"de\">H&#228;ufigkeit der Treffen mit Verwandten oder Freunden nach Grad der Aktivit&#228;tseinschrankung, Geschlecht und Alter</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/hlth_ds020</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_ds020.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/hlth_ds020.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2014-10-20</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2006</ecodp:periodStart>\n        <ecodp:periodEnd>2006</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/kVM8L5ULroo96WfiPjrkyQ\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/hlth_ds020</foaf:primaryTopic><dct:modified>2015-07-31T08:10:01.400780</dct:modified><dct:issued>2014-12-22T07:02:26.889056</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "8c440aed-c7c8-41ee-a05e-64efc6bd75de", 
+    "identifier": "hlth_ds020"
+}

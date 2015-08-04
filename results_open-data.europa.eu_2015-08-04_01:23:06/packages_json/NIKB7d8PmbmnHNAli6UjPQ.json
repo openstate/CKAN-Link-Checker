@@ -1,0 +1,237 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015-06", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "monetary and financial indicators", 
+            "name": "monetary and financial indicators", 
+            "revision_timestamp": "2014-12-22T07:31:53.911906", 
+            "state": "active", 
+            "id": "1286b989-868a-419f-a122-413e068d19a4"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "0a0a61ce-9591-4a3e-be85-387dc084d03a", 
+    "metadata_created": "2014-12-22T07:31:53.911906", 
+    "modified_date": "2015-07-31", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:28:25.355646", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4390", 
+            "name": "http://eurovoc.europa.eu/4390", 
+            "revision_timestamp": "2015-03-03T20:10:43.182610", 
+            "state": "active", 
+            "id": "e16e0caa-3621-46c0-b86e-607f4cc0d1fb"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teimf200.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:28:25.522363", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:28:25.348404", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "83461f6d-ef62-4dad-ad2a-c1df3d54a383", 
+            "size": null, 
+            "resource_group_id": "75725ff1-1a7a-4504-a8f8-993f82c45a55", 
+            "id": "c8b9e1a1-1155-43c9-9a09-3785f8432243", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teimf200.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:28:25.522372", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:28:25.348404", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "83461f6d-ef62-4dad-ad2a-c1df3d54a383", 
+            "size": null, 
+            "resource_group_id": "75725ff1-1a7a-4504-a8f8-993f82c45a55", 
+            "id": "95090a32-8cd3-4d25-965b-1419c7c7d014", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ei_mf_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ei_mf_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:28:25.522275", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:28:25.348404", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "83461f6d-ef62-4dad-ad2a-c1df3d54a383", 
+            "size": null, 
+            "resource_group_id": "75725ff1-1a7a-4504-a8f8-993f82c45a55", 
+            "id": "1a26b78b-dce3-4c91-95cb-2c0129809806", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_mf_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:28:25.522333", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:28:25.348404", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "83461f6d-ef62-4dad-ad2a-c1df3d54a383", 
+            "size": null, 
+            "resource_group_id": "75725ff1-1a7a-4504-a8f8-993f82c45a55", 
+            "id": "d840724e-1f37-4dbf-9334-7dd99167be20", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teimf200", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:28:25.522342", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:28:25.348404", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "83461f6d-ef62-4dad-ad2a-c1df3d54a383", 
+            "size": null, 
+            "resource_group_id": "75725ff1-1a7a-4504-a8f8-993f82c45a55", 
+            "id": "5525bc7e-58ca-4e35-90a0-46ccf6703098", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The Euro-national currency exchange rate represents the equivalent of one euro expressed in national currency. For example, the euro-dollar exchange rate is the equivalent of one euro expressed in United States dollars. Monthly data are the average of the observed business day rates. Data are presented in raw form. Source: European Central Bank (ECB)", 
+    "title": "Euro/national currency exchange rates", 
+    "temporal_coverage_from": "2014-08", 
+    "tracking_summary": {
+        "total": 44, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:31:53.911906", 
+    "name": "NIKB7d8PmbmnHNAli6UjPQ", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teimf200", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teimf200\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4390\"/>\n    <dct:title xml:lang=\"en\">Euro/national currency exchange rates</dct:title>\n    <dct:title xml:lang=\"fr\">Taux de change euro/unit&#233;s mon&#233;taires nationales</dct:title>\n    <dct:title xml:lang=\"de\">Euro/nationale W&#228;hrung-Wechselkurse</dct:title>\n    <ecodp:keyword xml:lang=\"en\">monetary and financial indicators</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Indicateurs Mon&#233;taires et Financiers</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Monet&#228;re und finanzielle Indikatoren</ecodp:keyword>\n    <dct:identifier>teimf200</dct:identifier>\n    <dct:description xml:lang=\"en\">The Euro-national currency exchange rate represents the equivalent of one euro expressed in national currency. For example, the euro-dollar exchange rate is the equivalent of one euro expressed in United States dollars. Monthly data are the average of the observed business day rates. Data are presented in raw form. Source: European Central Bank (ECB)</dct:description>\n    <dct:description xml:lang=\"fr\">Le taux de change euro-devise nationale repr&#233;sente l'&#233;quivalent d'un euro exprim&#233; dans une devise nationale. Par exemple, le taux d'exchange de l'euro vis-&#224;-vis du dollar am&#233;ricain est l'&#233;quivalent d'un euro exprim&#233; en dollars. Les donn&#233;es mensuelles correspondent &#224; la moyenne des taux d'&#233;change observ&#233;s pendant les jours ouvrables. Les donn&#233;es sont pr&#233;sent&#233;es sous forme brute. Source: Banque Centrale Europ&#233;enne (BCE)</dct:description>\n    <dct:description xml:lang=\"de\">Der Euro-nationale W&#228;hrung Wechselkurs entspricht dem Gegenwert von einem Euro ausgedr&#252;ckt in nationaler W&#228;hrung. Zum Beispiel ist der Euro-Dollar Wechselkurs der Gegenwert von einem Euro ausgedr&#252;ckt in US Dollar. Monatliche Daten sind der Durchschnitt der gesch&#228;ftst&#228;glich beobachteten Wechselkurse. Alle Daten werden in Rohform dargestellt. Quelle: Europ&#228;ische Zentralbank (EZB)</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ei_mf_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_mf_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teimf200</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teimf200.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teimf200.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-31</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2014-08</ecodp:periodStart>\n        <ecodp:periodEnd>2015-06</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/NIKB7d8PmbmnHNAli6UjPQ\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teimf200</foaf:primaryTopic><dct:modified>2015-07-31T09:23:30.234638</dct:modified><dct:issued>2014-12-22T07:31:53.911906</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "a0ee6a4d-4263-48b2-b340-4de470b95776", 
+    "identifier": "teimf200"
+}

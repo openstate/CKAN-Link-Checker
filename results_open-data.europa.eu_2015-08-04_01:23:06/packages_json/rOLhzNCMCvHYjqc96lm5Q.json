@@ -1,0 +1,253 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Business and competition", 
+            "name": "Business and competition", 
+            "revision_timestamp": "2014-12-22T07:44:03.281575", 
+            "state": "active", 
+            "id": "5755945e-9a2e-4cec-a401-5fcb669f33d5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Economic growth", 
+            "name": "Economic growth", 
+            "revision_timestamp": "2014-12-22T07:44:03.281575", 
+            "state": "active", 
+            "id": "abc84835-cda6-44c9-9e00-7c3737a2c939"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Productivity", 
+            "name": "Productivity", 
+            "revision_timestamp": "2014-12-22T07:44:03.281575", 
+            "state": "active", 
+            "id": "5a783410-597a-4c6c-b98f-132e479766da"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "998f99b0-fe28-467c-a7ae-4539da1c2d58", 
+    "metadata_created": "2015-07-27T15:33:38.016536", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T09:14:18.348763", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/56", 
+            "name": "http://eurovoc.europa.eu/56", 
+            "revision_timestamp": "2015-03-03T18:01:16.220455", 
+            "state": "active", 
+            "id": "e11c40fd-4749-49a0-934e-4d4f391248e8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00116.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:14:18.418543", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:14:18.347687", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "388bdabf-8f7a-4c92-b987-bba8233e59b0", 
+            "size": null, 
+            "resource_group_id": "339a5c3a-df77-435a-83c1-131470b615e7", 
+            "id": "c80823c6-7ec9-41f1-81e5-644ea0100058", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00116.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:14:18.418550", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:14:18.347687", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "388bdabf-8f7a-4c92-b987-bba8233e59b0", 
+            "size": null, 
+            "resource_group_id": "339a5c3a-df77-435a-83c1-131470b615e7", 
+            "id": "347095c6-1df6-44f6-b71a-238c475194b4", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "nama_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/nama_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:14:18.418497", 
+            "tracking_summary": {
+                "total": 2, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:14:18.347687", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "388bdabf-8f7a-4c92-b987-bba8233e59b0", 
+            "size": null, 
+            "resource_group_id": "339a5c3a-df77-435a-83c1-131470b615e7", 
+            "id": "9f247d69-4104-4883-a6b6-629597247fc8", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/nama_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:14:18.418527", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:14:18.347687", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "388bdabf-8f7a-4c92-b987-bba8233e59b0", 
+            "size": null, 
+            "resource_group_id": "339a5c3a-df77-435a-83c1-131470b615e7", 
+            "id": "f4edb002-b94d-4a0e-aa80-1cfd8d59675a", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00116", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:14:18.418536", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:14:18.347687", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "388bdabf-8f7a-4c92-b987-bba8233e59b0", 
+            "size": null, 
+            "resource_group_id": "339a5c3a-df77-435a-83c1-131470b615e7", 
+            "id": "c22a4847-59f9-441f-8623-6a2cc5634546", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Please be aware that this indicator has been rescaled, i.e. data is expressed in relation to EU27 = 100. Thus, they are not comparable with previous releases based on EU25 = 100. Gross domestic product (GDP) is a measure for the economic activity. It is defined as the value of all goods and services produced less the value of any goods or services used in their creation. GDP per person employed is intended to give an overall impression of the productivity of national economies expressed in relation to the European Union (EU27) average. If the index of a country is higher than 100, this country's level of GDP per person employed is higher than the EU average and vice versa. Basic figures are expressed in PPS, i.e. a common currency that eliminates the differences in price levels between countries allowing meaningful volume comparisons of GDP between countries. Please note that \"persons employed\" does not distinguish between full-time and part-time employment.", 
+    "title": "Labour productivity per person employed (ESA95)", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 14, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-27T15:33:38.016536", 
+    "name": "rOLhzNCMCvHYjqc96lm5Q", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00116", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tec00116\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/56\"/>\n    <dct:title xml:lang=\"en\">Labour productivity per person employed (ESA95)</dct:title>\n    <dct:title xml:lang=\"fr\">Productivit&#233; de la main-d'oeuvre par personne occup&#233;e (SEC95)</dct:title>\n    <dct:title xml:lang=\"de\">Arbeitsproduktivit&#228;t je Besch&#228;ftigten (ESVG95)</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Business and competition</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Productivity</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Economic growth</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Entreprise et concurrence</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Productivit&#233;</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Croissance &#233;conomique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Unternehmen</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Produktivit&#228;t</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Wirtschaftswachstum</ecodp:keyword>\n    <dct:identifier>tec00116</dct:identifier>\n    <dct:description xml:lang=\"en\">Please be aware that this indicator has been rescaled, i.e. data is expressed in relation to EU27 = 100. Thus, they are not comparable with previous releases based on EU25 = 100. Gross domestic product (GDP) is a measure for the economic activity. It is defined as the value of all goods and services produced less the value of any goods or services used in their creation. GDP per person employed is intended to give an overall impression of the productivity of national economies expressed in relation to the European Union (EU27) average. If the index of a country is higher than 100, this country's level of GDP per person employed is higher than the EU average and vice versa. Basic figures are expressed in PPS, i.e. a common currency that eliminates the differences in price levels between countries allowing meaningful volume comparisons of GDP between countries. Please note that \"persons employed\" does not distinguish between full-time and part-time employment.</dct:description>\n    <dct:description xml:lang=\"fr\">Veuillez noter que cet indicateur a &#233;t&#233; transpos&#233; sur une autre base, c'est-&#224;-dire que les donn&#233;es exprim&#233;es sont en relation avec EU27 = 100. Par cons&#233;quent, elles ne sont pas comparables avec les versions bas&#233;es sur EU25 = 100. Le produit int&#233;rieur brut (PIB) est une mesure de l'activit&#233; &#233;conomique. Il est d&#233;fini comme la valeur de tous les biens et services produits moins la valeur des biens et services utilis&#233;s dans leur cr&#233;ation. Le PIB par emploi, exprim&#233; par rapport &#224; la moyenne de l'Union europ&#233;enne (EU27), est destin&#233; &#224; donner une impression d'ensemble de laproductivit&#233; des &#233;conomies nationales. Si l'indice d'un pays est sup&#233;rieur &#224; 100, le niveau du PIB par personne occup&#233;e pour ce pays est sup&#233;rieur &#224; la moyenne de l'Union europ&#233;enne et vice versa. Les chiffres de base sont exprim&#233;s en SPA, c'est-&#224;-dire dans une monnaie commune qui &#233;limine les diff&#233;rences deniveaux de prix entre les pays, permettant des comparaisons significatives du PIB en volume entre les pays. Il est &#224; noter que la notion de personnes occup&#233;es ne fait pas de distinction entre emploi &#224; temps complet et emploi &#224; temps partiel.</dct:description>\n    <dct:description xml:lang=\"de\">Dieser Indikator wurde umskaliert, d.h. die Daten werden zu EU27 = 100 in Beziehung gesetzt. Sie sind daher nicht mit vorhergehenden Ver&#246;ffentlichungen auf der Basis EU25 = 100 vergleichbar. Das Bruttoinlandsprodukt (BIP) ist ein Ma&#223; f&#252;r die wirtschaftliche T&#228;tigkeit in einer Volkswirtschaft. Es ist definiert als Wert aller neu geschaffenen Waren und Dienstleistungen, abz&#252;glich des Wertes aller dabei als Vorleistungen verbrauchten G&#252;ter und Dienstleistungen. Das BIP in Kaufkraftstandards (KKS) je Besch&#228;ftigten wird relativ zum Durchschnitt der Europ&#228;ischen Union (EU27) ausgedr&#252;ckt. Ist der Indexwert eines Landes gr&#246;&#223;er als 100, so hat dieses Land ein BIP pro Besch&#228;ftigten &#252;ber dem EU-Durchschnitt (und umgekehrt). Die zugrunde liegenden Zahlen sind in KKS ausgedr&#252;ckt, einer einheitlichen W&#228;hrung, die Preisniveauunterschiede zwischen L&#228;ndern ausgleicht und damit aussagekr&#228;ftige BIP-Volumenvergleiche erlaubt. Man beachte, dass die Gr&#246;&#223;e \"Besch&#228;ftigte\" nicht zwischen Vollzeit- und Teilzeitbesch&#228;ftigung differenziert.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/nama_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/nama_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tec00116</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00116.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00116.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/rOLhzNCMCvHYjqc96lm5Q\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tec00116</foaf:primaryTopic><dct:modified>2015-07-31T08:32:05.435138</dct:modified><dct:issued>2015-07-27T15:33:38.016536</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "c40b6f9b-d07f-4bad-907f-afc309ef66a0", 
+    "identifier": "tec00116"
+}

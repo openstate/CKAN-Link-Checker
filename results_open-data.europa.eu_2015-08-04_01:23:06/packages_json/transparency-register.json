@@ -1,0 +1,293 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 15, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Parliament", 
+            "name": "European Parliament", 
+            "revision_timestamp": "2012-12-19T10:13:48.008746", 
+            "state": "active", 
+            "id": "d7f73111-aa4f-4444-b437-12b41165fb90"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Lobbying", 
+            "name": "Lobbying", 
+            "revision_timestamp": "2012-12-19T10:13:48.008746", 
+            "state": "active", 
+            "id": "a2255b38-a902-4498-b49f-f669eeb3ffef"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "NGO", 
+            "name": "NGO", 
+            "revision_timestamp": "2012-12-19T10:13:48.008746", 
+            "state": "active", 
+            "id": "a3e66922-1c66-4e75-8ace-acd44463452e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Transparency", 
+            "name": "Transparency", 
+            "revision_timestamp": "2012-12-19T10:13:48.008746", 
+            "state": "active", 
+            "id": "09c958b5-d9b3-4d40-a60c-f3905f2670e1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "accreditation", 
+            "name": "accreditation", 
+            "revision_timestamp": "2012-12-19T10:13:48.008746", 
+            "state": "active", 
+            "id": "b1b2038c-7a00-4859-852c-497908162614"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "citizen", 
+            "name": "citizen", 
+            "revision_timestamp": "2012-12-19T10:13:48.008746", 
+            "state": "active", 
+            "id": "892a9b51-3026-4460-9094-4118ac95cef2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "civil society", 
+            "name": "civil society", 
+            "revision_timestamp": "2012-12-19T10:13:48.008746", 
+            "state": "active", 
+            "id": "b595923d-cbfc-479d-a279-73717d885157"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "democracy", 
+            "name": "democracy", 
+            "revision_timestamp": "2012-12-19T10:13:48.008746", 
+            "state": "active", 
+            "id": "ea20e036-7fe0-4f89-98a0-52e2b2166ae5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "interest representative", 
+            "name": "interest representative", 
+            "revision_timestamp": "2012-12-19T10:13:48.008746", 
+            "state": "active", 
+            "id": "fd36afe6-34d3-4821-8d2d-4f261e2ef270"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "lobbyist", 
+            "name": "lobbyist", 
+            "revision_timestamp": "2012-12-19T10:13:48.008746", 
+            "state": "active", 
+            "id": "fc53c2dc-9952-494c-82ea-3b94772aed14"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "transparent", 
+            "name": "transparent", 
+            "revision_timestamp": "2012-12-19T10:13:48.008746", 
+            "state": "active", 
+            "id": "24f80653-2ea5-4faf-8b67-599e2ba73cf1"
+        }
+    ], 
+    "contact_name": "SG TRANSPARENCY REGISTER", 
+    "id": "f9b8c408-ab46-4978-8157-577176eb4ae2", 
+    "metadata_created": "2015-07-27T17:50:21.378011", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:50:21.379059", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5936", 
+            "name": "http://eurovoc.europa.eu/5936", 
+            "revision_timestamp": "2015-03-05T16:09:14.488849", 
+            "state": "active", 
+            "id": "a0488494-64e1-41f5-8fbe-2e760e574541"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5937", 
+            "name": "http://eurovoc.europa.eu/5937", 
+            "revision_timestamp": "2015-03-05T16:09:14.488849", 
+            "state": "active", 
+            "id": "2dd1bb06-5de8-4663-ad0d-0866ef0a3325"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "List of persons accredited for access to the European Parliament's buildings to represent registered organisations", 
+            "format": "text/xml", 
+            "url": "http://ec.europa.eu/transparencyregister/public/consultation/statistics.do?action=getLobbyistsXml&fileType=ACCREDITED_PERSONS", 
+            "datastore_active": false, 
+            "created": "2012-12-19T11:33:56.614715", 
+            "tracking_summary": {
+                "total": 16, 
+                "recent": 10
+            }, 
+            "webstore_url": "enabled", 
+            "revision_timestamp": "2015-06-25T08:25:38.561234", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "68afb085-968e-428b-9517-0a48c518fca3", 
+            "size": "1088798", 
+            "resource_group_id": "307e3310-d12b-40b4-8b3b-d4e8cc5288d4", 
+            "id": "709c43eb-915d-41af-b6c5-4c4195d57e95", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Accredited persons for access to the European Parliament"
+        }, 
+        {
+            "mimetype": "application/vnd.ms-excel", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "List of registered organisations (New format starting 27/01/2015)", 
+            "format": "application/vnd.ms-excel", 
+            "url": "http://ec.europa.eu/transparencyregister/public/consultation/statistics.do?action=getLobbyistsExcel&fileType=XLS_NEW", 
+            "datastore_active": false, 
+            "created": "2015-02-05T19:00:13.627769", 
+            "tracking_summary": {
+                "total": 48, 
+                "recent": 8
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-06-25T08:25:38.561234", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "68afb085-968e-428b-9517-0a48c518fca3", 
+            "size": null, 
+            "resource_group_id": "307e3310-d12b-40b4-8b3b-d4e8cc5288d4", 
+            "id": "4a1fe6fe-b72a-4a94-8f9b-2a85e99e4032", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Organisations in the Transparency Register"
+        }, 
+        {
+            "mimetype": "application/xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": " List of registered organisations (New format starting 27/01/2015)", 
+            "format": "text/xml", 
+            "url": "http://ec.europa.eu/transparencyregister/public/consultation/statistics.do?action=getLobbyistsXml&fileType=NEW", 
+            "datastore_active": false, 
+            "created": "2012-12-19T11:31:25.282790", 
+            "tracking_summary": {
+                "total": 7, 
+                "recent": 2
+            }, 
+            "webstore_url": "enabled", 
+            "revision_timestamp": "2015-06-25T08:25:38.561234", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "68afb085-968e-428b-9517-0a48c518fca3", 
+            "size": null, 
+            "resource_group_id": "307e3310-d12b-40b4-8b3b-d4e8cc5288d4", 
+            "id": "0c4b8852-0674-48a6-a55c-d3b920eb1b17", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Organisations in the Transparency Register"
+        }, 
+        {
+            "resource_group_id": "307e3310-d12b-40b4-8b3b-d4e8cc5288d4", 
+            "revision_timestamp": "2015-06-25T08:24:35.962830", 
+            "datastore_active": false, 
+            "id": "8b71df21-944b-4106-8a10-497a21aac4e6", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "new_statistiques_en.pdf", 
+            "format": "application/pdf", 
+            "tracking_summary": {
+                "total": 12, 
+                "recent": 1
+            }, 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "name": "Statistics", 
+            "created": "2012-12-19T11:48:34.373614", 
+            "url": "http://ec.europa.eu/transparencyregister/public/openFile.do?fileName=new_statistiques_en.pdf", 
+            "url_error": "URL unobtainable", 
+            "webstore_url": "", 
+            "position": 3, 
+            "revision_id": "399dca21-d265-43da-b530-c90e05bdc3ca", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 4, 
+    "description": "The Transparency Register provides citizens with access to information about who is engaged in activities aiming at influencing the EU decision making process, which interests are being pursued and what level of resources are invested in these activities.\r\n\r\nEuropean institutions' interaction with citizen\u2019s associations, NGOs, businesses, trade and professional trade unions, think tanks, etc. is constant, legitimate and necessary for the quality of democracy, for their capacity to deliver adequate policies, matching needs and reality.\r\n\r\nCitizens have a right to expect this process to be transparent and to take place in compliance with the law as well as in due respect of ethical principles, avoiding undue pressure, illegitimate or privileged access to information or to decision makers.\r\n\r\nThe Transparency register has been set up and is operated by the European Parliament and the European Commission. The Council of the European Union supports this initiative.", 
+    "title": "Transparency Register", 
+    "tracking_summary": {
+        "total": 3730, 
+        "recent": 137
+    }, 
+    "contact_email": "SG-TRANSPARENCY-REGISTER-CONTACT@ec.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T17:50:21.378011", 
+    "name": "transparency-register", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "e3814f3c-1ebf-4bd3-a74a-9dd94bfc9133", 
+    "contact_address": "Secretariat-general of the European Commission", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "https://ec.europa.eu/transparencyregister/public/contact/contact.do?locale=en", 
+    "url": "http://ec.europa.eu/transparencyregister/public/consultation/statistics.do?locale=en&action=prepareView", 
+    "organization": {
+        "description": "", 
+        "title": "Secretariat-General", 
+        "created": "2012-12-12T13:50:56.968694", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:56.943745", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "e08f939d-1cdf-4f44-ad6c-cb2f927e98b7", 
+        "type": "organization", 
+        "id": "e3814f3c-1ebf-4bd3-a74a-9dd94bfc9133", 
+        "name": "sg"
+    }, 
+    "revision_id": "1d6b413a-0459-4826-9d7d-bd3a86646bba", 
+    "identifier": "", 
+    "version_description": ""
+}

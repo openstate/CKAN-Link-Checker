@@ -1,0 +1,191 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "2db0a598-7d4e-478e-a2b4-2d39c34479ec", 
+    "metadata_created": "2014-12-22T09:36:01.364392", 
+    "modified_date": "2015-07-07", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T11:45:01.678835", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3659", 
+            "name": "http://eurovoc.europa.eu/3659", 
+            "revision_timestamp": "2015-03-03T20:50:20.410450", 
+            "state": "active", 
+            "id": "594c40af-ba49-4b83-b3df-c57038596f66"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/83", 
+            "name": "http://eurovoc.europa.eu/83", 
+            "revision_timestamp": "2015-03-03T20:50:20.410450", 
+            "state": "active", 
+            "id": "854914bb-6c6b-43b3-8947-3359b3212b78"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4050", 
+            "name": "http://eurovoc.europa.eu/4050", 
+            "revision_timestamp": "2015-03-03T20:50:20.410450", 
+            "state": "active", 
+            "id": "1978694c-2b0b-4111-af02-57cf5e045e44"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1469", 
+            "name": "http://eurovoc.europa.eu/1469", 
+            "revision_timestamp": "2015-03-03T20:50:20.410450", 
+            "state": "active", 
+            "id": "98a6a5ca-9d52-43fa-a102-0d8561bdd067"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tessi124.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:45:01.741099", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:45:01.677757", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "0755e027-d118-4831-8b28-4868cd981f7b", 
+            "size": null, 
+            "resource_group_id": "75ce7408-8dab-4de1-a2f6-f3d30bff1d88", 
+            "id": "9411f7e0-0a29-4c5c-a335-dbf9aa85c747", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tessi124.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:45:01.741108", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:45:01.677757", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "0755e027-d118-4831-8b28-4868cd981f7b", 
+            "size": null, 
+            "resource_group_id": "75ce7408-8dab-4de1-a2f6-f3d30bff1d88", 
+            "id": "192e83e2-25dd-40ff-9f3a-9995bf115afa", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tessi124", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:45:01.741072", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:45:01.677757", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "0755e027-d118-4831-8b28-4868cd981f7b", 
+            "size": null, 
+            "resource_group_id": "75ce7408-8dab-4de1-a2f6-f3d30bff1d88", 
+            "id": "37b7e1fd-1cdc-4b5e-9eb1-c313dd4dcdd3", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "The share of persons with an equivalised disposable income below the risk-of-poverty threshold, broken down by activity status: employment, non employment, unemployment, retired, inactive population, other.", 
+    "title": "At-risk-of poverty rate by most frequent activity status (source: SILC)", 
+    "temporal_coverage_from": "2003", 
+    "tracking_summary": {
+        "total": 15, 
+        "recent": 0
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:36:01.364392", 
+    "name": "1bZsl5jJM9reGaaRKjw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tessi124", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tessi124\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100149\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1469\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4050\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/3659\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/83\"/>\n    <dct:title xml:lang=\"en\">At-risk-of poverty rate by most frequent activity status (source: SILC)</dct:title>\n    <dct:title xml:lang=\"fr\">Taux de risque de pauvret&#233; bas&#233; sur l'activit&#233; la plus fr&#233;quente (source : SILC)</dct:title>\n    <dct:title xml:lang=\"de\">Armutsgef&#228;hrdungsquote nach Aktivit&#228;tsstatus (Quelle: SILC)</dct:title>\n    <dct:identifier>tessi124</dct:identifier>\n    <dct:description xml:lang=\"en\">The share of persons with an equivalised disposable income below the risk-of-poverty threshold, broken down by activity status: employment, non employment, unemployment, retired, inactive population, other.</dct:description>\n    <dct:description xml:lang=\"fr\">Proportion de personnes dont le revenu disponible &#233;quivalent se situe en-dessous du seuil de risque de pauvret&#233;, ventil&#233; par statut d'activit&#233;: emploi, non-emploi, ch&#244;mage, retrait&#233;, population inactive, autres cas.</dct:description>\n    <dct:description xml:lang=\"de\">Anteil von Personen (mit dem folgenden T&#228;tigkeitsstatus: Besch&#228;ftigung, nicht Besch&#228;ftigung, Arbeitslosigkeit, zog sich unt&#228;tige Bev&#246;lkerung - anderer zur&#252;ck) mit einem verf&#252;gbaren &#196;quivalenzeinkommens unter 60 % des nationalen verf&#252;gbaren &#196;quivalenzeinkommens.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tessi124</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tessi124.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tessi124.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-07</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2003</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/1bZsl5jJM9reGaaRKjw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tessi124</foaf:primaryTopic><dct:modified>2015-07-31T07:49:48.293315</dct:modified><dct:issued>2014-12-22T09:36:01.364392</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "c51ad916-982a-4f2f-9a39-5983266809d8", 
+    "identifier": "tessi124"
+}

@@ -1,0 +1,183 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2010", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 3, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "e1a37bd6-b290-4c8b-99e9-b8a9059858ac", 
+    "metadata_created": "2014-12-22T08:31:44.345704", 
+    "modified_date": "2015-04-22", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T09:29:21.829563", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6140", 
+            "name": "http://eurovoc.europa.eu/6140", 
+            "revision_timestamp": "2015-03-03T17:24:14.778496", 
+            "state": "active", 
+            "id": "2fb3f483-71c0-4965-863e-9a341fb384ff"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00074.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:29:21.887572", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:29:21.828423", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "2b4341c0-0ce1-42ef-9e8c-dc30e1831739", 
+            "size": null, 
+            "resource_group_id": "ddc27c6c-9573-4a87-a311-279729b906ab", 
+            "id": "76e44c06-0e8d-4bcf-8988-ca3f73f376dc", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00074.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:29:21.887580", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:29:21.828423", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "2b4341c0-0ce1-42ef-9e8c-dc30e1831739", 
+            "size": null, 
+            "resource_group_id": "ddc27c6c-9573-4a87-a311-279729b906ab", 
+            "id": "e6bc08ad-4c24-4738-8217-3030723af1b7", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tin00074", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:29:21.887538", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:29:21.828423", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "2b4341c0-0ce1-42ef-9e8c-dc30e1831739", 
+            "size": null, 
+            "resource_group_id": "ddc27c6c-9573-4a87-a311-279729b906ab", 
+            "id": "448cac09-bd4d-4cb8-bc4b-ce1478dca935", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Value added at factor cost in the ICT sector (source: SBS, variable V12150) Since 2008, definition of the ICT sector is based on NACE Rev. 2 classification as follows: ICT Total (261 + 262 + 263 + 264 + 268 + 951 + 465 + 582 + 61 + 62 + 631) ICT Manufacturing (261 + 262 + 263 + 264 + 268) ICT Services (951 + 465 + 582 + 61 + 62 + 631) Until 2007, definition of the ICT sector is based on NACE Rev. 1.1 classification as follows: ICT Total (30 + 313 + 32 + 332 + 333 + 5184 + 5186 + 642 + 72) ICT Manufacturing (30 + 313 + 32 + 332 + 333) ICT Services (5184 + 5186 + 642 + 72) Total value added at factor cost (source: National Accounts, all branches) Value added at factor cost is defined as Gross value added (at basic prices) minus Other taxes less other subsidies on production. Due to change of the ICT sector definition as a consequence of change of the underlying classification, data for 2008 are not comparable with data published for previous years.", 
+    "title": "Percentage of the ICT sector on GDP", 
+    "temporal_coverage_from": "2000", 
+    "tracking_summary": {
+        "total": 23, 
+        "recent": 6
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100147", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100147", 
+            "image_display_url": "", 
+            "id": "0b3e112c-4a87-450a-8212-dd997bd8ffaf", 
+            "name": "eurovoc_domain_100147"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100150", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100150", 
+            "image_display_url": "", 
+            "id": "f9b717f1-427b-4fa9-ae8e-bd33144b4f3b", 
+            "name": "eurovoc_domain_100150"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100160", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100160", 
+            "image_display_url": "", 
+            "id": "23bb695d-0233-4ed9-bfbb-38e1bf181b80", 
+            "name": "eurovoc_domain_100160"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T08:31:44.345704", 
+    "name": "4AfZCPo5jinAkVeAbH5rA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tin00074", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tin00074\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100150\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100160\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100147\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/6140\"/>\n    <dct:title xml:lang=\"en\">Percentage of the ICT sector on GDP</dct:title>\n    <dct:title xml:lang=\"fr\">Pourcentage du secteur des TIC dans le PIB</dct:title>\n    <dct:title xml:lang=\"de\">Prozentualer Anteil des IKT Sektors am BIP</dct:title>\n    <dct:identifier>tin00074</dct:identifier>\n    <dct:description xml:lang=\"en\">Value added at factor cost in the ICT sector (source: SBS, variable V12150) Since 2008, definition of the ICT sector is based on NACE Rev. 2 classification as follows: ICT Total (261 + 262 + 263 + 264 + 268 + 951 + 465 + 582 + 61 + 62 + 631) ICT Manufacturing (261 + 262 + 263 + 264 + 268) ICT Services (951 + 465 + 582 + 61 + 62 + 631) Until 2007, definition of the ICT sector is based on NACE Rev. 1.1 classification as follows: ICT Total (30 + 313 + 32 + 332 + 333 + 5184 + 5186 + 642 + 72) ICT Manufacturing (30 + 313 + 32 + 332 + 333) ICT Services (5184 + 5186 + 642 + 72) Total value added at factor cost (source: National Accounts, all branches) Value added at factor cost is defined as Gross value added (at basic prices) minus Other taxes less other subsidies on production. Due to change of the ICT sector definition as a consequence of change of the underlying classification, data for 2008 are not comparable with data published for previous years.</dct:description>\n    <dct:description xml:lang=\"fr\">Valeur ajout&#233;e aux co&#251;ts des facteurs du secteur des TIC (source: SBS, variable V12150) Depuis 2008, la d&#233;finition du secteur des TIC est bas&#233;e sur la NACE R&#233;v. 2: Total TIC (261 + 262 + 263 + 264 + 268 + 951 + 465 + 582 + 61 + 62 + 631) TIC - industrie manufacturi&#232;re (261 + 262 + 263 + 264 + 268) TIC - services (951 + 465 + 582 + 61 + 62 + 631) Jusqu''en 2007, la d&#233;finition du secteur des TIC &#233;tait bas&#233;e sur la NACE R&#233;v. 1.1: Total TIC (30 + 313 + 32 + 332 + 333 + 5184 + 5186 + 642 + 72) TIC - Industrie manufacturi&#232;re (30 + 313 + 32 + 332 + 333) TIC - services (5184 + 5186 + 642 + 72) Valeur ajout&#233;e totale aux co&#251;ts des facteurs (source: Comptes nationaux, toutes branches) La valeur ajout&#233;e aux co&#251;ts des facteurs est d&#233;finie comme la valeur ajout&#233;e brute (aux prix de base) moins les autres imp&#244;ts moins les autres subsides sur la production. En raison du changement de d&#233;finition du secteur des TIC qui r&#233;sulte du changement de la classification sous-jacente, les donn&#233;es pour 2008 ne sont pas comparables &#224; celles des ann&#233;es pr&#233;c&#233;dentes.</dct:description>\n    <dct:description xml:lang=\"de\">Bruttowertsch&#246;pfung zu Faktorkosten im IKT Sektor (Quelle: SBS, Variable V12150) Seit 2008 erfolgt die Definition des IKT Sectors aufgrund von NACE Rev 2: IKT Sektor (261 + 262 + 263 + 264 + 268 + 951 + 465 + 582 + 61 + 62 + 631) IKT Herstellung (261 + 262 + 263 + 264 + 268) IKT Dienstleistungen (951 + 465 + 582 + 61 + 62 + 631) Bis 2007 erfolgte die Definition des IKT Sektors aufgrund von NACE Rev 1.1: IKT Sektor (30 + 313 + 32 + 332 + 333 + 5184 + 5186 + 642 + 72) IKT Herstellung (30 + 313 + 32 + 332 + 333) IKT Dienstleistungen (5184 + 5186 + 642 + 72) Gesamte Bruttowertsch&#246;pfung zu Faktorkosten (Quelle: Volkswirtschaftliche Gesamtrechnung, alle Wirtschaftsbereiche) Bruttowertsch&#246;pfung zu Faktorkosten: Bruttowertsch&#246;pfung (zu Herstellungspreisen) abz&#252;glich Sonstige Steuern abz&#252;glich sonstige Subventionen f&#252;r die Produktion. Aufgrund der ge&#228;nderten Definition des IKT Sektors als Folge der zugrundeliegenden (ge&#228;nderten) Klassifikation sind die Daten f&#252;r 2008 nicht mit denen der Jahre davor vergleichbar.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tin00074</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00074.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00074.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-04-22</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2000</ecodp:periodStart>\n        <ecodp:periodEnd>2010</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/4AfZCPo5jinAkVeAbH5rA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tin00074</foaf:primaryTopic><dct:modified>2015-07-31T08:02:31.769400</dct:modified><dct:issued>2014-12-22T08:31:44.345704</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "c268fafb-2f7b-4113-8d52-c62d3406eba9", 
+    "identifier": "tin00074"
+}

@@ -1,0 +1,174 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 9, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "communication", 
+            "name": "communication", 
+            "revision_timestamp": "2014-02-26T14:13:56.269564", 
+            "state": "active", 
+            "id": "e29e6fef-8678-4c7a-8df6-54c165f23b78"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "final terms", 
+            "name": "final terms", 
+            "revision_timestamp": "2014-02-26T14:13:56.269564", 
+            "state": "active", 
+            "id": "08a4b6b3-b14c-45ed-affe-3662da81fd41"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "issuer", 
+            "name": "issuer", 
+            "revision_timestamp": "2014-02-26T14:13:56.269564", 
+            "state": "active", 
+            "id": "04eb0fe1-f37f-453c-8f5b-8a2e761d433f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "prospectus", 
+            "name": "prospectus", 
+            "revision_timestamp": "2014-02-26T14:13:56.269564", 
+            "state": "active", 
+            "id": "0b233781-17b9-463b-aa40-54c86ec559f5"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "e07aadc4-d55c-4966-9e56-f034feda7348", 
+    "metadata_created": "2015-07-27T17:11:15.667872", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:11:15.669061", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/8469", 
+            "name": "http://eurovoc.europa.eu/8469", 
+            "revision_timestamp": "2015-02-23T10:38:18.366058", 
+            "state": "active", 
+            "id": "983e256b-17f1-4728-9ed6-47be9516703e"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1804", 
+            "name": "http://eurovoc.europa.eu/1804", 
+            "revision_timestamp": "2015-02-23T10:38:18.366058", 
+            "state": "active", 
+            "id": "6a93dbab-785a-4293-a785-9869c0aea6c9"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1488", 
+            "name": "http://eurovoc.europa.eu/1488", 
+            "revision_timestamp": "2015-02-23T10:38:18.366058", 
+            "state": "active", 
+            "id": "7959ea17-5087-449b-9155-677f8bfdbbb9"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Means of Communication of Final Terms to Competent Authorities of host Member States", 
+            "format": "text/html", 
+            "url": "http://www.esma.europa.eu/page/Means-Communication-Final-Terms", 
+            "datastore_active": false, 
+            "created": "2015-02-23T11:34:48.155337", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-23T10:34:47.949886", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "422a9555-bce8-43d9-af4b-ca0193334253", 
+            "size": null, 
+            "resource_group_id": "398a1815-1f35-4047-afae-f2352c00284b", 
+            "id": "0c28cedf-0a61-4310-9c62-98024318d58c", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Means of communication of final terms "
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "This list indicates by which means an issuer shall communicate final terms to the relevant competent authority of the host Member State(s).\r\n\r\nAccording to the amended Article 5.4 of the Prospectus Directive (and Article 26.5a of the Commission Delegated Regulation No 486/2012 of 30 March 2012), final terms are required to be communicated to the competent authority of the host Member State(s) by the issuer starting from 1 July 2012. This requirement applies also to final terms relating to base prospectuses approved before 1 July 2012.", 
+    "title": "Means of Communication of Final Terms to Competent Authorities of host Member States", 
+    "tracking_summary": {
+        "total": 206, 
+        "recent": 0
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "e02572fb-1723-472c-9ee8-8e0f4a43fa44", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T17:11:15.667872", 
+    "name": "financial_terms", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://www.esma.europa.eu/page/Means-Communication-Final-Terms", 
+    "organization": {
+        "description": "", 
+        "title": "European Securities and Markets Authority", 
+        "created": "2012-12-12T13:50:52.497925", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.471964", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "0d60eb1d-b406-43d3-94ad-26f3bea3f39b", 
+        "type": "organization", 
+        "id": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+        "name": "esma"
+    }, 
+    "revision_id": "6d0914a7-7772-4082-8c2e-1881e9717639", 
+    "identifier": "", 
+    "version_description": ""
+}

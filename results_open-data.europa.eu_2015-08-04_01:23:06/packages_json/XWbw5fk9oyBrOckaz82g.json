@@ -1,0 +1,176 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "railway", 
+            "name": "railway", 
+            "revision_timestamp": "2014-12-22T08:29:29.865180", 
+            "state": "active", 
+            "id": "7a773bfd-4db6-4a30-ae1e-4070b0fd522d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "transport statistics", 
+            "name": "transport statistics", 
+            "revision_timestamp": "2014-12-22T08:29:29.865180", 
+            "state": "active", 
+            "id": "43620a33-03ea-4cb1-b236-b36b4197a28f"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "bd8d6c36-3711-42a6-8f2d-c3409197bc62", 
+    "metadata_created": "2014-12-22T08:29:29.865180", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:54:11.553112", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ttr00003.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:54:11.639464", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:54:11.550997", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "d740c284-a8df-43be-bf13-5d21ea04188e", 
+            "size": null, 
+            "resource_group_id": "3008c98f-98bf-4f4c-b18e-b39560ab20d1", 
+            "id": "5361e6c2-56ee-4bac-bf56-dbc62c845dd4", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ttr00003.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:54:11.639472", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:54:11.550997", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "d740c284-a8df-43be-bf13-5d21ea04188e", 
+            "size": null, 
+            "resource_group_id": "3008c98f-98bf-4f4c-b18e-b39560ab20d1", 
+            "id": "37151c27-2c18-41ba-b1ee-5f7b694bd512", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ttr00003", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:54:11.639430", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:54:11.550997", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "d740c284-a8df-43be-bf13-5d21ea04188e", 
+            "size": null, 
+            "resource_group_id": "3008c98f-98bf-4f4c-b18e-b39560ab20d1", 
+            "id": "685f05af-0096-4996-9925-eb37a2b06003", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "The collection is based on data from the United Nations Economic Commission for Europe / International Transport Forum / Eurostat Common Questionnaire for Inland Transport Statistics. The Common Questionnaire is not supported by a legal act, but is based on a gentlemen's agreement with the participating countries. Data displayed in this table cover the length of railway lines, whether electrified or not, on the territory of the reporting country. Railway lines are defined as a line of communication made up by rail exclusively for the use of railway vehicles. They consist of one or more adjacent running tracks forming a route between two points. Where a section of network comprises two or more lines running alongside one another, there are as many lines as routes to which tracks are allotted exclusively.", 
+    "title": "Total length of railway lines", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 48, 
+        "recent": 5
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100154", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100154", 
+            "image_display_url": "", 
+            "id": "48655103-3cc3-43b2-87df-e883a1ee38ae", 
+            "name": "eurovoc_domain_100154"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T08:29:29.865180", 
+    "name": "XWbw5fk9oyBrOckaz82g", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ttr00003", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/ttr00003\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100154\"/>\n    <dct:title xml:lang=\"en\">Total length of railway lines</dct:title>\n    <dct:title xml:lang=\"fr\">Longueur totale des voies ferroviaires</dct:title>\n    <dct:title xml:lang=\"de\">Eisenbahnstrecken insgesamt</dct:title>\n    <ecodp:keyword xml:lang=\"en\">transport statistics</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">railway</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique des transports</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">chemin de fer</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Verkehrsstatistik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Eisenbahn</ecodp:keyword>\n    <dct:identifier>ttr00003</dct:identifier>\n    <dct:description xml:lang=\"en\">The collection is based on data from the United Nations Economic Commission for Europe / International Transport Forum / Eurostat Common Questionnaire for Inland Transport Statistics. The Common Questionnaire is not supported by a legal act, but is based on a gentlemen's agreement with the participating countries. Data displayed in this table cover the length of railway lines, whether electrified or not, on the territory of the reporting country. Railway lines are defined as a line of communication made up by rail exclusively for the use of railway vehicles. They consist of one or more adjacent running tracks forming a route between two points. Where a section of network comprises two or more lines running alongside one another, there are as many lines as routes to which tracks are allotted exclusively.</dct:description>\n    <dct:description xml:lang=\"fr\">La collection est bas&#233;e sur des donn&#233;es collect&#233;es au moyen du Questionnaire commun mis au point par la CEE-ONU, le FIT et Eurostat. Le Questionnaire commun est une collection volontaire. Les donn&#233;es de ce tableau couvrent la longueur des lignes de chemin de fer, &#233;lectrifi&#233;es ou pas, sur le territoire d&#8217;un pays participant &#224; la collecte des donn&#233;es. Les lignes de chemin de fer sont des voies de communication par rail destin&#233;es exclusivement &#224; l'usage de v&#233;hicules ferroviaires. Elles ont une ou plusieurs voies principales contigu&#235;s reliant deux points. Lorsqu'un tron&#231;on de r&#233;seau comprend deux ou plusieurs lignes parall&#232;les, on compte autant de lignes qu'il y a d'itin&#233;raires auxquels sont affect&#233;es exclusivement les voies.</dct:description>\n    <dct:description xml:lang=\"de\">Die Erhebung st&#252;tzt sich auf Daten der Wirtschaftskommission der Vereinten Nationen f&#252;r Europa / des Weltverkehrsforums / des Gemeinsamen Fragebogens f&#252;r die Binnenverkehrsstatistiken (Eurostat). Der Gemeinsame Fragebogen st&#252;tzt sich nicht auf einen Rechtsakt, sondern beruht auf einem &#8222;Gentlemen&#8217;s Agreement&#8220; mit den teilnehmenden L&#228;ndern. Die in dieser Tabelle enthaltenen Daten beziehen sich auf die L&#228;nge der elektrifizierten und nicht elektrifizierten Eisenbahnstrecken auf dem Gebiet des Meldelandes. Eisenbahnstrecken sind aus Schienen bestehende Verkehrsverbindungen, die ausschlie&#223;lich f&#252;r die Nutzung durch Eisenbahnfahrzeuge bestimmt sind. Sie bestehen aus einem Gleis oder mehreren nebeneinander verlaufenden Gleisen, die eine Strecke zur Verbindung zweier Punkte bilden. Besteht ein Netzabschnitt aus zwei oder mehr nebeneinander verlaufenden Strecken, entspricht die Anzahl der Strecken derjenigen der Verbindungen, denen Gleise ausschlie&#223;lich zugeordnet sind.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/ttr00003</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ttr00003.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ttr00003.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/XWbw5fk9oyBrOckaz82g\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/ttr00003</foaf:primaryTopic><dct:modified>2015-07-31T08:14:21.896460</dct:modified><dct:issued>2014-12-22T08:29:29.865180</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "e36cba71-eb09-46e7-b98d-ab87f87f8a0e", 
+    "identifier": "ttr00003"
+}

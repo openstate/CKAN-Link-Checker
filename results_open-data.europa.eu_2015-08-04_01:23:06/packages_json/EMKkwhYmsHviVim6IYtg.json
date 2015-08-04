@@ -1,0 +1,192 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "electrical energy", 
+            "name": "electrical energy", 
+            "revision_timestamp": "2014-12-22T09:31:18.990822", 
+            "state": "active", 
+            "id": "f4e45a72-9149-4c8a-aa46-7491f7b90d68"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "energy consumption", 
+            "name": "energy consumption", 
+            "revision_timestamp": "2014-12-22T09:31:18.990822", 
+            "state": "active", 
+            "id": "6fbe360b-da8e-44b3-8647-d658aad89de6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "energy statistics", 
+            "name": "energy statistics", 
+            "revision_timestamp": "2014-12-22T09:31:18.990822", 
+            "state": "active", 
+            "id": "41ddf37f-c0ce-44f1-a16a-cffbae61720d"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "0943b01f-4b73-4200-b39b-4692b2d943f3", 
+    "metadata_created": "2014-12-22T09:31:18.990822", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:24:44.968518", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00095.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:24:45.105931", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:24:44.965830", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "bae395c4-b525-4f80-878f-30a3bbcf8a84", 
+            "size": null, 
+            "resource_group_id": "08f04435-7f28-4dac-b62f-cc87bd1ab76a", 
+            "id": "e94bd323-68f7-4c9f-9d29-f2c259c5cf82", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00095.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:24:45.105943", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:24:44.965830", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "bae395c4-b525-4f80-878f-30a3bbcf8a84", 
+            "size": null, 
+            "resource_group_id": "08f04435-7f28-4dac-b62f-cc87bd1ab76a", 
+            "id": "db2b4589-60f5-4089-8a63-9bf816b9a8f7", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ten00095", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:24:45.105885", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:24:44.965830", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "bae395c4-b525-4f80-878f-30a3bbcf8a84", 
+            "size": null, 
+            "resource_group_id": "08f04435-7f28-4dac-b62f-cc87bd1ab76a", 
+            "id": "18a98c46-1d6c-4de2-bc35-0a9254b30e39", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Final energy consumption includes all energy delivered to the final consumer's door (in the industry, transport, households and other sectors) for all energy uses. It excludes deliveries for transformation and/or own use of the energy producing industries, as well as network losses. This table presents the total final energy consumption (product 0000 \u2013 All products) and the energy consumption of a selected number of products or product groups.", 
+    "title": "Final energy consumption by product", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 12, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100155", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100155", 
+            "image_display_url": "", 
+            "id": "f0873571-606a-4f6c-8ec7-6c94f919c8a1", 
+            "name": "eurovoc_domain_100155"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100159", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100159", 
+            "image_display_url": "", 
+            "id": "411bf1e5-296f-4f4c-8ddf-2838d86ce110", 
+            "name": "eurovoc_domain_100159"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:31:18.990822", 
+    "name": "EMKkwhYmsHviVim6IYtg", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/ten00095", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/ten00095\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100155\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100159\"/>\n    <dct:title xml:lang=\"en\">Final energy consumption by product</dct:title>\n    <dct:title xml:lang=\"fr\">Consommation finale d'&#233;nergie par type du produit</dct:title>\n    <dct:title xml:lang=\"de\">Energieendverbrauch nach Produkt</dct:title>\n    <ecodp:keyword xml:lang=\"en\">energy statistics</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">energy consumption</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">electrical energy</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique &#233;nerg&#233;tique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">consommation d'&#233;nergie</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">&#233;nergie &#233;lectrique</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Energiestatistik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Energieverbrauch</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">elektrische Energie</ecodp:keyword>\n    <dct:identifier>ten00095</dct:identifier>\n    <dct:description xml:lang=\"en\">Final energy consumption includes all energy delivered to the final consumer's door (in the industry, transport, households and other sectors) for all energy uses. It excludes deliveries for transformation and/or own use of the energy producing industries, as well as network losses. This table presents the total final energy consumption (product 0000 &#8211; All products) and the energy consumption of a selected number of products or product groups.</dct:description>\n    <dct:description xml:lang=\"fr\">La consommation finale d'&#233;nergie repr&#233;sente l'ensemble de l'&#233;nergie livr&#233;e aux consommateurs finals (dans l'industrie, le transport, les m&#233;nages et d'autres secteurs), toutes utilisations confondues. Elle exclut les livraisons pour transformation et/ou l'autoconsommation des industries productrices d'&#233;nergie ainsi que les pertes de r&#233;seau. Cette table pr&#233;sente la consommation finale totale d'&#233;nergie (product 0000 - Tous produits) ainsi que la consommation d'un sous-ensemble de produits ou groupes de produits.</dct:description>\n    <dct:description xml:lang=\"de\">Der energetische Endverbrauch umfasst die f&#252;r energetische Verwendungszwecke an die Endverbraucher (in Industrie, Verkehr, privaten Haushalten und anderen Sektoren) gelieferten Energiemengen. Ausgeschlossen sind die zur Umwandlung und/oder f&#252;r den Eigenverbrauch der Energieerzeuger gelieferten Mengen sowie die Netzverluste. Diese Tabelle zeigt die gesamten Energieendverbrauch (Produkt 0000 - Alle Produkte) und den Energieverbrauch nach einer ausgew&#228;hlten Anzahl von Produkten oder Produktgruppen.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/ten00095</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00095.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/ten00095.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/EMKkwhYmsHviVim6IYtg\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/ten00095</foaf:primaryTopic><dct:modified>2015-07-31T07:48:39.971969</dct:modified><dct:issued>2014-12-22T09:31:18.990822</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "4fbb1ece-54ef-4497-beec-b0596fefaf75", 
+    "identifier": "ten00095"
+}

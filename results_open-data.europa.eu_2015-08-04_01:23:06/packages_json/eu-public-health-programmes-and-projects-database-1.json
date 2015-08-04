@@ -1,0 +1,236 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 15, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "CHAFEA", 
+            "name": "CHAFEA", 
+            "revision_timestamp": "2014-06-11T12:16:35.045075", 
+            "state": "active", 
+            "id": "ff878120-f5bc-4f91-972d-9d9279a51e6e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Consumers", 
+            "name": "Consumers", 
+            "revision_timestamp": "2014-06-11T12:16:35.045075", 
+            "state": "active", 
+            "id": "23610189-43f9-4269-8002-26ab822cb12b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Consumers Health and Food Executive Agency", 
+            "name": "Consumers Health and Food Executive Agency", 
+            "revision_timestamp": "2014-06-11T12:16:35.045075", 
+            "state": "active", 
+            "id": "10a7e0d9-6139-42f9-8faa-68258ffe926d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EU Public Health Programme", 
+            "name": "EU Public Health Programme", 
+            "revision_timestamp": "2014-06-11T12:16:35.045075", 
+            "state": "active", 
+            "id": "4de5f52e-49fc-4e54-81ac-a4be452d68a6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "diseases", 
+            "name": "diseases", 
+            "revision_timestamp": "2014-06-11T12:16:35.045075", 
+            "state": "active", 
+            "id": "ff909ae2-f372-49d1-98c5-3d65f356a488"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "operating grants", 
+            "name": "operating grants", 
+            "revision_timestamp": "2014-06-11T12:16:35.045075", 
+            "state": "active", 
+            "id": "babc08e7-b183-4a5b-95f6-1be718d24f5a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "treatments", 
+            "name": "treatments", 
+            "revision_timestamp": "2014-06-11T12:16:35.045075", 
+            "state": "active", 
+            "id": "08b4b042-c054-4a9a-9aaf-31730f7c5f0a"
+        }
+    ], 
+    "contact_name": "Consumers, Health and Food Executive Agency", 
+    "id": "fdf879f6-8b36-4c5f-a955-d06e85e06cf3", 
+    "metadata_created": "2015-07-27T17:57:04.777108", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:57:04.778851", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3885", 
+            "name": "http://eurovoc.europa.eu/3885", 
+            "revision_timestamp": "2015-02-26T15:25:50.249710", 
+            "state": "active", 
+            "id": "d8c12800-c72c-44fe-bcba-6a794241dcb7"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1854", 
+            "name": "http://eurovoc.europa.eu/1854", 
+            "revision_timestamp": "2015-02-26T15:25:50.249710", 
+            "state": "active", 
+            "id": "fa0c85d4-3814-4ee0-814d-120be278bebe"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2479", 
+            "name": "http://eurovoc.europa.eu/2479", 
+            "revision_timestamp": "2015-02-26T15:25:50.249710", 
+            "state": "active", 
+            "id": "30251867-ef5e-4df0-a99a-16c7e134f8c7"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1754", 
+            "name": "http://eurovoc.europa.eu/1754", 
+            "revision_timestamp": "2015-02-26T15:25:50.249710", 
+            "state": "active", 
+            "id": "44d25030-0968-4a1e-8397-8bfe5dba185c"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5894", 
+            "name": "http://eurovoc.europa.eu/5894", 
+            "revision_timestamp": "2015-02-26T15:25:50.249710", 
+            "state": "active", 
+            "id": "61fc8a5d-28c8-4317-bbf9-efaef987830a"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/vnd.ms-excel", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "All projects, joint actions, conferences, and operating grants funded through calls for proposals in the years 2003-2013 under the previous EU Public Health Programme and the current EU Health Programme 2008-2013.", 
+            "format": "application/vnd.ms-excel", 
+            "url": "http://ec.europa.eu/chafea/ami/pdbview40/get_searchresult.cfm?xls=true&search=search&PYRPR=2014,2013&TYPE=adv", 
+            "datastore_active": false, 
+            "created": "2014-06-11T14:28:29.149160", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-26T15:17:08.401320", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "8a3ee65e-617d-4aa6-89ef-fe77f4d3e679", 
+            "size": null, 
+            "resource_group_id": "b00696f1-0ac4-4d41-be71-969e84a47227", 
+            "id": "ee41c2c7-16eb-4196-88d4-b639d0c1d3e5", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "EU Public Health Programmes and Projects Database (Excel)"
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "All projects, joint actions, conferences, and operating grants funded through calls for proposals in the years 2003 to 2013 under the previous EU Public Health Programme and the current EU Health Programme 2008-2013", 
+            "format": "application/pdf", 
+            "url": "http://ec.europa.eu/chafea/ami/pdbview40/get_searchresult.cfm?pdf=true&search=search&PYRPR=2014,2013&TYPE=adv", 
+            "datastore_active": false, 
+            "created": "2014-06-11T14:26:37.750918", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-26T15:17:08.401320", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "8a3ee65e-617d-4aa6-89ef-fe77f4d3e679", 
+            "size": null, 
+            "resource_group_id": "b00696f1-0ac4-4d41-be71-969e84a47227", 
+            "id": "cabe6145-e339-4de2-ba46-5a14b38d27c0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "EU Public Health Programmes and Projects Database (PDF)"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 2, 
+    "description": "The database includes information about projects, joint actions, conferences, and operating grants funded through calls for proposals in the years 2003 to 2013 under the previous EU Public Health Programme and the current EU Health Programme 2008-2013. The database is updated on a yearly basis. ", 
+    "title": "EU Public Health Programmes and Projects Database", 
+    "temporal_coverage_from": "2003", 
+    "tracking_summary": {
+        "total": 315, 
+        "recent": 12
+    }, 
+    "contact_email": "eahc@ec.europa.eu ", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }
+    ], 
+    "creator_user_id": "67d2d2e2-81d2-404f-8ca8-c357203a8ebc", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2015-07-27T17:57:04.777108", 
+    "name": "eu-public-health-programmes-and-projects-database-1", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "9f7d57d2-c684-44e5-b987-b8aaa728f3d4", 
+    "contact_address": "DRB A3/042, L-2920 Luxembourg ", 
+    "contact_telephone": "+352-4301-32015 ", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/chafea/contacts/contacts.html", 
+    "url": "http://ec.europa.eu/chafea/projects/database.html ", 
+    "organization": {
+        "description": "", 
+        "title": "Consumers, Health, Agriculture and Food Executive Agency", 
+        "created": "2014-03-06T12:02:46.519721", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2015-06-10T08:09:57.706105", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "49c8c14f-765e-46cf-816c-55981672a02e", 
+        "type": "organization", 
+        "id": "9f7d57d2-c684-44e5-b987-b8aaa728f3d4", 
+        "name": "chafea"
+    }, 
+    "revision_id": "b7f8d400-0ef0-47f8-a57b-57f9685ea2bf", 
+    "identifier": "", 
+    "version_description": ""
+}

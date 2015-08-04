@@ -1,0 +1,279 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 14, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/CZE", 
+        "http://publications.europa.eu/resource/authority/country/SVK", 
+        "http://publications.europa.eu/resource/authority/country/SVN"
+    ], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "consumer", 
+            "name": "consumer", 
+            "revision_timestamp": "2015-01-22T11:59:30.372677", 
+            "state": "active", 
+            "id": "40e6498f-d336-415e-b623-427a2b9415b6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "czech republicopinion", 
+            "name": "czech republicopinion", 
+            "revision_timestamp": "2015-01-22T11:59:30.372677", 
+            "state": "active", 
+            "id": "0bec5b70-7b4c-4e62-b38d-a43704f73374"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "organizations", 
+            "name": "organizations", 
+            "revision_timestamp": "2015-01-22T11:59:30.372677", 
+            "state": "active", 
+            "id": "43faee8b-d721-4830-b23c-a63c1be5384c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "polls", 
+            "name": "polls", 
+            "revision_timestamp": "2015-01-22T11:59:30.372677", 
+            "state": "active", 
+            "id": "c086ca00-bd50-4cea-9bad-4b7188c3c51d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rights", 
+            "name": "rights", 
+            "revision_timestamp": "2015-01-22T11:59:30.372677", 
+            "state": "active", 
+            "id": "9e94926f-6bb9-44d4-bac2-172fa06073d0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "slovakia", 
+            "name": "slovakia", 
+            "revision_timestamp": "2015-01-22T11:59:30.372677", 
+            "state": "active", 
+            "id": "0fc9ad1d-7233-4b4f-b793-61c6a0fe4170"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "slovenia", 
+            "name": "slovenia", 
+            "revision_timestamp": "2015-01-22T11:59:30.372677", 
+            "state": "active", 
+            "id": "fa11942b-6dcc-4ea4-ba2b-fc3b81cd38f6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "special", 
+            "name": "special", 
+            "revision_timestamp": "2015-01-22T11:59:30.372677", 
+            "state": "active", 
+            "id": "c98a8199-3232-411a-98d4-c36a7d044b70"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "surveys", 
+            "name": "surveys", 
+            "revision_timestamp": "2015-01-22T11:59:30.372677", 
+            "state": "active", 
+            "id": "57740d91-e252-47af-b95c-578300b9880f"
+        }
+    ], 
+    "contact_name": "DG COMM", 
+    "id": "d5e877fe-a7c1-4f1c-b62b-7016bf58e448", 
+    "metadata_created": "2015-07-29T08:24:07.174325", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-29T08:24:07.175260", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "v1.00", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "eb_special_260_240_en.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/public_opinion/archives/eb_special_260_240_en.htm#256", 
+            "datastore_active": false, 
+            "created": "2015-07-29T10:24:07.418393", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-29T08:24:07.174325", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "ac37801d-7977-450f-8293-87f92970f28f", 
+            "size": null, 
+            "resource_group_id": "dd149c72-91f1-4b18-bff0-74d17a628484", 
+            "id": "5c88bd29-6dd6-4e3e-a7d5-aaed3d0d6fdc", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "Detailed information on public opinion website"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: VolumeAPEB658SANCOconsumerrights20060731", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?4F6307877CFD70A7CC0B503E6A3ECCD3", 
+            "datastore_active": false, 
+            "created": "2014-12-11T00:00:00", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-29T08:24:07.174325", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "ac37801d-7977-450f-8293-87f92970f28f", 
+            "size": null, 
+            "resource_group_id": "dd149c72-91f1-4b18-bff0-74d17a628484", 
+            "id": "14f035e4-8bb9-48c6-b2cb-da728f1c7aa0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to OP_VolumeAPEB658SANCOconsumerrights20060731.zip"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: VolumeCCZEB658SANCOconsumerrights20060731", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?1640E349F3CFF5EEC0C068EFE882C14C", 
+            "datastore_active": false, 
+            "created": "2014-12-11T00:00:00", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-29T08:24:07.174325", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "ac37801d-7977-450f-8293-87f92970f28f", 
+            "size": null, 
+            "resource_group_id": "dd149c72-91f1-4b18-bff0-74d17a628484", 
+            "id": "1ee775fa-d44e-4ce6-b55b-6da7399c1064", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to OP_VolumeCCZEB658SANCOconsumerrights20060731.zip"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: VolumeCSIEB658SANCOconsumerrights20060807", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?D0F28C17DA74493E9F0B745AB8A72710", 
+            "datastore_active": false, 
+            "created": "2014-12-11T00:00:00", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-29T08:24:07.174325", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "ac37801d-7977-450f-8293-87f92970f28f", 
+            "size": null, 
+            "resource_group_id": "dd149c72-91f1-4b18-bff0-74d17a628484", 
+            "id": "1694ae89-e109-4b48-ae8e-b0369c3e8c2f", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to OP_VolumeCSIEB658SANCOconsumerrights20060807.zip"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Volume: VolumeCSKEB658SANCOconsumerrights20060731", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/COMMFrontOffice/downloadODP/?284974DB8074F0AA64043459316E917E", 
+            "datastore_active": false, 
+            "created": "2014-12-11T00:00:00", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-29T08:24:07.174325", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "ac37801d-7977-450f-8293-87f92970f28f", 
+            "size": null, 
+            "resource_group_id": "dd149c72-91f1-4b18-bff0-74d17a628484", 
+            "id": "9973cd5e-8f02-4786-8d33-20b0e2392384", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Link to OP_VolumeCSKEB658SANCOconsumerrights20060731.zip"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "In the period from 13 to 29 June 2006 the second wave of the research , in survey on consumer rights issues was conducted in Slovakia, in Slovenia, in Czech Republic.\nThis survey was carried out using a representative sample of 1143\ncitizens of the Slovak Republic, aged 15 years or older, who answered\nquestions on the following themes:\n- Survey on awareness and evaluation of the consumers\u2019 rights\ncampaign\n- Consumer rights in the media\n- Awareness and use of services provided by consumer protection\norganisations\n- Awareness of consumer rights\nThe objective of the present study was to measure the initial impact of a European Union consumer rights information campaign, which began in Slovakia in May 2006 and will run until the end of the year.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume C: Country/socio-demographics", 
+    "title": "Special Eurobarometer 256: Consumer rights and consumer organizations (Wave 2) in Slovakia, in Slovenia, in Czech Republic", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "tracking_summary": {
+        "total": 28, 
+        "recent": 0
+    }, 
+    "contact_email": "Eurobarometer@ec.europa.eu", 
+    "groups": [], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-29T08:24:07.174325", 
+    "name": "S930_65_8_EBS256_WAVE_2", 
+    "isopen": true, 
+    "alternative_title": "Consumer rights and consumer organizations (Wave 2) in Slovakia, in Slovenia, in Czech Republic", 
+    "url": "http://ec.europa.eu/public_opinion/archives/eb_special_260_240_en.htm#256", 
+    "release_date": "2014-12-11", 
+    "owner_org": "dbda9968-cb1e-47c3-b115-245a057e4d4a", 
+    "contact_address": "Rue de La Loi, 56, Brussels", 
+    "rdf": "<rdf:RDF xmlns=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\"><dcat:Dataset rdf:about=\"http://ec.europa.eu/public_opinion/archives/eb_special_260_240_en.htm#256\"><!-- Title, 1..1 - can be filled in in multiple translations though-->\n\t\t\t\t\t\t<dct:title xml:lang=\"en\">Special Eurobarometer 256: Consumer rights and consumer organizations (Wave 2) in Slovakia, in Slovenia, in Czech Republic</dct:title> <!-- A name given to the resource --><!-- Alternative Title(s), 0..*-->\n\t\t\t\t\t\t<dct:alternative xml:lang=\"en\">Consumer rights and consumer organizations (Wave 2) in Slovakia, in Slovenia, in Czech Republic</dct:alternative> <!-- An alternative name for the resource --><ecodp:ckan-name>S930_65_8_EBS256_WAVE_2</ecodp:ckan-name><!-- Description, 1..*-->\n\t\t\t\t\t\t<dct:description xml:lang=\"en\">In the period from 13 to 29 June 2006 the second wave of the research , in survey on consumer rights issues was conducted in Slovakia, in Slovenia, in Czech Republic.\nThis survey was carried out using a representative sample of 1143\ncitizens of the Slovak Republic, aged 15 years or older, who answered\nquestions on the following themes:\n- Survey on awareness and evaluation of the consumers&#8217; rights\ncampaign\n- Consumer rights in the media\n- Awareness and use of services provided by consumer protection\norganisations\n- Awareness of consumer rights\nThe objective of the present study was to measure the initial impact of a European Union consumer rights information campaign, which began in Slovakia in May 2006 and will run until the end of the year.\n#####The results by volumes are distributed as follows:\n* Volume A: Countries\n* Volume AA: Groups of countries\n* Volume A' (AP): Trends\n* Volume AA' (AAP): Trends of groups of countries\n* Volume B: EU/socio-demographics\n* Volume C: Country/socio-demographics  </dct:description><!--An unambiguous reference to the resource within a given context -->\n\t\t\t\t\t\t<dct:identifier>S930_65_8_EBS256_WAVE_2</dct:identifier><!-- Keyword, 0..*--><ecodp:keyword xml:lang=\"en\">slovenia</ecodp:keyword><ecodp:keyword xml:lang=\"en\">consumer</ecodp:keyword><ecodp:keyword xml:lang=\"en\">rights</ecodp:keyword><ecodp:keyword xml:lang=\"en\">organizations</ecodp:keyword><ecodp:keyword xml:lang=\"en\">slovakia</ecodp:keyword><ecodp:keyword xml:lang=\"en\">czech republicopinion</ecodp:keyword><ecodp:keyword xml:lang=\"en\">polls</ecodp:keyword><ecodp:keyword xml:lang=\"en\">special</ecodp:keyword><ecodp:keyword xml:lang=\"en\">surveys</ecodp:keyword><!-- Documentation details -->\n\t\t\t\t\t\t<ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<ecodp:documentationType>\n\t\t\t\t\t\t    \t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n\t\t\t\t\t\t\t</ecodp:documentationType>\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Detailed information on public opinion website</dct:title>\n\t\t\t\t\t\t\t<dct:title xml:lang=\"fr\">Plus d'informations sur l'opinion publique site</dct:title>\n\t\t\t\t\t\t\t<!--Kumar: Shall be populated manually -->\n\t\t\t\t\t\t\t<ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/public_opinion/archives/eb_special_260_240_en.htm#256</ecodp:accessURL>\n\t\t\t\t\t\t</ecodp:isDocumentedBy><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to OP_VolumeAPEB658SANCOconsumerrights20060731.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: VolumeAPEB658SANCOconsumerrights20060731</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?4F6307877CFD70A7CC0B503E6A3ECCD3</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-12-11</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to OP_VolumeCCZEB658SANCOconsumerrights20060731.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: VolumeCCZEB658SANCOconsumerrights20060731</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?1640E349F3CFF5EEC0C068EFE882C14C</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-12-11</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to OP_VolumeCSKEB658SANCOconsumerrights20060731.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: VolumeCSKEB658SANCOconsumerrights20060731</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?284974DB8074F0AA64043459316E917E</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-12-11</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Distribution, 0..* -->\n\t\t\t\t\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<!-- Distribution title, 1..1 -->\n\t\t\t\t\t\t\t<dct:title xml:lang=\"en\">Link to OP_VolumeCSIEB658SANCOconsumerrights20060807.zip</dct:title>\n\t\t\t\t\t\t\t<!-- Distribution description, 0..1 -->\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Volume: VolumeCSIEB658SANCOconsumerrights20060807</dct:description>\n\t\t\t\t\t\t\t<!-- Distribution access URL, 1..1 -->\n\t\t\t\t\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/COMMFrontOffice/downloadODP/?D0F28C17DA74493E9F0B745AB8A72710</dcat:accessURL>\n\t\t\t\t\t\t\t<!-- Distribution type, 1..1 -->\n\t\t\t\t\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t\t\t\t\t<!-- Distribution format, 1..1 -->\n\t\t\t\t\t\t\t<ecodp:distributionFormat>zip</ecodp:distributionFormat>\n\t\t\t\t\t\t\t<!-- Distribution last modification data, 0..1 --> <!-- I think it will be needed only in case of update of file -->\n\t\t\t\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\"/>\n\t\t\t\t\t\t\t<!-- Distribution issued, 0..1 - JP: only date in this attribute -->\n\t\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-12-11</dct:issued>\n\t\t\t\t\t\t</dcat:distribution><!-- Geographical coverage 0..* --><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CZE\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVK\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><dct:spatial>\n\t\t\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVN\"/>\n\t\t\t\t\t\t\t\t</dct:spatial><!-- Publisher 1..1 -->\n\t\t\t\t\t\t<dct:publisher>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/COMMU\"/>\n\t\t\t\t\t\t</dct:publisher><!-- Contact point 0..1 -->\n\t\t\t\t\t\t<ecodp:contactPoint>\n\t\t\t\t\t\t\t<foaf:Agent rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/COMMU\">\n\t\t\t\t\t\t\t\t<!--<foaf:phone rdf:resource=\"\"/>-->\n\t\t\t\t\t\t\t\t<foaf:mbox>Eurobarometer@ec.europa.eu</foaf:mbox>\n\t\t\t\t\t\t\t\t<foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/public_opinion/index_en.htm\"/>\n\t\t\t\t\t\t\t\t<ecodp:contactAddress xml:lang=\"en\">Rue de La Loi, 56, Brussels</ecodp:contactAddress>\n\t\t\t\t\t\t\t\t<foaf:name xml:lang=\"en\">DG COMM</foaf:name>\n\t\t\t\t\t\t\t</foaf:Agent>\n\t\t\t\t\t\t</ecodp:contactPoint><!-- Version 0..1 -->\n\t\t\t\t\t\t<dct:hasVersion rdf:parseType=\"Resource\">\n\t\t\t\t\t\t\t<dct:identifier>v1.00</dct:identifier>\n\t\t\t\t\t\t\t<dct:description xml:lang=\"en\">Version 1.0</dct:description>\n\t\t\t\t\t\t</dct:hasVersion><!-- Dataset issued 0..1 -->\n\t\t\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-12-11</dct:issued><!-- License 1..* -->\n\t\t\t\t\t\t<dct:license>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n\t\t\t\t\t\t</dct:license><!-- Status 1..1 -->\n\t\t\t\t\t\t<ecodp:datasetStatus>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n\t\t\t\t\t\t</ecodp:datasetStatus>\n\t\t\t\t\t\t<dct:language>\n\t\t\t\t\t\t\t<skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n\t\t\t\t\t\t</dct:language></dcat:Dataset><dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/S930_65_8_EBS256_WAVE_2\"><foaf:primaryTopic>http://ec.europa.eu/public_opinion/archives/eb_special_260_240_en.htm#256</foaf:primaryTopic><dct:modified>2015-07-27T16:55:24.462887</dct:modified><dct:issued>2015-01-22T11:59:30.372677</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/public_opinion/index_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Communication", 
+        "created": "2012-12-12T13:50:46.475520", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:46.449434", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "4b21ab59-71d2-4140-a1ee-a411abb6888d", 
+        "type": "organization", 
+        "id": "dbda9968-cb1e-47c3-b115-245a057e4d4a", 
+        "name": "commu"
+    }, 
+    "revision_id": "ac37801d-7977-450f-8293-87f92970f28f", 
+    "identifier": "S930_65_8_EBS256_WAVE_2", 
+    "version_description": "Version 1.0"
+}

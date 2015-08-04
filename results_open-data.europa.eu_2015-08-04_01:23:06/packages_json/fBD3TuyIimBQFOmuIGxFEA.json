@@ -1,0 +1,252 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2012", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Business activity", 
+            "name": "Business activity", 
+            "revision_timestamp": "2014-12-22T07:06:37.780416", 
+            "state": "active", 
+            "id": "96778051-2eca-48ed-88bb-73f031860668"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Business and competition", 
+            "name": "Business and competition", 
+            "revision_timestamp": "2014-12-22T07:06:37.780416", 
+            "state": "active", 
+            "id": "5755945e-9a2e-4cec-a401-5fcb669f33d5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Business organisation", 
+            "name": "Business organisation", 
+            "revision_timestamp": "2014-12-22T07:06:37.780416", 
+            "state": "active", 
+            "id": "7c59f243-07f6-4d2e-8357-0ac5358504e0"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "0a04e3ca-07fe-434e-9e63-799cf4f61e71", 
+    "metadata_created": "2014-12-22T07:06:37.780416", 
+    "modified_date": "2015-07-22", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:13:32.819945", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00170.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:13:32.933224", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:13:32.818718", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "bc2498a6-6e58-4aa2-9c87-9d5b8e10ac39", 
+            "size": null, 
+            "resource_group_id": "4624b582-10ff-4964-b208-b85c57d0ca1e", 
+            "id": "43f82c23-e00a-4f9f-9fc5-6a223c013380", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00170.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:13:32.933232", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:13:32.818718", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "bc2498a6-6e58-4aa2-9c87-9d5b8e10ac39", 
+            "size": null, 
+            "resource_group_id": "4624b582-10ff-4964-b208-b85c57d0ca1e", 
+            "id": "e4fd3ed2-806d-46ec-b709-8f8665235612", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "bd_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/bd_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:13:32.933178", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:13:32.818718", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "bc2498a6-6e58-4aa2-9c87-9d5b8e10ac39", 
+            "size": null, 
+            "resource_group_id": "4624b582-10ff-4964-b208-b85c57d0ca1e", 
+            "id": "4f502c1e-e4eb-4047-a582-c280f565802c", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/bd_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:13:32.933208", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:13:32.818718", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "bc2498a6-6e58-4aa2-9c87-9d5b8e10ac39", 
+            "size": null, 
+            "resource_group_id": "4624b582-10ff-4964-b208-b85c57d0ca1e", 
+            "id": "1a124417-4394-4022-b256-c451993c5800", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tin00170", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:13:32.933217", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:13:32.818718", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "bc2498a6-6e58-4aa2-9c87-9d5b8e10ac39", 
+            "size": null, 
+            "resource_group_id": "4624b582-10ff-4964-b208-b85c57d0ca1e", 
+            "id": "91499d25-3e22-46f0-acaa-f9c5a538da46", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Business demography contains information for characteristics and demography of the business population. The category presents main variables, such as enterprise births (often referred to as business entries), enterprise deaths (often referred to as business exits), and enterprise survivals. Enterprises created or closed solely as a result of e.g. restructuring, merger or break-up are not included in this data. Information refers to the business economy, covering sections B to N (excluding activities of holding companies \u2013 K64.2) according to NACE Rev. 2.", 
+    "title": "Business demography main variables - NACE Rev. 2 (B-N excluding K64.2)", 
+    "temporal_coverage_from": "2008", 
+    "tracking_summary": {
+        "total": 27, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100147", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100147", 
+            "image_display_url": "", 
+            "id": "0b3e112c-4a87-450a-8212-dd997bd8ffaf", 
+            "name": "eurovoc_domain_100147"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100152", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100152", 
+            "image_display_url": "", 
+            "id": "08994bb7-2827-4215-a10b-d0f520fd70bb", 
+            "name": "eurovoc_domain_100152"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100160", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100160", 
+            "image_display_url": "", 
+            "id": "23bb695d-0233-4ed9-bfbb-38e1bf181b80", 
+            "name": "eurovoc_domain_100160"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:06:37.780416", 
+    "name": "fBD3TuyIimBQFOmuIGxFEA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tin00170", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tin00170\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100152\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100160\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100147\"/>\n    <dct:title xml:lang=\"en\">Business demography main variables - NACE Rev. 2 (B-N excluding K64.2)</dct:title>\n    <dct:title xml:lang=\"fr\">Principales variables sur la d&#233;mographie des entreprises - NACE R&#233;v. 2 (B-N except&#233; K64.2)</dct:title>\n    <dct:title xml:lang=\"de\">Wichtigste Variablen der Unternehmensdemografie - NACE Rev. 2 (B-N ohne K64.2)</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Business and competition</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Business organisation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Business activity</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Entreprise et concurrence</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Organisation de l'entreprise</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Vie de l'entreprise</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Unternehmen und Wettbewerb</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Unternehmensorganisation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Bestehen des Unternehmens</ecodp:keyword>\n    <dct:identifier>tin00170</dct:identifier>\n    <dct:description xml:lang=\"en\">Business demography contains information for characteristics and demography of the business population. The category presents main variables, such as enterprise births (often referred to as business entries), enterprise deaths (often referred to as business exits), and enterprise survivals. Enterprises created or closed solely as a result of e.g. restructuring, merger or break-up are not included in this data. Information refers to the business economy, covering sections B to N (excluding activities of holding companies &#8211; K64.2) according to NACE Rev. 2.</dct:description>\n    <dct:description xml:lang=\"fr\">FR</dct:description>\n    <dct:description xml:lang=\"de\">DE</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/bd_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/bd_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tin00170</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00170.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00170.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-22</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2008</ecodp:periodStart>\n        <ecodp:periodEnd>2012</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/fBD3TuyIimBQFOmuIGxFEA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tin00170</foaf:primaryTopic><dct:modified>2015-07-31T09:30:05.246219</dct:modified><dct:issued>2014-12-22T07:06:37.780416</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "f6e39eea-b47e-460c-98b0-2835c3aee133", 
+    "identifier": "tin00170"
+}

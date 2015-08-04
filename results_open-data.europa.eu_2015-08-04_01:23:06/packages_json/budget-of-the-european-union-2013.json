@@ -1,0 +1,196 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 10, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU27"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Budget", 
+            "name": "Budget", 
+            "revision_timestamp": "2014-07-22T09:14:06.583927", 
+            "state": "active", 
+            "id": "d227ebef-5667-4b88-8a86-813063d9aaa5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EU-27", 
+            "name": "EU-27", 
+            "revision_timestamp": "2013-11-28T10:41:00.593663", 
+            "state": "active", 
+            "id": "f4f83d58-c97e-4bfc-a4e5-ccccd927d74a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Commission", 
+            "name": "European Commission", 
+            "revision_timestamp": "2013-11-28T10:41:00.593663", 
+            "state": "active", 
+            "id": "582f172f-fa79-42e7-9967-a47a8da76e46"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "41787d5c-0a34-4ead-a2c6-1a961ee2beea", 
+    "metadata_created": "2015-07-27T14:24:42.456252", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:24:42.459218", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/438855", 
+            "name": "http://eurovoc.europa.eu/438855", 
+            "revision_timestamp": "2015-02-13T13:41:20.786268", 
+            "state": "active", 
+            "id": "cec4d7b3-9ae5-449b-91fe-8b114bc63ff8"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3253", 
+            "name": "http://eurovoc.europa.eu/3253", 
+            "revision_timestamp": "2015-02-13T13:41:20.786268", 
+            "state": "active", 
+            "id": "885a565d-ef1e-408c-8968-d8892f74de92"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5158", 
+            "name": "http://eurovoc.europa.eu/5158", 
+            "revision_timestamp": "2015-02-13T13:41:20.786268", 
+            "state": "active", 
+            "id": "11467136-17ec-440b-be43-42b6bf2656b0"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "XML-files containing the expenditure for all institutions for 2013, 2012 and the outturn for 2011.\r\nThere is also a metadatfile where the political categories used in the budget can be found.", 
+            "format": "text/xml", 
+            "url": "http://eur-lex.europa.eu/budget/data/General/2013/en/Final-budget-2013-EN.zip", 
+            "datastore_active": false, 
+            "created": "2014-07-22T10:49:36.901676", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-13T13:36:42.318011", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "ae9248f2-aa93-4dc2-8611-34272b827eba", 
+            "size": null, 
+            "resource_group_id": "35bd2ae7-b190-475b-ab62-56badb23425a", 
+            "id": "1a36e065-a856-4bdf-b20a-150af2ed441d", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Final Budget 2013 in xml"
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "SEC03.pdf", 
+            "format": "application/pdf", 
+            "url": "http://eur-lex.europa.eu/budget/data/General/2013/en/SEC03.pdf", 
+            "datastore_active": false, 
+            "created": "2013-11-28T11:43:55.972882", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": "enabled", 
+            "revision_timestamp": "2015-02-13T13:36:42.318011", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "ae9248f2-aa93-4dc2-8611-34272b827eba", 
+            "size": null, 
+            "resource_group_id": "35bd2ae7-b190-475b-ab62-56badb23425a", 
+            "id": "7cc7960a-6aff-47f4-8445-b57345a96d25", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "SEC3-Budget 2013"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 2, 
+    "description": "The Budget of the European Union 2013 was adopted by the European Parliament on 12 December 2012 and published in the Official Journal of the European Union L 66, on 8 March 2013. The dataset presented here contains two elements: \r\n\r\n1.\tData in xml \u2013 expenditure for the 10 EU institutions covered by the budget \r\n\r\n2.\t Metadata in xml.\r\n\r\nThe data is organised by budget lines. The lines with figures contain information for: \r\n\r\n1.\tThe budget year, in this case 2013, \r\n\r\n2.\tThe year before, 2012, \r\n\r\n3.\tThe outturn for 2011. \r\n\r\nEach line with figures has a reference to the Multiannual Financial Framework (MFF)/ Political Category (CATPOL) (for example catpol=\"1.1.31\"). In the metadata file it is possible to find the systematic descriptions of the MFF/CATPOL headings.\r\nFollowing the URI below it is possible to find the Budget of the European Union in its different stages (Draft Budget, Line-by-line, final Budget, Draft Amending Budgets and Draft Amending letters).\r\n\r\n", 
+    "title": "Budget of the European Union 2013", 
+    "tracking_summary": {
+        "total": 532, 
+        "recent": 5
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "a4c30af0-511b-42ce-801e-262fabbd658c", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T14:24:42.456252", 
+    "name": "budget-of-the-european-union-2013", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://eur-lex.europa.eu/budget/www/index-en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Publications Office", 
+        "created": "2012-12-12T13:50:56.476905", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:56.451833", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "702713e9-905d-4061-9847-18d42c3d395d", 
+        "type": "organization", 
+        "id": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+        "name": "publ"
+    }, 
+    "revision_id": "039619af-a0f3-4826-9bf3-205f84da9750", 
+    "identifier": "", 
+    "version_description": ""
+}

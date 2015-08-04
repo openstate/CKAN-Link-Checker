@@ -1,0 +1,191 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 11, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "BTI application form", 
+            "name": "BTI application form", 
+            "revision_timestamp": "2013-06-20T07:05:35.858217", 
+            "state": "active", 
+            "id": "40b2623e-03a3-4368-a556-1fd0f37343f5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "binding tariff information", 
+            "name": "binding tariff information", 
+            "revision_timestamp": "2013-06-20T07:05:35.858217", 
+            "state": "active", 
+            "id": "9697c45d-11f7-4b4e-89d2-9ef3ea6577b8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "classification of goods", 
+            "name": "classification of goods", 
+            "revision_timestamp": "2013-06-20T07:05:35.858217", 
+            "state": "active", 
+            "id": "33c51a08-9de4-4028-a958-c5515dde3c48"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "customs classification", 
+            "name": "customs classification", 
+            "revision_timestamp": "2013-06-20T07:05:35.858217", 
+            "state": "active", 
+            "id": "dbb4c305-772b-407a-bb0d-8db0ce82d649"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "fa5db52a-46fe-42c9-9bf1-c3c65aa7ecf3", 
+    "metadata_created": "2015-07-27T17:51:16.504019", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:51:16.505972", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1309", 
+            "name": "http://eurovoc.europa.eu/1309", 
+            "revision_timestamp": "2015-02-25T15:38:06.140250", 
+            "state": "active", 
+            "id": "51cb252b-fdf0-47ab-ab7d-6cd0a39455b6"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6155", 
+            "name": "http://eurovoc.europa.eu/6155", 
+            "revision_timestamp": "2015-02-25T15:38:06.140250", 
+            "state": "active", 
+            "id": "f2100b81-2b71-4f42-8f42-b95add485e6a"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4380", 
+            "name": "http://eurovoc.europa.eu/4380", 
+            "revision_timestamp": "2015-02-25T15:38:06.140250", 
+            "state": "active", 
+            "id": "b338fccc-bb13-41e6-a910-f63baea37fa6"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/946", 
+            "name": "http://eurovoc.europa.eu/946", 
+            "revision_timestamp": "2015-02-25T15:38:06.140250", 
+            "state": "active", 
+            "id": "0fd7ca18-7dd0-4e25-8197-c53b1fe89833"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2069", 
+            "name": "http://eurovoc.europa.eu/2069", 
+            "revision_timestamp": "2015-02-25T15:38:06.140250", 
+            "state": "active", 
+            "id": "25a1601a-7375-44d3-8836-da5bf5f3a38d"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "98a34f54-44df-486f-a15a-3a3fb7aa9e2b", 
+            "revision_timestamp": "2015-02-25T15:34:48.521264", 
+            "datastore_active": false, 
+            "id": "cbbd56a2-8e2d-408a-b94f-0a16a5bdadba", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "EBTI provides traders with EU-wide legal certainty about the tariff classification of the goods that they intend to import or export. The database contains all Binding tariff information that has been issued on request by customs of EU Member States and that is still valid today. See TARIC for a comprehensive view of tariff measures.", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2013-03-15T00:00:00", 
+            "url_type": null, 
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "name": "European Binding Tariff Information", 
+            "created": "2013-03-15T15:17:05.283746", 
+            "url": "http://ec.europa.eu/taxation_customs/dds2/ebti/ebti_home.jsp?Lang=en", 
+            "webstore_url": "", 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "cfe201fe-98b4-4e2a-8ebe-1855a43a46bd", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "EBTI provides traders with EU-wide legal certainty about the tariff classification of the goods that they intend to import or export. The database contains all Binding tariff information that has been issued on request by customs of EU Member States and that is still valid today. See TARIC for a comprehensive view of tariff measures. More information can be found <a href=\"http://ec.europa.eu/taxation_customs/customs/customs_duties/tariff_aspects/classification_goods/index_en.htm\">here</a>", 
+    "title": "European Binding Tariff Information", 
+    "tracking_summary": {
+        "total": 339, 
+        "recent": 7
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100145", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100145", 
+            "image_display_url": "", 
+            "id": "b4c18652-77ac-48e0-a2c3-b431695009b8", 
+            "name": "eurovoc_domain_100145"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100147", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100147", 
+            "image_display_url": "", 
+            "id": "0b3e112c-4a87-450a-8212-dd997bd8ffaf", 
+            "name": "eurovoc_domain_100147"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T17:51:16.504019", 
+    "name": "european-binding-tariff-information", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "fac58fc0-6115-4080-965a-30565b6bb99f", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://ec.europa.eu/taxation_customs/customs/customs_duties/tariff_aspects/classification_goods/index_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Taxation and Customs Union", 
+        "created": "2013-03-13T16:36:37.341255", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2013-03-13T15:36:37.307313", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "855d4009-555b-47dc-af3e-c50cf3469b6e", 
+        "type": "organization", 
+        "id": "fac58fc0-6115-4080-965a-30565b6bb99f", 
+        "name": "taxud"
+    }, 
+    "revision_id": "cf637f17-8ea4-4cf5-a911-958be0d7e444", 
+    "identifier": "", 
+    "version_description": ""
+}

@@ -1,0 +1,237 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "balance of payments", 
+            "name": "balance of payments", 
+            "revision_timestamp": "2015-06-25T23:01:31.378481", 
+            "state": "active", 
+            "id": "57dde1e2-f3f5-4622-bc2b-8cfcbf6e6e2c"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "30c16cf9-d9b0-4c05-8857-62cd0a22357a", 
+    "metadata_created": "2015-06-25T23:01:31.378481", 
+    "modified_date": "2015-07-31", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:29:42.337804", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4671", 
+            "name": "http://eurovoc.europa.eu/4671", 
+            "revision_timestamp": "2015-06-25T23:01:31.378481", 
+            "state": "active", 
+            "id": "3afe1f42-9f55-4b7e-8d37-1053df2293ea"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teibp041.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:29:42.400909", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:29:42.336919", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "2ba055d1-df5b-437d-b6c9-2adddb2f5827", 
+            "size": null, 
+            "resource_group_id": "c55ab565-fa29-4333-85e4-7c6a547023f2", 
+            "id": "e3cc3b02-0f2f-4318-9d58-97a3ca15066f", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teibp041.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:29:42.400916", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:29:42.336919", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "2ba055d1-df5b-437d-b6c9-2adddb2f5827", 
+            "size": null, 
+            "resource_group_id": "c55ab565-fa29-4333-85e4-7c6a547023f2", 
+            "id": "40b6621d-c608-492e-8dcf-c67d90180e84", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ei_bp_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ei_bp_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:29:42.400861", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:29:42.336919", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "2ba055d1-df5b-437d-b6c9-2adddb2f5827", 
+            "size": null, 
+            "resource_group_id": "c55ab565-fa29-4333-85e4-7c6a547023f2", 
+            "id": "b0d58eef-55f0-4ecb-bc90-0d552bcc8797", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_bp_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:29:42.400893", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:29:42.336919", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "2ba055d1-df5b-437d-b6c9-2adddb2f5827", 
+            "size": null, 
+            "resource_group_id": "c55ab565-fa29-4333-85e4-7c6a547023f2", 
+            "id": "480edc16-c8d9-42e9-a9a3-39201ddc0e6a", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teibp041", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:29:42.400901", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:29:42.336919", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "2ba055d1-df5b-437d-b6c9-2adddb2f5827", 
+            "size": null, 
+            "resource_group_id": "c55ab565-fa29-4333-85e4-7c6a547023f2", 
+            "id": "c4057fb8-68e1-4985-b069-44cd9ee95cad", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The Balance of Payments is the statistical statement that systematically summarises transactions between residents and non-residents. It consists of the goods and services account, the primary income account, the secondary income account, the capital account and the financial account (BPM6 \u2013 2.12). The international investment position (IIP) is a statistical statement that shows, at a specific point in time, the value and composition of: a) financial assets of residents of an economy that are claims on non-residents and gold bullion held as reserve assets , and b) liabilities of residents of an economy to non-residents. The difference between an economy's external financial assets and liabilities is the economy's net IIP, which may be positive or negative (BPM6 \u2013 7.1). As with the financial account, financial assets and liabilities can be grouped into five functional categories: a) direct investment, b) portfolio investment, c) financial derivatives and employee stock options, d) other investment and e) reserve assets. (BPM6 \u2013 7.12). The data presented are the \"Net positions at the end of the period\" and the partner is the \"rest of world\". Source of euro area data: European Central Bank (ECB).", 
+    "title": "International investment position - quarterly data", 
+    "temporal_coverage_from": "2012", 
+    "tracking_summary": {
+        "total": 2, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-06-25T23:01:31.378481", 
+    "name": "E9voH1T2MpeXXPK3RMIw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teibp041", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teibp041\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4671\"/>\n    <dct:title xml:lang=\"en\">International investment position - quarterly data</dct:title>\n    <dct:title xml:lang=\"fr\">Position ext&#233;rieure de l'investissement - donn&#233;es trimestrielles</dct:title>\n    <dct:title xml:lang=\"de\">Auslandsverm&#246;gensstatus - Viertelj&#228;hrliche Daten</dct:title>\n    <ecodp:keyword xml:lang=\"en\">balance of payments</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">balance des paiements</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Zahlungsbilanz</ecodp:keyword>\n    <dct:identifier>teibp041</dct:identifier>\n    <dct:description xml:lang=\"en\">The Balance of Payments is the statistical statement that systematically summarises transactions between residents and non-residents. It consists of the goods and services account, the primary income account, the secondary income account, the capital account and the financial account (BPM6 &#8211; 2.12). The international investment position (IIP) is a statistical statement that shows, at a specific point in time, the value and composition of: a) financial assets of residents of an economy that are claims on non-residents and gold bullion held as reserve assets , and b) liabilities of residents of an economy to non-residents. The difference between an economy's external financial assets and liabilities is the economy's net IIP, which may be positive or negative (BPM6 &#8211; 7.1). As with the financial account, financial assets and liabilities can be grouped into five functional categories: a) direct investment, b) portfolio investment, c) financial derivatives and employee stock options, d) other investment and e) reserve assets. (BPM6 &#8211; 7.12). The data presented are the \"Net positions at the end of the period\" and the partner is the \"rest of world\". Source of euro area data: European Central Bank (ECB).</dct:description>\n    <dct:description xml:lang=\"fr\">La balance des paiements est un &#233;tat statistique o&#249; sont r&#233;sum&#233;es les transactions entre r&#233;sidents et non-r&#233;sidents durant une p&#233;riode donn&#233;e. Elle comprend le compte des biens et services, le compte du revenu primaire, le compte du revenu secondaire, le compte de capital et le compte financier (MBP6 &#8211; 2.12). La position ext&#233;rieure globale (PEG) est un &#233;tat statistique qui montre la valeur et la composition &#224; un moment donn&#233;: a) des actifs financiers des r&#233;sidents d'une &#233;conomie qui sont des cr&#233;ances sur des non-r&#233;sidents et de l'or physique d&#233;tenu comme avoir de r&#233;serve; b) des engagements des r&#233;sidents d'une &#233;conomie envers des non-r&#233;sidents. La diff&#233;rence entre les actifs et les passifs financiers ext&#233;rieurs d'une &#233;conomie est la position ext&#233;rieure globale nette de l'&#233;conomie, qui peut &#234;tre positive ou n&#233;gative (MBP6 &#8211; 7.1). Comme dans le cas du compte financier, les actifs et passifs financiers peuvent &#234;tre regroup&#233;s dans 5 cat&#233;gories fonctionnelles: a) investissements directs ; b) investissements de portefeuille ; c) d&#233;riv&#233;s financiers et options sur titres des salari&#233;s ; d) autres investissements ; e) avoirs de r&#233;serve (MBP6 &#8211; 7.12). Les donn&#233;es pr&#233;sent&#233;es correspondent &#224; la position nette &#224; la fin de la p&#233;riode consid&#233;r&#233;e, le partenaire &#233;tant le \"reste du monde\". Source des donn&#233;es de la zone euro: Banque Centrale Europ&#233;enne (BCE).</dct:description>\n    <dct:description xml:lang=\"de\">Die Zahlungsbilanz ist eine statistische &#220;bersicht, die systematisch Transaktionen zwischen Gebietsans&#228;ssigen und Gebietsfremden zusammenfasst. Dabei handelt es sich um den Saldo aller G&#252;ter und Dienstleistungen, das prim&#228;re und sekund&#228;re Einkommensverteilungskonto und das Kapitalbilanz- und Finanzierungskonto nach BPM (6-2.12). Der Auslandsverm&#246;gensstatus (AVS) ist eine statistische &#220;bersicht, die zu einem bestimmten Zeitpunkt, den Wert und die Zusammensetzung von folgendem zeigt: a) Finanzielle Verm&#246;genswerte Gebietsans&#228;ssiger eines Wirtschaftsgebiets, die Forderungen gegen&#252;ber Gebietsfremden darstellen, und als W&#228;hrungsreserve gehaltenes Barrengold, sowie b) Verbindlichkeiten der Gebietsans&#228;ssigen eines Wirtschaftsgebiets gegen&#252;ber Gebietsfremden. Der Unterschied in einer Volkswirtschaft zwischen finanziellen Forderungen und Verbindlichkeiten gegen&#252;ber dem Ausland, ist der Netto- Auslandsverm&#246;gensstatus, der positiv oder negativ ausfallen kann (BPM6-7.1). Wie in der Leistungsbilanz k&#246;nnen Forderungen und Verbindlichkeiten in f&#252;nf funktionale Kategorien zusammengefasst werden: a) Direktinvestitionen, b) Wertpapieranlagen, c) Finanzderivate und Mitarbeiteraktienoptionen, d) &#252;brige Investitionen und e) W&#228;hrungsreserven. (BPM6-7.12). Die vorgelegten Daten sind &#8222;Nettopositionen am Ende des Zeitraums&#8220;, der Handelspartner ist &#8222;&#252;brige Welt&#8220;. Quelle f&#252;r Euroraum Daten: Europ&#228;ischen Zentralbank (EZB)</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ei_bp_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_bp_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teibp041</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teibp041.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teibp041.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-31</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2012</ecodp:periodStart>\n        <ecodp:periodEnd>2015</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/E9voH1T2MpeXXPK3RMIw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teibp041</foaf:primaryTopic><dct:modified>2015-07-31T10:10:01.212231</dct:modified><dct:issued>2015-06-25T23:01:31.378481</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "c324ff75-bee2-4bdc-b2fa-d1a56013fcd8", 
+    "identifier": "teibp041"
+}

@@ -1,0 +1,336 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 11, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "awareness-raising", 
+            "name": "awareness-raising", 
+            "revision_timestamp": "2014-06-18T15:21:36.035943", 
+            "state": "active", 
+            "id": "16f60470-dc85-4001-88f3-5e1a7b32fd30"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "domestic violence", 
+            "name": "domestic violence", 
+            "revision_timestamp": "2014-06-18T15:21:36.035943", 
+            "state": "active", 
+            "id": "2545befc-f6c3-439f-8f77-bc2e97f61242"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gender equality", 
+            "name": "gender equality", 
+            "revision_timestamp": "2014-06-18T15:21:36.035943", 
+            "state": "active", 
+            "id": "b8a61cc4-e1de-462b-a265-4dc643227540"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gender training", 
+            "name": "gender training", 
+            "revision_timestamp": "2014-06-18T15:21:36.035943", 
+            "state": "active", 
+            "id": "21c2249c-409f-44aa-9111-5d55110dff22"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gender-based violence", 
+            "name": "gender-based violence", 
+            "revision_timestamp": "2014-06-18T15:21:36.035943", 
+            "state": "active", 
+            "id": "e53298a0-15e5-4caa-a7ae-1751d0022ed8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "support services", 
+            "name": "support services", 
+            "revision_timestamp": "2014-06-18T15:21:36.035943", 
+            "state": "active", 
+            "id": "f9804481-2147-4fbc-9e01-b346dab34899"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "af7283cb-f4bd-41d8-ade3-a86fb9cb3f84", 
+    "metadata_created": "2015-07-27T16:00:46.388676", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T16:00:46.390108", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4727", 
+            "name": "http://eurovoc.europa.eu/4727", 
+            "revision_timestamp": "2015-02-16T10:49:15.225219", 
+            "state": "active", 
+            "id": "5329b41d-fc7a-43ba-bba0-c79abba319ea"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6557", 
+            "name": "http://eurovoc.europa.eu/6557", 
+            "revision_timestamp": "2015-02-16T10:49:15.225219", 
+            "state": "active", 
+            "id": "a3abfbbb-31f4-46ba-b393-1b7953a4a6a1"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/447756", 
+            "name": "http://eurovoc.europa.eu/447756", 
+            "revision_timestamp": "2015-02-16T10:49:15.225219", 
+            "state": "active", 
+            "id": "57633836-3cdd-41d7-9989-8c2492158bbf"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Domestic violence: Awareness raising", 
+            "format": "application/pdf", 
+            "url": "http://eige.europa.eu/sites/default/files/EIGE-DOMESTIC-VIOLENCE-AWARENESS-RAISING.pdf", 
+            "datastore_active": false, 
+            "created": "2014-06-18T17:27:38.954313", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T10:47:38.718463", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "9cdf67e7-8ec8-4bb4-bbae-81335bb0c972", 
+            "size": null, 
+            "resource_group_id": "1e04cc01-b6ae-4397-9d4a-d5b506bac620", 
+            "id": "70715a99-1ac5-4ee6-82da-dada7deb6521", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Domestic violence: Awareness raising"
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Domestic violence: Support services", 
+            "format": "application/pdf", 
+            "url": "http://eige.europa.eu/sites/default/files/EIGE-GOOD-PRACTICES-SUPPORT-SERVICES-Domestic-Violence.pdf", 
+            "datastore_active": false, 
+            "created": "2014-06-18T17:27:38.954341", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T10:47:38.718463", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "9cdf67e7-8ec8-4bb4-bbae-81335bb0c972", 
+            "size": null, 
+            "resource_group_id": "1e04cc01-b6ae-4397-9d4a-d5b506bac620", 
+            "id": "b59aabb3-fca5-4ab1-80d9-836304aa7ce4", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Domestic violence: Support services"
+        }, 
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "text/html", 
+            "url": "http://eige.europa.eu/methods-and-tools/domestic-violence", 
+            "datastore_active": false, 
+            "created": "2014-06-18T17:23:59.918398", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T10:47:38.718463", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "9cdf67e7-8ec8-4bb4-bbae-81335bb0c972", 
+            "size": null, 
+            "resource_group_id": "1e04cc01-b6ae-4397-9d4a-d5b506bac620", 
+            "id": "3fe5a398-120d-401a-b3d2-a652dae30353", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Methods and tools on prevention and protection from domestic violence"
+        }, 
+        {
+            "mimetype": "text/csv", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "text/csv", 
+            "url": "http://eige.europa.eu/methods-and-tools/domestic-violence/csv", 
+            "datastore_active": false, 
+            "created": "2014-06-18T17:23:59.918359", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T10:47:38.718463", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "9cdf67e7-8ec8-4bb4-bbae-81335bb0c972", 
+            "size": null, 
+            "resource_group_id": "1e04cc01-b6ae-4397-9d4a-d5b506bac620", 
+            "id": "8ea190f6-8524-4e43-90da-222aeed9ea7a", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Methods and tools on prevention and protection from domestic violence (csv)"
+        }, 
+        {
+            "mimetype": "application/xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "text/xml", 
+            "url": "http://eige.europa.eu/methods-and-tools/domestic-violence/xml", 
+            "datastore_active": false, 
+            "created": "2014-06-18T17:23:59.918389", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T10:47:38.718463", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "9cdf67e7-8ec8-4bb4-bbae-81335bb0c972", 
+            "size": null, 
+            "resource_group_id": "1e04cc01-b6ae-4397-9d4a-d5b506bac620", 
+            "id": "bb3a6876-cf10-4975-a524-059ca2f44c88", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Methods and tools on prevention and protection from domestic violence (xml)"
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Training on prevention of domestic violence", 
+            "format": "application/pdf", 
+            "url": "http://eige.europa.eu/sites/default/files/EIGE-GOOD-PRACTICES-TRAINING-Domestic-Violence.pdf", 
+            "datastore_active": false, 
+            "created": "2014-06-18T17:27:38.954349", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T10:47:38.718463", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 5, 
+            "revision_id": "9cdf67e7-8ec8-4bb4-bbae-81335bb0c972", 
+            "size": null, 
+            "resource_group_id": "1e04cc01-b6ae-4397-9d4a-d5b506bac620", 
+            "id": "56c8ce85-54d8-4726-bae8-48c544b998fc", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Training on prevention of domestic violence"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 6, 
+    "description": "A collection of more than 750 examples of methods and tools in prevention and protection on domestic violence.the collection provides examples related to gender training, awareness-raising and victims\u2019 support services.", 
+    "title": "Methods and tools on prevention and protection from domestic violence", 
+    "tracking_summary": {
+        "total": 119, 
+        "recent": 3
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100145", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100145", 
+            "image_display_url": "", 
+            "id": "b4c18652-77ac-48e0-a2c3-b431695009b8", 
+            "name": "eurovoc_domain_100145"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100150", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100150", 
+            "image_display_url": "", 
+            "id": "f9b717f1-427b-4fa9-ae8e-bd33144b4f3b", 
+            "name": "eurovoc_domain_100150"
+        }
+    ], 
+    "creator_user_id": "34bc6316-edaa-499c-8caf-b66b2433d172", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T16:00:46.388676", 
+    "name": "methods-and-tools-on-prevention-and-protection-from-domestic-violence", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "f99b85bc-98f8-4b00-b775-cae56f752ddf", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://eige.europa.eu/methods-and-tools/domestic-violence", 
+    "organization": {
+        "description": "", 
+        "title": "European Institute for Gender Equality", 
+        "created": "2012-12-12T13:50:49.671651", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:49.646021", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "1548bf7d-5d86-43eb-bbd3-4368a009283c", 
+        "type": "organization", 
+        "id": "f99b85bc-98f8-4b00-b775-cae56f752ddf", 
+        "name": "eige"
+    }, 
+    "revision_id": "40958bbf-9eb6-4fb0-8400-7b6b1f31a442", 
+    "identifier": "", 
+    "version_description": ""
+}

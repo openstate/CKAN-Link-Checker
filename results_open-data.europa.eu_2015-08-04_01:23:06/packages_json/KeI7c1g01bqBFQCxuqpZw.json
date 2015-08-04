@@ -1,0 +1,217 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 8, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Budget", 
+            "name": "Budget", 
+            "revision_timestamp": "2014-12-22T09:52:21.768623", 
+            "state": "active", 
+            "id": "d227ebef-5667-4b88-8a86-813063d9aaa5"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EC research expenditure", 
+            "name": "EC research expenditure", 
+            "revision_timestamp": "2014-12-22T09:52:21.768623", 
+            "state": "active", 
+            "id": "12b01a65-5b80-457f-9129-9bd1b1033caf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Public finance and budget policy", 
+            "name": "Public finance and budget policy", 
+            "revision_timestamp": "2014-12-22T09:52:21.768623", 
+            "state": "active", 
+            "id": "a6a1264a-880a-4c85-b112-89a7dfb82d67"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Research and intellectual property", 
+            "name": "Research and intellectual property", 
+            "revision_timestamp": "2014-12-22T09:52:21.768623", 
+            "state": "active", 
+            "id": "5b818eef-1d6f-4593-8106-a897315c7bcf"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Research budget", 
+            "name": "Research budget", 
+            "revision_timestamp": "2014-12-22T09:52:21.768623", 
+            "state": "active", 
+            "id": "18554e25-128d-4d1f-a3b8-dfa47617eab6"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "6cfcc1b4-8b1c-4265-8419-43ed41b211dc", 
+    "metadata_created": "2014-12-22T09:52:21.768623", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T09:39:29.458193", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2914", 
+            "name": "http://eurovoc.europa.eu/2914", 
+            "revision_timestamp": "2015-03-03T19:07:15.963358", 
+            "state": "active", 
+            "id": "fd0f5924-858b-406b-b5e5-6cf1616e1a37"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00031.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:39:29.528812", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:39:29.457230", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "2ce60891-c902-4aea-a290-cfe1800d6e5d", 
+            "size": null, 
+            "resource_group_id": "7274b01b-ed2e-454b-8d73-84b0d6379a9f", 
+            "id": "4f98356d-6cce-4504-8350-4a0027b0b026", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00031.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:39:29.528821", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:39:29.457230", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "2ce60891-c902-4aea-a290-cfe1800d6e5d", 
+            "size": null, 
+            "resource_group_id": "7274b01b-ed2e-454b-8d73-84b0d6379a9f", 
+            "id": "60fcb474-1029-4e7b-96e4-38de7c58e312", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00031", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:39:29.528785", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:39:29.457230", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "2ce60891-c902-4aea-a290-cfe1800d6e5d", 
+            "size": null, 
+            "resource_group_id": "7274b01b-ed2e-454b-8d73-84b0d6379a9f", 
+            "id": "52d4d597-eb77-4289-96fb-b22d716e1798", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "This table presents the relative shares of the different sources of funds in R&D. More specifically the indicators provided are percentage of GERD (Gross domestic expenditure on R&D) financed respectively by industry, government, the higher education and the private non profit sector. The fifth source of funds shown, which also make the breakdown complete, is GERD financed from abroad. R&D is an activity where there are significant transfers of resources between units, organisations, sectors and countries. The importance of the source of funding has been recognized in one of the Barcelona targets of the Lisbon agenda where it is said that the appropriate split for R&D is 1/3 financed by public funds and 2/3 by private.", 
+    "title": "Gross domestic expenditure on R&D (GERD) by source of funds", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 20, 
+        "recent": 3
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100151", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100151", 
+            "image_display_url": "", 
+            "id": "5fe330e5-0901-4296-ac07-a19c0ccf5f06", 
+            "name": "eurovoc_domain_100151"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100158", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100158", 
+            "image_display_url": "", 
+            "id": "361d621d-3400-4cfe-a1f2-e54e38653a17", 
+            "name": "eurovoc_domain_100158"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:52:21.768623", 
+    "name": "KeI7c1g01bqBFQCxuqpZw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00031", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00031\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100158\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100151\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2914\"/>\n    <dct:title xml:lang=\"en\">Gross domestic expenditure on R&amp;D (GERD) by source of funds</dct:title>\n    <dct:title xml:lang=\"fr\">D&#233;pense int&#233;rieure brute de R&amp;D (DIRD) par source de financement</dct:title>\n    <dct:title xml:lang=\"de\">Bruttoinlandsausgaben f&#252;r FuE (GERD) nach Finanzierungsquellen</dct:title>\n    <ecodp:keyword xml:lang=\"en\">EC research expenditure</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Research and intellectual property</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Research budget</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Public finance and budget policy</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Budget</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">D&#233;pense de recherche CE</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Recherche et propri&#233;t&#233; intellectuelle</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Budget de la recherche</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Finances publiques et politique budg&#233;taire</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Budget</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">EG-Forschungsausgabe</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Research and intellectual property</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Forschungsetat</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">&#214;ffentliche Finanzen und Haushaltspolitik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Haushaltsplan</ecodp:keyword>\n    <dct:identifier>tsc00031</dct:identifier>\n    <dct:description xml:lang=\"en\">This table presents the relative shares of the different sources of funds in R&amp;D. More specifically the indicators provided are percentage of GERD (Gross domestic expenditure on R&amp;D) financed respectively by industry, government, the higher education and the private non profit sector. The fifth source of funds shown, which also make the breakdown complete, is GERD financed from abroad. R&amp;D is an activity where there are significant transfers of resources between units, organisations, sectors and countries. The importance of the source of funding has been recognized in one of the Barcelona targets of the Lisbon agenda where it is said that the appropriate split for R&amp;D is 1/3 financed by public funds and 2/3 by private.</dct:description>\n    <dct:description xml:lang=\"fr\">Les quatre indicateurs fournis sont: DIRD en pourcentage du PIB, pourcentage des DIRD financ&#233;es par l'industrie, pourcentage des DIRD financ&#233;es par les pouvoirs publics et pourcentage des DIRD financ&#233;es par l'&#233;tranger. &#171;La recherche et le d&#233;veloppement exp&#233;rimental (R&amp;D) englobent les travaux de cr&#233;ation entrepris de fa&#231;on syst&#233;matique en vue d'accro&#238;tre la somme des connaissances, y compris la connaissance de l'homme, de la culture et de la soci&#233;t&#233;, ainsi que l'utilisation de cette somme de connaissances pour de nouvelles applications&#187; (Manuel de Frascati, &#233;dition 2002, &#167; 63). Les activit&#233;s de R&amp;D se caract&#233;risent par des transferts massifs de ressources entre unit&#233;s, organisations et secteurs qu'il est important d'observer.</dct:description>\n    <dct:description xml:lang=\"de\">Die Tabelle zeigt die Anteile der verschiedenen Finanzierungsquellen f&#252;r Forschung und Entwicklung (FuE). Im engeren Sinne stellen die hier betrachteten Indikatoren Prozentanteile an GERD dar, jeweils finanziert durch Industrie, Staat, Hochschulsektor und private Organisationen ohne Erwerbszweck. Die f&#252;nfte ausgewiesene Finanzierungsquelle, die damit diese Aufteilung vervollst&#228;ndigt, ist GERD finanziert durch das Ausland. FuE ist eine T&#228;tigkeit, in der wichtige Transfers zwischen Einheiten, Organisationen, Sektoren und L&#228;ndern stattfinden. Die Bedeutung nach Art der Finanzierungsquellen zu unterscheiden, wurde in einem der Barcelona-Ziele f&#252;r das Lissabonprogramm erkannt, wo erw&#228;hnt worden ist, dass eine angemessene Aufteilung von FuE zu 1/3 aus &#246;ffentlichen und 2/3 aus privaten Fonds finanziert werden soll.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00031</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00031.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tsc00031.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/KeI7c1g01bqBFQCxuqpZw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tsc00031</foaf:primaryTopic><dct:modified>2015-07-31T09:03:19.757481</dct:modified><dct:issued>2014-12-22T09:52:21.768623</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "e914b420-754d-4c90-996d-12cb77b50679", 
+    "identifier": "tsc00031"
+}

@@ -1,0 +1,172 @@
+{
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 3, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "9f37dfc4-7802-4016-831d-3557e3e60993", 
+    "metadata_created": "2014-12-22T08:20:49.347325", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T11:01:36.000351", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "interoperability_level": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2914", 
+            "name": "http://eurovoc.europa.eu/2914", 
+            "revision_timestamp": "2015-03-03T20:55:59.795448", 
+            "state": "active", 
+            "id": "fd0f5924-858b-406b-b5e5-6cf1616e1a37"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "name": null, 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipsst10.tsv.gz", 
+            "created": "2015-08-03T13:01:36.053013", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:01:35.999375", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "resource_group_id": "5dd0ceb1-40cd-4897-97dd-a788ea91a825", 
+            "revision_id": "5a1b59a9-bb46-4f90-9ecb-be81d4e09c0c", 
+            "id": "4e070d2a-35a6-4fb4-870a-660cc435cf24", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "name": null, 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipsst10.sdmx.zip", 
+            "created": "2015-08-03T13:01:36.053021", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:01:35.999375", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "resource_group_id": "5dd0ceb1-40cd-4897-97dd-a788ea91a825", 
+            "revision_id": "5a1b59a9-bb46-4f90-9ecb-be81d4e09c0c", 
+            "id": "9cd12c7b-b26a-4dee-a4e3-e125674de65b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "size": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "name": "More information on Eurostat Website", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tipsst10", 
+            "created": "2015-08-03T13:01:36.052979", 
+            "state": "active", 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:01:35.999375", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "resource_group_id": "5dd0ceb1-40cd-4897-97dd-a788ea91a825", 
+            "revision_id": "5a1b59a9-bb46-4f90-9ecb-be81d4e09c0c", 
+            "id": "c7bab0b8-5933-48e1-82da-d4f508c4a5b8", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "size": null
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "The indicator provided is GERD (Gross domestic expenditure on R&D) as a percentage of GDP. Research and experimental development (R&D) comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society and the use of this stock of knowledge to devise new applications (Frascati Manual, 2002 edition, \u00a7 63 ). The GDP used in denominator of the MIP indicator comes from the ESA 2010 transmission programme.", 
+    "temporal_coverage_from": "2002", 
+    "language": [], 
+    "tracking_summary": {
+        "total": 13, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100151", 
+            "description": "", 
+            "image_display_url": "", 
+            "title": "http://eurovoc.europa.eu/100151", 
+            "id": "5fe330e5-0901-4296-ac07-a19c0ccf5f06", 
+            "name": "eurovoc_domain_100151"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100158", 
+            "description": "", 
+            "image_display_url": "", 
+            "title": "http://eurovoc.europa.eu/100158", 
+            "id": "361d621d-3400-4cfe-a1f2-e54e38653a17", 
+            "name": "eurovoc_domain_100158"
+        }
+    ], 
+    "creator_user_id": null, 
+    "relationships_as_subject": [], 
+    "license_title": "Legal Notice", 
+    "revision_timestamp": "2014-12-22T08:20:49.347325", 
+    "organization": {
+        "description": "", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "title": "Eurostat", 
+        "name": "estat", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "approval_status": "approved"
+    }, 
+    "name": "tL6hX5a1QN17HUuKEAJZHw", 
+    "isopen": true, 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tipsst10", 
+    "temporal_granularity": [], 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tipsst10\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100158\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100151\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2914\"/>\n    <dct:title xml:lang=\"en\">Gross domestic expenditure on research and development (R&amp;D)</dct:title>\n    <dct:title xml:lang=\"fr\">D&#233;pense int&#233;rieure brute de R&amp;D</dct:title>\n    <dct:title xml:lang=\"de\">Bruttoinlandsaufwendungen f&#252;r FuE</dct:title>\n    <dct:identifier>tipsst10</dct:identifier>\n    <dct:description xml:lang=\"en\">The indicator provided is GERD (Gross domestic expenditure on R&amp;D) as a percentage of GDP. Research and experimental development (R&amp;D) comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society and the use of this stock of knowledge to devise new applications (Frascati Manual, 2002 edition, &#167; 63 ). The GDP used in denominator of the MIP indicator comes from the ESA 2010 transmission programme.</dct:description>\n    <dct:description xml:lang=\"fr\">L'indicateur fourni est GERD (Gross domestic expenditure on R&amp;D) en pourcentage du PIB. La recherche et le d&#233;veloppement exp&#233;rimental (R&amp;D) englobent les travaux de cr&#233;ation entrepris de fa&#231;on syst&#233;matique en vue d'accro&#238;tre la somme des connaissances, y compris la connaissance de l'homme, de la culture et de la soci&#233;t&#233;, ainsi que l'Utilisation de cette somme de connaissances pour de nouvelles applications (Manuel de Frascati, &#233;dition 2002, &#167; 63). Le PIB utilis&#233; en d&#233;nominateur de l'indicateur cl&#233; provient du programme de transmission SEC 2010.</dct:description>\n    <dct:description xml:lang=\"de\">Der vorliegende Indikator ist GERD (Gross domestic expenditure on R&amp;D) als Prozentanteil des BIP. Forschung und Entwicklung (FuE) beinhalten eine kreative T&#228;tigkeit auf einer systematischen Basis, mit dem Ziel, neue Kenntnisse - einschlie&#223;lich Menschen-, Landes- und Gesellschaftskunde - zu gewinnen, sowie den Kenntnisbestand f&#252;r neue Anwendungen zu nutzen (Frascati Manual, 2002 edition, &#167; 63). Das BIP, das im Nenner des Leitindikators verwendet wird, stammt aus der ESVG 2010.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tipsst10</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipsst10.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipsst10.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/tL6hX5a1QN17HUuKEAJZHw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tipsst10</foaf:primaryTopic><dct:modified>2015-07-31T09:41:31.029218</dct:modified><dct:issued>2014-12-22T08:20:49.347325</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "title": "Gross domestic expenditure on research and development (R&D)", 
+    "revision_id": "88359a3a-96e6-406b-83e7-9f1408b8b774", 
+    "identifier": "tipsst10"
+}

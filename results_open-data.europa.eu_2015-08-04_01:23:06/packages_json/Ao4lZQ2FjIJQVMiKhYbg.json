@@ -1,0 +1,237 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "region", 
+            "name": "region", 
+            "revision_timestamp": "2014-12-22T08:01:13.574978", 
+            "state": "active", 
+            "id": "c19b1560-638a-47a6-985e-72d06744d1d3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "regions", 
+            "name": "regions", 
+            "revision_timestamp": "2014-12-22T08:01:13.574978", 
+            "state": "active", 
+            "id": "3a372c2d-f39d-412d-83b6-a1783cf6e338"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "bc84da27-0794-4f43-bd64-2d684d374a37", 
+    "metadata_created": "2014-12-22T08:01:13.574978", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T11:03:52.413165", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1802", 
+            "name": "http://eurovoc.europa.eu/1802", 
+            "revision_timestamp": "2015-03-03T19:57:21.841844", 
+            "state": "active", 
+            "id": "01b42e14-0e3e-412b-bbaa-420e17766787"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00054.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:03:52.643242", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:03:52.411624", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "7998c2da-b2f8-4276-aaef-2b5bf8030171", 
+            "size": null, 
+            "resource_group_id": "ef593d61-6f56-4df3-9d09-550e549b74b4", 
+            "id": "41e72181-7809-4a69-9a6b-ce4a5ca02b7b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00054.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:03:52.643257", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:03:52.411624", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "7998c2da-b2f8-4276-aaef-2b5bf8030171", 
+            "size": null, 
+            "resource_group_id": "ef593d61-6f56-4df3-9d09-550e549b74b4", 
+            "id": "447ea729-9ea2-4565-a775-4b311857c170", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "employ_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/employ_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:03:52.643180", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:03:52.411624", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "7998c2da-b2f8-4276-aaef-2b5bf8030171", 
+            "size": null, 
+            "resource_group_id": "ef593d61-6f56-4df3-9d09-550e549b74b4", 
+            "id": "d51c0ae0-9348-40b3-91a8-e87ab8ea0377", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/employ_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:03:52.643223", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:03:52.411624", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "7998c2da-b2f8-4276-aaef-2b5bf8030171", 
+            "size": null, 
+            "resource_group_id": "ef593d61-6f56-4df3-9d09-550e549b74b4", 
+            "id": "4e0a7f41-6df1-4f83-b39f-698fc705e1f7", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00054", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:03:52.643234", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:03:52.411624", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "7998c2da-b2f8-4276-aaef-2b5bf8030171", 
+            "size": null, 
+            "resource_group_id": "ef593d61-6f56-4df3-9d09-550e549b74b4", 
+            "id": "42d491fc-7ffb-4657-88b8-a8bde6fb3fdd", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Regional (NUTS level 2) employment rate of the age group 55-64 represents employed persons aged 55-64 as a percentage of the population of the same age group. Employed persons are those who, during the reference week, did any work for pay, profit or family gain for at least one hour, or were not at work but had a job or business from which they were temporarily absent.", 
+    "title": "Employment rate of the age group 55-64 by NUTS 2 regions", 
+    "temporal_coverage_from": "2003", 
+    "tracking_summary": {
+        "total": 90, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T08:01:13.574978", 
+    "name": "Ao4lZQ2FjIJQVMiKhYbg", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00054", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00054\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1802\"/>\n    <dct:title xml:lang=\"en\">Employment rate of the age group 55-64 by NUTS 2 regions</dct:title>\n    <dct:title xml:lang=\"fr\">Taux d'emploi des personnes &#226;g&#233;es de 55 &#224; 64 ans, par r&#233;gion NUTS 2</dct:title>\n    <dct:title xml:lang=\"de\">Erwerbst&#228;tigenquote der Altersgruppe 55-64, nach NUTS-2-Regionen</dct:title>\n    <ecodp:keyword xml:lang=\"en\">region</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">regions</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">r&#233;gion</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">r&#233;gions</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Region</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Regionen</ecodp:keyword>\n    <dct:identifier>tgs00054</dct:identifier>\n    <dct:description xml:lang=\"en\">Regional (NUTS level 2) employment rate of the age group 55-64 represents employed persons aged 55-64 as a percentage of the population of the same age group. Employed persons are those who, during the reference week, did any work for pay, profit or family gain for at least one hour, or were not at work but had a job or business from which they were temporarily absent.</dct:description>\n    <dct:description xml:lang=\"fr\">Le taux d'emploi r&#233;gional (NUTS 2) des personnes &#226;g&#233;es de 55 &#224; 64 ans correspond aux personnes occup&#233;es de 55 &#224; 64 ans en pourcentage de la population de la m&#234;me tranche d'&#226;ge. Les personnes occup&#233;es sont les personnes qui, au cours de la semaine de r&#233;f&#233;rence, ont travaill&#233; au moins une heure contre r&#233;mun&#233;ration ou en vue d'un b&#233;n&#233;fice ou d'un gain familial, ou qui n'&#233;taient pas sur leur lieu de travail mais avaient un emploi ou une entreprise dont elles &#233;taient temporairement absentes.</dct:description>\n    <dct:description xml:lang=\"de\">Die regionale Besch&#228;ftigungsquote der NUTS-2-Regionen der Altersgruppe 55-64 misst den prozentualen Anteil der Erwerbst&#228;tigen im Alter zwischen 55 und 64 Jahren an der Bev&#246;lkerung dieser Altersgruppe. Erwerbst&#228;tige sind alle Personen zwischen 15 und 64 Jahren, die in der Bezugswoche gegen Entgelt, zur Gewinnerzielung oder zur Mehrung des Familieneinkommens mindestens eine Stunde gearbeitet haben oder nicht gearbeitet haben, jedoch einen Arbeitsplatz hatten, von dem sie vor&#252;bergehend abwesend waren.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/employ_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/employ_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00054</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00054.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tgs00054.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2003</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/Ao4lZQ2FjIJQVMiKhYbg\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tgs00054</foaf:primaryTopic><dct:modified>2015-07-31T09:37:22.412372</dct:modified><dct:issued>2014-12-22T08:01:13.574978</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "c8db998d-e1e7-413c-ac17-2dc043ca8615", 
+    "identifier": "tgs00054"
+}

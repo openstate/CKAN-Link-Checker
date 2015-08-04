@@ -1,0 +1,174 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 8, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "EEA", 
+            "name": "EEA", 
+            "revision_timestamp": "2014-02-26T14:25:24.718087", 
+            "state": "active", 
+            "id": "b1eb5592-180f-42d4-87ce-10c6e0d77e5f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "notifications", 
+            "name": "notifications", 
+            "revision_timestamp": "2014-02-26T14:25:24.718087", 
+            "state": "active", 
+            "id": "53c505af-ff7d-405d-a103-68b0f3ddba04"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "sanctions", 
+            "name": "sanctions", 
+            "revision_timestamp": "2014-02-26T14:25:24.718087", 
+            "state": "active", 
+            "id": "74597352-b701-41a3-98e7-705a5e927625"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "74a44010-a8b5-46a1-a895-a9673b5ee4d5", 
+    "metadata_created": "2015-07-27T15:04:27.400474", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:04:27.401569", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1804", 
+            "name": "http://eurovoc.europa.eu/1804", 
+            "revision_timestamp": "2015-02-24T14:57:12.606786", 
+            "state": "active", 
+            "id": "6a93dbab-785a-4293-a785-9869c0aea6c9"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5618", 
+            "name": "http://eurovoc.europa.eu/5618", 
+            "revision_timestamp": "2015-02-24T14:57:12.606786", 
+            "state": "active", 
+            "id": "7eadd9c1-3b74-4dde-89c3-f87d95e6b02c"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3870", 
+            "name": "http://eurovoc.europa.eu/3870", 
+            "revision_timestamp": "2015-02-24T14:57:12.606786", 
+            "state": "active", 
+            "id": "ec78462c-7c26-4465-b911-9d581dee842a"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ESMA has compiled the information on published sanctions on the basis of notifications made to it by the national competent authorities of the Member States [of the European Economic Area (EEA)]. Export possible.", 
+            "format": "text/html", 
+            "url": "http://registers.esma.europa.eu/publication/searchSanction;jsessionid=ADB60482F86DB6CFE1719FBB866AD022", 
+            "datastore_active": false, 
+            "created": "2015-02-24T15:40:46.723716", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-24T14:40:46.629245", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "0d571e7b-e878-44cc-9614-fc43ec6b5f95", 
+            "size": null, 
+            "resource_group_id": "32b69ada-77dd-4489-abdd-fb926150427b", 
+            "id": "2ecc1a49-0414-4dd8-bf5d-f60a0e95dfb8", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Sanctions"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "ESMA has compiled the information on published sanctions on the basis of notifications made to it by the national competent authorities of the Member States [of the European Economic Area (EEA)]. This compilation has been carried out with utmost   care   and to the best of its ability and ESMA  endeavours to continuously update the information provided.\r\n\r\nFor further information please refer to the website of the competent national supervisory authorities.\r\n\r\nIn addition to the above provisions, attention is also drawn to the Legal Notice of the ESMA website.", 
+    "title": "Sanctions", 
+    "tracking_summary": {
+        "total": 209, 
+        "recent": 2
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100147", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100147", 
+            "image_display_url": "", 
+            "id": "0b3e112c-4a87-450a-8212-dd997bd8ffaf", 
+            "name": "eurovoc_domain_100147"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "e02572fb-1723-472c-9ee8-8e0f4a43fa44", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T15:04:27.400474", 
+    "name": "sanctions", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://registers.esma.europa.eu/publication/searchSanction;jsessionid=ADB60482F86DB6CFE1719FBB866AD022", 
+    "organization": {
+        "description": "", 
+        "title": "European Securities and Markets Authority", 
+        "created": "2012-12-12T13:50:52.497925", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.471964", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "0d60eb1d-b406-43d3-94ad-26f3bea3f39b", 
+        "type": "organization", 
+        "id": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+        "name": "esma"
+    }, 
+    "revision_id": "486b7fe1-629c-482e-80ab-5a654a94f638", 
+    "identifier": "", 
+    "version_description": ""
+}

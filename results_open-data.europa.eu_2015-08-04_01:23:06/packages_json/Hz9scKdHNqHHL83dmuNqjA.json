@@ -1,0 +1,252 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2012", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "credit institution", 
+            "name": "credit institution", 
+            "revision_timestamp": "2014-12-22T08:21:33.740866", 
+            "state": "active", 
+            "id": "4625f319-f710-4c99-a120-d43c472e838b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "interest", 
+            "name": "interest", 
+            "revision_timestamp": "2014-12-22T08:21:33.740866", 
+            "state": "active", 
+            "id": "049320ac-3e0b-4c04-a300-f9060704c821"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "service", 
+            "name": "service", 
+            "revision_timestamp": "2014-12-22T08:21:33.740866", 
+            "state": "active", 
+            "id": "e6cbb8ef-8881-4a6f-a8ee-314de6b906f0"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "7ec2a6f3-a671-4032-ae5c-bc529d5d455b", 
+    "metadata_created": "2014-12-22T08:21:33.740866", 
+    "modified_date": "2015-07-09", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T11:02:19.675739", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00018.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:02:19.746212", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:02:19.674785", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "29815841-896c-42b8-8b4b-adf6d26897a8", 
+            "size": null, 
+            "resource_group_id": "e88d1c6b-8cea-4a42-a8cc-d0bf59da5436", 
+            "id": "5f334961-627b-4c57-a330-d2865159e9fc", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00018.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:02:19.746226", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:02:19.674785", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "29815841-896c-42b8-8b4b-adf6d26897a8", 
+            "size": null, 
+            "resource_group_id": "e88d1c6b-8cea-4a42-a8cc-d0bf59da5436", 
+            "id": "8d3a4f75-90b8-4901-a439-cf5802fa6bde", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "sbs_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/sbs_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:02:19.746121", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:02:19.674785", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "29815841-896c-42b8-8b4b-adf6d26897a8", 
+            "size": null, 
+            "resource_group_id": "e88d1c6b-8cea-4a42-a8cc-d0bf59da5436", 
+            "id": "0f5015a3-5936-443e-8d5a-4aa0de592e67", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/sbs_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:02:19.746174", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:02:19.674785", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "29815841-896c-42b8-8b4b-adf6d26897a8", 
+            "size": null, 
+            "resource_group_id": "e88d1c6b-8cea-4a42-a8cc-d0bf59da5436", 
+            "id": "c094a11e-f4f7-4c71-bf22-379676511035", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tin00018", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:02:19.746194", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:02:19.674785", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "29815841-896c-42b8-8b4b-adf6d26897a8", 
+            "size": null, 
+            "resource_group_id": "e88d1c6b-8cea-4a42-a8cc-d0bf59da5436", 
+            "id": "92f71e6b-9991-4890-941f-1c392fd24428", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "All charges paid by credit institutions arising out of liabilities such as amounts owed to credit institutions, amounts owed to customers, debts evidenced by certificates and subordinated liabilities. It also includes fees and commissions paid similar in nature to interest and calculated on a time basis or by reference to the amount of the claim or liability.", 
+    "title": "Credit institutions: interest payable and similar charges", 
+    "temporal_coverage_from": "2001", 
+    "tracking_summary": {
+        "total": 44, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100147", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100147", 
+            "image_display_url": "", 
+            "id": "0b3e112c-4a87-450a-8212-dd997bd8ffaf", 
+            "name": "eurovoc_domain_100147"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100152", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100152", 
+            "image_display_url": "", 
+            "id": "08994bb7-2827-4215-a10b-d0f520fd70bb", 
+            "name": "eurovoc_domain_100152"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100160", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100160", 
+            "image_display_url": "", 
+            "id": "23bb695d-0233-4ed9-bfbb-38e1bf181b80", 
+            "name": "eurovoc_domain_100160"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T08:21:33.740866", 
+    "name": "Hz9scKdHNqHHL83dmuNqjA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tin00018", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tin00018\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100152\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100160\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100147\"/>\n    <dct:title xml:lang=\"en\">Credit institutions: interest payable and similar charges</dct:title>\n    <dct:title xml:lang=\"fr\">&#201;tablissements de cr&#233;dit: int&#233;r&#234;ts &#224; payer et charges similaires</dct:title>\n    <dct:title xml:lang=\"de\">Kreditinstitute: Zinsaufwendungen und &#228;hnliche Aufwendungen</dct:title>\n    <ecodp:keyword xml:lang=\"en\">service</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">credit institution</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">interest</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">service</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">&#233;tablissement de cr&#233;dit</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">int&#233;r&#234;t</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Dienstleistung</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Kreditinstitut</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Zins</ecodp:keyword>\n    <dct:identifier>tin00018</dct:identifier>\n    <dct:description xml:lang=\"en\">All charges paid by credit institutions arising out of liabilities such as amounts owed to credit institutions, amounts owed to customers, debts evidenced by certificates and subordinated liabilities. It also includes fees and commissions paid similar in nature to interest and calculated on a time basis or by reference to the amount of the claim or liability.</dct:description>\n    <dct:description xml:lang=\"fr\">Toutes les charges pay&#233;es par les &#233;tablissements de cr&#233;dit et provoqu&#233;es par des dettes comme les montants dus aux &#233;tablissements de cr&#233;dit, les montants dus aux clients, les reconnaissances de dettes et les dettes subordonn&#233;es. Sont inclus &#233;galement des frais et commissions de nature similaire aux int&#233;r&#234;ts et calcul&#233;s sur une base temporelle ou par r&#233;f&#233;rence au montant de la cr&#233;ance ou de la dette.</dct:description>\n    <dct:description xml:lang=\"de\">Gesamtaufwendungen der Kreditinstitute, die sich aus Passiva wie Verbindlichkeiten gegen&#252;ber Kreditinstituten, Verbindlichkeiten gegen&#252;ber Kunden, verbrieften Verbindlichkeiten und nachrangigen Verbindlichkeiten zusammensetzen. Dazu z&#228;hlen auch Geb&#252;hren und Provisionen mit Zinscharakter, die nach dem Zeitablauf oder nach der H&#246;he der Forderung bzw. der Verbindlichkeit berechnet werden.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/sbs_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/sbs_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tin00018</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00018.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00018.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-09</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2001</ecodp:periodStart>\n        <ecodp:periodEnd>2012</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/Hz9scKdHNqHHL83dmuNqjA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tin00018</foaf:primaryTopic><dct:modified>2015-07-31T10:10:56.938583</dct:modified><dct:issued>2014-12-22T08:21:33.740866</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "75952b3d-11a2-4e73-8756-87bf57f0298c", 
+    "identifier": "tin00018"
+}

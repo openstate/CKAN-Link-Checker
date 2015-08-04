@@ -1,0 +1,201 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "dental medicine", 
+            "name": "dental medicine", 
+            "revision_timestamp": "2014-12-22T09:41:15.921026", 
+            "state": "active", 
+            "id": "e297bd01-9841-4360-a27b-fce4d7bb9fc0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "dentist", 
+            "name": "dentist", 
+            "revision_timestamp": "2014-12-22T09:41:15.921026", 
+            "state": "active", 
+            "id": "d1703137-e50b-40b4-98b7-2e5dd4ca8856"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "health statistics", 
+            "name": "health statistics", 
+            "revision_timestamp": "2014-12-22T09:41:15.921026", 
+            "state": "active", 
+            "id": "f4ce7037-c54c-4481-ae49-6b88692bfb6e"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "776eb1d1-32b0-418e-98ec-a909e72adc34", 
+    "metadata_created": "2014-12-22T09:41:15.921026", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T09:39:26.780111", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1280", 
+            "name": "http://eurovoc.europa.eu/1280", 
+            "revision_timestamp": "2015-03-03T18:41:26.509111", 
+            "state": "active", 
+            "id": "33ad54dd-ba28-494c-94dd-80173920c7e6"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00045.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:39:26.842886", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:39:26.779109", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "fa11a8e6-7c13-4fff-aaaa-68aa9861b5c5", 
+            "size": null, 
+            "resource_group_id": "00201412-b525-4c33-b869-3706049f93c0", 
+            "id": "cea5525e-7a83-41b8-96b4-d60685a4fc3c", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00045.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:39:26.842895", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:39:26.779109", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "fa11a8e6-7c13-4fff-aaaa-68aa9861b5c5", 
+            "size": null, 
+            "resource_group_id": "00201412-b525-4c33-b869-3706049f93c0", 
+            "id": "138fa963-7ed4-4615-ad27-3b2b6abc2e5f", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00045", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:39:26.842854", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:39:26.779109", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "fa11a8e6-7c13-4fff-aaaa-68aa9861b5c5", 
+            "size": null, 
+            "resource_group_id": "00201412-b525-4c33-b869-3706049f93c0", 
+            "id": "fa10f91d-836f-4ee2-92d2-f242b5db3e09", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Dentists as defined by ISCO 88 (code 2222) apply medical knowledge in the field of dentistry, improve or develop concepts, theories and operational methods and conduct research. Dentistry is the provision of comprehensive care regarding teeth and oral cavity, including prevention, diagnosis and treatment of aberrations and diseases. Dentists may be counted according to different concepts such as \"practising\", \"professionally active\" or \"licensed to practice\". Practising dentists provide services directly to patients.", 
+    "title": "Practising dentists", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 18, 
+        "recent": 3
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:41:15.921026", 
+    "name": "fLzrfVnM7UQjjoxfJXFDA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00045", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tps00045\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100149\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1280\"/>\n    <dct:title xml:lang=\"en\">Practising dentists</dct:title>\n    <dct:title xml:lang=\"fr\">Dentistes exer&#231;ant leur profession</dct:title>\n    <dct:title xml:lang=\"de\">Praktizierende Zahn&#228;rzte</dct:title>\n    <ecodp:keyword xml:lang=\"en\">health statistics</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">dental medicine</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">dentist</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique de la sant&#233;</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">m&#233;decine dentaire</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">dentiste</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Gesundheitsstatistik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Zahnmedizin</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Zahnarzt</ecodp:keyword>\n    <dct:identifier>tps00045</dct:identifier>\n    <dct:description xml:lang=\"en\">Dentists as defined by ISCO 88 (code 2222) apply medical knowledge in the field of dentistry, improve or develop concepts, theories and operational methods and conduct research. Dentistry is the provision of comprehensive care regarding teeth and oral cavity, including prevention, diagnosis and treatment of aberrations and diseases. Dentists may be counted according to different concepts such as \"practising\", \"professionally active\" or \"licensed to practice\". Practising dentists provide services directly to patients.</dct:description>\n    <dct:description xml:lang=\"fr\">Les dentistes comme d&#233;fini par l'ISCO 88 (code 2222) appliquent des connaissances m&#233;dicales dans le domaine de la dentisterie, am&#233;liorent ou d&#233;veloppent des concepts, des th&#233;ories et des m&#233;thodes op&#233;rationnelles et conduisent la recherche. La dentisterie est la provision de tous les soins au regard des dents et de la cavit&#233; orale, incluant la pr&#233;vention, le diagnostic et le traitement des aberrations et maladies. Les dentistes peuvent &#234;tre compt&#233;s selon les diff&#233;rents concepts tels que \"exer&#231;ant leur fonction\", \"professionnellement actifs\" ou \"habilit&#233;s &#224; exercer\". Les dentistes exer&#231;ant leur fonction fournissent directement des soins aux patients.</dct:description>\n    <dct:description xml:lang=\"de\">Gem&#228;&#223; der Definition der ISCO 88 (Kode 2222) wenden Zahn&#228;rzte medizinisches Wissen im Bereich der Zahnheilkunde an, verbessern oder entwickeln Konzepte, Theorien und Methoden und forschen. Zahnheilkunde ist die Bereitstellung von umfassender Pflege f&#252;r Z&#228;hne und Mundh&#246;hle, einschlie&#223;lich Vorsorge, Diagnose und Behandlung von Anomalien und Krankheiten. Die Zahl der Zahn&#228;rzte kann nach verschiedenen Konzepten bestimmt werden: 'praktizierende Zahn&#228;rzte', 'fachlich aktive Zahn&#228;rzte' oder 'approbierte Zahn&#228;rzte'. Praktizierende Zahn&#228;rzte haben direkten Kontakt zu den Patienten als Empf&#228;nger von Dienstleistungen.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tps00045</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00045.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00045.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/fLzrfVnM7UQjjoxfJXFDA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tps00045</foaf:primaryTopic><dct:modified>2015-07-31T09:47:31.626162</dct:modified><dct:issued>2014-12-22T09:41:15.921026</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "f7c613da-989a-4262-bd77-4c0d132aa09d", 
+    "identifier": "tps00045"
+}

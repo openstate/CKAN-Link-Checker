@@ -1,0 +1,148 @@
+{
+    "temporal_granularity": [
+        "year"
+    ], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2012", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 8, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Contract", 
+            "name": "Contract", 
+            "revision_timestamp": "2013-07-15T14:24:00.996072", 
+            "state": "active", 
+            "id": "4ee15a21-ee84-4310-b696-d5abcf993086"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Energy", 
+            "name": "Energy", 
+            "revision_timestamp": "2013-07-15T14:24:00.996072", 
+            "state": "active", 
+            "id": "eef5209f-32fe-4d14-bd74-5405b108be8c"
+        }
+    ], 
+    "contact_name": "Fusion for Energy", 
+    "id": "c35f2898-1f35-4a3c-9d09-5e2df24c8bc5", 
+    "metadata_created": "2015-07-27T16:25:28.193611", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T16:25:28.197233", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/753", 
+            "name": "http://eurovoc.europa.eu/753", 
+            "revision_timestamp": "2015-02-20T10:03:52.723018", 
+            "state": "active", 
+            "id": "3f38b005-a4e1-4b96-bd1b-e3464aac8b73"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1123", 
+            "name": "http://eurovoc.europa.eu/1123", 
+            "revision_timestamp": "2015-02-20T10:03:52.723018", 
+            "state": "active", 
+            "id": "e63c7bd1-b270-4ebc-8ddf-e7bef5c9127b"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Annual_list_2012-F4E_and_ECommission.pdf", 
+            "format": "application/pdf", 
+            "url": "http://fusionforenergy.europa.eu/downloads/procurements/Annual_list_2012-F4E_and_ECommission.pdf", 
+            "datastore_active": false, 
+            "created": "2013-07-15T16:23:29.954680", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": "enabled", 
+            "revision_timestamp": "2015-02-20T10:02:11.847559", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "fba31399-55c6-4400-9ac1-f34200d6791d", 
+            "size": null, 
+            "resource_group_id": "558cfba9-fc45-4b4d-9751-bf979ce8e1b2", 
+            "id": "20c1dc91-8fe2-4fbc-87a1-670e709f1834", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Download dataset in pdf format"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "According to Articles 21, 123, 124 and 170 of the Rules of Application\u2019, laying down detailed rules for publication and contract advertising Direct Contracts with a value between 15.000\u20ac and 60.000\u20ac and List of Specific Contracts based on a Framework Contract awarded during a financial year and exceeding the Directive thresholds 2, shall be published on the Fusion for Energy website, no later than 30 June of the following financial year of its signature, Fusion for Energy advertises hereby the annual list of contracts concluded during 2012.", 
+    "title": "Annual list of contractors 2012", 
+    "temporal_coverage_from": "2012", 
+    "tracking_summary": {
+        "total": 256, 
+        "recent": 4
+    }, 
+    "contact_email": "info@f4e.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100159", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100159", 
+            "image_display_url": "", 
+            "id": "411bf1e5-296f-4f4c-8ddf-2838d86ce110", 
+            "name": "eurovoc_domain_100159"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T16:25:28.193611", 
+    "name": "annual-list-of-contractors-2012", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "56921e7b-afc8-493b-b05d-016136bf6132", 
+    "contact_address": "c/ Josep Pla, n\u00ba 2 Torres Diagonal Litoral Edificio B3 08019 Barcelona Spain ", 
+    "contact_telephone": "+34933201800", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://fusionforenergy.europa.eu/", 
+    "url": "http://fusionforenergy.europa.eu/procurementsgrants/keyreference.aspx", 
+    "organization": {
+        "description": "", 
+        "title": "Fusion for Energy Joint Undertaking", 
+        "created": "2012-12-12T13:50:54.050208", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:54.025821", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "39a95d4a-cac3-458d-be0e-45ec868a198e", 
+        "type": "organization", 
+        "id": "56921e7b-afc8-493b-b05d-016136bf6132", 
+        "name": "fusen"
+    }, 
+    "revision_id": "9c04fb96-2b83-4406-a854-65e84bde9b24", 
+    "identifier": "", 
+    "version_description": ""
+}

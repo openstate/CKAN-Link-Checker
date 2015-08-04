@@ -1,0 +1,307 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 13, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "competence development", 
+            "name": "competence development", 
+            "revision_timestamp": "2014-06-06T09:58:21.903125", 
+            "state": "active", 
+            "id": "afe52d02-18e6-433b-ac4a-1a9f65565219"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gender equality", 
+            "name": "gender equality", 
+            "revision_timestamp": "2014-06-06T09:58:21.903125", 
+            "state": "active", 
+            "id": "b8a61cc4-e1de-462b-a265-4dc643227540"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "gender training", 
+            "name": "gender training", 
+            "revision_timestamp": "2014-06-06T09:58:21.903125", 
+            "state": "active", 
+            "id": "21c2249c-409f-44aa-9111-5d55110dff22"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "good practices", 
+            "name": "good practices", 
+            "revision_timestamp": "2014-06-06T09:58:21.903125", 
+            "state": "active", 
+            "id": "a68e8131-b49d-4011-af7c-709e65823aa6"
+        }
+    ], 
+    "contact_name": "European Institute for Gender Equality", 
+    "id": "6074936a-a781-45a8-b48d-d99b2d86f47c", 
+    "metadata_created": "2015-07-27T14:49:00.533605", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:49:00.534608", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Mapping"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/447756", 
+            "name": "http://eurovoc.europa.eu/447756", 
+            "revision_timestamp": "2015-02-16T09:43:57.210035", 
+            "state": "active", 
+            "id": "57633836-3cdd-41d7-9989-8c2492158bbf"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5667", 
+            "name": "http://eurovoc.europa.eu/5667", 
+            "revision_timestamp": "2015-02-16T09:43:57.210035", 
+            "state": "active", 
+            "id": "0806bfd5-5801-4e70-b9d0-0b13c72f7735"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/280", 
+            "name": "http://eurovoc.europa.eu/280", 
+            "revision_timestamp": "2015-02-16T09:43:57.210035", 
+            "state": "active", 
+            "id": "316feb21-a686-4650-a125-8c361f898b61"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/454", 
+            "name": "http://eurovoc.europa.eu/454", 
+            "revision_timestamp": "2015-02-16T09:43:57.210035", 
+            "state": "active", 
+            "id": "008c954a-65c9-453b-9c75-7dca9c12d4ec"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3913", 
+            "name": "http://eurovoc.europa.eu/3913", 
+            "revision_timestamp": "2015-02-16T09:43:57.210035", 
+            "state": "active", 
+            "id": "3dde5212-49a6-45af-9a02-05a2afff91d8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "text/csv", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "text/csv", 
+            "url": "http://eige.europa.eu/good-practices/gender-training/csv", 
+            "datastore_active": false, 
+            "created": "2014-06-06T11:47:32.209653", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T09:39:52.824390", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "ef862627-a9db-4662-aed9-f5eb73ef04de", 
+            "size": null, 
+            "resource_group_id": "683f7256-47b8-404e-8800-30238daf4a51", 
+            "id": "2fe489df-a1ec-4ca3-936a-dbfdc3edc4af", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Good practices in gender training (csv)"
+        }, 
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "text/html", 
+            "url": "http://eige.europa.eu/good-practices/gender-training", 
+            "datastore_active": false, 
+            "created": "2013-06-27T14:52:07.582149", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": "", 
+            "revision_timestamp": "2015-02-16T09:39:52.824390", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "ef862627-a9db-4662-aed9-f5eb73ef04de", 
+            "size": null, 
+            "resource_group_id": "683f7256-47b8-404e-8800-30238daf4a51", 
+            "id": "e3a7f1a7-9422-4cdc-8f81-e17ae64270c3", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Good practices in gender training (web)"
+        }, 
+        {
+            "mimetype": "application/xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "text/xml", 
+            "url": "http://eige.europa.eu/good-practices/gender-training/xml", 
+            "datastore_active": false, 
+            "created": "2014-06-06T11:47:32.209625", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T09:39:52.824390", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "ef862627-a9db-4662-aed9-f5eb73ef04de", 
+            "size": null, 
+            "resource_group_id": "683f7256-47b8-404e-8800-30238daf4a51", 
+            "id": "66a7dc7f-1155-430f-ac8f-f5c1ac9a49cb", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Good practices in gender training (xml)"
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Mapping gender training in the European Union and Croatia: Synthesis report", 
+            "format": "application/pdf", 
+            "url": "http://eige.europa.eu/sites/default/files/Mapping%20gender%20training%20in%20the%20European%20Union%20and%20Croatia.pdf", 
+            "datastore_active": false, 
+            "created": "2014-06-06T11:47:32.209661", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T09:39:52.824390", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "ef862627-a9db-4662-aed9-f5eb73ef04de", 
+            "size": null, 
+            "resource_group_id": "683f7256-47b8-404e-8800-30238daf4a51", 
+            "id": "c7a60595-d5a2-4ea8-aa0e-329ddd296a06", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Mapping gender training in the EU and Croatia: Synthesis report"
+        }, 
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "text/html", 
+            "url": "http://eige.europa.eu/content/document/mapping-gender-training-in-the-european-union-and-croatia-synthesis-report", 
+            "datastore_active": false, 
+            "created": "2014-06-06T11:47:32.209668", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-16T09:39:52.824390", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "ef862627-a9db-4662-aed9-f5eb73ef04de", 
+            "size": null, 
+            "resource_group_id": "683f7256-47b8-404e-8800-30238daf4a51", 
+            "id": "88b12d52-fa2d-48dd-83f5-5bfb0ccf2465", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Mapping gender training in the EU: country fact-sheets"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "A collection of seven good practices in gender training: training the trainers and gender competence programmes in specific sectors.", 
+    "title": "Good practices in gender training", 
+    "tracking_summary": {
+        "total": 233, 
+        "recent": 4
+    }, 
+    "contact_email": "eige.sec@eige.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100150", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100150", 
+            "image_display_url": "", 
+            "id": "f9b717f1-427b-4fa9-ae8e-bd33144b4f3b", 
+            "name": "eurovoc_domain_100150"
+        }
+    ], 
+    "creator_user_id": "34bc6316-edaa-499c-8caf-b66b2433d172", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Political"
+    ], 
+    "revision_timestamp": "2015-07-27T14:49:00.533605", 
+    "name": "good-practices-in-gender-training", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "release_date": "2013", 
+    "owner_org": "f99b85bc-98f8-4b00-b775-cae56f752ddf", 
+    "contact_address": "Gedimino pr. 16 LT-01103 Vilnius LITHUANIA", 
+    "contact_telephone": "+370 52157444", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://eige.europa.eu", 
+    "url": "http://eige.europa.eu/good-practices/gender-training", 
+    "organization": {
+        "description": "", 
+        "title": "European Institute for Gender Equality", 
+        "created": "2012-12-12T13:50:49.671651", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:49.646021", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "1548bf7d-5d86-43eb-bbd3-4368a009283c", 
+        "type": "organization", 
+        "id": "f99b85bc-98f8-4b00-b775-cae56f752ddf", 
+        "name": "eige"
+    }, 
+    "revision_id": "c9a88cce-0358-47b4-9c94-26d36c544c14", 
+    "identifier": "", 
+    "version_description": ""
+}

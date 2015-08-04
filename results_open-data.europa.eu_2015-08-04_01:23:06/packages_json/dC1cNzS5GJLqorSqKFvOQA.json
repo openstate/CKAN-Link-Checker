@@ -1,0 +1,193 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "pay", 
+            "name": "pay", 
+            "revision_timestamp": "2014-12-22T07:29:14.159004", 
+            "state": "active", 
+            "id": "b0178b7e-7011-40e8-b60f-2e368bbe1be1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "wage", 
+            "name": "wage", 
+            "revision_timestamp": "2014-12-22T07:29:14.159004", 
+            "state": "active", 
+            "id": "36b9aa94-40de-4b47-ba26-3397378f32c4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "wage cost", 
+            "name": "wage cost", 
+            "revision_timestamp": "2014-12-22T07:29:14.159004", 
+            "state": "active", 
+            "id": "9eaa23f7-2d1d-490b-a557-d3d78d385284"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "970c16d2-5cef-494d-8732-846cb32cf765", 
+    "metadata_created": "2015-07-27T15:31:46.034451", 
+    "modified_date": "2015-07-22", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:54:08.441251", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1802", 
+            "name": "http://eurovoc.europa.eu/1802", 
+            "revision_timestamp": "2015-03-03T18:38:15.334446", 
+            "state": "active", 
+            "id": "01b42e14-0e3e-412b-bbaa-420e17766787"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00173.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:54:08.502147", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:54:08.440179", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "62d340f8-7ad4-439c-b362-82a87a763bba", 
+            "size": null, 
+            "resource_group_id": "ea7d70a0-966d-4419-9af8-ceebfdb763bf", 
+            "id": "9a688b94-8e61-463b-af02-bb88e7bdb051", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00173.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:54:08.502155", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:54:08.440179", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "62d340f8-7ad4-439c-b362-82a87a763bba", 
+            "size": null, 
+            "resource_group_id": "ea7d70a0-966d-4419-9af8-ceebfdb763bf", 
+            "id": "08fefa25-b1b7-486a-b5aa-eafda2d45201", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00173", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:54:08.502117", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:54:08.440179", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "62d340f8-7ad4-439c-b362-82a87a763bba", 
+            "size": null, 
+            "resource_group_id": "ea7d70a0-966d-4419-9af8-ceebfdb763bf", 
+            "id": "65e8a398-dbcc-40b1-a56e-7355605c2cae", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "This table contains data on Average hourly labour costs which are defined as total labour costs divided by the corresponding number of hours worked by the yearly average number of employees, expressed in full-time units.\" Labour Costs (D) cover Wages and Salaries (D11) and non-wage costs (Employers\u2019 social contributions plus taxes less subsidies: D12+D4-D5)", 
+    "title": "Labour costs annual data - NACE Rev. 2", 
+    "temporal_coverage_from": "2000", 
+    "tracking_summary": {
+        "total": 22, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-27T15:31:46.034451", 
+    "name": "dC1cNzS5GJLqorSqKFvOQA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00173", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tps00173\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1802\"/>\n    <dct:title xml:lang=\"en\">Labour costs annual data - NACE Rev. 2</dct:title>\n    <dct:title xml:lang=\"fr\">Co&#251;t de la main d'oeuvre - donn&#233;es annuelles - NACE R&#233;v. 2</dct:title>\n    <dct:title xml:lang=\"de\">Arbeitskosten - j&#228;hrliche Daten - NACE Rev. 2</dct:title>\n    <ecodp:keyword xml:lang=\"en\">wage cost</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">pay</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">wage</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">co&#251;t salarial</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">salaire</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Lohnkosten</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Lohn und Gehalt</ecodp:keyword>\n    <dct:identifier>tps00173</dct:identifier>\n    <dct:description xml:lang=\"en\">This table contains data on Average hourly labour costs which are defined as total labour costs divided by the corresponding number of hours worked by the yearly average number of employees, expressed in full-time units.\" Labour Costs (D) cover Wages and Salaries (D11) and non-wage costs (Employers&#8217; social contributions plus taxes less subsidies: D12+D4-D5)</dct:description>\n    <dct:description xml:lang=\"fr\">Cette table contient des donn&#233;es sur les co&#251;ts horaires moyens qui sont d&#233;finis comme les co&#251;ts de main-d'oeuvre totaux divis&#233;s par le nombre correspondant d'heures travaill&#233;es par le nombre moyen annuel des employ&#233;s, exprim&#233;s en unit&#233;s de temps plein. Les co&#251;ts du travail (D) couvrent les salaires (D11) et les co&#251;ts non salariaux (cotisations sociales patronales plus imp&#244;ts moins subventions : D12+D4-D5)</dct:description>\n    <dct:description xml:lang=\"de\">Diese Tabelle enth&#228;lt Daten zu den durchschnittlichen Arbeitskosten pro Stunde. Sie sind definiert als Gesamtarbeitskosten dividiert durch die entsprechende Anzahl der geleisteten Arbeitsstunden der durchschnittlichen j&#228;hrlichen Anzahl der Besch&#228;ftigten in Vollzeit&#228;quivalente. Arbeitskosten decken L&#246;hne und Geh&#228;lter (D11) und Lohnnebenkosten (Arbeitgeberbeitr&#228;ge zuz&#252;glich Steuern abz&#252;glich Subventionen: D12+D4-D5)</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tps00173</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00173.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00173.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-22</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2000</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/dC1cNzS5GJLqorSqKFvOQA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tps00173</foaf:primaryTopic><dct:modified>2015-07-31T08:00:28.130465</dct:modified><dct:issued>2015-07-27T15:31:46.034451</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "f2a8557a-a4e3-4403-85f1-5c0115dc269b", 
+    "identifier": "tps00173"
+}

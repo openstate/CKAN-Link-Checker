@@ -1,0 +1,191 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 10, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Community action", 
+            "name": "Community action", 
+            "revision_timestamp": "2014-05-07T13:28:50.943588", 
+            "state": "active", 
+            "id": "f4867719-fd08-4da9-891a-f24f0132eb6a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "action programme", 
+            "name": "action programme", 
+            "revision_timestamp": "2014-05-07T13:28:50.943588", 
+            "state": "active", 
+            "id": "25feeaa8-668b-46dc-a0f5-627151be0311"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "disease prevention", 
+            "name": "disease prevention", 
+            "revision_timestamp": "2014-05-07T13:28:50.943588", 
+            "state": "active", 
+            "id": "fd99d3b7-0411-4dfc-a756-e31767263281"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "health control", 
+            "name": "health control", 
+            "revision_timestamp": "2014-05-07T13:28:50.943588", 
+            "state": "active", 
+            "id": "51e5b5c5-d0f3-4d76-bc95-814865d566e1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "public awareness campaign", 
+            "name": "public awareness campaign", 
+            "revision_timestamp": "2014-05-07T13:28:50.943588", 
+            "state": "active", 
+            "id": "a4e957ed-88cb-4977-89f0-3cc685bf6b4e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "public health", 
+            "name": "public health", 
+            "revision_timestamp": "2014-05-07T13:28:50.943588", 
+            "state": "active", 
+            "id": "ebff138a-335a-4bf2-98bd-7c2de98b9634"
+        }
+    ], 
+    "contact_name": "SANCO", 
+    "id": "591bf395-37c4-48c3-90ef-1b0bd8a7470e", 
+    "metadata_created": "2015-07-27T14:43:42.714697", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:43:42.717674", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "v0.0", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download open data", 
+            "format": "text/xml", 
+            "url": "https://circabc.europa.eu/d/a/workspace/SpacesStore/11138d63-14a7-4cd4-8524-e610ca7da8b6/EuropeanCommunityHealthIndicators.zip", 
+            "datastore_active": false, 
+            "created": "2014-10-23T09:06:57.769889", 
+            "tracking_summary": {
+                "total": 1, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T14:43:42.714697", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "817385b3-2dd3-4e1e-afda-62a4016e9fd7", 
+            "size": null, 
+            "resource_group_id": "89433189-5ea4-4b53-96da-e5d3aa020dca", 
+            "id": "e7d52a84-bf73-4d59-ac4b-bcfa3ca7fb8c", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "index_en.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/health/indicators/echi/index_en.htm", 
+            "datastore_active": false, 
+            "created": "2014-10-23T09:06:57.769881", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T14:43:42.714697", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "817385b3-2dd3-4e1e-afda-62a4016e9fd7", 
+            "size": null, 
+            "resource_group_id": "89433189-5ea4-4b53-96da-e5d3aa020dca", 
+            "id": "b6168059-34f4-4fd1-a890-8a027db633fa", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "European Community Health Indicators (ECHI) homepage"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/dgs/health_consumer/", 
+            "datastore_active": false, 
+            "created": "2014-10-23T09:06:57.769850", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-27T14:43:42.714697", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "817385b3-2dd3-4e1e-afda-62a4016e9fd7", 
+            "size": null, 
+            "resource_group_id": "89433189-5ea4-4b53-96da-e5d3aa020dca", 
+            "id": "ce3053a3-15b2-44b7-891a-cc65441a7a2d", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "Health and Consumers Directorate-General homepage"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "accrual_periodicity": "other", 
+    "num_resources": 3, 
+    "description": "European programmes provide the basis for the publication of health indicators, which are sets of data (tables, graphs, maps) on health status, determinants and care in EU member countries. They allow for monitoring and comparison, and serve as a basis for policymaking.   Publicly available data is collected or provided by Eurostat, however many indicators are compiled relying also on other sources, such as WHO, OECD, specific programmes and specialised databases.", 
+    "title": "European Core Health Indicators (ECHI)", 
+    "tracking_summary": {
+        "total": 347, 
+        "recent": 5
+    }, 
+    "contact_email": "mailto:sanco-echi@ec.europa.eu", 
+    "groups": [], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2015-07-27T14:43:42.714697", 
+    "name": "kAI7nZ78mC6CrUjncT1pw", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "ECHI", 
+    "url": "http://ec.europa.eu/health/indicators/echi/index_en.htm", 
+    "owner_org": "c5cd2538-7ad0-4de4-907a-9fbe58b0f0da", 
+    "contact_address": "Directorate-General Health and Consumers, B - 1049 Brussels, Belgium", 
+    "contact_telephone": "+32 2 299 11 11", 
+    "rdf": "<rdf:RDF xmlns=\"http://open-data.europa.eu/ontologies/ec-odp-example#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\">\n  <!-- Dataset type and URI, don't fill in the CKAN catalog identifier here -->\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/health/indicators/echi/index_en.htm\">\n    <!-- Title, 1..1 - can be filled in in multiple translations though-->\n    <dct:title xml:lang=\"en\">European Core Health Indicators (ECHI)</dct:title>\n    <!-- Alternative Title(s), 0..*-->\n    <dct:alternative xml:lang=\"en\">ECHI</dct:alternative>\n    <!-- Description, 1..*-->\n    <dct:description xml:lang=\"en\">European programmes provide the basis for the publication of health indicators, which are sets of data (tables, graphs, maps) on health status, determinants and care in EU member countries. They allow for monitoring and comparison, and serve as a basis for policymaking.   Publicly available data is collected or provided by Eurostat, however many indicators are compiled relying also on other sources, such as WHO, OECD, specific programmes and specialised databases.</dct:description>\n    <!-- Keyword, 0..*-->\n    <ecodp:keyword xml:lang=\"en\">action programme</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Community action</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">disease prevention</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">health control</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">public awareness campaign</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">public health</ecodp:keyword>\n    <!-- Identifier, 0..*-->\n    <dct:identifier>indicators-echi</dct:identifier>\n    <!-- Interoperability level, 0..1-->\n    <ecodp:interoperabilityLevel>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/interoperability-level/Semantic\"/>\n    </ecodp:interoperabilityLevel>\n    <!-- Dataset type, 0..* -->\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription\"/>\n    </ecodp:datasetType>\n    <!-- Documentation, 0..* -->\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <!-- Documentation type, 1..1 -->\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <!-- Documentation access URL, 1..1 -->\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/dgs/health_consumer/</ecodp:accessURL>\n      <!-- Documentation title, 1..1 -->\n      <dct:title xml:lang=\"en\">Health and Consumers Directorate-General homepage</dct:title>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">European Community Health Indicators (ECHI) homepage</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/health/indicators/echi/index_en.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <!-- Distribution, 0..* -->\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://circabc.europa.eu/d/a/workspace/SpacesStore/11138d63-14a7-4cd4-8524-e610ca7da8b6/EuropeanCommunityHealthIndicators.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <ecodp:distributionFormat>rdf/xml</ecodp:distributionFormat>\n      <dct:description xml:lang=\"en\">Download open data</dct:description>\n    </dcat:distribution>\n    <!-- Catalog record, 0..* -->\n    <!-- Geographical coverage 0..* -->\n    <!-- Publisher 1..1 -->\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/SANTE\"/>\n    </dct:publisher>\n    <!-- Contact point 0..1 -->\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/health_consumer/\">\n        <foaf:phone rdf:resource=\"tel:+32 2 299 11 11\"/>\n        <foaf:mbox rdf:resource=\"mailto:sanco-echi@ec.europa.eu\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/dgs/health_consumer/index_en.htm\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Directorate-General Health and Consumers, B - 1049 Brussels, Belgium</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">SANTE</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <!-- Dataset issued 0..1 -->\n    <!-- Dataset last modification 0..1 -->\n    <!-- Version 0..1 -->\n    <dct:hasVersion rdf:parseType=\"Resource\">\n      <dct:identifier>v0.0</dct:identifier>\n      <dct:description xml:lang=\"en\">regular updates</dct:description>\n    </dct:hasVersion>\n    <!-- License 1..* -->\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <!-- Status 1..1 -->\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <!-- Language 0..* -->\n    <dct:language>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n    </dct:language>\n    <!-- Accrial Periodicity 0..1 -->\n    <ecodp:accrualPeriodicity xml:lang=\"en\">other</ecodp:accrualPeriodicity>\n    <!-- Temporal coverage (period) 0..1 -->\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://opsrv529/data/dataset/kAI7nZ78mC6CrUjncT1pw\"><foaf:primaryTopic>http://ec.europa.eu/health/indicators/echi/index_en.htm</foaf:primaryTopic><dct:modified>2014-07-25T08:36:37.300278</dct:modified><dct:issued>2014-05-07T13:28:50.943588</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/dgs/health_consumer/index_en.htm", 
+    "organization": null, 
+    "revision_id": "817385b3-2dd3-4e1e-afda-62a4016e9fd7", 
+    "identifier": "indicators-echi", 
+    "version_description": "regular updates"
+}

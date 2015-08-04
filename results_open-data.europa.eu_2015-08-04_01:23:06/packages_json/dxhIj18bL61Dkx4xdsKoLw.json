@@ -1,0 +1,175 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 3, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "d69dbf48-ab7b-405f-b9d0-5666ba305ab2", 
+    "metadata_created": "2015-07-27T16:56:34.628385", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:50:59.867420", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1018", 
+            "name": "http://eurovoc.europa.eu/1018", 
+            "revision_timestamp": "2015-04-21T11:48:59.613662", 
+            "state": "active", 
+            "id": "5860711e-1680-434a-ae36-2c7bec0d3855"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipsgo10.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:50:59.946912", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:50:59.863426", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "7fba8939-5cf7-4077-91a3-7658ddc4822f", 
+            "size": null, 
+            "resource_group_id": "47c4926b-7e96-46cf-8aed-4956be20eefa", 
+            "id": "7280c6c5-38ce-4dbc-a76f-80a65b389662", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipsgo10.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:50:59.946920", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:50:59.863426", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "7fba8939-5cf7-4077-91a3-7658ddc4822f", 
+            "size": null, 
+            "resource_group_id": "47c4926b-7e96-46cf-8aed-4956be20eefa", 
+            "id": "13c6ba8e-2e18-4cf9-8bea-f86efee78d83", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tipsgo10", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:50:59.946879", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:50:59.863426", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "7fba8939-5cf7-4077-91a3-7658ddc4822f", 
+            "size": null, 
+            "resource_group_id": "47c4926b-7e96-46cf-8aed-4956be20eefa", 
+            "id": "75bc0131-30bd-4260-ad50-044e47b5bbc4", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "For the purpose of the Excessive Deficit Procedure (EDP) in the Economic and monetary union (EMU), as well as for the Growth and Stability Pact, the current Protocol 12, annexed to the 2012 consolidated version of the Treaty on the Functioning of the European Union, provides a complete definition of government debt: debt means total gross debt at nominal value outstanding at the end of the year and consolidated between and within the sectors of general government. This definition is supplemented by Council Regulation (EC) No 479/2009, as amended by the Commission Regulation (EU) No 220/2014 (which has only updated references to ESA 2010 instruments) specifying the components of government debt with reference to the definitions of financial liabilities in ESA2010. In this context, the stock of government debt in the Excessive Deficit Procedure (EDP debt) is equal to the sum of liabilities, at the end of year, of all units classified within the general government sector (S.13) in the following categories: AF.2 (currency and deposits) + AF.3 (debt securities) + AF.4 (loans). Basic data are expressed in national currency, converted into euro using end-year exchange rates for the euro provided by the European Central Bank (ECB). The MIP headline indicator is calculated as: [GGDt/GDPt]*100. The indicative threshold is 60% of GDP. The data are expressed in millions of units of national currency and in % of GDP.", 
+    "title": "General government gross debt (EDP concept), consolidated - annual data", 
+    "temporal_coverage_from": "1995", 
+    "tracking_summary": {
+        "total": 19, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-29T10:19:14.726181", 
+    "name": "dxhIj18bL61Dkx4xdsKoLw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tipsgo10", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tipsgo10\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1018\"/>\n    <dct:title xml:lang=\"en\">General government gross debt (EDP concept), consolidated - annual data</dct:title>\n    <dct:title xml:lang=\"fr\">Dette brute des administrations publiques (concept PDE, consolid&#233;e) - donn&#233;es annuelles</dct:title>\n    <dct:title xml:lang=\"de\">&#214;ffentlicher Schuldenstand (V&#220;D-Konzept, konsolidiert) - j&#228;hrliche Daten</dct:title>\n    <dct:identifier>tipsgo10</dct:identifier>\n    <dct:description xml:lang=\"en\">For the purpose of the Excessive Deficit Procedure (EDP) in the Economic and monetary union (EMU), as well as for the Growth and Stability Pact, the current Protocol 12, annexed to the 2012 consolidated version of the Treaty on the Functioning of the European Union, provides a complete definition of government debt: debt means total gross debt at nominal value outstanding at the end of the year and consolidated between and within the sectors of general government. This definition is supplemented by Council Regulation (EC) No 479/2009, as amended by the Commission Regulation (EU) No 220/2014 (which has only updated references to ESA 2010 instruments) specifying the components of government debt with reference to the definitions of financial liabilities in ESA2010. In this context, the stock of government debt in the Excessive Deficit Procedure (EDP debt) is equal to the sum of liabilities, at the end of year, of all units classified within the general government sector (S.13) in the following categories: AF.2 (currency and deposits) + AF.3 (debt securities) + AF.4 (loans). Basic data are expressed in national currency, converted into euro using end-year exchange rates for the euro provided by the European Central Bank (ECB). The MIP headline indicator is calculated as: [GGDt/GDPt]*100. The indicative threshold is 60% of GDP. The data are expressed in millions of units of national currency and in % of GDP.</dct:description>\n    <dct:description xml:lang=\"fr\">Aux fins de la proc&#233;dure de d&#233;ficit excessif (PDE) dans l'Union &#233;conomique et mon&#233;taire (UEM), ainsi que pour le pacte de croissance et de stabilit&#233;, l'actuel protocole 12 annex&#233; &#224; la version 2012 consolid&#233;e du Trait&#233; sur le fonctionnement de l'Union europ&#233;enne, fournit une d&#233;finition compl&#232;te de la dette des administrations publiques: la dette est d&#233;fini comme total de dette brute &#224; leur valeur nominale en cours &#224; la fin de l'ann&#233;e et consolid&#233;e entre les secteurs des administrations publiques. Cette d&#233;finition est compl&#233;t&#233;e par le R&#232;glement (CE) n &#176; 479/2009, tel que modifi&#233; par le R&#232;glement (UE) n &#176; 220/2014 (qui a seulement mis &#224; jour les r&#233;f&#233;rences &#224; le SEC 2010 instruments) pr&#233;cisant les composantes de la dette des administrations publiques en se r&#233;f&#233;rant aux d&#233;finitions des passifs financiers &#224; SEC 2010. Dans ce contexte, le stock de la dette des administrations publiques dans la Proc&#233;dure de d&#233;ficit excessif (dette PDE) est &#233;gale &#224; la somme des passifs, &#224; la fin de l'ann&#233;e, de toutes les unit&#233;s class&#233;es dans le secteur des administrations publiques (S.13) dans les cat&#233;gories suivantes : AF.2 (num&#233;raire et d&#233;p&#244;ts) + AF.3 (titres de cr&#233;ance) + AF.4 (cr&#233;dits). Les donn&#233;es de base sont exprim&#233;es en monnaie nationale, convertie en euro en utilisant les taux de change de fin d&#8217;ann&#233;e fournis par la Banque centrale europ&#233;enne (BCE). L'indicateur cl&#233; de la PDM est calcul&#233; selon la formule suivante: [DAPt/PIBt]*100. Le seuil indicatif est de 60% du PIB. Les donn&#233;es sont exprim&#233;es en millions de monnaie nationale et en % du PIB. Le PIB utilis&#233; en d&#233;nominateur de l'indicateur cl&#233; provient du programme de transmission SEC 2010, et non des transmissions intervenant dans le cadre de la PDE. Ainsi, la dette en % du PIB peut pr&#233;senter certains &#233;carts selon qu'elle est issue de de la PDE ou du tableau de bord, les donn&#233;es du PIB r&#233;vis&#233;es &#233;tant transmises selon un &#233;ch&#233;ancier d&#233;cal&#233;.</dct:description>\n    <dct:description xml:lang=\"de\">F&#252;r das Verfahren bei einem &#252;berm&#228;&#223;igen Defizit innerhalb der Wirtschafts- und W&#228;hrungsunion (WWU) sowie f&#252;r die Zwecke des Wachstums- und Stabilit&#228;tspakts, enth&#228;lt das derzeitige Protokoll 12, beigef&#252;gt zu der konsolidierten Fassung 2012 des Vertrags &#252;ber die Arbeitsweise der Europ&#228;ischen Union, eine vollst&#228;ndige Definition des &#246;ffentlichen Schuldenstandes: Schuldenstand ist der Nominalwert aller am Ende des Jahres ausstehenden Bruttoverbindlichkeiten nach Konsolidierung innerhalb und zwischen den einzelnen Bereichen des Staatssektors. Diese Definition wird erg&#228;nzt durch die Verordnung (EG) Nr. 479/2009 des Rates, ge&#228;ndert durch die Verordnung (EU) Nr. 220/2014 der Kommission (beinhaltet nur aktualisierte Verweise auf ESVG 2010 Instrumente), in der die Bestandteile des &#246;ffentlichen Schuldenstandes unter Bezug auf die Definition der Verbindlichkeiten im ESVG 2010 spezifiziert werden. In diesem Zusammenhang entspricht der Schuldenstand bei einem Verfahren f&#252;r &#252;berm&#228;&#223;iges Defizit (V&#220;D) der Summe der Verbindlichkeiten am Ende des Jahres, die alle Einheiten des Sektors Staat (S. 13) in den folgenden Kategorien einschlie&#223;t: AF. 2), Bargeld und Einlagen (AF. 3), Schuldverschreibungen (AF. 4) und Kredite. Die Angaben erfolgen in der nationalen W&#228;hrung, die in Euro umgerechnet wird, anhand dem von der Europ&#228;ischen Zentralbank (EZB) festgestellten Wechselkurs am Ende des Jahres. Der VMU-Leitindikator (VMU &#8211; Verfahren bei einem makro&#246;konomischen Ungleichgewicht) wird wie folgt berechnet: [GGDt/BIPt]*100. Der indikative Schwellenwert ist als 60% vom BIP angegeben. Die Daten werden als Millionen Einheiten der Landesw&#228;hrung und in % des BIP angegeben. Das BIP, das im Nenner des Leitindikators verwendet wird, stammt aus der ESVG 2010 Daten&#252;bermittlung und nicht aus dem V&#220;D &#220;bermittlungen, dies erkl&#228;rt die Unterschiede, die zwischen dem jeweils in % des BIP angegebenen Schuldenstand nach dem V&#220;D und dem laut Anzeiger f&#252;r das Verfahren bei einem &#252;berm&#228;&#223;igen Defizit auftreten und sich aus unterschiedlichen Zeitpl&#228;nen f&#252;r die &#220;bermittlung der revidierten BIP-Daten ergeben k&#246;nnen.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tipsgo10</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipsgo10.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tipsgo10.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>1995</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/dxhIj18bL61Dkx4xdsKoLw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tipsgo10</foaf:primaryTopic><dct:modified>2015-07-31T08:53:52.037532</dct:modified><dct:issued>2015-07-27T16:56:34.628385</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "5d7b3c07-c730-490e-be90-c1a468a233de", 
+    "identifier": "tipsgo10"
+}

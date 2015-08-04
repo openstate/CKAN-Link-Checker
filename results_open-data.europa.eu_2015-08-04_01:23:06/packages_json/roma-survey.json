@@ -1,0 +1,190 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2011-07-28", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 23, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/HUN", 
+        "http://publications.europa.eu/resource/authority/country/BGR", 
+        "http://publications.europa.eu/resource/authority/country/SVK", 
+        "http://publications.europa.eu/resource/authority/country/POL", 
+        "http://publications.europa.eu/resource/authority/country/PRT", 
+        "http://publications.europa.eu/resource/authority/country/ROU", 
+        "http://publications.europa.eu/resource/authority/country/ESP", 
+        "http://publications.europa.eu/resource/authority/country/GRC", 
+        "http://publications.europa.eu/resource/authority/country/CZE", 
+        "http://publications.europa.eu/resource/authority/country/FRA", 
+        "http://publications.europa.eu/resource/authority/country/ITA"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Roma", 
+            "name": "Roma", 
+            "revision_timestamp": "2014-03-06T15:31:41.852083", 
+            "state": "active", 
+            "id": "eb2852c6-8abf-498b-9a88-479e68f14ac7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "discrimination", 
+            "name": "discrimination", 
+            "revision_timestamp": "2014-03-06T15:31:41.852083", 
+            "state": "active", 
+            "id": "af2f3531-73e3-471a-8022-d35c11e804c6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "education", 
+            "name": "education", 
+            "revision_timestamp": "2014-03-06T15:31:41.852083", 
+            "state": "active", 
+            "id": "cecdf167-580e-419f-b549-900bbc3826c7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "employment", 
+            "name": "employment", 
+            "revision_timestamp": "2014-03-06T15:31:41.852083", 
+            "state": "active", 
+            "id": "bf3505a7-f62c-471c-aeba-acb3d8e3b91e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "health", 
+            "name": "health", 
+            "revision_timestamp": "2014-03-06T15:31:41.852083", 
+            "state": "active", 
+            "id": "7febc79a-9e3f-412a-b4e3-1efde29318c6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "housing", 
+            "name": "housing", 
+            "revision_timestamp": "2014-03-06T15:31:41.852083", 
+            "state": "active", 
+            "id": "4d2ebd26-b8c4-4628-959e-fb0e59134e4d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "living standards", 
+            "name": "living standards", 
+            "revision_timestamp": "2014-03-06T15:31:41.852083", 
+            "state": "active", 
+            "id": "8f566b47-3994-4ead-919b-a31a34d9d10f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "participation", 
+            "name": "participation", 
+            "revision_timestamp": "2014-03-06T15:31:41.852083", 
+            "state": "active", 
+            "id": "f59a6f5e-c438-4258-9eba-f08c28eceae9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "rights awareness", 
+            "name": "rights awareness", 
+            "revision_timestamp": "2014-03-06T15:31:41.852083", 
+            "state": "active", 
+            "id": "a7e28e9d-784e-46fb-94d9-80102d03c660"
+        }
+    ], 
+    "contact_name": "Statistics and surveys team", 
+    "id": "a712257d-63bd-44ab-a9b3-b56bf4f008ff", 
+    "metadata_created": "2015-07-27T15:49:07.641397", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:49:07.642392", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "fd35ce71-6b4c-4c90-917d-ea4acf983406", 
+            "revision_timestamp": "2014-08-07T10:28:26.115604", 
+            "datastore_active": false, 
+            "id": "769fa452-94c9-429f-b561-87f007c9a24c", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "The Roma survey data explorer offers users an interactive way to examine the survey results. It allows users to visualise the survey results on maps, compare results graphically between countries, or to browse results by topic. ", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2014-02-26T00:00:00", 
+            "url_type": null, 
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "name": "Roma survey data explorer", 
+            "created": "2014-03-06T16:38:25.217120", 
+            "url": "http://fra.europa.eu/en/publications-and-resources/data-and-maps/survey-data-explorer-results-2011-roma-survey", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "4df5a284-6184-4662-a64f-14438367d971", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "The study collected data on the socio-economic condition, experiences of discrimination and rights awareness of Roma in 11 EU Member States: Bulgaria, Czech Republic, France, Greece, Hungary, Italy, Poland, Portugal, Romania, Slovakia and Spain. Specifically, the survey focused on respondents\u2019 situation with respect to employment, education, housing and health. The survey also included questions concerning the socio-demographic characteristics of all household members as well as the surrounding neighbourhood and its infrastructure.", 
+    "title": "Roma survey", 
+    "temporal_coverage_from": "2011-05-20", 
+    "tracking_summary": {
+        "total": 333, 
+        "recent": 8
+    }, 
+    "contact_email": "statistics&surveys@fra.europa.eu", 
+    "groups": [], 
+    "creator_user_id": "afb2e66b-5a6b-4d87-a48b-ca3ffaac2157", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2015-07-27T15:49:07.641397", 
+    "name": "roma-survey", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "release_date": "2014-02-26", 
+    "owner_org": "c254d501-1e16-4fde-a1dd-e015994ea6eb", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://fra.europa.eu/en/survey/2012/roma-pilot-survey", 
+    "organization": {
+        "description": "", 
+        "title": "European Union Agency for Fundamental Rights", 
+        "created": "2012-12-12T13:50:53.929902", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:53.905500", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "1f5e333b-2116-4dba-80be-610d0c4cabf3", 
+        "type": "organization", 
+        "id": "c254d501-1e16-4fde-a1dd-e015994ea6eb", 
+        "name": "fra"
+    }, 
+    "revision_id": "ccc45b95-2234-47bd-9566-7eaf3164b1f9", 
+    "identifier": "", 
+    "version_description": ""
+}

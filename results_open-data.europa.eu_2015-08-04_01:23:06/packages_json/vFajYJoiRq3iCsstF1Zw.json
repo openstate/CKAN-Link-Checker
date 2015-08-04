@@ -1,0 +1,260 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 7, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Diffusion of innovations", 
+            "name": "Diffusion of innovations", 
+            "revision_timestamp": "2014-12-22T07:02:12.282874", 
+            "state": "active", 
+            "id": "438e7193-c9cb-4192-b028-e97b2f0a0a1a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Export", 
+            "name": "Export", 
+            "revision_timestamp": "2014-12-22T07:02:12.282874", 
+            "state": "active", 
+            "id": "1ad2e69a-e877-4f55-8474-2623053cb8dd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "New technology", 
+            "name": "New technology", 
+            "revision_timestamp": "2014-12-22T07:02:12.282874", 
+            "state": "active", 
+            "id": "8b80714d-00d8-47bf-a47b-70a8b63d8dac"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Technology and technical regulations", 
+            "name": "Technology and technical regulations", 
+            "revision_timestamp": "2014-12-22T07:02:12.282874", 
+            "state": "active", 
+            "id": "9e3c46d5-eb64-42ed-8115-78dee6c5a40a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Trade", 
+            "name": "Trade", 
+            "revision_timestamp": "2014-12-22T07:02:12.282874", 
+            "state": "active", 
+            "id": "db99cec7-8c33-4565-9dfd-3ef367bd65e9"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "fb2de4ee-ac9d-4aa4-a39b-133735f45769", 
+    "metadata_created": "2014-12-22T07:02:12.282874", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:05:56.454571", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00140.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:05:56.576738", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:05:56.452524", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "2a19d78b-44f0-4c31-a340-8728f257345a", 
+            "size": null, 
+            "resource_group_id": "59bdb70f-be38-48f6-b1c4-1441dad0f253", 
+            "id": "67d53c51-0e63-4adf-b3c4-f2606933af33", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00140.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:05:56.576755", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:05:56.452524", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "2a19d78b-44f0-4c31-a340-8728f257345a", 
+            "size": null, 
+            "resource_group_id": "59bdb70f-be38-48f6-b1c4-1441dad0f253", 
+            "id": "9497988d-5ba9-4d04-9008-34623cdb03ce", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "htec_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/htec_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:05:56.576674", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:05:56.452524", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "2a19d78b-44f0-4c31-a340-8728f257345a", 
+            "size": null, 
+            "resource_group_id": "59bdb70f-be38-48f6-b1c4-1441dad0f253", 
+            "id": "8df3b450-16f6-44e0-8581-3bdfc76bebab", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/htec_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:05:56.576721", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:05:56.452524", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "2a19d78b-44f0-4c31-a340-8728f257345a", 
+            "size": null, 
+            "resource_group_id": "59bdb70f-be38-48f6-b1c4-1441dad0f253", 
+            "id": "0bfdfc20-127a-4c03-a38b-c16c8f931617", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tin00140", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:05:56.576731", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:05:56.452524", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "2a19d78b-44f0-4c31-a340-8728f257345a", 
+            "size": null, 
+            "resource_group_id": "59bdb70f-be38-48f6-b1c4-1441dad0f253", 
+            "id": "9840ae6a-d182-4c9c-846a-95f0271f7f36", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The data shows the share of exports of all high technology products in total exports. High technology products are defined according to SITC Rev.4 as the sum of the following products: Aerospace, Computers-office machines, Electronics-telecommunications, Pharmacy, Scientific instruments, Electrical machinery, Chemistry, Non-electrical machinery, Armament. The total exports for the EU do not include the intra-EU trade.", 
+    "title": "High-tech exports", 
+    "temporal_coverage_from": "2007", 
+    "tracking_summary": {
+        "total": 18, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100151", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100151", 
+            "image_display_url": "", 
+            "id": "5fe330e5-0901-4296-ac07-a19c0ccf5f06", 
+            "name": "eurovoc_domain_100151"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100158", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100158", 
+            "image_display_url": "", 
+            "id": "361d621d-3400-4cfe-a1f2-e54e38653a17", 
+            "name": "eurovoc_domain_100158"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:02:12.282874", 
+    "name": "vFajYJoiRq3iCsstF1Zw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tin00140", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tin00140\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100158\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100151\"/>\n    <dct:title xml:lang=\"en\">High-tech exports</dct:title>\n    <dct:title xml:lang=\"fr\">Exportations en haute technologie</dct:title>\n    <dct:title xml:lang=\"de\">Hochtechnologieexporte</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Technology and technical regulations</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">New technology</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Diffusion of innovations</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Trade</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Export</ecodp:keyword>\n    <dct:identifier>tin00140</dct:identifier>\n    <dct:description xml:lang=\"en\">The data shows the share of exports of all high technology products in total exports. High technology products are defined according to SITC Rev.4 as the sum of the following products: Aerospace, Computers-office machines, Electronics-telecommunications, Pharmacy, Scientific instruments, Electrical machinery, Chemistry, Non-electrical machinery, Armament. The total exports for the EU do not include the intra-EU trade.</dct:description>\n    <dct:description xml:lang=\"fr\">Les donn&#233;es indiquent la part des exportations de tous les produits de haute technologie dans le total des exportations. Les produits de haute technologie sont d&#233;finis conform&#233;ment au CTCI Rev.4 comme la somme des produits suivants: a&#233;rospatiale, ordinateurs et machines de bureau, &#233;quipements &#233;lectroniques et t&#233;l&#233;communication, pharmacie, instruments scientifiques, machines &#233;lectriques, chimie,machines non-&#233;lectriques, armement. Les exportations totales de l'UE ne comprennent pas le commerce interne de l'UE.</dct:description>\n    <dct:description xml:lang=\"de\">Die Daten zeigen den Anteil der Exporte aller Hochtechnologieprodukte an den Gesamtexporten. Hochtechnologieprodukte werden gem&#228;&#223; SITC Rev.4 definiert als die Summe der folgenden Produktkategorien: Luftfahrt, Computer und B&#252;romaschinen, Elektronik und Telekommunikationsger&#228;te, Ger&#228;te f&#252;r Pharmazie oder Chemie, wissenschaftliche Instrumente, elektrische und nichtelektrische Maschinen und Waffen. Die Gesamtexporte der EU enthalten nicht den intra-EU Handel.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/htec_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/htec_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tin00140</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00140.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tin00140.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2007</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/vFajYJoiRq3iCsstF1Zw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tin00140</foaf:primaryTopic><dct:modified>2015-07-31T08:12:22.669321</dct:modified><dct:issued>2014-12-22T07:02:12.282874</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "c57a45f8-13bb-4711-a5b7-a17d58af0465", 
+    "identifier": "tin00140"
+}

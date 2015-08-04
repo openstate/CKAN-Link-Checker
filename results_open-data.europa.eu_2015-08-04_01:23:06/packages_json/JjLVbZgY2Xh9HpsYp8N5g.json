@@ -1,0 +1,185 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2012", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "health statistics", 
+            "name": "health statistics", 
+            "revision_timestamp": "2014-12-22T08:40:55.200896", 
+            "state": "active", 
+            "id": "f4ce7037-c54c-4481-ae49-6b88692bfb6e"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "c7277937-3bea-439f-8652-85bff99a0b0e", 
+    "metadata_created": "2015-07-27T16:31:52.450907", 
+    "modified_date": "2015-07-31", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T09:16:08.182481", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1280", 
+            "name": "http://eurovoc.europa.eu/1280", 
+            "revision_timestamp": "2015-05-18T13:52:11.886475", 
+            "state": "active", 
+            "id": "33ad54dd-ba28-494c-94dd-80173920c7e6"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00119.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:16:08.254910", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:16:08.181322", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "be72cbda-a7c1-404d-bac5-3a7db3fb7bf1", 
+            "size": null, 
+            "resource_group_id": "55f973ee-28f2-4a13-ae3d-e365c3b7eed6", 
+            "id": "4c730ad1-f6b3-4269-8e9d-e125f61929f6", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00119.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:16:08.254918", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:16:08.181322", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "be72cbda-a7c1-404d-bac5-3a7db3fb7bf1", 
+            "size": null, 
+            "resource_group_id": "55f973ee-28f2-4a13-ae3d-e365c3b7eed6", 
+            "id": "7afeaf5b-3294-46ea-9123-3a86501aa2d8", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00119", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:16:08.254884", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:16:08.181322", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "be72cbda-a7c1-404d-bac5-3a7db3fb7bf1", 
+            "size": null, 
+            "resource_group_id": "55f973ee-28f2-4a13-ae3d-e365c3b7eed6", 
+            "id": "9001ae33-31fa-4eda-a3af-c0e22afde3b9", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Death rate of a population adjusted to a standard age distribution. As most causes of death vary significantly with people's age and sex, the use of standardised death rates improves comparability over time and between countries, as they aim at measuring death rates independently of different age structures of populations. The standardised death rates used here are calculated on the basis of a standard European population (defined by the World Health Organization). Detailed data for 65 causes of death are available in the database (under the heading 'Data').", 
+    "title": "Death due to other ischaemic heart diseases, by sex", 
+    "temporal_coverage_from": "2011", 
+    "tracking_summary": {
+        "total": 65, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": "75d0190a-2f12-40ed-a863-b5bf30990d14", 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-07-27T16:31:52.450907", 
+    "name": "JjLVbZgY2Xh9HpsYp8N5g", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00119", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tps00119\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100149\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1280\"/>\n    <dct:title xml:lang=\"en\">Death due to other ischaemic heart diseases, by sex</dct:title>\n    <dct:title xml:lang=\"fr\">D&#233;c&#232;s dus &#224; d'autres cardiopathies isch&#233;miques, par sexe</dct:title>\n    <dct:title xml:lang=\"de\">Tod durch sonstige isch&#228;mische Herzkrankheiten, nach Geschlecht</dct:title>\n    <ecodp:keyword xml:lang=\"en\">health statistics</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique de la sant&#233;</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Gesundheitsstatistik</ecodp:keyword>\n    <dct:identifier>tps00119</dct:identifier>\n    <dct:description xml:lang=\"en\">Death rate of a population adjusted to a standard age distribution. As most causes of death vary significantly with people's age and sex, the use of standardised death rates improves comparability over time and between countries, as they aim at measuring death rates independently of different age structures of populations. The standardised death rates used here are calculated on the basis of a standard European population (defined by the World Health Organization). Detailed data for 65 causes of death are available in the database (under the heading 'Data').</dct:description>\n    <dct:description xml:lang=\"fr\">Taux de mortalit&#233; d'une population pr&#233;sentant une r&#233;partition standard par &#226;ge. Comme la plupart des causes de d&#233;c&#232;s varient notablement selon l'&#226;ge et le sexe des personnes, l'utilisation de taux de mortalit&#233; standardis&#233;s renforce la comparabilit&#233; entre p&#233;riodes et entre pays, car ces taux visent &#224; mesurer la fr&#233;quence des d&#233;c&#232;s ind&#233;pendamment des diff&#233;rences dans la pyramide des &#226;ges des populations. La population de r&#233;f&#233;rence utilis&#233;e est la &#171;population standard europ&#233;enne&#187; telle que d&#233;finie par l'Organisation mondiale de la sant&#233; (OMS). Des statistiques d&#233;taill&#233;es, ventil&#233;es selon 65 causes de d&#233;c&#232;s, sont disponibles dans la base de donn&#233;es (voir la rubrique \"Donn&#233;es\").</dct:description>\n    <dct:description xml:lang=\"de\">Sterbeziffer einer Bev&#246;lkerung mit einer Standardaltersgliederung. Da die Todesursache je nach Alter und Geschlecht stark variiert, werden standardisierte Sterbeziffern verwendet, denn sie schalten den Einfluss der unterschiedlichen Altersstrukturen der Bev&#246;lkerungen auf die Sterbeziffern aus und verbessern damit ihre Darstellung im Zeitablauf und ihre Vergleichbarkeit zwischen verschiedenen L&#228;ndern. Die hier gezeigten standardisierten Sterbeziffern wurden anhand einer von der Weltgesundheitsorganisation (WHO) definierten \"europ&#228;ische Standardbev&#246;lkerung\" berechnet. Detaillierte Daten f&#252;r 65 Todesursachen sind in der Datenbank verf&#252;gbar (unter dem Titel 'Daten').</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tps00119</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00119.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00119.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-31</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2011</ecodp:periodStart>\n        <ecodp:periodEnd>2012</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/JjLVbZgY2Xh9HpsYp8N5g\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tps00119</foaf:primaryTopic><dct:modified>2015-07-31T09:42:00.290742</dct:modified><dct:issued>2015-07-27T16:31:52.450907</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "2c819f2b-818e-42a5-9bca-583f97cb3ff9", 
+    "identifier": "tps00119"
+}

@@ -1,0 +1,266 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 45, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/PRT", 
+        "http://publications.europa.eu/resource/authority/country/CYP", 
+        "http://publications.europa.eu/resource/authority/country/DNK", 
+        "http://publications.europa.eu/resource/authority/country/HUN", 
+        "http://publications.europa.eu/resource/authority/country/GRC", 
+        "http://publications.europa.eu/resource/authority/country/CZE", 
+        "http://publications.europa.eu/resource/authority/country/AUT", 
+        "http://publications.europa.eu/resource/authority/country/SWE", 
+        "http://publications.europa.eu/resource/authority/country/BGR", 
+        "http://publications.europa.eu/resource/authority/country/IRL", 
+        "http://publications.europa.eu/resource/authority/country/ROU", 
+        "http://publications.europa.eu/resource/authority/country/BEL", 
+        "http://publications.europa.eu/resource/authority/country/SVN", 
+        "http://publications.europa.eu/resource/authority/country/FIN", 
+        "http://publications.europa.eu/resource/authority/country/POL", 
+        "http://publications.europa.eu/resource/authority/country/LVA", 
+        "http://publications.europa.eu/resource/authority/country/ESP", 
+        "http://publications.europa.eu/resource/authority/country/FRA", 
+        "http://publications.europa.eu/resource/authority/country/LUX", 
+        "http://publications.europa.eu/resource/authority/country/ITA", 
+        "http://publications.europa.eu/resource/authority/country/EST", 
+        "http://publications.europa.eu/resource/authority/country/NLD", 
+        "http://publications.europa.eu/resource/authority/country/DEU", 
+        "http://publications.europa.eu/resource/authority/country/GBR", 
+        "http://publications.europa.eu/resource/authority/country/HRV", 
+        "http://publications.europa.eu/resource/authority/country/MLT", 
+        "http://publications.europa.eu/resource/authority/country/LTU", 
+        "http://publications.europa.eu/resource/authority/country/SVK"
+    ], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Institute for Energy", 
+            "name": "Institute for Energy", 
+            "revision_timestamp": "2014-08-13T13:03:53.008661", 
+            "state": "active", 
+            "id": "bdccb513-113e-4faa-9271-7363b3fde563"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "JRC Petten", 
+            "name": "JRC Petten", 
+            "revision_timestamp": "2014-08-13T13:03:53.008661", 
+            "state": "active", 
+            "id": "76099951-1010-4c13-9271-43c0b512c205"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "alloy", 
+            "name": "alloy", 
+            "revision_timestamp": "2014-08-13T13:03:53.008661", 
+            "state": "active", 
+            "id": "7fc7d977-328c-4e73-bfb0-d79458396e28"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "creep", 
+            "name": "creep", 
+            "revision_timestamp": "2014-08-13T13:03:53.008661", 
+            "state": "active", 
+            "id": "e6272267-e4a1-4509-909b-c39e15e937b7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "data", 
+            "name": "data", 
+            "revision_timestamp": "2014-08-13T13:03:53.008661", 
+            "state": "active", 
+            "id": "ac22ce34-cc1e-4eae-8efe-080cfd5ef3e8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "engineering", 
+            "name": "engineering", 
+            "revision_timestamp": "2014-08-13T13:03:53.008661", 
+            "state": "active", 
+            "id": "74cf1bf9-4f2d-4877-bac8-80f86cd82e65"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "experimental", 
+            "name": "experimental", 
+            "revision_timestamp": "2014-08-13T13:03:53.008661", 
+            "state": "active", 
+            "id": "3a12f15c-0996-4454-b447-c7a011759df6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ferritic", 
+            "name": "ferritic", 
+            "revision_timestamp": "2014-08-13T13:03:53.008661", 
+            "state": "active", 
+            "id": "c746280c-d198-49b2-8bcf-e55cc532329f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "fracture", 
+            "name": "fracture", 
+            "revision_timestamp": "2014-08-13T13:03:53.008661", 
+            "state": "active", 
+            "id": "74df4554-9ef6-48c0-9aea-df5fda2033ad"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "steel", 
+            "name": "steel", 
+            "revision_timestamp": "2014-08-13T13:03:53.008661", 
+            "state": "active", 
+            "id": "7142c3b7-f3da-4e9b-94e2-5d65b4de89df"
+        }
+    ], 
+    "contact_name": "European Commission JRC Institute for Energy and Transport", 
+    "id": "fdc5c676-ba97-4a28-b3d1-c7ac8c1d7901", 
+    "metadata_created": "2014-08-13T13:03:53.008661", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:56:48.517993", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "1.0", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1023", 
+            "name": "http://eurovoc.europa.eu/1023", 
+            "revision_timestamp": "2015-02-03T06:41:48.288630", 
+            "state": "active", 
+            "id": "164157db-385a-49d0-8bd3-7af9535f35ef"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6361", 
+            "name": "http://eurovoc.europa.eu/6361", 
+            "revision_timestamp": "2015-02-03T06:41:48.288630", 
+            "state": "active", 
+            "id": "c80b5899-7e92-4b6b-af49-fa071579a418"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4418", 
+            "name": "http://eurovoc.europa.eu/4418", 
+            "revision_timestamp": "2015-02-03T06:41:48.288630", 
+            "state": "active", 
+            "id": "6c367fdf-13f9-4849-a923-44a6cb4c58eb"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2715", 
+            "name": "http://eurovoc.europa.eu/2715", 
+            "revision_timestamp": "2015-02-03T06:41:48.288630", 
+            "state": "active", 
+            "id": "5762878b-ca2e-4220-870d-8d20bfe032fe"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Datasets from PhD work on P91 small punch creep & fracture tests", 
+            "format": "text/xml", 
+            "url": "https://odin.jrc.ec.europa.eu/alcor/Flex?entity=DOI&p_RN5=400001&p_version=null&action=displayXML&p_xmlType=data", 
+            "datastore_active": false, 
+            "created": "2015-02-03T07:41:48.490172", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-03T06:41:48.288630", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "c4381a29-474e-4ced-b74c-ce8584387d4f", 
+            "size": null, 
+            "resource_group_id": "ba8383ff-98dd-45ef-95bd-1dab5fe55c5f", 
+            "id": "7abd49af-2d52-4db6-a0c0-21f26b1f65da", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "The main aim of the thesis is to demonstrate the suitability of Small Punch (SP) testing for lifetime prediction of metallic materials operating at high temperatures.\n The lack of standardisation of this technique and doubts about the correlation of the data with that obtained from conventional creep tests, supports the need to exploit the recently launched Code of Practice for Small Punch Testing (CEN/WS 21). The present work is specifically concerned with investigating the creep behaviour of P91 steel weldments at 600 deg.C along with low-temperature fracture\n behaviour. Thin discs, 8 mm in diameter and 0.5 mm thick, were manufactured from different zones of a component containing a P91 welded joint: base metal (BM), service- exposed material (SE), weld metal (WM), fine-grain and coarse-grain heat affected zones (FG-HAZ & CG-HAZ). The results of SP creep tests on these disks, performed at 600 deg.C under different loads carefully following the Code of Practice, could be correlated with standard creep data. The SP test is shown to be a reliable method to depict creep behaviour of this alloy and its weldments and a creep\n model derived, useful for life time prediction, could also be demonstrated through FEA to predict the creep deformation of the SP discs. Additionally, the SP testing\n method shows potential to evaluate the fracture properties of P91 weldments, in particular the ductile-to-brittle transition temperature and fracture toughness estimations.", 
+    "title": "Test data for small punch creep on material P91 at 600 Celsius and an equivalent stress of 171.5 MPa", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "tracking_summary": {
+        "total": 146, 
+        "recent": 4
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100151", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100151", 
+            "image_display_url": "", 
+            "id": "5fe330e5-0901-4296-ac07-a19c0ccf5f06", 
+            "name": "eurovoc_domain_100151"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100158", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100158", 
+            "image_display_url": "", 
+            "id": "361d621d-3400-4cfe-a1f2-e54e38653a17", 
+            "name": "eurovoc_domain_100158"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100159", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100159", 
+            "image_display_url": "", 
+            "id": "411bf1e5-296f-4f4c-8ddf-2838d86ce110", 
+            "name": "eurovoc_domain_100159"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-08-13T13:03:53.008661", 
+    "name": "jrcpett-odin-test-material-p91-600-celsius-400001", 
+    "isopen": true, 
+    "alternative_title": "Elevated temperature material properties", 
+    "url": "http://dx.doi.org/10.5290/400001", 
+    "release_date": "2013-12-20", 
+    "owner_org": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5", 
+    "contact_address": "EC - JRC Petten, Institute for Energy and Transport, P.O.Box 2, NL-1755 ZG, Petten, Noord Holland, The Netherlands", 
+    "rdf": "<rdf:RDF xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns=\"http://open-data.europa.eu/ontologies/ec-odp-example#\"><!--Dataset type and URI, don't fill in the CKAN catalog idnetifier here--><dcat:Dataset rdf:about=\"http://dx.doi.org/10.5290/400001\"><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"en\">Test data for small punch creep on material P91 at 600 Celsius and an equivalent stress of 171.5 MPa</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><dct:alternative xml:lang=\"en\">Elevated temperature material properties</dct:alternative>\n      <!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><dct:description xml:lang=\"en\">The main aim of the thesis is to demonstrate the suitability of Small Punch (SP) testing for lifetime prediction of metallic materials operating at high temperatures.\n The lack of standardisation of this technique and doubts about the correlation of the data with that obtained from conventional creep tests, supports the need to exploit the recently launched Code of Practice for Small Punch Testing (CEN/WS 21). The present work is specifically concerned with investigating the creep behaviour of P91 steel weldments at 600 deg.C along with low-temperature fracture\n behaviour. Thin discs, 8 mm in diameter and 0.5 mm thick, were manufactured from different zones of a component containing a P91 welded joint: base metal (BM), service- exposed material (SE), weld metal (WM), fine-grain and coarse-grain heat affected zones (FG-HAZ &amp; CG-HAZ). The results of SP creep tests on these disks, performed at 600 deg.C under different loads carefully following the Code of Practice, could be correlated with standard creep data. The SP test is shown to be a reliable method to depict creep behaviour of this alloy and its weldments and a creep\n model derived, useful for life time prediction, could also be demonstrated through FEA to predict the creep deformation of the SP discs. Additionally, the SP testing\n method shows potential to evaluate the fracture properties of P91 weldments, in particular the ductile-to-brittle transition temperature and fracture toughness estimations.</dct:description><dct:subject rdf:resource=\"http://eurovoc.europa.eu/100159\"/>\n      <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100151\"/>\n      <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100158\"/>\t\t \n\t\t <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2715\"/>\n\t\t <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1023\"/>\n\t\t <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4418\"/>\n\t\t <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/6361\"/>\n      \n      \n      \n      \n      <!--Identifier, 0..*--><ecodp:ckan-name>jrcpett-odin-test-material-p91-600-celsius-400001</ecodp:ckan-name>\n      <!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><ecodp:keyword xml:lang=\"en\">Institute for Energy</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">engineering</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">alloy</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">ferritic</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">steel</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">experimental</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">data</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">creep</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">fracture</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">JRC Petten</ecodp:keyword>\n      <!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Identifier, 0..*--><dct:identifier>10.5290/400001</dct:identifier>\n      <!--Interoperability level, 0..1--><!--Dataset type, 0..--><ecodp:datasetType>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/InformationExchangePackageDescription\"/>\n      </ecodp:datasetType>\n      <!--Links and resources--><!--Documentation, 0..--><!--valid value are in set of  : Main Related WebPage--><!--Distribution, 0..--><dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://odin.jrc.ec.europa.eu/alcor/Flex?entity=DOI&amp;p_RN5=400001&amp;p_version=null&amp;action=displayXML&amp;p_xmlType=data</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>application/xml</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Datasets from PhD work on P91 small punch creep &amp; fracture tests</dct:description><dct:subject rdf:resource=\"http://eurovoc.europa.eu/100159\"/>\n      <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100151\"/>\n      <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100158\"/>\t\t \n\t\t <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2715\"/>\n\t\t <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1023\"/>\n\t\t <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4418\"/>\n\t\t <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/6361\"/>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--><dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2003-11-01</dct:issued>\n      </dcat:distribution>\n      <!--Catalog record , 0..*--><!--Geographical coverage , 0..*--><dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/AUT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BEL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CYP\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CZE\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DNK\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/EST\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GRC\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ESP\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FIN\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FRA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HRV\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/IRL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ITA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LTU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LUX\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LVA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/MLT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/NLD\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/POL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/PRT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ROU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SWE\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVN\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVK\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GBR\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BGR\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DEU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HUN\"/>\n      </dct:spatial>\n      <!--Publisher , 1..1--><dct:publisher>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/JRC\"/>\n      </dct:publisher>\n      <!--Contact point , 0..1--><ecodp:contactPoint>\n         <foaf:Agent rdf:about=\"http://publications.europa.eu/\"><!--Contact point telephone, 0..1--><!--Contact point email, 0..1--><!--Contact point web page, 0..1--><foaf:workplaceHomepage rdf:resource=\"https://odin.jrc.ec.europa.eu/odin/contact.html\"/>\n            <!--Contact point address, 0..1--><ecodp:contactAddress xml:lang=\"en\">EC - JRC Petten, Institute for Energy and Transport, P.O.Box 2, NL-1755 ZG, Petten, Noord Holland, The Netherlands</ecodp:contactAddress>\n            <!--Contact point name, 1..1--><foaf:name xml:lang=\"en\">European Commission JRC Institute for Energy and Transport</foaf:name>\n         </foaf:Agent>\n      </ecodp:contactPoint>\n      <!--Dateset  issued , 0..1  [2013-12-20]--><dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2013-12-20</dct:issued>\n      <!--Dateset  last modified , 0..1--><!--Version 0..1--><dct:hasVersion rdf:parseType=\"Resource\"><!--Version identifier 0..1--><dct:identifier>1.0</dct:identifier>\n         <!--Version description 0..1--></dct:hasVersion>\n      <!--License 1..--><dct:license>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n      </dct:license>\n      <!--Status 1..1--><ecodp:datasetStatus>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n      </ecodp:datasetStatus>\n      <!--Language 0..--><dct:language>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n      </dct:language>\n      <!--valid value are in set of  : Main Related WebPage--><!--Accrual Periodicity--><!--Temporal coverage (periode) 0..1--></dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/jrcpett-odin-test-material-p91-600-celsius-400001\"><foaf:primaryTopic>http://dx.doi.org/10.5290/400001</foaf:primaryTopic><dct:modified>2014-08-13T13:03:53.008661</dct:modified><dct:issued>2014-08-13T13:03:53.008661</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "https://odin.jrc.ec.europa.eu/odin/contact.html", 
+    "organization": {
+        "description": "", 
+        "title": "Joint Research Centre", 
+        "created": "2012-12-12T13:50:55.444363", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:55.419747", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "28b63966-20b9-4bc9-826a-7fad675c212f", 
+        "type": "organization", 
+        "id": "f54d2193-d1b8-44f3-b31d-33d4d2f998b5", 
+        "name": "jrc"
+    }, 
+    "revision_id": "fe3dee53-1c1b-494b-a333-04bdedf2a8fe", 
+    "identifier": "10.5290/400001"
+}

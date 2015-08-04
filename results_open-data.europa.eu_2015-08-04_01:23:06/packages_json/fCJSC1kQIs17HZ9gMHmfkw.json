@@ -1,0 +1,201 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2011", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "education", 
+            "name": "education", 
+            "revision_timestamp": "2014-12-22T07:42:58.875138", 
+            "state": "active", 
+            "id": "cecdf167-580e-419f-b549-900bbc3826c7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "expenditure", 
+            "name": "expenditure", 
+            "revision_timestamp": "2014-12-22T07:42:58.875138", 
+            "state": "active", 
+            "id": "650e25ee-8d19-4fb5-807d-ee55367064ae"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "aa3a0b90-9532-478a-a013-ae9aae4d3612", 
+    "metadata_created": "2014-12-22T07:42:58.875138", 
+    "modified_date": "2015-04-22", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T11:44:14.835752", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/668", 
+            "name": "http://eurovoc.europa.eu/668", 
+            "revision_timestamp": "2015-03-03T20:14:32.226055", 
+            "state": "active", 
+            "id": "3228f2ef-56ed-4d27-a06a-435b41d2b4ea"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1074", 
+            "name": "http://eurovoc.europa.eu/1074", 
+            "revision_timestamp": "2015-03-03T20:14:32.226055", 
+            "state": "active", 
+            "id": "4599c5c0-e18e-4e12-b0cf-0faf3b09847a"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00069.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:44:14.974779", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:44:14.833075", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "22d855a6-0d19-4779-b89d-121e1f1b6c83", 
+            "size": null, 
+            "resource_group_id": "16059b51-a795-49c5-9a97-c5cc30f6384d", 
+            "id": "d28a8ddb-3261-48ce-ab44-373bac743d26", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00069.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:44:14.974787", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:44:14.833075", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "22d855a6-0d19-4779-b89d-121e1f1b6c83", 
+            "size": null, 
+            "resource_group_id": "16059b51-a795-49c5-9a97-c5cc30f6384d", 
+            "id": "da77fcff-3704-473e-acb6-cfab54347745", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00069", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:44:14.974744", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:44:14.833075", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "22d855a6-0d19-4779-b89d-121e1f1b6c83", 
+            "size": null, 
+            "resource_group_id": "16059b51-a795-49c5-9a97-c5cc30f6384d", 
+            "id": "cfcac634-2921-4cf7-9ad9-db43a084687c", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "The annual expenditure on public and private educational institutions per pupil/student compared to GDP per capita relates the resources (e.g. expenditure for personnel, other current and capital expenditure) being devoted to education in public and private educational institutions to the overall economic welfare of a country. It is based on full-time equivalent enrolment. The use of GDP per capita allows the comparison of levels of economic activity of different sized economies (per capita) irrespective of their price levels (in PPS).", 
+    "title": "Annual expenditure on public and private educational institutions compared to GDP per capita", 
+    "temporal_coverage_from": "2000", 
+    "tracking_summary": {
+        "total": 73, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100150", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100150", 
+            "image_display_url": "", 
+            "id": "f9b717f1-427b-4fa9-ae8e-bd33144b4f3b", 
+            "name": "eurovoc_domain_100150"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:42:58.875138", 
+    "name": "fCJSC1kQIs17HZ9gMHmfkw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00069", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tps00069\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100150\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/668\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1074\"/>\n    <dct:title xml:lang=\"en\">Annual expenditure on public and private educational institutions compared to GDP per capita</dct:title>\n    <dct:title xml:lang=\"fr\">D&#233;penses annuelles d'&#233;ducation par &#233;l&#232;ve/&#233;tudiant par rapport au PIB par habitant au titre des &#233;tablissements d'enseignement publics et priv&#233;s</dct:title>\n    <dct:title xml:lang=\"de\">J&#228;hrliche Ausgaben f&#252;r &#246;ffentliche und private Bildungseinrichtungen pro Sch&#252;ler/Studierenden im Vergleich zum BIP pro Kopf der Bev&#246;lkerung</dct:title>\n    <ecodp:keyword xml:lang=\"en\">education</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">expenditure</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">&#233;ducation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">d&#233;penses</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Bildung</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Ausgaben</ecodp:keyword>\n    <dct:identifier>tps00069</dct:identifier>\n    <dct:description xml:lang=\"en\">The annual expenditure on public and private educational institutions per pupil/student compared to GDP per capita relates the resources (e.g. expenditure for personnel, other current and capital expenditure) being devoted to education in public and private educational institutions to the overall economic welfare of a country. It is based on full-time equivalent enrolment. The use of GDP per capita allows the comparison of levels of economic activity of different sized economies (per capita) irrespective of their price levels (in PPS).</dct:description>\n    <dct:description xml:lang=\"fr\">Les d&#233;penses annuelles consacr&#233;es aux &#233;tablissements d'enseignement publics et priv&#233;s par &#233;l&#232;ve/&#233;tudiant pr&#233;sent&#233;es par rapport au PIB par habitant mettent en relation les ressources consacr&#233;es &#224; l'&#233;ducation dans les &#233;tablissements publics et priv&#233;s (p. ex. : d&#233;penses de personnel, autres d&#233;penses de fonctionnement et en capital) et le niveau &#233;conomique global d'un pays. Les calculs sont bas&#233;s sur des &#233;quivalents temps plein. Le PIB par habitant est utilis&#233; pour permettre la comparaison des niveaux d'activit&#233; &#233;conomique d'&#233;conomies de tailles diff&#233;rentes (par habitant) ind&#233;pendamment du niveau des prix (en SPA).</dct:description>\n    <dct:description xml:lang=\"de\">Bei den j&#228;hrlichen Ausgaben f&#252;r &#246;ffentliche und private Bildungseinrichtungen pro Sch&#252;ler/Studierenden im Vergleich zum BIP pro Kopf der Bev&#246;lkerung werden die in &#246;ffentlichen und privaten Bildungseinrichtungen f&#252;r die Bildung aufgewendeten Mittel (z.B. Personalausgaben, laufender Sachaufwand, Investitionsausgaben) zur wirtschaftliche Situation eines Landes ins Verh&#228;ltnis gesetzt. Als Grundlage dienen Vollzeit&#228;quivalente. Durch die Verwendung des BIP pro Kopf der Bev&#246;lkerung lassen sich unterschiedlich gro&#223;e Volkswirtschaften, unabh&#228;ngig von den Preisniveaus (in KKS) der L&#228;nder, in Bezug auf die jeweilige Wirtschaftskraft (pro Kopf) miteinander vergleichen.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tps00069</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00069.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00069.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-04-22</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2000</ecodp:periodStart>\n        <ecodp:periodEnd>2011</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/fCJSC1kQIs17HZ9gMHmfkw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tps00069</foaf:primaryTopic><dct:modified>2015-07-31T09:36:47.157637</dct:modified><dct:issued>2014-12-22T07:42:58.875138</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "b26fa1d4-fc6a-4d67-b135-df5053210f14", 
+    "identifier": "tps00069"
+}

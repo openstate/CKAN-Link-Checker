@@ -1,0 +1,252 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015-06", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 5, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "energy production", 
+            "name": "energy production", 
+            "revision_timestamp": "2014-12-22T10:05:17.411677", 
+            "state": "active", 
+            "id": "dd3b4e57-1a03-427c-9129-27adc6d01499"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "industrial statistics", 
+            "name": "industrial statistics", 
+            "revision_timestamp": "2014-12-22T10:05:17.411677", 
+            "state": "active", 
+            "id": "2ed168fb-736b-4a59-bacb-7a01e385ff9b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "industry commerce and services", 
+            "name": "industry commerce and services", 
+            "revision_timestamp": "2014-12-22T10:05:17.411677", 
+            "state": "active", 
+            "id": "111f35dc-8041-45f8-a72f-11b09bdccd61"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "d93eef2e-7ed3-4239-9c71-3dec99ee5153", 
+    "metadata_created": "2014-12-22T10:05:17.411677", 
+    "modified_date": "2015-07-31", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T11:14:52.168273", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teiis100.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:14:52.264032", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:14:52.167071", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "b2f9b5ef-9c0b-4419-8adf-b039e801cfe5", 
+            "size": null, 
+            "resource_group_id": "b9688540-bd09-47ff-8985-5416b60ca000", 
+            "id": "ef46433b-d348-47a2-9f48-00ba4a6ee84c", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teiis100.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:14:52.264053", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:14:52.167071", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "b2f9b5ef-9c0b-4419-8adf-b039e801cfe5", 
+            "size": null, 
+            "resource_group_id": "b9688540-bd09-47ff-8985-5416b60ca000", 
+            "id": "432da066-848b-40e4-9047-41916ab1bca2", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "ei_is_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/ei_is_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:14:52.263986", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:14:52.167071", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "b2f9b5ef-9c0b-4419-8adf-b039e801cfe5", 
+            "size": null, 
+            "resource_group_id": "b9688540-bd09-47ff-8985-5416b60ca000", 
+            "id": "1148789a-a51c-4909-9ce4-fd12cd4f19b8", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_is_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:14:52.264017", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:14:52.167071", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "b2f9b5ef-9c0b-4419-8adf-b039e801cfe5", 
+            "size": null, 
+            "resource_group_id": "b9688540-bd09-47ff-8985-5416b60ca000", 
+            "id": "b0550a0b-02db-4977-baac-6820cb3f4c85", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teiis100", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:14:52.264025", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:14:52.167071", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "b2f9b5ef-9c0b-4419-8adf-b039e801cfe5", 
+            "size": null, 
+            "resource_group_id": "b9688540-bd09-47ff-8985-5416b60ca000", 
+            "id": "3e0986ac-139a-48ba-9f0a-8b49f477edaf", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The industrial production index shows the output and activity of the industry sector. It measures changes in the volume of output on a monthly basis. Data are compiled according to the Statistical classification of economic activities in the European Community, (NACE Rev. 2, Eurostat). Industrial production is compiled as a \"fixed base year Laspeyres type volume-index\". The current base year is 2010 (Index 2010 = 100). The index is presented in calendar and seasonally adjusted form. Growth rates with respect to the previous month (M/M-1) are calculated from calendar and seasonally adjusted figures while growth rates with respect to the same month of the previous year (M/M-12) are calculated from calendar adjusted figures.", 
+    "title": "Production in industry - energy", 
+    "temporal_coverage_from": "2014-07", 
+    "tracking_summary": {
+        "total": 41, 
+        "recent": 0
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100147", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100147", 
+            "image_display_url": "", 
+            "id": "0b3e112c-4a87-450a-8212-dd997bd8ffaf", 
+            "name": "eurovoc_domain_100147"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100152", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100152", 
+            "image_display_url": "", 
+            "id": "08994bb7-2827-4215-a10b-d0f520fd70bb", 
+            "name": "eurovoc_domain_100152"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100160", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100160", 
+            "image_display_url": "", 
+            "id": "23bb695d-0233-4ed9-bfbb-38e1bf181b80", 
+            "name": "eurovoc_domain_100160"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T10:05:17.411677", 
+    "name": "VxGAMOSLVQoEqgWgHOcJw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teiis100", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teiis100\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100152\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100160\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100147\"/>\n    <dct:title xml:lang=\"en\">Production in industry - energy</dct:title>\n    <dct:title xml:lang=\"fr\">Production - &#233;nergie</dct:title>\n    <dct:title xml:lang=\"de\">Produktion - Energie</dct:title>\n    <ecodp:keyword xml:lang=\"en\">industry commerce and services</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">industrial statistics</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">energy production</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Industrie</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Commerce et Services</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique industrielle</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">production d'&#233;nergie</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Industrie</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Handel und Dienstleistungen</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Industriestatistik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Energieerzeugung</ecodp:keyword>\n    <dct:identifier>teiis100</dct:identifier>\n    <dct:description xml:lang=\"en\">The industrial production index shows the output and activity of the industry sector. It measures changes in the volume of output on a monthly basis. Data are compiled according to the Statistical classification of economic activities in the European Community, (NACE Rev. 2, Eurostat). Industrial production is compiled as a \"fixed base year Laspeyres type volume-index\". The current base year is 2010 (Index 2010 = 100). The index is presented in calendar and seasonally adjusted form. Growth rates with respect to the previous month (M/M-1) are calculated from calendar and seasonally adjusted figures while growth rates with respect to the same month of the previous year (M/M-12) are calculated from calendar adjusted figures.</dct:description>\n    <dct:description xml:lang=\"fr\">L&#8217;indice de la production industrielle fait appara&#238;tre la production et l&#8217;activit&#233; du secteur de l'industrie. Il mesure les variations du volume de la production sur une base mensuelle. Les donn&#233;es sont compil&#233;es conform&#233;ment &#224; la nomenclature statistique des activit&#233;s &#233;conomiques dans la Communaut&#233; europ&#233;enne (NACE R&#233;v. 2, Eurostat). Les valeurs de la production industrielle sont calcul&#233;es sous la forme d'un &#171;indice des prix de type Laspeyres &#224; ann&#233;e de base fixe&#187;. L&#8217;ann&#233;e de base actuelle est 2010 (indice 2010 = 100). L&#8217;indice est pr&#233;sent&#233; sous forme corrig&#233;e des variations calendaires et saisonni&#232;res. Les taux de croissance en glissement mensuel (M/M-1) sont calcul&#233;s &#224; partir des chiffres corrig&#233;s des variations calendaires et saisonni&#232;res, alors que les taux de croissance en glissement annuel (M/M-12) sont calcul&#233;s &#224; partir des chiffres corrig&#233;s des effets calendaires.</dct:description>\n    <dct:description xml:lang=\"de\">Der Index der Industrieproduktion gibt &#252;ber Produktion und Aktivit&#228;t des Wirtschaftszweigs Aufschluss. Er dient zur Messung der monatlichen Produktionsschwankungen. Die Daten werden erstellt nach der Statistischen Systematik der Wirtschaftszweige in der Europ&#228;ischen Gemeinschaft (NACE Rev. 2, Eurostat). Bei der Industrieproduktion handelt es sich um einen &#8222;Volumenindex in der Art des Laspeyres-Index mit festem Basisjahr&#8220;. Das derzeitige Basisjahr ist 2010 (Index 2010 = 100). Der Index wird kalender- und saisonbereinigt. Zuwachsraten gegen&#252;ber dem Vormonat (M/M-1) werden anhand von kalender- und saisonbereinigten Zahlen berechnet, Zuwachsraten gegen&#252;ber dem entsprechenden Monat des Vorjahres (M/M-12) anhand von kalenderbereinigten Zahlen.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/ei_is_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/ei_is_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teiis100</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teiis100.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teiis100.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-31</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2014-07</ecodp:periodStart>\n        <ecodp:periodEnd>2015-06</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/VxGAMOSLVQoEqgWgHOcJw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teiis100</foaf:primaryTopic><dct:modified>2015-07-31T09:55:54.993251</dct:modified><dct:issued>2014-12-22T10:05:17.411677</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "55911170-9f04-43a3-a84d-cf1b1ca1d59b", 
+    "identifier": "teiis100"
+}

@@ -1,0 +1,185 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "health statistics", 
+            "name": "health statistics", 
+            "revision_timestamp": "2014-12-22T09:39:50.953903", 
+            "state": "active", 
+            "id": "f4ce7037-c54c-4481-ae49-6b88692bfb6e"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "1a19c60c-f6e1-4168-9271-d1bd69e77a64", 
+    "metadata_created": "2014-12-22T09:39:50.953903", 
+    "modified_date": "2015-07-31", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T09:20:26.518426", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1280", 
+            "name": "http://eurovoc.europa.eu/1280", 
+            "revision_timestamp": "2015-03-03T22:12:59.335602", 
+            "state": "active", 
+            "id": "33ad54dd-ba28-494c-94dd-80173920c7e6"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00048.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:20:26.573498", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:20:26.517476", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "56f6892e-43cb-4fac-b70f-6ba6bb5b2e62", 
+            "size": null, 
+            "resource_group_id": "30dce78e-f7c5-49d6-82fd-2f1eaa44e7ec", 
+            "id": "4956603c-d7e5-4ff8-a3d5-6029407697c8", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00048.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:20:26.573507", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:20:26.517476", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "56f6892e-43cb-4fac-b70f-6ba6bb5b2e62", 
+            "size": null, 
+            "resource_group_id": "30dce78e-f7c5-49d6-82fd-2f1eaa44e7ec", 
+            "id": "a3815820-1c90-4379-b72a-671e27e04506", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00048", 
+            "datastore_active": false, 
+            "created": "2015-08-03T11:20:26.573469", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T09:20:26.517476", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "56f6892e-43cb-4fac-b70f-6ba6bb5b2e62", 
+            "size": null, 
+            "resource_group_id": "30dce78e-f7c5-49d6-82fd-2f1eaa44e7ec", 
+            "id": "1bbb0775-d6cb-4cba-9bc5-e1c126275445", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "A hospital discharge is the formal release of a patient from a hospital after a procedure or course of treatment. A discharge occurs whenever a patient leaves because of finalisation of treatment, signs out against medical advice, transfers to another health care institution or on death. An in-patient is a patient who is formally admitted (or 'hospitalised') to an institution for treatment and/or care and stays for a minimum of one night or more than 24 hours in the hospital or other institution providing in-patient care. The number of discharges is the most commonly used measure of the utilisation of hospital services. Discharges, rather than admissions, are used because hospital abstracts for in-patient care are based on information gathered at the time of discharge. Diagnostic chapters (using principal diagnosis) have been defined according to the International Classification of Diseases (ICD).", 
+    "title": "Discharges from hospitals", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 26, 
+        "recent": 4
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100149", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100149", 
+            "image_display_url": "", 
+            "id": "64575af8-d310-426a-835d-f0f9b218d16a", 
+            "name": "eurovoc_domain_100149"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:39:50.953903", 
+    "name": "5IvoNLsAzD1njXsCGEkXA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00048", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tps00048\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100149\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1280\"/>\n    <dct:title xml:lang=\"en\">Discharges from hospitals</dct:title>\n    <dct:title xml:lang=\"fr\">Sorties d'h&#244;pital</dct:title>\n    <dct:title xml:lang=\"de\">Entlassungen aus dem Krankenhaus</dct:title>\n    <ecodp:keyword xml:lang=\"en\">health statistics</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique de la sant&#233;</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Gesundheitsstatistik</ecodp:keyword>\n    <dct:identifier>tps00048</dct:identifier>\n    <dct:description xml:lang=\"en\">A hospital discharge is the formal release of a patient from a hospital after a procedure or course of treatment. A discharge occurs whenever a patient leaves because of finalisation of treatment, signs out against medical advice, transfers to another health care institution or on death. An in-patient is a patient who is formally admitted (or 'hospitalised') to an institution for treatment and/or care and stays for a minimum of one night or more than 24 hours in the hospital or other institution providing in-patient care. The number of discharges is the most commonly used measure of the utilisation of hospital services. Discharges, rather than admissions, are used because hospital abstracts for in-patient care are based on information gathered at the time of discharge. Diagnostic chapters (using principal diagnosis) have been defined according to the International Classification of Diseases (ICD).</dct:description>\n    <dct:description xml:lang=\"fr\">Une sortie d'h&#244;pital est la sortie formelle d'un patient d'un h&#244;pital apr&#232;s une op&#233;ration ou un traitement. Il y a sortie d'un h&#244;pital &#224; chaque fois qu'un patient quitte cette structure en raison de l'ach&#232;vement du traitement, d'une sortie contre avis m&#233;dical, d'un transfert &#224; une autre institution de services m&#233;dicaux ou de son d&#233;c&#232;s. Un patient hospitalis&#233; est un patient qui est formellement admis (ou 'hospitalis&#233;') dans une institution pour un traitement et/ou un soin et reste pour un minimum d'une nuit ou plus de 24 heures &#224; l'h&#244;pital ou une autre institution fournissant ce type de soin. Le nombre de sorties est le moyen le plus souvent utilis&#233; pour &#233;valuer l'utilisation des services hospitaliers. Les sorties, plut&#244;t que les admissions, sont utilis&#233;es car les dossiers m&#233;dicaux de l'h&#244;pital pour les soins cliniques reposent sur des informations collect&#233;es au moment de la sortie. Les chapitres sur le diagnostic (utilisant le principal diagnostic) ont &#233;t&#233; d&#233;finis conform&#233;ment &#224; la Classification Internationale des Maladies (CIM).</dct:description>\n    <dct:description xml:lang=\"de\">Eine Krankenhaus-Entlassung ist die f&#246;rmliche Entlassung eines Patienten aus einem Krankenhaus nach einer Untersuchung oder Behandlung. Eine Entlassung liegt vor, sobald ein Patient das Krankenhaus verl&#228;sst, insbesondere weil die Behandlung abgeschlossen ist oder gegen medizinischen Rat, wegen Verlegung in eine andere Gesundheitseinrichtung oder im Todesfall. Ein station&#228;rer Patient ist ein Patient, der formell in einem Krankenhaus oder einer anderen Einrichtung zur station&#228;ren Behandlung und/oder Versorgung aufgenommen wurde und dort f&#252;r mindestens eine Nacht oder mehr als 24 Stunden verbleibt. Die Zahl der Entlassungen wird in der Regel als Ma&#223; f&#252;r die Inanspruchnahme von Krankenhausdienstleistungen verwendet. Entlassungen werden statt der Aufnahmen zugrunde gelegt, da Krankenhauszahlen f&#252;r die station&#228;re Behandlung auf Informationen basieren, die bei der Entlassung erhoben werden. Die Diagnosekategorien (auf der Basis der Hauptdiagnosen) werden nach der internationalen Klassifikation der Krankheiten (ICD) definiert.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tps00048</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00048.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00048.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-31</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/5IvoNLsAzD1njXsCGEkXA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tps00048</foaf:primaryTopic><dct:modified>2015-07-31T09:40:35.149052</dct:modified><dct:issued>2014-12-22T09:39:50.953903</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "4e9065b0-2abf-4312-9c08-4de4b0a7880a", 
+    "identifier": "tps00048"
+}

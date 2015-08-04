@@ -1,0 +1,166 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 7, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "alternative investment fund managers", 
+            "name": "alternative investment fund managers", 
+            "revision_timestamp": "2014-02-26T11:18:43.481620", 
+            "state": "active", 
+            "id": "f53e1131-5988-4f68-be5e-d709ff7093c8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "authorised", 
+            "name": "authorised", 
+            "revision_timestamp": "2014-02-26T11:18:43.481620", 
+            "state": "active", 
+            "id": "cd7ee7da-c917-4584-b24e-15e1c4ac7cdc"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "54ad9d15-a08a-4f14-8f92-d530600dced1", 
+    "metadata_created": "2014-02-25T13:38:49.402205", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:40:48.712036", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5081", 
+            "name": "http://eurovoc.europa.eu/5081", 
+            "revision_timestamp": "2015-02-23T09:54:23.002842", 
+            "state": "active", 
+            "id": "3543f494-0621-40ae-b04f-d487ce3cac25"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1795", 
+            "name": "http://eurovoc.europa.eu/1795", 
+            "revision_timestamp": "2015-02-23T09:54:23.002842", 
+            "state": "active", 
+            "id": "8d3d8c8a-9b4f-4c01-855a-a04502557378"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1488", 
+            "name": "http://eurovoc.europa.eu/1488", 
+            "revision_timestamp": "2015-02-23T09:54:23.002842", 
+            "state": "active", 
+            "id": "7959ea17-5087-449b-9155-677f8bfdbbb9"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "The list of alternative investment fund managers authorised by the national competent authorities of the Member States ", 
+            "format": "text/html", 
+            "url": "http://registers.esma.europa.eu/publication/searchAifmd;jsessionid=ADB60482F86DB6CFE1719FBB866AD022", 
+            "datastore_active": false, 
+            "created": "2015-02-23T10:47:55.772190", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-02-23T09:47:55.635415", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "c646b30f-1ef0-48d3-a1c2-f1ba925a49fd", 
+            "size": null, 
+            "resource_group_id": "c9f22b24-1e3c-427e-9a64-91d6a3da5490", 
+            "id": "276090b7-a979-454f-bc8a-c3eb94d1197e", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Alternative investment fund managers"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "ESMA has compiled the list of alternative investment fund managers authorised by the national competent authorities of the Member States on the basis of information provided to it by the latter authorities on a quarterly basis.\r\n\r\nThis compilation has been carried out with utmost care and to the best of its ability and ESMA endeavours to continuously supplement and update the information provided. Nevertheless, ESMA is not able to provide any representation or warranty  that  the available content is complete, accurate   or  up to date.\r\n\r\nFor further information please refer to the website of the competent national supervisory authorities.\r\n\r\nIn addition to the above provisions, attention is also drawn to the Legal Notice of the ESMA website.", 
+    "title": "Alternative Investment Fund Managers", 
+    "tracking_summary": {
+        "total": 245, 
+        "recent": 6
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100152", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100152", 
+            "image_display_url": "", 
+            "id": "08994bb7-2827-4215-a10b-d0f520fd70bb", 
+            "name": "eurovoc_domain_100152"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2014-02-25T13:38:49.402205", 
+    "name": "aifm", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://registers.esma.europa.eu/publication/searchAifmd;jsessionid=ADB60482F86DB6CFE1719FBB866AD022", 
+    "organization": {
+        "description": "", 
+        "title": "European Securities and Markets Authority", 
+        "created": "2012-12-12T13:50:52.497925", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.471964", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "0d60eb1d-b406-43d3-94ad-26f3bea3f39b", 
+        "type": "organization", 
+        "id": "533340de-4c0b-413b-985c-ad3c89ed4972", 
+        "name": "esma"
+    }, 
+    "revision_id": "4cbf010c-5011-4c81-82cc-79ffe878cd63", 
+    "identifier": "", 
+    "version_description": ""
+}

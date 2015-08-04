@@ -1,0 +1,426 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014-12-31", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 24, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Publications Office of the European Union", 
+            "name": "Publications Office of the European Union", 
+            "revision_timestamp": "2015-07-14T09:40:12.598798", 
+            "state": "active", 
+            "id": "34c28ca9-0ee3-4714-91ea-a408beef7fe9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "accountability", 
+            "name": "accountability", 
+            "revision_timestamp": "2015-07-14T09:40:12.598798", 
+            "state": "active", 
+            "id": "ee884952-049c-475f-a26e-28b3c79a45e8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "costs and benefits of controls", 
+            "name": "costs and benefits of controls", 
+            "revision_timestamp": "2015-07-14T09:40:12.598798", 
+            "state": "active", 
+            "id": "21c9361d-7d48-4f1c-abd0-b79e1b087190"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "declaration of assurance", 
+            "name": "declaration of assurance", 
+            "revision_timestamp": "2015-07-14T09:40:12.598798", 
+            "state": "active", 
+            "id": "d30ba4a1-b0ed-4a90-888a-2ba22573e131"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "financial statements", 
+            "name": "financial statements", 
+            "revision_timestamp": "2015-07-14T09:40:12.598798", 
+            "state": "active", 
+            "id": "7b57db06-e489-4586-9b57-27ecd8548f5f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "human and financial resources", 
+            "name": "human and financial resources", 
+            "revision_timestamp": "2015-07-14T09:40:12.598798", 
+            "state": "active", 
+            "id": "4707f854-7ea1-474d-965b-d810980fc122"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "internal control", 
+            "name": "internal control", 
+            "revision_timestamp": "2015-07-14T09:40:12.598798", 
+            "state": "active", 
+            "id": "235e051c-f462-4a44-a6b8-a44bb223d2a0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "key policy objectives", 
+            "name": "key policy objectives", 
+            "revision_timestamp": "2015-07-14T09:40:12.598798", 
+            "state": "active", 
+            "id": "413fb088-f211-4a04-ae96-940ac013f40c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "management of resources", 
+            "name": "management of resources", 
+            "revision_timestamp": "2015-07-14T09:40:12.598798", 
+            "state": "active", 
+            "id": "e563288f-6221-4cd1-8bfd-d898fefe66ed"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "management report", 
+            "name": "management report", 
+            "revision_timestamp": "2015-07-14T09:40:12.598798", 
+            "state": "active", 
+            "id": "c62e9cbd-391b-4b19-9843-35224a4495b8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "policy achievements", 
+            "name": "policy achievements", 
+            "revision_timestamp": "2015-07-14T09:40:12.598798", 
+            "state": "active", 
+            "id": "cf998cd3-c0cc-4aa3-ae75-8c220266a920"
+        }
+    ], 
+    "contact_name": "Publications Office of the European Union, Resources and Logistics Directorate, Finance Unit", 
+    "id": "62de3a1e-0f7f-4d6e-97d7-d96db41d49c2", 
+    "metadata_created": "2015-07-27T14:50:36.307692", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:50:36.311513", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1721", 
+            "name": "http://eurovoc.europa.eu/1721", 
+            "revision_timestamp": "2015-07-14T09:46:43.317926", 
+            "state": "active", 
+            "id": "3a5a715a-5bee-4ab7-bd04-691fdee4f216"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2153", 
+            "name": "http://eurovoc.europa.eu/2153", 
+            "revision_timestamp": "2015-07-14T09:46:43.317926", 
+            "state": "active", 
+            "id": "02cd412f-7a13-440a-96d4-69de68dadc96"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4038", 
+            "name": "http://eurovoc.europa.eu/4038", 
+            "revision_timestamp": "2015-07-14T09:46:43.317926", 
+            "state": "active", 
+            "id": "0d2c1569-fa52-4997-a74a-efdad28c0562"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3119", 
+            "name": "http://eurovoc.europa.eu/3119", 
+            "revision_timestamp": "2015-07-14T09:46:43.317926", 
+            "state": "active", 
+            "id": "73629e0d-577a-4ed6-871d-3518010119fd"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/189", 
+            "name": "http://eurovoc.europa.eu/189", 
+            "revision_timestamp": "2015-07-14T09:46:43.317926", 
+            "state": "active", 
+            "id": "bd85c0d2-f9c5-4c40-b6aa-ce5181788bd6"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/402", 
+            "name": "http://eurovoc.europa.eu/402", 
+            "revision_timestamp": "2015-07-14T09:46:43.317926", 
+            "state": "active", 
+            "id": "0a891130-6d1e-480b-b511-ef2cd0e3993b"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1711", 
+            "name": "http://eurovoc.europa.eu/1711", 
+            "revision_timestamp": "2015-07-14T09:46:43.317926", 
+            "state": "active", 
+            "id": "98bf1e8e-aef2-4017-9ba0-381d3ec9fa5d"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2894", 
+            "name": "http://eurovoc.europa.eu/2894", 
+            "revision_timestamp": "2015-07-14T09:46:43.317926", 
+            "state": "active", 
+            "id": "71899cea-a1b2-432b-99f0-b0e8aa97962f"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/397", 
+            "name": "http://eurovoc.europa.eu/397", 
+            "revision_timestamp": "2015-07-14T09:46:43.317926", 
+            "state": "active", 
+            "id": "764c2945-ce5d-4984-b5b1-ec6eea4a1013"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/438855", 
+            "name": "http://eurovoc.europa.eu/438855", 
+            "revision_timestamp": "2015-07-14T09:46:43.317926", 
+            "state": "active", 
+            "id": "cec4d7b3-9ae5-449b-91fe-8b114bc63ff8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "41def0f8-f944-46e3-8264-0a67323fc90c", 
+            "revision_timestamp": "2015-07-14T09:31:47.467942", 
+            "datastore_active": false, 
+            "id": "054c0ba5-91f6-4944-9bab-16b38c880c0e", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "op_aar_2014.pdf", 
+            "format": "application/pdf", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-03-31T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "name": "Annual Activity Report 2014", 
+            "created": "2015-07-14T11:23:41.898125", 
+            "url": "http://ec.europa.eu/atwork/synthesis/aar/doc/op_aar_2014.pdf", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "27338f23-5ff7-4cfd-9967-ec330e8a33e6", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "41def0f8-f944-46e3-8264-0a67323fc90c", 
+            "revision_timestamp": "2015-07-14T09:37:15.974747", 
+            "datastore_active": false, 
+            "id": "85398f80-1140-43ee-a22c-777cd840dc82", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "index_en.htm", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-03-31T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/xhtml+xml", 
+            "cache_url": null, 
+            "name": "Annual Activity Reports 2014 of all Directorates-General of the European Commission", 
+            "created": "2015-07-14T11:34:52.372386", 
+            "url": "http://ec.europa.eu/atwork/synthesis/aar/index_en.htm", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 1, 
+            "revision_id": "3274ae2c-69e6-46bc-a561-b6792b195ae1", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage"
+        }, 
+        {
+            "resource_group_id": "41def0f8-f944-46e3-8264-0a67323fc90c", 
+            "revision_timestamp": "2015-07-14T09:55:19.312695", 
+            "datastore_active": false, 
+            "id": "5bbf5de8-2414-49b1-b8b1-604dc730406d", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "The dataset contains the financial statements of the Publications Office for 2014. It includes information on budget implementation, commercial accounting, revenue and income, as well as public procurement contracts.\r\n\r\nThe financial statements have a standard form for all Directorates-General of the European Commission. In particular, the reporting on the negotiated procedures and waivers of recovery orders involving 100 000 EUR or more, as well as on the compliance with payment time limits, constitutes a legal obligation under the Financial Regulation.", 
+            "format": "application/vnd.ms-excel", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-03-31T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/vnd.ms-excel", 
+            "cache_url": null, 
+            "name": "Financial statements: main indicators (Annex 3 to AAR)", 
+            "created": "2015-07-14T11:31:47.511646", 
+            "url": "http://publications.europa.eu/documents/10530/1406391/03_AAR_2014_Annex+3_Financial_statements.xls/2c9ac4be-af70-4bc5-b233-76b09b60d54b", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 2, 
+            "revision_id": "4a02aacc-141c-4994-8d7a-04e1b834e35d", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "41def0f8-f944-46e3-8264-0a67323fc90c", 
+            "revision_timestamp": "2015-07-14T09:58:15.147025", 
+            "datastore_active": false, 
+            "id": "5b6a6215-9956-4087-b0be-aea45e1f6d09", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "The dataset contains data on human and financial resources of the Publications Office in 2014. The figures are broken down by core activity: Production, Cataloguing and archiving, Physical distribution and promotion and Public websites.", 
+            "format": "application/vnd.ms-excel", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-03-31T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/vnd.ms-excel", 
+            "cache_url": null, 
+            "name": "Human and financial resources: main indicators (Annex 2 to AAR)", 
+            "created": "2015-07-14T11:29:45.293040", 
+            "url": "http://publications.europa.eu/documents/10530/1406391/02_AAR_2014_Annex_2_Human_and_financial_resources.xls/47b26d8f-e270-42dd-8333-2e1a71bd759a", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 3, 
+            "revision_id": "ffa93528-b03b-4e51-8f45-71137b6c455b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "41def0f8-f944-46e3-8264-0a67323fc90c", 
+            "revision_timestamp": "2015-07-14T09:37:15.974747", 
+            "datastore_active": false, 
+            "id": "d540827b-d2db-4309-988b-6ff2f825aad0", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "The dataset contains information on the achievement of key policy objectives and core activities of the Publications Office in 2014.\r\nThe core activities of the Publications Office are: Production, Cataloguing and archiving, Physical distribution and promotion, together with the Public websites management. The core activities include 15 key policy objectives, such as production of the Official Journal of the European Union, consolidation of EU legally binding acts, online access to EU law and general publications through EUR-Lex and EU Bookshop and reuse of information from the EU institutions.", 
+            "format": "application/vnd.ms-excel", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-03-31T00:00:00", 
+            "url_type": null, 
+            "mimetype": "application/vnd.ms-excel", 
+            "cache_url": null, 
+            "name": "Key policy objectives and core activities: main indicators (Part 1 of AAR)", 
+            "created": "2015-07-14T11:27:17.309180", 
+            "url": "http://publications.europa.eu/documents/10530/1406391/01_AAR_2014_Annex_1_Key_policy_objectives_and_core_activities.xls/b7696c90-a408-4452-8c68-6bd6f492eeb2", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 4, 
+            "revision_id": "3274ae2c-69e6-46bc-a561-b6792b195ae1", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "The reference to the annual activity report is provided for in Article 66(9) of the Regulation (EU, Euratom) No 966/2012.", 
+            "format": "application/pdf", 
+            "url": "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32012R0966&qid=1436175346120&from=EN", 
+            "datastore_active": false, 
+            "created": "2015-07-14T11:37:16.026654", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-07-14T09:37:15.974747", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 5, 
+            "revision_id": "3274ae2c-69e6-46bc-a561-b6792b195ae1", 
+            "size": null, 
+            "resource_group_id": "41def0f8-f944-46e3-8264-0a67323fc90c", 
+            "id": "e891cbd3-6e88-4265-9810-44a378b7e9f3", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25 October 2012 on the financial rules applicable to the general budget of the Union"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 6, 
+    "description": "The dataset contains information on the activity of the Publications Office of the European Union in 2014, based on its Annual Activity Report (AAR). It details the achievements and initiatives taken during the year and the resources used. The performance indicators and data available are grouped into three main categories: policy objectives and core activities, human and financial resources, financial statements.\r\n\r\nThe AAR is a management report of the Director-General of the Publications Office addressed each year to the College of Commissioners. It is the main instrument of management accountability within the Commission, in which the Director-General takes responsibility for the management of resources, by reference to the objectives set out in the Management Plan and the efficiency and effectiveness of internal control systems, including an overall assessment of the costs and benefits of controls.\r\n\r\nThe report is available in English and must be finalised by 31 March each year. The AARs of all Directorates-General of the European Commission are then communicated to the European Parliament, the Council and the European Court of Auditors.", 
+    "title": "Annual Activity Report 2014 of the Publications Office", 
+    "temporal_coverage_from": "2014-01-01", 
+    "tracking_summary": {
+        "total": 13, 
+        "recent": 13
+    }, 
+    "contact_email": "OP-FIN-Secretariat@publications.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "c148dac3-2e80-42c1-bebd-5d5e50a69ade", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T14:50:36.307692", 
+    "name": "annual-activity-report-2014-of-the-publications-office", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "Yearly", 
+    "release_date": "2015-06-20", 
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+    "contact_address": "2, rue Mercier, L-2985 Luxembourg", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://publications.europa.eu/en/home", 
+    "url": "http://ec.europa.eu/atwork/synthesis/aar/index_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Publications Office", 
+        "created": "2012-12-12T13:50:56.476905", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:56.451833", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "702713e9-905d-4061-9847-18d42c3d395d", 
+        "type": "organization", 
+        "id": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+        "name": "publ"
+    }, 
+    "revision_id": "60793db5-2c00-400b-8357-c8a3fb650e73", 
+    "identifier": "", 
+    "version_description": ""
+}

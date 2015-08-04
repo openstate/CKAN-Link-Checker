@@ -1,0 +1,301 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 41, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/CYP", 
+        "http://publications.europa.eu/resource/authority/country/SVN", 
+        "http://publications.europa.eu/resource/authority/country/DNK", 
+        "http://publications.europa.eu/resource/authority/country/FIN", 
+        "http://publications.europa.eu/resource/authority/country/LTU", 
+        "http://publications.europa.eu/resource/authority/country/IRL", 
+        "http://publications.europa.eu/resource/authority/country/DEU", 
+        "http://publications.europa.eu/resource/authority/country/LUX", 
+        "http://publications.europa.eu/resource/authority/country/SWE", 
+        "http://publications.europa.eu/resource/authority/country/CZE", 
+        "http://publications.europa.eu/resource/authority/country/BEL", 
+        "http://publications.europa.eu/resource/authority/country/POL", 
+        "http://publications.europa.eu/resource/authority/country/GRC", 
+        "http://publications.europa.eu/resource/authority/country/ESP", 
+        "http://publications.europa.eu/resource/authority/country/SVK", 
+        "http://publications.europa.eu/resource/authority/country/AUT", 
+        "http://publications.europa.eu/resource/authority/country/FRA", 
+        "http://publications.europa.eu/resource/authority/country/HRV", 
+        "http://publications.europa.eu/resource/authority/country/NLD", 
+        "http://publications.europa.eu/resource/authority/country/LVA", 
+        "http://publications.europa.eu/resource/authority/country/GBR", 
+        "http://publications.europa.eu/resource/authority/country/ROU", 
+        "http://publications.europa.eu/resource/authority/country/EST", 
+        "http://publications.europa.eu/resource/authority/country/HUN", 
+        "http://publications.europa.eu/resource/authority/country/BGR", 
+        "http://publications.europa.eu/resource/authority/country/ITA", 
+        "http://publications.europa.eu/resource/authority/country/PRT", 
+        "http://publications.europa.eu/resource/authority/country/MLT"
+    ], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Agreement", 
+            "name": "Agreement", 
+            "revision_timestamp": "2014-10-29T07:42:03.903845", 
+            "state": "active", 
+            "id": "d3b7ed87-895d-4c0d-aa22-3c1802b9f5c8"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EEA Joint Committee", 
+            "name": "EEA Joint Committee", 
+            "revision_timestamp": "2014-10-29T07:42:03.903845", 
+            "state": "active", 
+            "id": "54e54803-281e-4075-be63-33e749347d6c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EU Official Journal", 
+            "name": "EU Official Journal", 
+            "revision_timestamp": "2014-10-29T07:42:03.903845", 
+            "state": "active", 
+            "id": "8c453e19-17c7-4f33-8946-6ca935c860f0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EU law", 
+            "name": "EU law", 
+            "revision_timestamp": "2014-10-29T07:42:03.903845", 
+            "state": "active", 
+            "id": "555288d5-4de3-4268-bd2d-a40ee2630ee6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EUR-Lex", 
+            "name": "EUR-Lex", 
+            "revision_timestamp": "2014-10-29T07:42:03.903845", 
+            "state": "active", 
+            "id": "6682255c-2219-49c9-b837-907fbf85b18e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Atomic Energy Community", 
+            "name": "European Atomic Energy Community", 
+            "revision_timestamp": "2014-10-29T07:42:03.903845", 
+            "state": "active", 
+            "id": "ad352c1f-da9e-45c3-a382-1fce747218dc"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Community", 
+            "name": "European Community", 
+            "revision_timestamp": "2014-10-29T07:42:03.903845", 
+            "state": "active", 
+            "id": "aa9480ac-558c-4301-86d9-bf1010f94f68"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "International Agreements", 
+            "name": "International Agreements", 
+            "revision_timestamp": "2014-10-29T07:42:03.903845", 
+            "state": "active", 
+            "id": "d17742cb-c8bc-447c-b433-f2353362e93d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Protocol", 
+            "name": "Protocol", 
+            "revision_timestamp": "2014-10-29T07:42:03.903845", 
+            "state": "active", 
+            "id": "98bbe044-d1d4-49d4-ba0d-77c172293a29"
+        }
+    ], 
+    "contact_name": "Publications Office of the European Union", 
+    "id": "3f52df38-7217-43db-9e18-a5c72e2b2ea8", 
+    "metadata_created": "2014-10-29T07:42:03.903845", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:23:03.763240", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1589", 
+            "name": "http://eurovoc.europa.eu/1589", 
+            "revision_timestamp": "2015-01-30T15:14:21.617125", 
+            "state": "active", 
+            "id": "3d072120-d882-4826-a4a6-1c917c66578e"
+        }
+    ], 
+    "creator_user_id": null, 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "List of international agreements", 
+            "format": "text/html", 
+            "url": "http://eur-lex.europa.eu/search.html?instInvStatus=ALL&qid=1408034747588&DTC=false&DTS_DOM=EU_LAW&type=advanced&lang=en&SUBDOM_INIT=INTER_AGREE&DTS_SUBDOM=INTER_AGREE", 
+            "datastore_active": false, 
+            "created": "2015-01-30T16:14:21.833213", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-01-30T15:14:21.617125", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "c08c1db8-f224-4b52-96f4-8e6eabcae37b", 
+            "size": null, 
+            "resource_group_id": "8e8cf50e-8b0a-4583-920f-c6dc661989c8", 
+            "id": "a066f5a4-4b62-418d-830d-19f544259cfe", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Advanced search", 
+            "format": "text/html", 
+            "url": "http://eur-lex.europa.eu/advanced-search-form.html", 
+            "datastore_active": false, 
+            "created": "2015-01-30T16:14:21.833239", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-01-30T15:14:21.617125", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "c08c1db8-f224-4b52-96f4-8e6eabcae37b", 
+            "size": null, 
+            "resource_group_id": "8e8cf50e-8b0a-4583-920f-c6dc661989c8", 
+            "id": "0f3b9b19-7fae-462b-9196-df79b2e66390", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Directory of international agreements", 
+            "format": "text/html", 
+            "url": "http://eur-lex.europa.eu/browse/directories/inter-agree.html", 
+            "datastore_active": false, 
+            "created": "2015-01-30T16:14:21.833248", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-01-30T15:14:21.617125", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "c08c1db8-f224-4b52-96f4-8e6eabcae37b", 
+            "size": null, 
+            "resource_group_id": "8e8cf50e-8b0a-4583-920f-c6dc661989c8", 
+            "id": "86efee11-8470-4424-84ee-59ac4a2c884f", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "About international agreements", 
+            "format": "text/html", 
+            "url": "http://eur-lex.europa.eu/collection/eu-law/inter-agree.html", 
+            "datastore_active": false, 
+            "created": "2015-01-30T16:14:21.833255", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-01-30T15:14:21.617125", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "c08c1db8-f224-4b52-96f4-8e6eabcae37b", 
+            "size": null, 
+            "resource_group_id": "8e8cf50e-8b0a-4583-920f-c6dc661989c8", 
+            "id": "7c9e7094-6854-4ecf-805e-204900254210", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": null
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 4, 
+    "description": "This collection includes the instruments produced by the EU in the exercise of its international responsibilities.\n\nThe main type of documents within this category are: \n\n\u2022 agreements concluded by the European Communities with non-member countries or with international organisations in their specific areas of responsibility \n\n\u2022 agreements concluded jointly by the Member States and the European Communities in areas of shared responsibility (\u2018mixed type\u2019 agreements) \n\n\u2022 decisions of joint committees set up pursuant to an international agreement and comprising representatives of the signatories for the purpose of administering the agreement.", 
+    "title": "International agreements", 
+    "tracking_summary": {
+        "total": 180, 
+        "recent": 10
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100145", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100145", 
+            "image_display_url": "", 
+            "id": "b4c18652-77ac-48e0-a2c3-b431695009b8", 
+            "name": "eurovoc_domain_100145"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2014-10-29T07:42:03.903845", 
+    "name": "eu-international-agreements", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "accrual_periodicity": "daily", 
+    "owner_org": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+    "url": "http://eur-lex.europa.eu/collection/eu-law/inter-agree.html", 
+    "rdf": "<rdf:RDF xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns=\"http://open-data.europa.eu/ontologies/ec-odp-example#\"><!--Dataset type and URI, don't fill in the CKAN catalog idnetifier here--><dcat:Dataset rdf:about=\"http://eur-lex.europa.eu/collection/eu-law/inter-agree.html\">\n<!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"bg\">&#1052;&#1077;&#1078;&#1076;&#1091;&#1085;&#1072;&#1088;&#1086;&#1076;&#1085;&#1080; &#1089;&#1087;&#1086;&#1088;&#1072;&#1079;&#1091;&#1084;&#1077;&#1085;&#1080;&#1103;</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"es\">Acuerdos internacionales</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"cs\">Mezin&#225;rodn&#237; dohody</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"da\">Internationale aftaler</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"de\">Internationale Abkommen</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"el\">&#916;&#953;&#949;&#952;&#957;&#949;&#943;&#962; &#963;&#965;&#956;&#966;&#969;&#957;&#943;&#949;&#962;</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"en\">International agreements</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"et\">Rahvusvahelised lepingud ja kokkulepped</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"fr\">Accords internationaux</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"ga\">Comhaontuithe idirn&#225;isi&#250;nta</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"hr\">Me&#273;unarodni sporazumi</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"it\">Accordi internazionali</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"lv\">Starptautiski nol&#299;gumi</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"lt\">Tarptautiniai susitarimai</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"hu\">Nemzetk&#246;zi meg&#225;llapod&#225;sok</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"mt\">Ftehimiet internazzjonali</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"nl\">Internationale overeenkomsten</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"pl\">Umowy mi&#281;dzynarodowe</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"pt\">Acordos internacionais</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"ro\">Acorduri interna&#355;ionale</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"sk\">Medzin&#225;rodn&#233; dohody</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"sl\">Mednarodni sporazumi</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"fi\">Kansainv&#228;liset sopimukset</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"sv\">Internationella avtal</dct:title>\n      <!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Description, 1..*--> \n\n      <!--Description, 1..*--><!--Description, 1..*--><dct:description xml:lang=\"en\">This collection includes the instruments produced by the EU in the exercise of its international responsibilities.\n\nThe main type of documents within this category are: \n\n&#8226; agreements concluded by the European Communities with non-member countries or with international organisations in their specific areas of responsibility \n\n&#8226; agreements concluded jointly by the Member States and the European Communities in areas of shared responsibility (&#8216;mixed type&#8217; agreements) \n\n&#8226; decisions of joint committees set up pursuant to an international agreement and comprising representatives of the signatories for the purpose of administering the agreement. \n</dct:description>\n\n      <dct:description xml:lang=\"bg\">  &#1058;&#1072;&#1079;&#1080; &#1082;&#1086;&#1083;&#1077;&#1082;&#1094;&#1080;&#1103; &#1089;&#1098;&#1076;&#1098;&#1088;&#1078;&#1072; &#1074;&#1089;&#1080;&#1095;&#1082;&#1080; &#1080;&#1085;&#1089;&#1090;&#1088;&#1091;&#1084;&#1077;&#1085;&#1090;&#1080; &#1085;&#1072; &#1045;&#1057;, &#1087;&#1088;&#1080;&#1077;&#1090;&#1080; &#1074; &#1080;&#1079;&#1087;&#1098;&#1083;&#1085;&#1077;&#1085;&#1080;&#1077; &#1085;&#1072; &#1085;&#1077;&#1075;&#1086;&#1074;&#1080;&#1090;&#1077; &#1084;&#1077;&#1078;&#1076;&#1091;&#1085;&#1072;&#1088;&#1086;&#1076;&#1085;&#1080; &#1086;&#1090;&#1075;&#1086;&#1074;&#1086;&#1088;&#1085;&#1086;&#1089;&#1090;&#1080;.\n\n&#1054;&#1089;&#1085;&#1086;&#1074;&#1085;&#1080;&#1090;&#1077; &#1074;&#1080;&#1076;&#1086;&#1074;&#1077; &#1076;&#1086;&#1082;&#1091;&#1084;&#1077;&#1085;&#1090;&#1080; &#1074; &#1090;&#1072;&#1079;&#1080; &#1082;&#1072;&#1090;&#1077;&#1075;&#1086;&#1088;&#1080;&#1103; &#1089;&#1072;:\n\t  \n&#8226;\t&#1089;&#1087;&#1086;&#1088;&#1072;&#1079;&#1091;&#1084;&#1077;&#1085;&#1080;&#1103; &#1085;&#1072; &#1045;&#1074;&#1088;&#1086;&#1087;&#1077;&#1081;&#1089;&#1082;&#1080;&#1090;&#1077; &#1086;&#1073;&#1097;&#1085;&#1086;&#1089;&#1090;&#1080; &#1089;&#1098;&#1089; &#1089;&#1090;&#1088;&#1072;&#1085;&#1080; &#1080;&#1079;&#1074;&#1098;&#1085; &#1045;&#1057; &#1080;&#1083;&#1080; &#1089; &#1084;&#1077;&#1078;&#1076;&#1091;&#1085;&#1072;&#1088;&#1086;&#1076;&#1085;&#1080; &#1086;&#1088;&#1075;&#1072;&#1085;&#1080;&#1079;&#1072;&#1094;&#1080;&#1080; &#1074; &#1089;&#1098;&#1086;&#1090;&#1074;&#1077;&#1090;&#1085;&#1080;&#1090;&#1077; &#1080;&#1084; &#1086;&#1073;&#1083;&#1072;&#1089;&#1090;&#1080; &#1085;&#1072; &#1086;&#1090;&#1075;&#1086;&#1074;&#1086;&#1088;&#1085;&#1086;&#1089;&#1090;;\n\n&#8226;\t&#1089;&#1087;&#1086;&#1088;&#1072;&#1079;&#1091;&#1084;&#1077;&#1085;&#1080;&#1103;, &#1089;&#1082;&#1083;&#1102;&#1095;&#1077;&#1085;&#1080; &#1089;&#1098;&#1074;&#1084;&#1077;&#1089;&#1090;&#1085;&#1086; &#1086;&#1090; &#1076;&#1098;&#1088;&#1078;&#1072;&#1074;&#1080;&#1090;&#1077; &#1095;&#1083;&#1077;&#1085;&#1082;&#1080; &#1080; &#1045;&#1074;&#1088;&#1086;&#1087;&#1077;&#1081;&#1089;&#1082;&#1080;&#1090;&#1077; &#1086;&#1073;&#1097;&#1085;&#1086;&#1089;&#1090;&#1080; &#1074; &#1086;&#1073;&#1083;&#1072;&#1089;&#1090;&#1080; &#1085;&#1072; &#1089;&#1087;&#1086;&#1076;&#1077;&#1083;&#1077;&#1085;&#1072; &#1086;&#1090;&#1075;&#1086;&#1074;&#1086;&#1088;&#1085;&#1086;&#1089;&#1090; (&#1089;&#1087;&#1086;&#1088;&#1072;&#1079;&#1091;&#1084;&#1077;&#1085;&#1080;&#1103; &#1086;&#1090; &#8222;&#1089;&#1084;&#1077;&#1089;&#1077;&#1085; &#1090;&#1080;&#1087;&#8220;); \n\n&#8226;\t&#1088;&#1077;&#1096;&#1077;&#1085;&#1080;&#1103; &#1085;&#1072; &#1089;&#1098;&#1074;&#1084;&#1077;&#1089;&#1090;&#1085;&#1080; &#1082;&#1086;&#1084;&#1080;&#1090;&#1077;&#1090;&#1080;, &#1089;&#1098;&#1079;&#1076;&#1072;&#1076;&#1077;&#1085;&#1080; &#1074; &#1089;&#1098;&#1086;&#1090;&#1074;&#1077;&#1090;&#1089;&#1090;&#1074;&#1080;&#1077; &#1089; &#1084;&#1077;&#1078;&#1076;&#1091;&#1085;&#1072;&#1088;&#1086;&#1076;&#1085;&#1086; &#1089;&#1087;&#1086;&#1088;&#1072;&#1079;&#1091;&#1084;&#1077;&#1085;&#1080;&#1077; &#1080; &#1074;&#1082;&#1083;&#1102;&#1095;&#1074;&#1072;&#1097;&#1080; &#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1080;&#1090;&#1077;&#1083;&#1080; &#1085;&#1072; &#1087;&#1086;&#1076;&#1087;&#1080;&#1089;&#1072;&#1083;&#1080;&#1090;&#1077; &#1089;&#1090;&#1088;&#1072;&#1085;&#1080; &#1079;&#1072; &#1094;&#1077;&#1083;&#1080;&#1090;&#1077; &#1085;&#1072; &#1091;&#1087;&#1088;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077; &#1085;&#1072; &#1089;&#1087;&#1086;&#1088;&#1072;&#1079;&#1091;&#1084;&#1077;&#1085;&#1080;&#1077;&#1090;&#1086;. \n\n</dct:description>\n<dct:description xml:lang=\"es\">  Esta colecci&#243;n incluye todos los instrumentos jur&#237;dicos elaborados por la UE en el ejercicio de sus responsabilidades internacionales.\n\nLos principales tipos de documentos que pertenecen a esta categor&#237;a son: \n\n&#8226;\tacuerdos entre las Comunidades Europeas y pa&#237;ses no miembros u organizaciones internacionales en las &#225;reas de responsabilidad de cada uno \n\n&#8226;\tacuerdos celebrados conjuntamente por los Estados miembros y las Comunidades Europeas en &#225;reas de responsabilidad compartida (los llamados \"acuerdos mixtos\") \n\n&#8226;\tdecisiones de comit&#233;s mixtos creados conforme a un acuerdo internacional y compuestos por representantes de los signatarios a fin de administrar el acuerdo. \n\n</dct:description>\n<dct:description xml:lang=\"cs\">  V t&#233;to sb&#237;rce jsou zahrnuty v&#353;echny n&#225;stroje, kter&#233; EU vytvo&#345;ila s c&#237;lem dost&#225;t sv&#233; mezin&#225;rodn&#237; odpov&#283;dnosti.\n\nHlavn&#237;mi typy dokument&#367; t&#233;to kategorie jsou:\n\n&#8226;\tdohody, kter&#233; Evropsk&#225; spole&#269;enstv&#237; uzav&#345;ela s ne&#269;lensk&#253;mi zem&#283;mi nebo mezin&#225;rodn&#237;mi organizacemi v konkr&#233;tn&#237;ch oblastech odpov&#283;dnosti \n\n&#8226;\tdohody uzav&#345;en&#233; spole&#269;n&#283; &#269;lensk&#253;mi st&#225;ty a Evropsk&#253;mi spole&#269;enstv&#237;mi v oblastech sd&#237;len&#233; odpov&#283;dnosti (tzv. dohody sm&#237;&#353;en&#233;ho typu) \n\n&#8226;\trozhodnut&#237; spole&#269;n&#253;ch v&#253;bor&#367;, kter&#233; byly z&#345;&#237;zeny na z&#225;klad&#283; mezin&#225;rodn&#237;ch dohod pro &#250;&#269;ely jejich spr&#225;vy a kter&#233; se skl&#225;daj&#237; ze z&#225;stupc&#367; jejich signat&#225;&#345;&#367; \n\n\n</dct:description>\n<dct:description xml:lang=\"da\">  Denne samling omfatter alle instrumenter, som EU har udarbejdet i forbindelse med sine internationale forpligtelser.\n\nDen vigtigste typer dokumenter inden for denne kategori er: \n\n&#8226;\taftaler indg&#229;et af EU med andre lande eller med internationale organisationer inden for deres bestemte ansvarsomr&#229;der \n\n&#8226;\taftaler indg&#229;et i f&#230;llesskab af medlemslandene og EU p&#229; omr&#229;der med f&#230;lles ansvar (\"blandede aftaler\") \n\n&#8226;\tafg&#248;relser i f&#230;lles udvalg nedsat i henhold til en international aftale med repr&#230;sentanter for underskriverne med henblik p&#229; at administrere aftalen. \n\n\n</dct:description>\n<dct:description xml:lang=\"de\">  Die Sammlung umfasst alle Vertr&#228;ge, die die EU in Aus&#252;bung ihrer Zust&#228;ndigkeiten im Bereich der Au&#223;enbeziehungen geschlossen hat. \n\nDie wichtigsten Dokumente dieser Kategorie sind:  \n\n&#8226;\t&#220;bereink&#252;nfte, die die Europ&#228;ischen Gemeinschaften in ihren jeweiligen Zust&#228;ndigkeitsbereichen mit Nicht-EU-L&#228;ndern oder mit internationalen Organisationen geschlossen haben; \n\n&#8226;\t&#220;bereink&#252;nfte zwischen den Mitgliedsl&#228;ndern und den Europ&#228;ischen Gemeinschaften in Bereichen geteilter Zust&#228;ndigkeit (gemischte Abkommen); \n\n&#8226;\tBeschl&#252;sse gemischter Aussch&#252;sse, die aufgrund eines internationalen Abkommens eingerichtet wurden und aus Vertretern bestehen, die mit der Durchf&#252;hrung des Abkommens betraut sind. \n\n\n</dct:description>\n<dct:description xml:lang=\"et\">  See kogu h&#245;lmab k&#245;iki &#245;iguslikke vahendeid, mis EL on koostanud oma rahvusvaheliste kohustuste t&#228;itmisel.\n\nPeamised dokumendid selles kategoorias on j&#228;rgmised: \n\n&#8226;\tlepingud ja kokkulepped, mille Euroopa &#252;hendused on s&#245;lminud kolmandate riikide v&#245;i rahvusvaheliste organisatsioonidega nende konkreetsetes vastutusalades; \n\n&#8226;\tlepingud ja kokkulepped, mille liikmesriigid ja Euroopa &#252;hendused on &#252;hiselt s&#245;lminud jagatud vastutusega valdkondades (nn segat&#252;&#252;pi lepingud); \n\n&#8226;\trahvusvahelise lepingu v&#245;i kokkuleppega selle haldamiseks asutatud ning allakirjutanute esindajatest koosnevate &#252;hiskomiteede otsused. \n\n\n</dct:description>\n<dct:description xml:lang=\"el\">  &#917;&#948;&#974; &#952;&#945; &#946;&#961;&#949;&#943;&#964;&#949; &#963;&#965;&#956;&#966;&#969;&#957;&#943;&#949;&#962; &#960;&#959;&#965; &#963;&#965;&#957;&#940;&#960;&#964;&#949;&#953; &#951; &#917;&#917; &#963;&#964;&#959; &#960;&#955;&#945;&#943;&#963;&#953;&#959; &#964;&#969;&#957; &#948;&#953;&#949;&#952;&#957;&#974;&#957; &#964;&#951;&#962; &#945;&#961;&#956;&#959;&#948;&#953;&#959;&#964;&#942;&#964;&#969;&#957;.\n\n&#932;&#945; &#954;&#973;&#961;&#953;&#945; &#949;&#943;&#948;&#951; &#949;&#947;&#947;&#961;&#940;&#966;&#969;&#957; &#963;&#964;&#951;&#957; &#954;&#945;&#964;&#951;&#947;&#959;&#961;&#943;&#945; &#945;&#965;&#964;&#942; &#949;&#943;&#957;&#945;&#953;: \n\n&#8226;\t&#963;&#965;&#956;&#966;&#969;&#957;&#943;&#949;&#962; &#960;&#959;&#965; &#941;&#967;&#959;&#965;&#957; &#963;&#965;&#957;&#945;&#966;&#952;&#949;&#943; &#945;&#960;&#972; &#964;&#951;&#957; &#917;&#965;&#961;&#969;&#960;&#945;&#970;&#954;&#942; &#904;&#957;&#969;&#963;&#951; &#956;&#949; &#967;&#974;&#961;&#949;&#962; &#949;&#954;&#964;&#972;&#962; &#917;&#917; &#942; &#956;&#949; &#948;&#953;&#949;&#952;&#957;&#949;&#943;&#962; &#959;&#961;&#947;&#945;&#957;&#953;&#963;&#956;&#959;&#973;&#962; &#963;&#964;&#959;&#965;&#962; &#964;&#959;&#956;&#949;&#943;&#962; &#964;&#951;&#962; &#945;&#961;&#956;&#959;&#948;&#953;&#972;&#964;&#951;&#964;&#940;&#962; &#964;&#951;&#962; \n\n&#8226;\t&#963;&#965;&#956;&#966;&#969;&#957;&#943;&#949;&#962; &#960;&#959;&#965; &#941;&#967;&#959;&#965;&#957; &#963;&#965;&#957;&#945;&#966;&#952;&#949;&#943; &#945;&#960;&#972; &#964;&#945; &#954;&#961;&#940;&#964;&#951; &#956;&#941;&#955;&#951; &#954;&#945;&#953; &#964;&#951;&#957; &#917;&#965;&#961;&#969;&#960;&#945;&#970;&#954;&#942; &#904;&#957;&#969;&#963;&#951; &#945;&#960;&#972; &#954;&#959;&#953;&#957;&#959;&#973; &#963;&#949; &#964;&#959;&#956;&#949;&#943;&#962; &#972;&#960;&#959;&#965; &#941;&#967;&#959;&#965;&#957; &#954;&#959;&#953;&#957;&#942; &#945;&#961;&#956;&#959;&#948;&#953;&#972;&#964;&#951;&#964;&#945; (\"&#956;&#949;&#953;&#954;&#964;&#941;&#962;\" &#963;&#965;&#956;&#966;&#969;&#957;&#943;&#949;&#962;) \n\n&#8226;\t&#945;&#960;&#959;&#966;&#940;&#963;&#949;&#953;&#962; &#954;&#959;&#953;&#957;&#974;&#957; &#949;&#960;&#953;&#964;&#961;&#959;&#960;&#974;&#957; &#960;&#959;&#965; &#941;&#967;&#959;&#965;&#957; &#963;&#965;&#963;&#964;&#945;&#952;&#949;&#943; &#963;&#964;&#959; &#960;&#955;&#945;&#943;&#963;&#953;&#959; &#956;&#953;&#945;&#962; &#948;&#953;&#949;&#952;&#957;&#959;&#973;&#962; &#963;&#965;&#956;&#966;&#969;&#957;&#943;&#945;&#962; &#954;&#945;&#953; &#945;&#960;&#945;&#961;&#964;&#943;&#950;&#959;&#957;&#964;&#945;&#953; &#945;&#960;&#972; &#949;&#954;&#960;&#961;&#959;&#963;&#974;&#960;&#959;&#965;&#962; &#964;&#969;&#957; &#965;&#960;&#959;&#947;&#961;&#945;&#966;&#972;&#957;&#964;&#969;&#957; &#956;&#949; &#963;&#954;&#959;&#960;&#972; &#964;&#951; &#948;&#953;&#945;&#967;&#949;&#943;&#961;&#953;&#963;&#951; &#964;&#951;&#962; &#963;&#965;&#956;&#966;&#969;&#957;&#943;&#945;&#962;. \n\n\n</dct:description>\n<dct:description xml:lang=\"fr\">  Cette collection contient tous les instruments produits par l'Union europ&#233;enne dans l'exercice de ses responsabiliti&#233;s internationales.\n\nVoici les principaux types de documents entrant dans cette cat&#233;gorie: \n\n&#8226;\tles accords conclus par les Communaut&#233;s europ&#233;ennes avec des pays tiers ou des organisations internationales dans leurs domaines de comp&#233;tence propres; \n\n&#8226;\tles accords conclus conjointement par les &#201;tats membres et les Communaut&#233;s europ&#233;ennes dans des domaines de comp&#233;tence partag&#233;e (accords dits mixtes); \n\n&#8226;\tles d&#233;cisions de comit&#233;s mixtes cr&#233;&#233;s en application d&#8217;un accord international et r&#233;unissant des repr&#233;sentants des signataires en vue de la gestion de l&#8217;accord. \n\n\n</dct:description>\n<dct:description xml:lang=\"hr\">  Ova zbirka sadr&#382;i sve pravne instrumente EU-a nastale u okviru provo&#273;enja me&#273;unarodnih obveza.\n\nGlavne vrste dokumenata ove kategorije su: \n\n&#8226;\tugovore koje je Europska unija sklopila s tre&#263;im zemljama ili me&#273;unarodnim organizacijama u okviru posebnih podru&#269;ja nadle&#382;nosti \n\n&#8226;\tugovore koje su zajedni&#269;ki sklopile dr&#382;ave &#269;lanice i Europska unija u podru&#269;jima zajedni&#269;ke odgovornosti (&#8222;ugovori mije&#353;ane vrste&#8220;) \n\n&#8226;\todluke zajedni&#269;kih odbora koji su ustanovljeni temeljem me&#273;unarodnog ugovora i sastoje se od predstavnika potpisnica s ciljem provedbe ugovora. \n\n\n</dct:description>\n<dct:description xml:lang=\"it\">  Questa raccolta comprende tutti gli atti prodotti dall'UE nell'esercizio delle sue competenze internazionali.\n\nI principali tipi di documenti che rientrano in questa categoria sono: \n\n&#8226;\tgli accordi conclusi dall'Unione europea con i paesi terzi o con organizzazioni internazionali nei settori di sua competenza esclusiva \n\n&#8226;\tgli accordi conclusi congiuntamente dagli Stati membri e dall'Unione europea nei settori di competenza concorrente (accordi misti) \n\n&#8226;\tle decisioni dei comitati misti istituiti in applicazione di un accordo internazionale che riuniscono rappresentanti dei firmatari in vista della gestione dell'accordo. \n\n\n</dct:description>\n<dct:description xml:lang=\"lv\">  &#352;aj&#257; kr&#257;jum&#257; ir visi instrumenti, kurus ES sagatavojusi, pildot savas starptautisk&#257;s saist&#299;bas.\n\nNoz&#299;m&#299;g&#257;kie &#353;&#299;s kategorijas dokumenti: \n\n&#8226;\tnol&#299;gumi, kurus Eiropas Savien&#299;ba savas kompetences jom&#257;s nosl&#275;gusi ar &#257;rpussavien&#299;bas valst&#299;m vai starptautisk&#257;m organiz&#257;cij&#257;m; \n\n&#8226;\tl&#299;gumi, ko dal&#299;bvalstis un Eiropas Savien&#299;ba kop&#299;gi nosl&#275;gu&#353;as dal&#299;tas atbild&#299;bas jom&#257;s (jaukta tipa l&#299;gumi); \n\n&#8226;\tl&#275;mumi, kurus pie&#326;&#275;mu&#353;as apvienot&#257;s komitejas, kuras saska&#326;&#257; ar starptautiskiem l&#299;gumiem izveidotas attiec&#299;go l&#299;gumu administr&#275;&#353;anai un kur&#257;s ir attiec&#299;go l&#299;gumu parakst&#299;t&#257;jpu&#353;u p&#257;rst&#257;vji. \n\n\n</dct:description>\n<dct:description xml:lang=\"lt\">  &#268;ia pateikiami visi aktai, kuriuos ES pri&#279;m&#279; vykdydama tarptautinius &#303;sipareigojimus.\n\nPagrindin&#279;s &#353;ios kategorijos dokument&#371; r&#363;&#353;ys: \n\n&#8226;\tEuropos Bendrij&#371; ir joms nepriklausan&#269;i&#371; &#353;ali&#371; arba tarptautini&#371; organizacij&#371; susitarimai konkre&#269;iose atsakomyb&#279;s srityse; \n\n&#8226;\tvalstybi&#371; nari&#371; ir Europos Bendrij&#371; kartu sudaryti susitarimai bendrose atsakomyb&#279;s srityse (&#8222;mi&#353;r&#363;s&#8220; susitarimai); \n\n&#8226;\tjungtini&#371; komitet&#371;, &#303;steigt&#371; pagal tarptautinius susitarimus ir sudaryt&#371; i&#353; pasira&#353;i&#371;si&#371;j&#371; &#353;ali&#371; atstov&#371;, skirt&#371; tiems susitarimams administruoti, sprendimai. \n\n\n</dct:description>\n<dct:description xml:lang=\"hu\">  A gy&#369;jtem&#233;ny minden olyan okm&#225;nyt tartalmaz, amelyet nemzetk&#246;zi szerepv&#225;llal&#225;sa sor&#225;n az EU l&#233;trehozott.\n\nA k&#246;vetkez&#337; t&#237;pus&#250; dokumentumok tartoznak ide: \n\n&#8226;\taz Eur&#243;pai Uni&#243; &#233;s nem uni&#243;s orsz&#225;gok, illetve nemzetk&#246;zi szervezetek k&#246;z&#246;tt a hat&#225;sk&#246;r&#252;kbe tartoz&#243; ter&#252;leteken megk&#246;t&#246;tt meg&#225;llapod&#225;sok; \n\n&#8226;\ta tag&#225;llamok &#233;s az Eur&#243;pai Uni&#243; &#225;ltal k&#246;z&#246;sen megk&#246;t&#246;tt meg&#225;llapod&#225;sok azokon a ter&#252;leteken, amelyeken a felel&#337;ss&#233;g megoszlik k&#246;z&#246;tt&#252;k (&#250;n. vegyes meg&#225;llapod&#225;sok); \n\n&#8226;\tnemzetk&#246;zi meg&#225;llapod&#225;s alapj&#225;n, a meg&#225;llapod&#225;s v&#233;grehajt&#225;sa c&#233;lj&#225;b&#243;l l&#233;trehozott &#233;s az al&#225;&#237;r&#243; felek k&#233;pvisel&#337;ib&#337;l &#225;ll&#243; vegyes bizotts&#225;gok hat&#225;rozatai. \n\n\n</dct:description>\n<dct:description xml:lang=\"mt\">  Din il-&#289;abra tkopri l-istrumenti kollha prodotti mill-UE fl-e&#380;er&#267;itar tar-responsabbiltajiet internazzjonali tag&#295;ha.\n\nIt-tip ewlieni ta&#8217; dokumenti f&#8217;din il-kategorija huma: \n\n&#8226;\tftehimiet mill-Komunitajiet Ewropej ma' pajji&#380;i mhux membri jew ma' organizzazzjonijiet internazzjonali fl-oqsma spe&#267;ifi&#267;i ta' responsabbilt&#224; tag&#295;hom \n\n&#8226;\tftehimiet kon&#289;unti bejn l-Istati Membri u l-Komunitajiet Ewropej fl-oqsma ta' responsabbilt&#224; maqsuma (ftehim \"im&#295;allat\") \n\n&#8226;\tde&#267;i&#380;jonijiet tal-kumitati kon&#289;unti stabbiliti skont ftehim internazzjonali u li huma mag&#295;mulin minn rappre&#380;entanti tal-firmatarji g&#295;all-g&#295;an tal-amministrazzjoni tal-ftehim\n\n\n</dct:description>\n<dct:description xml:lang=\"nl\">  Deze collectie bevat alle instrumenten die de EU heeft geproduceerd bij de uitvoering van haar internationale bevoegdheden.\n\nDe voornaamste documenten in deze categorie zijn: \n\n&#8226;\tovereenkomsten tussen de Europese Gemeenschappen en niet-EU-landen of internationale organisaties op het specifieke gebied waarop zij bevoegd zijn \n\n&#8226;\tgezamenlijke overeenkomsten van EU-landen en de Europese Gemeenschappen op gebieden met een gedeelde verantwoordelijkheid (gemengde overeenkomsten) \n\n&#8226;\tbeslissingen van gemengde comit&#233;s met vertegenwoordigers van de ondertekenende partijen opgericht uit hoofde van en voor het beheer van internationale overeenkomsten \n\n\n</dct:description>\n<dct:description xml:lang=\"pl\">  Zbi&#243;r ten obejmuje wszystkie instrumenty opracowane przez Uni&#281; Europejsk&#261; i zwi&#261;zane z wykonywaniem jej mi&#281;dzynarodowych zobowi&#261;za&#324;.\n\nPodstawowe rodzaje dokument&#243;w to: \n\n&#8226;\tumowy zawarte przez Wsp&#243;lnoty Europejskie z pa&#324;stwami trzecimi lub z organizacjami mi&#281;dzynarodowymi w zakresie ich okre&#347;lonych kompetencji \n\n&#8226;\tumowy zawarte wsp&#243;lnie przez pa&#324;stwa cz&#322;onkowskie i Wsp&#243;lnoty Europejskie w zakresie wsp&#243;lnych kompetencji (tzw. umowy mieszane) \n\n&#8226;\tdecyzje wsp&#243;lnych komitet&#243;w ustanowionych na mocy umowy mi&#281;dzynarodowej i obejmuj&#261;cych przedstawicieli stron dla cel&#243;w wykonywania umowy. \n\n\n</dct:description>\n<dct:description xml:lang=\"pt\">  Esta cole&#231;&#227;o re&#250;ne todos os atos resultantes do exerc&#237;cio das compet&#234;ncias da UE no dom&#237;nio das rela&#231;&#245;es internacionais.\n\nOs principais tipos de atos nesta categoria s&#227;o os seguintes: \n\n&#8226;\tacordos celebrados pelas Comunidades Europeias com pa&#237;ses terceiros ou organiza&#231;&#245;es internacionais no &#226;mbito do exerc&#237;cio das suas compet&#234;ncias \n\n&#8226;\tacordos celebrados entre os Estados-Membros e as Comunidades Europeias em dom&#237;nios de compet&#234;ncia partilhada (acordos mistos) \n\n&#8226;\tdecis&#245;es de comit&#233;s mistos institu&#237;dos ao abrigo de um acordo internacional e constitu&#237;dos por representantes dos signat&#225;rios com vista &#224; gest&#227;o do acordo \n\n\n</dct:description>\n<dct:description xml:lang=\"ro\">  Aceast&#259; colec&#355;ie cuprinde toate documentele semnate de UE &#238;n exercitarea responsabilit&#259;&#355;ilor interna&#355;ionale.\n\nPrincipalele tipuri de documente &#238;n aceast&#259; categorie sunt: \n\n&#8226;\tacordurile &#238;ncheiate de UE cu &#355;&#259;ri ter&#355;e sau cu organiza&#355;ii interna&#355;ionale &#238;n domenii specifice \n\n&#8226;\tacordurile dintre statele membre &#351;i UE &#238;n domenii &#238;n care au responsabilit&#259;&#355;i comune (acorduri mixte) \n\n&#8226;\tdeciziile luate de comitetele mixte &#238;nfiin&#355;ate &#238;n baza unui acord interna&#355;ional, din care fac parte reprezentan&#355;ii semnatarilor &#238;ns&#259;rcina&#355;i cu gestionarea acordului. \n\n\n</dct:description>\n<dct:description xml:lang=\"sk\">  T&#225;to zbierka obsahuje v&#353;etky pr&#225;vne n&#225;stroje, ktor&#233; E&#218; prijala pri v&#253;kone svojich pr&#225;vomoci v oblasti medzin&#225;rodn&#253;ch vz&#357;ahov.\n\nHlavn&#233; typy dokumentov v tejto kateg&#243;rii s&#250;: \n\n&#8226;\tdohody uzavret&#233; Eur&#243;pskou &#250;niou s tret&#237;mi krajinami alebo medzin&#225;rodn&#253;mi organiz&#225;ciami na z&#225;klade jej v&#253;lu&#269;n&#253;ch pr&#225;vomoc&#237;; \n\n&#8226;\tdohody, ktor&#233; uzavreli &#269;lensk&#233; &#353;t&#225;ty a E&#218; v oblastiach spolo&#269;n&#253;ch pr&#225;vomoc&#237; (tzv. zmie&#353;an&#233; dohody); \n\n&#8226;\trozhodnutia spolo&#269;n&#253;ch v&#253;borov, ktor&#233; boli ustanoven&#233; pod&#318;a medzin&#225;rodnej dohody a s&#250; zlo&#382;en&#233; zo z&#225;stupcov signat&#225;rov na &#250;&#269;ely jej vykon&#225;vania. \n\n\n</dct:description>\n<dct:description xml:lang=\"sl\">  EUR-Lex vsebuje vse akte EU, nastale med izvajanjem njenih mednarodnih pristojnosti.\n\nNajpomembnej&#353;e vrste aktov: \n\n&#8226;\tsporazumi, ki jih je Evropska unija sklenila z dr&#382;avami ne&#269;lanicami ali z mednarodnimi organizacijami na razli&#269;nih podro&#269;jih; \n\n&#8226;\tsporazumi, ki so jih dr&#382;ave &#269;lanice in Evropska unija skupaj sklenile na podro&#269;jih deljene odgovornosti (sporazumi &#8222;me&#353;anega tipa&#8220;); \n\n&#8226;\todlo&#269;itve skupnih odborov, ustanovljenih za izvajanje sporazuma, v katerih so predstavniki podpisnic. \n\n</dct:description>\n<dct:description xml:lang=\"fi\"> Kokoelma k&#228;sitt&#228;&#228; kaikki oikeudelliset v&#228;lineet, joita EU on tuottanut kansainv&#228;lisi&#228; vastuitaan hoitaessaan.\n\nKeskeiset t&#228;h&#228;n luokkaan kuuluvat asiakirjat ovat: \n\n&#8226;\tsopimukset, joita Euroopan yhteis&#246;t ovat tehneet ulkopuolisten maiden tai kansainv&#228;listen organisaatioiden kanssa eri vastuualueilla \n\n&#8226;\tsopimukset, joita j&#228;senmaat ja Euroopan yhteis&#246;t ovat yhdess&#228; tehneet jaetuilla vastuualueilla \n\n&#8226;\tp&#228;&#228;t&#246;kset, joita kansainv&#228;lisill&#228; sopimuksilla perustetut sekakomiteat ovat tehneet sopimusten hallinnoimiseksi (sekakomiteoissa ovat edustettuina sopimuksen allekirjoittajat). \n\n \n</dct:description>\n<dct:description xml:lang=\"sv\">  Den h&#228;r samlingen inneh&#229;ller alla r&#228;ttsakter som EU har tagit fram f&#246;r sina f&#246;rbindelser med omv&#228;rlden.\n\nDen viktigaste dokumenttypen i den h&#228;r kategorin &#228;r: \n\n&#8226;\tAvtal som har ing&#229;tts mellan EU och l&#228;nder utanf&#246;r EU eller med internationella organisationer inom deras olika kompetensomr&#229;den \n\n&#8226;\tAvtal som har ing&#229;tts gemensamt av medlemsl&#228;nderna och EU p&#229; omr&#229;den med delat ansvar (gemensamma avtal) \n\n&#8226;\tBeslut som har fattats av de gemensamma kommitt&#233;er som har inr&#228;ttats enligt internationella avtal. Kommitt&#233;erna best&#229;r av f&#246;retr&#228;dare f&#246;r signat&#228;rerna och har till uppgift att att f&#246;rvalta avtalen.\n\n\n</dct:description>\n<dct:description xml:lang=\"ga\">Cuims&#237;onn an baili&#250;ch&#225;n seo na hionstraim&#237; uile a rinne an AE agus &#233; i mbun a fhreagrachta&#237; idirn&#225;isi&#250;nta.\n\nSeo iad na pr&#237;omhdhoicim&#233;id sa chatag&#243;ir seo: \n\n&#8226;\tcomhaontuithe a thug na Comhphobail Eorpacha i gcr&#237;ch le t&#237;ortha nach Ballst&#225;it n&#243; le heagra&#237;ochta&#237; idirn&#225;isi&#250;nta ina sainr&#233;ims&#237; freagrachta \n\n&#8226;\tcomhaontuithe a thug na Ballst&#225;it agus na Comhphobail Eorpacha i gcr&#237;ch le ch&#233;ile i gcomhr&#233;ims&#237; freagrachta (comhaontuithe 'measctha') \n\n&#8226;\tcinnt&#237; &#243; chomhchoist&#237; a buna&#237;odh faoi chomhaont&#250; idirn&#225;isi&#250;nta agus ar a bhfuil ionadaithe na s&#237;nitheoir&#237; ar mhaithe leis an gcomhaont&#250; a riaradh. \n\n\n</dct:description>\n      <!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Identifier, 0..*-->\n      <ecodp:ckan-name>eu-international-agreements</ecodp:ckan-name>\n      <!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><ecodp:keyword xml:lang=\"en\">Agreement</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">Protocol</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">EEA Joint Committee</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">EU Official Journal</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">EU law</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">European Community</ecodp:keyword>\n\t   <ecodp:keyword xml:lang=\"en\">EUR-Lex</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">International Agreements</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">European Atomic Energy Community</ecodp:keyword>\n      <!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Keyword, 0..*--><!--Identifier, 0..*--><!--Interoperability level, 0..1--><ecodp:interoperabilityLevel>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/interoperability-level/Legal\"/>\n       </ecodp:interoperabilityLevel>\n\t    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100145\"/> \n\t  <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100144\"/> \n\t <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1589\"/>\n      <!--Dataset type, 0..--><!--Documentation, 0..--><!--valid value are in set of  : Main Related WebPage--><!--Distribution, 0..--><dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://eur-lex.europa.eu/search.html?instInvStatus=ALL&amp;qid=1408034747588&amp;DTC=false&amp;DTS_DOM=EU_LAW&amp;type=advanced&amp;lang=en&amp;SUBDOM_INIT=INTER_AGREE&amp;DTS_SUBDOM=INTER_AGREE</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>text/html</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">List of international agreements </dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n      <dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://eur-lex.europa.eu/advanced-search-form.html</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>text/html</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Advanced search</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n      <dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://eur-lex.europa.eu/browse/directories/inter-agree.html</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>text/html</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Directory of international agreements</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n          <dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://eur-lex.europa.eu/collection/eu-law/inter-agree.html</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>text/html</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">About international agreements</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n         \n      <!--Catalog record , 0..*--><!--Geographical coverage , 0..*--><dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/AUT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BEL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CYP\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CZE\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DNK\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/EST\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GRC\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ESP\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FIN\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FRA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HRV\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/IRL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ITA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LTU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LUX\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LVA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/MLT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/NLD\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/POL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/PRT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ROU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SWE\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVN\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVK\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GBR\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BGR\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DEU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HUN\"/>\n      </dct:spatial>\n      <!--Publisher , 1..1--><dct:publisher>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/PUBL\"/>\n      </dct:publisher>\n      <!--Contact point , 0..1--><ecodp:contactPoint>\n         <foaf:Agent rdf:about=\"http://publications.europa.eu/\"><!--Contact point telephone, 0..1--><!--Contact point email, 0..1--><!--Contact point web page, 0..1--><foaf:workplaceHomepage rdf:resource=\"http://eur-lex.europa.eu/contact.html\"/>\n            <!--Contact point address, 0..1--><!--Contact point name, 1..1--><foaf:name xml:lang=\"en\">Publications Office of the European Union</foaf:name>\n         </foaf:Agent>\n      </ecodp:contactPoint>\n      <!--Dateset  issued , 0..1  []--><!--Dateset  last modified , 0..1--><!--Version 0..1--><!--License 1..--><dct:license>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n      </dct:license>\n      <!--Status 1..1--><ecodp:datasetStatus>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n      </ecodp:datasetStatus>\n      <!--Language 0..--><dct:language>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n      </dct:language>\n      <!--valid value are in set of  : Main Related WebPage--><!--Accrual Periodicity--><ecodp:accrualPeriodicity xml:lang=\"en\">daily</ecodp:accrualPeriodicity>\n      <!--Temporal coverage (periode) 0..1--></dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/eu-international-agreements\"><foaf:primaryTopic>http://eur-lex.europa.eu/collection/eu-law/inter-agree.html</foaf:primaryTopic><dct:modified>2014-10-29T07:42:03.903845</dct:modified><dct:issued>2014-10-29T07:42:03.903845</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://eur-lex.europa.eu/contact.html", 
+    "organization": {
+        "description": "", 
+        "title": "Publications Office", 
+        "created": "2012-12-12T13:50:56.476905", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:56.451833", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "702713e9-905d-4061-9847-18d42c3d395d", 
+        "type": "organization", 
+        "id": "f85e1721-1db8-4db7-84c4-fc798731ed18", 
+        "name": "publ"
+    }, 
+    "revision_id": "6fc22368-ba88-4eb9-ab92-ce5c4f5c7c31"
+}

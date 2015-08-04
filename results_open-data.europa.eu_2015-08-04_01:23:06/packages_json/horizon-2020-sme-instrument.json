@@ -1,0 +1,242 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 11, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "H2020", 
+            "name": "H2020", 
+            "revision_timestamp": "2014-09-24T13:27:56.935682", 
+            "state": "active", 
+            "id": "45c02f24-171b-4f35-b170-ee108f95c995"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Horizon 2020", 
+            "name": "Horizon 2020", 
+            "revision_timestamp": "2014-09-24T13:27:56.935682", 
+            "state": "active", 
+            "id": "85fabf84-d7a7-42f3-b1ea-b22474d2c968"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Research and innovation", 
+            "name": "Research and innovation", 
+            "revision_timestamp": "2014-09-24T13:27:56.935682", 
+            "state": "active", 
+            "id": "07345e35-2fbe-46cd-b9c6-3b44a2d2f89e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "SME", 
+            "name": "SME", 
+            "revision_timestamp": "2014-09-24T13:27:56.935682", 
+            "state": "active", 
+            "id": "a339dbbc-50b9-4d1c-b3a4-86553df8a98d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "SME Instrument", 
+            "name": "SME Instrument", 
+            "revision_timestamp": "2014-09-24T13:27:56.935682", 
+            "state": "active", 
+            "id": "fba6be40-9dd7-42e7-a16b-d0eafe82fa19"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "38693c07-f0f9-4328-ad5c-270433bb851b", 
+    "metadata_created": "2014-09-24T13:19:20.779713", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:17:30.574065", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2359", 
+            "name": "http://eurovoc.europa.eu/2359", 
+            "revision_timestamp": "2015-03-04T07:28:48.088049", 
+            "state": "active", 
+            "id": "6d2f4d5f-71a9-44cc-b27b-0b30a7da57d5"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6749", 
+            "name": "http://eurovoc.europa.eu/6749", 
+            "revision_timestamp": "2015-03-04T07:28:48.088049", 
+            "state": "active", 
+            "id": "666a12e9-6741-4cd7-b372-06b2c4a3755d"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/45", 
+            "name": "http://eurovoc.europa.eu/45", 
+            "revision_timestamp": "2015-03-04T07:28:48.088049", 
+            "state": "active", 
+            "id": "c0cfbcdb-1827-49bc-ad11-dadc03e7a3c1"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1439", 
+            "name": "http://eurovoc.europa.eu/1439", 
+            "revision_timestamp": "2015-03-04T07:28:48.088049", 
+            "state": "active", 
+            "id": "b0d58c90-ba8a-4b56-b4d2-e3358fa824bd"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Beneficiaries of H2020 SME Instrument (pdf list)", 
+            "format": "application/pdf", 
+            "url": "http://ec.europa.eu/research/participants/portal/doc/call/h2020/h2020-smeinst-1-2014/1625109-sme-instrument-beneficiaries-stage-1-june2014-public_en.pdf", 
+            "datastore_active": false, 
+            "created": "2014-09-24T15:23:41.540320", 
+            "tracking_summary": {
+                "total": 2, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-03T16:33:33.906713", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "67548b6e-596f-4617-a502-cc863d8789b0", 
+            "size": null, 
+            "resource_group_id": "d8871d85-5af1-4ce8-8edc-e4e776f57929", 
+            "id": "78cbacef-b338-4d30-a892-3a69e9604c7b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Beneficiaries of H2020 SME Instrument"
+        }, 
+        {
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Map of the benficiaries of SME Instrument", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/easme/sme/beneficiaries_en.htm", 
+            "datastore_active": false, 
+            "created": "2014-09-24T15:25:37.997355", 
+            "tracking_summary": {
+                "total": 3, 
+                "recent": 2
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-03T16:33:33.906713", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "67548b6e-596f-4617-a502-cc863d8789b0", 
+            "size": null, 
+            "resource_group_id": "d8871d85-5af1-4ce8-8edc-e4e776f57929", 
+            "id": "286c798c-41e4-44d1-93a8-1bb8ee09752c", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "Map of the benficiaries of SME Instrument"
+        }, 
+        {
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "SME Instrument webpage", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/easme/sme_en.htm", 
+            "datastore_active": false, 
+            "created": "2014-09-24T15:21:11.504557", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-03T16:33:33.906713", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "67548b6e-596f-4617-a502-cc863d8789b0", 
+            "size": null, 
+            "resource_group_id": "d8871d85-5af1-4ce8-8edc-e4e776f57929", 
+            "id": "bf37497e-1301-4ece-9329-218d524763ea", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "SME Instrument webpage"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Small and Medium-sized Enterprises that are EU-based or established in a country associated to Horizon 2020 can now get EU funding and support for innovation projects that will help them grow and expand their activities into other countries \u2013 in Europe and beyond.\r\n\r\nHorizon 2020 funds high-potential innovation through a dedicated SME instrument, which offers seamless business innovation support under the section Societal Challenges and the specific part Leadership in Enabling and Industrial Technologies (LEITs).\r\n\r\nProvided with about \u20ac 3 billion in funding over the period 2014-2020, the SME Instrument helps high-potential SMEs to develop groundbreaking innovative ideas for products, services or processes that are ready to face global market competition. Available to SMEs only, which can however organise a project in the way that best fits their business needs \u2013 meaning that subcontracting is not excluded \u2013 the new scheme has opened a new highway to innovation through phased, progressive and complimentary support.", 
+    "title": "Horizon 2020 SME Instrument", 
+    "tracking_summary": {
+        "total": 454, 
+        "recent": 24
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100147", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100147", 
+            "image_display_url": "", 
+            "id": "0b3e112c-4a87-450a-8212-dd997bd8ffaf", 
+            "name": "eurovoc_domain_100147"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100152", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100152", 
+            "image_display_url": "", 
+            "id": "08994bb7-2827-4215-a10b-d0f520fd70bb", 
+            "name": "eurovoc_domain_100152"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2014-09-24T13:19:20.779713", 
+    "name": "horizon-2020-sme-instrument", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "5da6c29f-545d-4914-ad1b-d98389da19f6", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://ec.europa.eu/easme/sme_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "Executive Agency for Small and Medium-sized Enterprises", 
+        "created": "2014-03-06T12:02:46.792785", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2014-03-06T11:02:46.767362", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "b7276018-5684-4bd6-a590-41058a788fe8", 
+        "type": "organization", 
+        "id": "5da6c29f-545d-4914-ad1b-d98389da19f6", 
+        "name": "easme"
+    }, 
+    "revision_id": "ace4fac4-5b80-4301-bc2e-390392663e32", 
+    "identifier": "", 
+    "version_description": ""
+}

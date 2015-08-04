@@ -1,0 +1,304 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 10, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Joint Customs Operations", 
+            "name": "Joint Customs Operations", 
+            "revision_timestamp": "2013-06-21T08:14:11.941952", 
+            "state": "active", 
+            "id": "19f1f277-8bc7-4983-87dc-07ea0aa96a0b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "OLAF", 
+            "name": "OLAF", 
+            "revision_timestamp": "2013-06-21T08:14:11.941952", 
+            "state": "active", 
+            "id": "64ba4aed-0a7e-4bb3-b95a-6f8f8c0e21d2"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "fraud", 
+            "name": "fraud", 
+            "revision_timestamp": "2013-06-21T08:14:11.941952", 
+            "state": "active", 
+            "id": "3086a60a-d6c3-4131-b651-b9c6c72f4b77"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "smuggling", 
+            "name": "smuggling", 
+            "revision_timestamp": "2013-06-21T08:14:11.941952", 
+            "state": "active", 
+            "id": "d641c935-008a-48d8-9896-0e8a2da52030"
+        }
+    ], 
+    "contact_name": "OLAF - European Commission", 
+    "id": "d2cf83bf-52b6-488f-ae11-122814c5448a", 
+    "metadata_created": "2015-07-27T16:50:06.631547", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T16:50:06.638339", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1092", 
+            "name": "http://eurovoc.europa.eu/1092", 
+            "revision_timestamp": "2015-02-25T15:24:56.786515", 
+            "state": "active", 
+            "id": "d8e08c2b-1fd3-41bd-8abc-c34861794352"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/528", 
+            "name": "http://eurovoc.europa.eu/528", 
+            "revision_timestamp": "2015-02-25T15:24:56.786515", 
+            "state": "active", 
+            "id": "c0d40c76-2e2f-4713-bf7f-52aa5ec7cf13"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/6256", 
+            "name": "http://eurovoc.europa.eu/6256", 
+            "revision_timestamp": "2015-02-25T15:24:56.786515", 
+            "state": "active", 
+            "id": "bb640348-98c1-4ab9-8e24-e537a45d4971"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "1920734c-2574-4d68-a4a4-9bf4f85d025f", 
+            "revision_timestamp": "2015-02-25T15:23:09.102238", 
+            "datastore_active": false, 
+            "id": "77105a97-4e38-40ab-8718-328e6805d2b7", 
+            "size": "26928", 
+            "state": "active", 
+            "hash": "", 
+            "description": "\"Operation Diabolo\", a joint international customs operation of the 27 EU Member States, with the participation of Interpol, Europol and the World Customs Organization, was organised in February by the European Anti-Fraud Office (OLAF) on behalf of the European Commission. \r\nNearly 135 million counterfeit branded cigarettes and 557,000 other counterfeit products like textiles, footwear, toys, furniture, suitcases and watches were seized. In cigarettes alone, the operation helped avoid potential losses of approximately 220 million euros in customs duties and taxes for the European Community and Member States' budgets.\r\n\r\n", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2012-05-02T13:36:27", 
+            "url_type": null, 
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "name": "Operation \"DIABOLO\"", 
+            "created": "2013-06-21T10:08:59.923632", 
+            "url": "http://ec.europa.eu/anti_fraud/policy/joint-customs-operations/diabolo-i/index_en.htm", 
+            "webstore_url": "enabled", 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "94c3681f-d591-411e-9690-a57bfd1d2f5c", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService"
+        }, 
+        {
+            "resource_group_id": "1920734c-2574-4d68-a4a4-9bf4f85d025f", 
+            "revision_timestamp": "2015-02-25T15:23:09.102238", 
+            "datastore_active": false, 
+            "id": "9728c89a-e264-4645-b2ce-25c5255469e6", 
+            "size": "25326", 
+            "state": "active", 
+            "hash": "", 
+            "description": "Operation Fake, the surveillance of maritime and air traffic from 17 to 27 May 2005, was the result of close cooperation between the Customs authorities of the 25 Member States, the European Anti-Fraud Office (OLAF) and the Taxation and Customs Union Directorate-General (DG TAXUD). The goal of the operation was to analyse the routes used by counterfeiters to gain access to Europe. \r\n\r\n", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2012-05-02T13:34:55", 
+            "url_type": null, 
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "name": "Operation \"Fake\"", 
+            "created": "2013-06-21T10:07:53.872906", 
+            "url": "http://ec.europa.eu/anti_fraud/policy/joint-customs-operations/fake/index_en.htm", 
+            "webstore_url": "enabled", 
+            "mimetype_inner": "", 
+            "position": 1, 
+            "revision_id": "94c3681f-d591-411e-9690-a57bfd1d2f5c", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService"
+        }, 
+        {
+            "resource_group_id": "1920734c-2574-4d68-a4a4-9bf4f85d025f", 
+            "revision_timestamp": "2015-02-25T15:23:09.102238", 
+            "datastore_active": false, 
+            "id": "9670c611-aa9f-4f47-a893-96d55473bfa3", 
+            "size": "25085", 
+            "state": "active", 
+            "hash": "", 
+            "description": "Brussels, 27 February 2012 \u2013 Around 1.2 million cigarettes were seized in the first joint customs operation targeting rail traffic along the EU Eastern border. Twenty-four EU Member States, Croatia, Turkey, Norway and Switzerland participated in the operation which was organised by the Polish Customs Service in close cooperation with the European Anti-Fraud Office (OLAF). The operation took place from 18 to 27 October 2011. The final results of the operation were made public today at the Polish Customs Service in Sopot in Poland. The results could only be made public now not to interfere with further enquiries which had to be performed by the various customs authorities.\r\n\r\n", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2012-05-02T13:34:57", 
+            "url_type": null, 
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "name": "Operation Barrel", 
+            "created": "2013-06-21T10:05:54.871224", 
+            "url": "http://ec.europa.eu/anti_fraud/policy/joint-customs-operations/barrel/barrel_en.htm", 
+            "webstore_url": "enabled", 
+            "mimetype_inner": "", 
+            "position": 2, 
+            "revision_id": "94c3681f-d591-411e-9690-a57bfd1d2f5c", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService"
+        }, 
+        {
+            "resource_group_id": "1920734c-2574-4d68-a4a4-9bf4f85d025f", 
+            "revision_timestamp": "2015-02-25T15:23:09.102238", 
+            "datastore_active": false, 
+            "id": "7cc87df9-e004-48da-9c81-383ab7805ee9", 
+            "size": "28069", 
+            "state": "active", 
+            "hash": "", 
+            "description": "Operation Diabolo II\", an international joint customs operation of the 27 EU Member States and 13 Asian countries, with the participation of Interpol and Europol, was organised in September 2009 by the European Anti-Fraud Office (OLAF) on behalf of the ASEM (Asia Europe). \r\n\r\nCounterfeit cigarettes and other counterfeit products originating from various ports in Asia were the target of the 2nd edition of the maritime operation codenamed \"Diabolo\".\r\nThe results of Diabolo II will be released on 27-29 January 2010 in Tokyo (Japan). During the ASEM debriefing meeting held on these dates, the results of the operation will be analysed by the customs authorities of the 27 Member States of the EU and the 13 Asian countries that took part in the operation.\r\n\r\n\r\n", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2012-05-02T13:36:31", 
+            "url_type": null, 
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "name": "Operation Diabolo II", 
+            "created": "2013-06-21T10:10:03.278432", 
+            "url": "http://ec.europa.eu/anti_fraud/policy/joint-customs-operations/diabolo-ii/index_en.htm", 
+            "webstore_url": "enabled", 
+            "mimetype_inner": "", 
+            "position": 3, 
+            "revision_id": "94c3681f-d591-411e-9690-a57bfd1d2f5c", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService"
+        }, 
+        {
+            "resource_group_id": "1920734c-2574-4d68-a4a4-9bf4f85d025f", 
+            "revision_timestamp": "2015-02-25T15:23:09.102238", 
+            "datastore_active": false, 
+            "id": "580e9d90-be1b-403f-b4ee-a5bf35f07766", 
+            "size": "25002", 
+            "state": "active", 
+            "hash": "", 
+            "description": "Around 40 million cigarettes, 1 243kg of hand-rolled tobacco, 7 038 litres of alcohol and 8 million other counterfeit items including clothing, shoes, toys and electronics, were seized during a joint customs cooperation, coordinated by the European Anti-Fraud Office (OLAF). \u201cOperation Sirocco\u201d, which also led to the arrest of 3 suspected cigarette traffickers, was a joint project carried out by the EU and 11 partner countries from the Union for the Mediterranean (UfM). The final results of this operation, which was conducted in June 2010, were made public the 1st October 2010 at a meeting in Amman, Jordan.\r\n\r\n", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2012-05-02T13:36:30", 
+            "url_type": null, 
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "name": "Operation Sirocco ", 
+            "created": "2013-06-21T10:07:02.613314", 
+            "url": "http://ec.europa.eu/anti_fraud/policy/joint-customs-operations/sirocco/index_en.htm", 
+            "webstore_url": "enabled", 
+            "mimetype_inner": "", 
+            "position": 4, 
+            "revision_id": "94c3681f-d591-411e-9690-a57bfd1d2f5c", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService"
+        }, 
+        {
+            "resource_group_id": "1920734c-2574-4d68-a4a4-9bf4f85d025f", 
+            "revision_timestamp": "2015-02-25T15:23:09.102238", 
+            "datastore_active": false, 
+            "id": "40204156-d9f3-4489-b876-ac6a8adc6820", 
+            "size": "22525", 
+            "state": "active", 
+            "hash": "", 
+            "description": "The operation targeted the importation of fruit and vegetables into the Community, in particular from southeast Asian countries.\r\n", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2012-05-02T13:36:32", 
+            "url_type": null, 
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "name": "Operation Wasabi", 
+            "created": "2013-06-21T10:11:50.454483", 
+            "url": "http://ec.europa.eu/anti_fraud/policy/joint-customs-operations/wasabi/index_en.htm", 
+            "webstore_url": "enabled", 
+            "mimetype_inner": "", 
+            "position": 5, 
+            "revision_id": "94c3681f-d591-411e-9690-a57bfd1d2f5c", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 6, 
+    "description": "The customs authorities of EU countries as well as some non-EU countries, in cooperation with European Anti-Fraud Office (OLAF), carry out regular joint customs operations with specific checks at European level. These operations are coordinated and targeted actions of a limited duration with the aim of combating the smuggling of sensitive goods and fraud in certain risky areas and/or on identified trade routes.\r\n\r\n", 
+    "title": "Joint Customs Operations (JCO)", 
+    "tracking_summary": {
+        "total": 308, 
+        "recent": 3
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100145", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100145", 
+            "image_display_url": "", 
+            "id": "b4c18652-77ac-48e0-a2c3-b431695009b8", 
+            "name": "eurovoc_domain_100145"
+        }
+    ], 
+    "creator_user_id": "d7af460f-8d9c-478c-a2a4-515d29479e4f", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T16:50:06.631547", 
+    "name": "joint-customs-operations-jco", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "929f9992-8041-45f1-bf8b-db7fd6dfb1e6", 
+    "contact_address": "Rue Joseph II, 30, 1000 Brussels ", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/anti_fraud/contacts/index_en.htm", 
+    "url": "http://ec.europa.eu/anti_fraud/policy/joint-customs-operations/index_en.htm", 
+    "organization": {
+        "description": "", 
+        "title": "European Anti-Fraud Office", 
+        "created": "2012-12-12T13:50:56.293165", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:56.268352", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "0a9ddaac-5fb8-4a64-b3d9-a30e17e2ac9e", 
+        "type": "organization", 
+        "id": "929f9992-8041-45f1-bf8b-db7fd6dfb1e6", 
+        "name": "olaf"
+    }, 
+    "revision_id": "ea79d88e-391f-4ff8-888a-a3706610db17", 
+    "identifier": "", 
+    "version_description": ""
+}

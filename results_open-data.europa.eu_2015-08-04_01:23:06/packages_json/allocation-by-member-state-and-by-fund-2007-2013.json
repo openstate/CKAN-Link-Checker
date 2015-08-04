@@ -1,0 +1,482 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 55, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/BGR", 
+        "http://publications.europa.eu/resource/authority/country/GBR", 
+        "http://publications.europa.eu/resource/authority/country/BEL", 
+        "http://publications.europa.eu/resource/authority/country/HUN", 
+        "http://publications.europa.eu/resource/authority/country/SVK", 
+        "http://publications.europa.eu/resource/authority/country/DNK", 
+        "http://publications.europa.eu/resource/authority/country/SWE", 
+        "http://publications.europa.eu/resource/authority/country/LTU", 
+        "http://publications.europa.eu/resource/authority/country/IRL", 
+        "http://publications.europa.eu/resource/authority/country/MLT", 
+        "http://publications.europa.eu/resource/authority/country/FRA", 
+        "http://publications.europa.eu/resource/authority/country/AUT", 
+        "http://publications.europa.eu/resource/authority/country/NLD", 
+        "http://publications.europa.eu/resource/authority/country/LVA", 
+        "http://publications.europa.eu/resource/authority/country/FIN", 
+        "http://publications.europa.eu/resource/authority/country/ESP", 
+        "http://publications.europa.eu/resource/authority/country/ROU", 
+        "http://publications.europa.eu/resource/authority/country/POL", 
+        "http://publications.europa.eu/resource/authority/country/GRC", 
+        "http://publications.europa.eu/resource/authority/country/DEU", 
+        "http://publications.europa.eu/resource/authority/country/HRV", 
+        "http://publications.europa.eu/resource/authority/country/CYP", 
+        "http://publications.europa.eu/resource/authority/country/SVN", 
+        "http://publications.europa.eu/resource/authority/country/ITA", 
+        "http://publications.europa.eu/resource/authority/country/PRT", 
+        "http://publications.europa.eu/resource/authority/country/LUX", 
+        "http://publications.europa.eu/resource/authority/country/EST", 
+        "http://publications.europa.eu/resource/authority/country/CZE"
+    ], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "ERDF", 
+            "name": "ERDF", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "23f9f764-32ed-4d80-a93d-bec493697923"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ESI", 
+            "name": "ESI", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "65289414-8ca6-4de4-b383-9efb203c01a9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "ESIF", 
+            "name": "ESIF", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "ca334b6c-6d48-4a20-9ee5-f69244158a1e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EU", 
+            "name": "EU", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "edc6d042-e9df-4708-a087-1ff2a8253a4a"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Europe", 
+            "name": "Europe", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "d151e468-8e9e-4aa3-be70-6da655092238"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European commission", 
+            "name": "European commission", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "e3b942a3-1f95-44c7-b3c6-d987a2a1b8b4"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European union", 
+            "name": "European union", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "99731b76-dcb6-4930-85ba-d9435999e5da"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "INTERREG", 
+            "name": "INTERREG", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "bbc78c31-3662-43cf-bbde-596a6e444cce"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "REGIO", 
+            "name": "REGIO", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "9a289704-ee25-4deb-bd4a-9c0ce209aca7"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "cohesion", 
+            "name": "cohesion", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "dcd340a8-bd24-406e-95f8-19df11759a9f"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "cooperation", 
+            "name": "cooperation", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "646cdec4-c77a-4cbd-9bf2-fb15c6223635"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "development", 
+            "name": "development", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "e9bb0d22-7e37-46dc-b015-ce77b0881a31"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "financing", 
+            "name": "financing", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "a0b9baf3-cf38-4a29-b377-3f4f12bfff92"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "fund", 
+            "name": "fund", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "bf75e2b3-5d7e-4e32-869b-3056ba3498ce"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "funding", 
+            "name": "funding", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "8d9f94fa-ea0b-45e4-a6a7-dcd94fc9cbcb"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "investment", 
+            "name": "investment", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "242e0748-a297-4605-b083-6b4fe0d9ebde"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "policy", 
+            "name": "policy", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "8b2fae61-850c-4114-bdb2-6f1bdd2e4aba"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "programmes", 
+            "name": "programmes", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "1ad757d0-60d2-4b78-8313-26e3cc3f635d"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "projects", 
+            "name": "projects", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "228e3a72-dc30-4c62-9ee9-2b9d26d0eefe"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "region", 
+            "name": "region", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "c19b1560-638a-47a6-985e-72d06744d1d3"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "regional", 
+            "name": "regional", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "aaf7f997-9e72-41a9-a442-18f53a09ca39"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "regional policy", 
+            "name": "regional policy", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "e7a728f3-7791-45b7-b67b-db223af9c522"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "structural funds", 
+            "name": "structural funds", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "e3daeaac-86f7-4604-82c5-5e209d73da04"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "territorial", 
+            "name": "territorial", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "326a82ee-bd36-4b68-bb3f-88e46bbac2b0"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "urban", 
+            "name": "urban", 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "id": "e7d4fffa-8af3-45b2-bac1-00e754ac59df"
+        }
+    ], 
+    "contact_name": "DG Regional and Urban Policy", 
+    "id": "74511700-bc31-4e0c-a5d5-e144dc630a1a", 
+    "metadata_created": "2014-11-13T16:23:37.284221", 
+    "modified_date": "2014-07-22", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T15:04:06.957537", 
+    "author": null, 
+    "author_email": null, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Breakdown by Member State and by Fund 2007-2013", 
+            "format": "text/csv", 
+            "url": "https://cohesiondata.ec.europa.eu/api/views/t7df-itnc/rows.csv?accessType=DOWNLOAD", 
+            "datastore_active": false, 
+            "created": "2014-11-13T17:23:38.792834", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "2b579405-e95f-4616-88a6-0daf3ec2b9a1", 
+            "size": null, 
+            "resource_group_id": "dbe411c9-3dec-4aa1-91a5-953f15e780d6", 
+            "id": "9b40996c-5882-4482-9c10-3db3696ff553", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Breakdown by Member State and by Fund 2007-2013", 
+            "format": "application/json", 
+            "url": "https://cohesiondata.ec.europa.eu/api/views/t7df-itnc/rows.json?accessType=DOWNLOAD", 
+            "datastore_active": false, 
+            "created": "2014-11-13T17:23:38.792871", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "2b579405-e95f-4616-88a6-0daf3ec2b9a1", 
+            "size": null, 
+            "resource_group_id": "dbe411c9-3dec-4aa1-91a5-953f15e780d6", 
+            "id": "fb7032b1-224c-455a-91ef-0f00903224ef", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Breakdown by Member State and by Fund 2007-2013", 
+            "format": "application/pdf", 
+            "url": "https://cohesiondata.ec.europa.eu/api/views/t7df-itnc/rows.pdf?accessType=DOWNLOAD", 
+            "datastore_active": false, 
+            "created": "2014-11-13T17:23:38.792881", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "2b579405-e95f-4616-88a6-0daf3ec2b9a1", 
+            "size": null, 
+            "resource_group_id": "dbe411c9-3dec-4aa1-91a5-953f15e780d6", 
+            "id": "902220ce-6f9e-4823-b4aa-defe74c227d7", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Breakdown by Member State and by Fund 2007-2013", 
+            "format": "application/vnd.ms-excel", 
+            "url": "https://cohesiondata.ec.europa.eu/api/views/t7df-itnc/rows.xls?accessType=DOWNLOAD", 
+            "datastore_active": false, 
+            "created": "2014-11-13T17:23:38.792887", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "2b579405-e95f-4616-88a6-0daf3ec2b9a1", 
+            "size": null, 
+            "resource_group_id": "dbe411c9-3dec-4aa1-91a5-953f15e780d6", 
+            "id": "102ca1e7-357c-4bff-ba1b-22f671a09871", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Breakdown by Member State and by Fund 2007-2013", 
+            "format": "application/rdf+xml", 
+            "url": "https://cohesiondata.ec.europa.eu/api/views/t7df-itnc/rows.rdf?accessType=DOWNLOAD", 
+            "datastore_active": false, 
+            "created": "2014-11-13T17:23:38.792902", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "2b579405-e95f-4616-88a6-0daf3ec2b9a1", 
+            "size": null, 
+            "resource_group_id": "dbe411c9-3dec-4aa1-91a5-953f15e780d6", 
+            "id": "69314b47-28d0-4ae9-ae98-f5953ed2c091", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Breakdown by Member State and by Fund 2007-2013", 
+            "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", 
+            "url": "https://cohesiondata.ec.europa.eu/api/views/t7df-itnc/rows.xlsx?accessType=DOWNLOAD", 
+            "datastore_active": false, 
+            "created": "2014-11-13T17:23:38.792910", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 5, 
+            "revision_id": "2b579405-e95f-4616-88a6-0daf3ec2b9a1", 
+            "size": null, 
+            "resource_group_id": "dbe411c9-3dec-4aa1-91a5-953f15e780d6", 
+            "id": "2cfe2d59-8e0e-4d5f-a961-7f8d14913496", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Breakdown by Member State and by Fund 2007-2013", 
+            "format": "text/xml", 
+            "url": "https://cohesiondata.ec.europa.eu/api/views/t7df-itnc/rows.xml?accessType=DOWNLOAD", 
+            "datastore_active": false, 
+            "created": "2014-11-13T17:23:38.792917", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2014-11-13T16:23:37.284221", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 6, 
+            "revision_id": "2b579405-e95f-4616-88a6-0daf3ec2b9a1", 
+            "size": null, 
+            "resource_group_id": "dbe411c9-3dec-4aa1-91a5-953f15e780d6", 
+            "id": "7652a54e-6a1b-4ce5-8f2c-f9e86645e8a5", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 7, 
+    "description": "This dataset includes the figures by Fund (European Regional Development Fund, European Social Fund, Cohesion Fund) for each Member State, except from the allocations for European Territorial Cooperation during the 2007-2013 programming period.", 
+    "title": "EU Regional Policy 2007-2013 : Allocation by Member State and by Fund", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "tracking_summary": {
+        "total": 116, 
+        "recent": 5
+    }, 
+    "contact_email": "regio-publication@ec.europa.eu", 
+    "groups": [], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-11-13T16:23:37.284221", 
+    "name": "allocation-by-member-state-and-by-fund-2007-2013", 
+    "isopen": true, 
+    "url": "https://cohesiondata.ec.europa.eu/d/t7df-itnc", 
+    "owner_org": "e943b50a-2387-471c-b650-200b4db693e2", 
+    "contact_address": "Communication Unit BU-1 00/14 B-1049 Brussels", 
+    "rdf": "<rdf:RDF xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\" xmlns=\"http://open-data.europa.eu/ontologies/ec-odp-example#\"><!--Dataset type and URI, don't fill in the CKAN catalog idnetifier here--><dcat:Dataset rdf:about=\"https://cohesiondata.ec.europa.eu/d/t7df-itnc\"><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><dct:title xml:lang=\"en\">EU Regional Policy 2007-2013 : Allocation by Member State and by Fund</dct:title>\n      <!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Title, 1 ... 1 can be filled in in multiple translations through--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Alternative Title(s), 0..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><dct:description xml:lang=\"en\">This dataset includes the figures by Fund (European Regional Development Fund, European Social Fund, Cohesion Fund) for each Member State, except from the allocations for European Territorial Cooperation during the 2007-2013 programming period.\n\t \n</dct:description>\n      <!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Description, 1..*--><!--Identifier, 0..*--><ecodp:ckan-name>allocation-by-member-state-and-by-fund-2007-2013</ecodp:ckan-name>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"bg\">&#1088;&#1077;&#1075;&#1080;&#1086;&#1085;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1088;&#1072;&#1079;&#1074;&#1080;&#1090;&#1080;&#1077;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1087;&#1088;&#1086;&#1075;&#1088;&#1072;&#1084;&#1080;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1088;&#1077;&#1075;&#1080;&#1086;&#1085;&#1072;&#1083;&#1085;&#1072; &#1087;&#1086;&#1083;&#1080;&#1090;&#1080;&#1082;&#1072;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1089;&#1090;&#1088;&#1091;&#1082;&#1090;&#1091;&#1088;&#1085;&#1080; &#1092;&#1086;&#1085;&#1076;&#1086;&#1074;&#1077;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1089;&#1073;&#1083;&#1080;&#1078;&#1072;&#1074;&#1072;&#1085;&#1077;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1045;&#1074;&#1088;&#1086;&#1087;&#1072;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1088;&#1077;&#1075;&#1080;&#1086;&#1085;&#1072;&#1083;&#1077;&#1085;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1092;&#1086;&#1085;&#1076;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1045;&#1060;&#1056;&#1056;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1092;&#1080;&#1085;&#1072;&#1085;&#1089;&#1080;&#1088;&#1072;&#1085;&#1077;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1087;&#1086;&#1083;&#1080;&#1090;&#1080;&#1082;&#1072;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1087;&#1088;&#1086;&#1077;&#1082;&#1090;&#1080;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1092;&#1080;&#1085;&#1072;&#1085;&#1089;&#1080;&#1088;&#1072;&#1085;&#1077;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1080;&#1085;&#1074;&#1077;&#1089;&#1090;&#1080;&#1094;&#1080;&#1080;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1045;&#1057;&#1048;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1045;&#1057;&#1048;&#1060;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1045;&#1074;&#1088;&#1086;&#1087;&#1077;&#1081;&#1089;&#1082;&#1072; &#1082;&#1086;&#1084;&#1080;&#1089;&#1080;&#1103;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1045;&#1074;&#1088;&#1086;&#1087;&#1077;&#1081;&#1089;&#1082;&#1080; &#1089;&#1098;&#1102;&#1079;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1045;&#1057;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1075;&#1088;&#1072;&#1076;&#1089;&#1082;&#1080;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">INTERREG</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1090;&#1077;&#1088;&#1080;&#1090;&#1086;&#1088;&#1080;&#1072;&#1083;&#1085;&#1086;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"bg\">&#1089;&#1098;&#1090;&#1088;&#1091;&#1076;&#1085;&#1080;&#1095;&#1077;&#1089;&#1090;&#1074;&#1086;</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"es\">regi&#243;n</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">desarrollo</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">programas</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">pol&#237;tica regional</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">fondos estructurales</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">cohesi&#243;n</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">europa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">regional</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">fondo</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">feder</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">fondos</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">pol&#237;tica</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">proyectos</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">financiaci&#243;n</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">inversi&#243;n</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">esif</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">comisi&#243;n europea</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">uni&#243;n europea</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">ue</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">urbano</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">territorial</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"es\">cooperaci&#243;n</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"cs\">region</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">rozvoj</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">programy</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">region&#225;ln&#237; politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">struktur&#225;ln&#237; fondy</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">soudr&#382;nost</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">evropa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">region&#225;ln&#237;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">fond</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">efrr</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">financov&#225;n&#237;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">projekty</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">finance</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">investice</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">esif</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">evropsk&#225; komise</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">evropsk&#225; unie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">eu</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">m&#283;stsk&#253;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">meziregion&#225;ln&#237;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">&#250;zemn&#237;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"cs\">spolupr&#225;ce</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"da\">region</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">udvikling</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">programmer</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">regionalpolitik</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">strukturfonde</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">samh&#248;righed</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">europa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">regional</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">fond</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">efru</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">st&#248;tte</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">politik</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">projekter</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">finansiering</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">investering</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">esif</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">europa-kommissionen</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">den europ&#230;iske union</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">eu</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">by</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">territorial</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"da\">samarbejde</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"de\">Region</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Entwicklung</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Programme</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Regionalpolitik</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Strukturfonds</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Koh&#228;sion</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Europa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">regional</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Fonds</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">EFRE</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Finanzmittel</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Politik</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Projekte</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Finanzierung</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Investitionen</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">ESI</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">ESIF</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Europ&#228;ische Kommission</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Europ&#228;ische Union</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">EU</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Stadt</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">territorial</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"de\">Zusammenarbeit</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"el\">&#960;&#949;&#961;&#953;&#966;&#941;&#961;&#949;&#953;&#945;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#945;&#957;&#940;&#960;&#964;&#965;&#958;&#951;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#960;&#961;&#959;&#947;&#961;&#940;&#956;&#956;&#945;&#964;&#945;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#960;&#949;&#961;&#953;&#966;&#949;&#961;&#949;&#953;&#945;&#954;&#942; &#960;&#959;&#955;&#953;&#964;&#953;&#954;&#942;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#948;&#953;&#945;&#961;&#952;&#961;&#969;&#964;&#953;&#954;&#940; &#964;&#945;&#956;&#949;&#943;&#945;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#963;&#965;&#957;&#959;&#967;&#942;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#949;&#965;&#961;&#974;&#960;&#951;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">region</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#960;&#949;&#961;&#953;&#966;&#949;&#961;&#949;&#953;&#945;&#954;&#972;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#964;&#945;&#956;&#949;&#943;&#959;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#949;&#964;&#960;&#945;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#949;&#960;&#953;&#967;&#959;&#961;&#942;&#947;&#951;&#963;&#951;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#960;&#959;&#955;&#953;&#964;&#953;&#954;&#942;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#941;&#961;&#947;&#945;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#967;&#961;&#951;&#956;&#945;&#964;&#959;&#948;&#972;&#964;&#951;&#963;&#951;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#949;&#960;&#941;&#957;&#948;&#965;&#963;&#951;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#949;&#948;&#949;&#964;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#949;&#948;&#949;&#964;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#949;&#965;&#961;&#969;&#960;&#945;&#970;&#954;&#942; &#949;&#960;&#953;&#964;&#961;&#959;&#960;&#942;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#949;&#965;&#961;&#969;&#960;&#945;&#970;&#954;&#942; &#941;&#957;&#969;&#963;&#951;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#949;&#949;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#945;&#963;&#964;&#953;&#954;&#942;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#949;&#948;&#945;&#966;&#953;&#954;&#942;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"el\">&#963;&#965;&#957;&#949;&#961;&#947;&#945;&#963;&#943;&#945;</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"en\">region</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">development</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">programmes</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">regional policy</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">structural funds</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">cohesion</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">Europe</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">REGIO</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">regional</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">fund</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">ERDF</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">funding</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">policy</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">projects</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">financing</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">investment</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">ESI</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">ESIF</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">European commission</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">European union</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">EU</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">urban</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">INTERREG</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">territorial</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"en\">cooperation</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"et\">piirkond</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">areng</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">programmid</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">regionaalpoliitika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">struktuurifondid</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">&#252;htekuuluvus</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">euroopa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">piirkondlik</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">fond</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">erf</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">rahastamine</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">poliitika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">projektid</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">finantseerimine</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">investeerimine</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">esif</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">euroopa komisjon</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">euroopa liit</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">el</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">linn</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">territoriaalne</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"et\">koost&#246;&#246;</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"fr\">r&#233;gion</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">d&#233;veloppement</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">programmes</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">politique r&#233;gionale</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">fonds structurels</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">coh&#233;sion</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">europe</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">r&#233;gional</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">fonds</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">feder</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">financement</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">politique</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">projets</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">investissement</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">fsi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">fsie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">commission europ&#233;enne</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">Union europ&#233;enne</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">UE</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">urbain</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">territorial</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"fr\">coop&#233;ration</ecodp:keyword>\n      <!--Keyword, 0..*--><!--Keyword, 0..*--><ecodp:keyword xml:lang=\"hr\">regija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">razvoj</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">programi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">regionalna politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">strukturalni fondovi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">kohezija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">europa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">regionalni</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">fond</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">erdf</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">potpora iz fondova</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">projekti</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">financiranje</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">ulaganje</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">esif</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">europska komisija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">europska unija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">eu</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">urbano</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">me&#273;uregionalno</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">teritorijalno</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hr\">suradnja</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"it\">regione</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">sviluppo</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">programmi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">politica regionale</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">fondi strutturali</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">coesione</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">europa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">regionale</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">fondo</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">fesr</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">aiuti</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">politica</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">progetti</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">finanziamento</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">investimento</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">esif</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">commissione europea</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">unione europea</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">ue</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">urbana</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">territoriale</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"it\">cooperazione</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"lv\">re&#291;ions</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">att&#299;st&#299;ba</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">programmas</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">re&#291;ion&#257;l&#257; politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">strukt&#363;rfondi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">koh&#275;zija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">eiropa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">re&#291;ion&#257;ls</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">fonds</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">eraf</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">l&#299;dzek&#316;i</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">projekti</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">finans&#275;jums</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">ieguld&#299;jumi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">esif</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">eiropas komisija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">eiropas savien&#299;ba</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">es</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">pils&#275;tvide</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">teritori&#257;ls</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lv\">sadarb&#299;ba</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"lt\">regionas</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">pl&#279;tra</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">programos</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">regionin&#279; politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">strukt&#363;riniai fondai</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">sanglauda</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">europa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">regioninis</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">fondas</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">erpf</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">finansavimas</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">projektai</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">l&#279;&#353;os</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">investicijos</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">esif</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">europos komisija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">europos s&#261;junga</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">es</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">miesto</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">teritorinis</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"lt\">bendradarbiavimas</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"hu\">r&#233;gi&#243;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">fejleszt&#233;s</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">programok</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">region&#225;lis politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">struktur&#225;lis alapok</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">koh&#233;zi&#243;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">eur&#243;pa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">region&#225;lis</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">alap</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">erfa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">t&#225;mogat&#225;s</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">projektek</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">finansz&#237;roz&#225;s</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">beruh&#225;z&#225;sok</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">esb</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">esb-alapok</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">eur&#243;pai bizotts&#225;g</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">eur&#243;pai uni&#243;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">eu</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">v&#225;rosi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">interregion&#225;lis</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">ter&#252;leti</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"hu\">egy&#252;ttm&#369;k&#246;d&#233;s</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"mt\">re&#289;jun</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">&#380;vilupp</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">programmi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">politika re&#289;jonali</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">fondi strutturali</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">koe&#380;joni</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">ewropa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">re&#289;jonali</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">fond</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">fer&#380;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">fondi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">pro&#289;etti</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">finanzjament</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">investiment</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">esif</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">kummissjoni ewropea</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">l-unjoni ewropea</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">eu</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">urban</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">territorjali</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"mt\">kooperazzjoni</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"nl\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">ontwikkeling</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">programma's</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">regionaal beleid</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">structuurfonds</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">cohesie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">europa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">regionaal</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">fonds</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">efro</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">fondsen</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">beleid</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">projecten</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">financiering</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">investering</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">esif</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">europese commissie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">europese unie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">eu</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">stedelijk</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">territoriaal</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"nl\">samenwerking</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"pl\">region</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">rozw&#243;j</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">programy</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">polityka regionalna</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">fundusze strukturalne</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">sp&#243;jno&#347;&#263;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">europa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">regionalny</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">fundusz</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">efrr</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">wsp&#243;&#322;finansowanie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">polityka</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">projekty</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">finansowanie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">inwestycja</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">fundusze strukturalne i inwestycyjne</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">komisja europejska</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">unia europejska</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">ue</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">miejski</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">terytorialny</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pl\">wsp&#243;&#322;praca</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"pt\">regi&#227;o</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">desenvolvimento</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">programas</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">pol&#237;tica regional</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">fundos estruturais</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">coes&#227;o</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">europa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">fundo</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">feder</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">financiamento</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">pol&#237;tica</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">projetos</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">apoio financeiro</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">investimento</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">eie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">esif</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">comiss&#227;o europeia</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">uni&#227;o europeia</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">ue</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">urbano</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">territorial</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"pt\">coopera&#231;&#227;o</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"ro\">regiune</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">dezvoltare</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">programe</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">politic&#259; regional&#259;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">fonduri structurale</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">coeziune</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">europa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">regional</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">fond</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">fedr</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">fonduri</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">politic&#259;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">proiecte</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">finan&#539;are</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">investi&#539;ii</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">fonduri esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">comisia european&#259;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">uniunea european&#259;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">ue</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">urban</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">interregional</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">teritorial</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"ro\">cooperare</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"sk\">regi&#243;n</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">rozvoj</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">programy</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">region&#225;lna politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">&#353;truktur&#225;lne fondy</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">s&#250;dr&#382;nos&#357;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">eur&#243;pa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">region&#225;lny</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">fond</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">efrr</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">financovanie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">projekty</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">financovanie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">invest&#237;cie</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">e&#353;if</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">eur&#243;pska komisia</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">eur&#243;pska &#250;nia</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">e&#250;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">mestsk&#253;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">medziregion&#225;lny</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">&#250;zemn&#253;</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sk\">spolupr&#225;ca</ecodp:keyword>\n      <!--Keyword, 0..*--><ecodp:keyword xml:lang=\"sl\">regija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">razvoj</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">programi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">regionalna politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">strukturni skladi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">kohezija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">evropa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">regionalno</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">sklad</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">esrr</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">finan&#269;na sredstva</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">politika</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">projekti</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">financiranje</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">nalo&#382;ba</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">skladi esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">evropska komisija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">evropska unija</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">eu</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">mesto</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">teritorialno</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sl\">sodelovanje</ecodp:keyword>\n      <!--Keyword, 0..*--><!--Keyword, 0..*--><ecodp:keyword xml:lang=\"sv\">region</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">utveckling</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">program</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">regionalpolitik</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">strukturfonderna</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">sammanh&#229;llning</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">europa</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">regio</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">regional</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">fond</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">eruf</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">st&#246;d</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">politik</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">projekt</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">finansiering</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">investering</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">esi</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">esif</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">europeiska kommissionen</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">europeiska unionen</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">eu</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">urban</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">interreg</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">territoriell</ecodp:keyword>\n      <ecodp:keyword xml:lang=\"sv\">samarbete</ecodp:keyword>\n      <!--Identifier, 0..*--><dct:identifier>t7df-itnc</dct:identifier>\n      <!--Interoperability level, 0..1--><!--Dataset type, 0..--><!--Documentation, 0..--><!--valid value are in set of  : Main Related WebPage-->\n\t  <!--Distribution, 0..--><dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://cohesiondata.ec.europa.eu/api/views/t7df-itnc/rows.csv?accessType=DOWNLOAD</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>text/csv</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Breakdown by Member State and by Fund 2007-2013</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n      <dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://cohesiondata.ec.europa.eu/api/views/t7df-itnc/rows.json?accessType=DOWNLOAD</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>application/json</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Breakdown by Member State and by Fund 2007-2013</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n      <dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://cohesiondata.ec.europa.eu/api/views/t7df-itnc/rows.pdf?accessType=DOWNLOAD</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>application/pdf</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Breakdown by Member State and by Fund 2007-2013</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n      <dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://cohesiondata.ec.europa.eu/api/views/t7df-itnc/rows.xls?accessType=DOWNLOAD</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>application/vnd.ms-excel</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Breakdown by Member State and by Fund 2007-2013</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n      <dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://cohesiondata.ec.europa.eu/api/views/t7df-itnc/rows.rdf?accessType=DOWNLOAD</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>application/rdf+xml</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Breakdown by Member State and by Fund 2007-2013</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n      <dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://cohesiondata.ec.europa.eu/api/views/t7df-itnc/rows.xlsx?accessType=DOWNLOAD</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Breakdown by Member State and by Fund 2007-2013</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n      <dcat:distribution rdf:parseType=\"Resource\"><!--Distribution access URL , 1..1--><dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://cohesiondata.ec.europa.eu/api/views/t7df-itnc/rows.xml?accessType=DOWNLOAD</dcat:accessURL>\n         <!--Distribution Type , 1..1--><rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n         <!--Distribution Format , 1..1--><ecodp:distributionFormat>application/xml</ecodp:distributionFormat>\n         <!--Distribution Description , 0..1--><dct:description xml:lang=\"en\">Breakdown by Member State and by Fund 2007-2013</dct:description>\n         <!--Distribution last modified , 0..1--><!--Distribution issued , 0..1--></dcat:distribution>\n\t \n      <!--Catalog record , 0..*--><!--Geographical coverage , 0..*--><dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/AUT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BEL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CYP\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/CZE\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DNK\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/EST\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GRC\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ESP\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FIN\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/FRA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HRV\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/IRL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ITA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LTU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LUX\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/LVA\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/MLT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/NLD\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/POL\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/PRT\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/ROU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SWE\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVN\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/SVK\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/GBR\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/BGR\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/DEU\"/>\n      </dct:spatial>\n      <dct:spatial>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/country/HUN\"/>\n      </dct:spatial>\n      <!--Publisher , 1..1--><dct:publisher>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/REGIO\"/>\n      </dct:publisher>\n      <!--Contact point , 0..1--><ecodp:contactPoint>\n         <foaf:Agent rdf:about=\"http://publications.europa.eu/\"><!--Contact point telephone, 0..1--><!--Contact point email, 0..1--><foaf:mbox>regio-publication@ec.europa.eu</foaf:mbox>\n            <!--Contact point web page, 0..1--><foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/regional_policy/index_en.cfm\"/>\n            <!--Contact point address, 0..1--><ecodp:contactAddress xml:lang=\"en\">Communication Unit BU-1 00/14 B-1049 Brussels</ecodp:contactAddress>\n            <!--Contact point name, 1..1--><foaf:name xml:lang=\"en\">DG Regional and Urban Policy</foaf:name>\n         </foaf:Agent>\n      </ecodp:contactPoint>\n      <!--Dateset  issued , 0..1  []--><!--Dateset  last modified , 0..1--><dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#date\">2014-07-22</dct:modified>\n      <!--Version 0..1--><!--License 1..--><dct:license>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n      </dct:license>\n      <!--Status 1..1--><ecodp:datasetStatus>\n         <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n      </ecodp:datasetStatus>\n      <!--Language 0..--><dct:language>\n         <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/language/ENG\"/>\n      </dct:language>\n      <!--valid value are in set of  : Main Related WebPage--><!--Accrual Periodicity--><!--Temporal coverage (periode) 0..1--></dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://opsrv529/data/dataset/allocation-by-member-state-and-by-fund-2007-2013\"><foaf:primaryTopic>https://cohesiondata.ec.europa.eu/d/t7df-itnc</foaf:primaryTopic><dct:modified>2014-11-13T17:23:37.256287</dct:modified><dct:issued>2014-11-13T17:23:37.256287</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/regional_policy/index_en.cfm", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Regional and Urban Policy", 
+        "created": "2012-12-12T13:50:56.601222", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:56.576460", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c03bdba7-8a93-4fd3-99fe-669752fb015d", 
+        "type": "organization", 
+        "id": "e943b50a-2387-471c-b650-200b4db693e2", 
+        "name": "regio"
+    }, 
+    "revision_id": "2b579405-e95f-4616-88a6-0daf3ec2b9a1", 
+    "identifier": "t7df-itnc"
+}

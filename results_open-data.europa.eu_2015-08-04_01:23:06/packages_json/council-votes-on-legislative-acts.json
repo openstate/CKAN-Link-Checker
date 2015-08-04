@@ -1,0 +1,343 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 28, 
+    "geographical_coverage": [
+        "http://publications.europa.eu/resource/authority/country/EU28"
+    ], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Council of the European Union", 
+            "name": "Council of the European Union", 
+            "revision_timestamp": "2015-02-17T11:49:32.999088", 
+            "state": "active", 
+            "id": "8a3e78a8-2ded-4fff-91b4-349a479b53ae"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EU law", 
+            "name": "EU law", 
+            "revision_timestamp": "2015-02-17T11:49:32.999088", 
+            "state": "active", 
+            "id": "555288d5-4de3-4268-bd2d-a40ee2630ee6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "decision-making", 
+            "name": "decision-making", 
+            "revision_timestamp": "2015-03-16T14:14:09.919463", 
+            "state": "active", 
+            "id": "c0277a52-2f47-4ba1-9fcf-6a48f2e1661e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "decision-making process", 
+            "name": "decision-making process", 
+            "revision_timestamp": "2015-03-16T14:14:09.919463", 
+            "state": "active", 
+            "id": "27a0820e-14e7-4622-9271-c6804345f038"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "legislative", 
+            "name": "legislative", 
+            "revision_timestamp": "2015-02-17T11:49:32.999088", 
+            "state": "active", 
+            "id": "33a5be47-b466-4994-9f87-cc7056709f78"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "legislative process", 
+            "name": "legislative process", 
+            "revision_timestamp": "2015-02-17T11:49:32.999088", 
+            "state": "active", 
+            "id": "472ab8c4-5db0-459b-8e23-3b9a698e66a6"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "policy", 
+            "name": "policy", 
+            "revision_timestamp": "2015-03-16T14:14:09.919463", 
+            "state": "active", 
+            "id": "8b2fae61-850c-4114-bdb2-6f1bdd2e4aba"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "vote", 
+            "name": "vote", 
+            "revision_timestamp": "2015-02-17T11:49:32.999088", 
+            "state": "active", 
+            "id": "12e0a5a4-24a8-4a49-b4b1-f214e82d2835"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "votes", 
+            "name": "votes", 
+            "revision_timestamp": "2015-02-17T11:49:32.999088", 
+            "state": "active", 
+            "id": "2a61a980-5a2b-42be-ad1b-8b2e1ac7f382"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "voting", 
+            "name": "voting", 
+            "revision_timestamp": "2015-02-17T11:42:22.277082", 
+            "state": "active", 
+            "id": "09b530f2-729f-490b-a7e2-13a926c24bd4"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "04f30728-5930-4e16-9c6c-176ffccb4478", 
+    "metadata_created": "2015-07-27T13:26:31.767718", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T13:36:35.124924", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/349", 
+            "name": "http://eurovoc.europa.eu/349", 
+            "revision_timestamp": "2015-03-16T14:52:03.055458", 
+            "state": "active", 
+            "id": "1155d562-5169-4941-bc1c-3815720ff0e6"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1451", 
+            "name": "http://eurovoc.europa.eu/1451", 
+            "revision_timestamp": "2015-03-16T14:52:03.055458", 
+            "state": "active", 
+            "id": "36aa5398-91a1-4481-94e9-110147aa34ee"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5258", 
+            "name": "http://eurovoc.europa.eu/5258", 
+            "revision_timestamp": "2015-03-16T14:52:03.055458", 
+            "state": "active", 
+            "id": "36cd3f1c-61fc-4b21-9366-a991a8038605"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/114", 
+            "name": "http://eurovoc.europa.eu/114", 
+            "revision_timestamp": "2015-03-16T14:52:03.055458", 
+            "state": "active", 
+            "id": "689e5245-ac66-4829-8057-6017f34cb3af"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/525", 
+            "name": "http://eurovoc.europa.eu/525", 
+            "revision_timestamp": "2015-03-16T14:52:03.055458", 
+            "state": "active", 
+            "id": "4ea06eff-3541-4be0-aa87-49e31c233b52"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4321", 
+            "name": "http://eurovoc.europa.eu/4321", 
+            "revision_timestamp": "2015-03-16T14:52:03.055458", 
+            "state": "active", 
+            "id": "a21460c3-2d4f-46ad-aa84-b9a589f7853d"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/3102", 
+            "name": "http://eurovoc.europa.eu/3102", 
+            "revision_timestamp": "2015-03-16T14:52:03.055458", 
+            "state": "active", 
+            "id": "af3bba53-05f6-4ac2-a26e-6186e0a94b83"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/440265", 
+            "name": "http://eurovoc.europa.eu/440265", 
+            "revision_timestamp": "2015-03-16T14:52:03.055458", 
+            "state": "active", 
+            "id": "9c748ef9-c0bc-4e42-8937-23bd6c2dd036"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/127", 
+            "name": "http://eurovoc.europa.eu/127", 
+            "revision_timestamp": "2015-03-16T14:52:03.055458", 
+            "state": "active", 
+            "id": "cd3245dd-6004-4abf-bf28-fb7106085354"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4017", 
+            "name": "http://eurovoc.europa.eu/4017", 
+            "revision_timestamp": "2015-03-16T14:52:03.055458", 
+            "state": "active", 
+            "id": "42a02c27-e56f-467a-b4a2-aafe31df8bba"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/440238", 
+            "name": "http://eurovoc.europa.eu/440238", 
+            "revision_timestamp": "2015-03-16T14:52:03.055458", 
+            "state": "active", 
+            "id": "c235e7fc-4df4-4c80-b53d-f2b0025cf2de"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/440549", 
+            "name": "http://eurovoc.europa.eu/440549", 
+            "revision_timestamp": "2015-03-16T14:52:03.055458", 
+            "state": "active", 
+            "id": "3bf338ab-706c-439a-b776-f128c447234f"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4750", 
+            "name": "http://eurovoc.europa.eu/4750", 
+            "revision_timestamp": "2015-03-16T14:52:03.055458", 
+            "state": "active", 
+            "id": "04f0494f-e2a3-4bc2-a7d7-fb277654ef87"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": "application/zip", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "The full RDF dump of the dataset: Council votes on legislative acts in the form of a compressed .ZIP file.", 
+            "format": "application/zip", 
+            "url": "http://data.consilium.europa.eu/data/public-voting/council-votes-on-legislative-acts.zip", 
+            "datastore_active": false, 
+            "created": "2015-02-17T12:23:54.872249", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-24T09:06:55.111699", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "8332c9cd-88e3-48ca-baea-4b13e2ef83a5", 
+            "size": null, 
+            "resource_group_id": "37e7d024-5a95-4551-9d85-84712e1a2764", 
+            "id": "47543fc1-d220-43bb-8700-4ae301c843fb", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": "Full Data: Council votes on legislative acts"
+        }, 
+        {
+            "mimetype": "application/sparql-query", 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "SPARQL endpoint for: Council votes on legislative acts", 
+            "format": "application/sparql-query", 
+            "url": "http://data.consilium.europa.eu/sparql", 
+            "datastore_active": false, 
+            "created": "2015-02-17T11:59:03.583594", 
+            "tracking_summary": {
+                "total": 2, 
+                "recent": 1
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-03-24T09:06:55.111699", 
+            "state": "active", 
+            "mimetype_inner": "", 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "8332c9cd-88e3-48ca-baea-4b13e2ef83a5", 
+            "size": null, 
+            "resource_group_id": "37e7d024-5a95-4551-9d85-84712e1a2764", 
+            "id": "5f54f08e-678f-4c20-bdc2-8720ae00521e", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService", 
+            "name": "SPARQL endpoint"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 2, 
+    "description": "The Council's voting records are public whenever it adopts a legislative act under the ordinary or a special legislative procedure. On average, the Council adopts 120 legislative acts per year.\r\n\r\nThis database contains not only the votes of the Council when adopting a legislative act but also information related to that act, such as:\r\n\r\n* act type (regulation, directive, decision or position), \r\n* act number (as published in the EU's Official Journal), \r\n* document number (submitted to the Council for adoption), \r\n* interinstitutional number, \r\n* date of adoption, \r\n* action by the Council (according to the steps of the legislative procedure), \r\n* form of adoption (in a Council meeting or by written procedure), \r\n* Council configuration, \r\n* Council session, \r\n* policy area, \r\n* voting procedure (ordinary or special legislative procedure), \r\n* voting rule (qualified majority or unanimity).\r\n\r\nFor more information please visit: http://www.consilium.europa.eu/en/general-secretariat/corporate-policies/transparency/open-data/ ", 
+    "title": "Council votes on legislative acts", 
+    "temporal_coverage_from": "2009-12-01", 
+    "tracking_summary": {
+        "total": 357, 
+        "recent": 10
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100142", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100142", 
+            "image_display_url": "", 
+            "id": "83eab3a4-b711-4582-9907-9317395b6628", 
+            "name": "eurovoc_domain_100142"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100145", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100145", 
+            "image_display_url": "", 
+            "id": "b4c18652-77ac-48e0-a2c3-b431695009b8", 
+            "name": "eurovoc_domain_100145"
+        }
+    ], 
+    "creator_user_id": "e906b56d-3ff0-4075-a6d0-5e4c64a8588c", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T13:26:31.767718", 
+    "name": "council-votes-on-legislative-acts", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "2f76e90d-b475-415f-a675-02dfb82939af", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://data.consilium.europa.eu/data/public-voting/", 
+    "organization": {
+        "description": "", 
+        "title": "Council of the European Union", 
+        "created": "2012-12-12T13:50:46.598665", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:46.573871", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "65ea4b7c-1784-4e1a-b911-0f6b4371f128", 
+        "type": "organization", 
+        "id": "2f76e90d-b475-415f-a675-02dfb82939af", 
+        "name": "consil"
+    }, 
+    "revision_id": "9b38c840-e3d5-4c6c-bd35-93bc9c28ba6f", 
+    "identifier": "", 
+    "version_description": ""
+}

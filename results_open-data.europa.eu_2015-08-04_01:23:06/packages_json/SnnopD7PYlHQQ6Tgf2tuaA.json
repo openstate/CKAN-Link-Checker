@@ -1,0 +1,245 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2014", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 6, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Social framework", 
+            "name": "Social framework", 
+            "revision_timestamp": "2014-12-22T08:47:31.517305", 
+            "state": "active", 
+            "id": "aa732913-8d8c-4572-b783-5bf11df7532e"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Social situation", 
+            "name": "Social situation", 
+            "revision_timestamp": "2014-12-22T08:47:31.517305", 
+            "state": "active", 
+            "id": "43b599dc-1d5e-4ece-9042-173dd0a1de69"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Unemployment", 
+            "name": "Unemployment", 
+            "revision_timestamp": "2014-12-22T08:47:31.517305", 
+            "state": "active", 
+            "id": "5154cab6-72a0-4498-a53a-d68022ff7d70"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "a824f798-1836-4d3c-b357-eb487dd01a94", 
+    "metadata_created": "2014-12-22T08:47:31.517305", 
+    "modified_date": "2015-05-11", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:47:26.378154", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1802", 
+            "name": "http://eurovoc.europa.eu/1802", 
+            "revision_timestamp": "2015-03-03T18:58:06.210684", 
+            "state": "active", 
+            "id": "01b42e14-0e3e-412b-bbaa-420e17766787"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00181.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:47:26.448365", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:47:26.377159", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "f48759af-8a4f-47e9-aae5-ff84ff4fea07", 
+            "size": null, 
+            "resource_group_id": "20bfe9d3-e433-4746-b695-2d9d773e5ae7", 
+            "id": "cae5adc2-719e-4aae-9b4f-9afd0ccb6780", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00181.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:47:26.448372", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:47:26.377159", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "f48759af-8a4f-47e9-aae5-ff84ff4fea07", 
+            "size": null, 
+            "resource_group_id": "20bfe9d3-e433-4746-b695-2d9d773e5ae7", 
+            "id": "f2f30a4e-0eaf-47a3-86c0-067c81e812cc", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "lfsi_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/lfsi_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:47:26.448313", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:47:26.377159", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "f48759af-8a4f-47e9-aae5-ff84ff4fea07", 
+            "size": null, 
+            "resource_group_id": "20bfe9d3-e433-4746-b695-2d9d773e5ae7", 
+            "id": "09a42dad-321b-41a0-924f-f0950e9f3dea", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/lfsi_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:47:26.448349", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:47:26.377159", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "f48759af-8a4f-47e9-aae5-ff84ff4fea07", 
+            "size": null, 
+            "resource_group_id": "20bfe9d3-e433-4746-b695-2d9d773e5ae7", 
+            "id": "2dd08823-7914-4758-92bb-7818cab29253", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00181", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:47:26.448357", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:47:26.377159", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "f48759af-8a4f-47e9-aae5-ff84ff4fea07", 
+            "size": null, 
+            "resource_group_id": "20bfe9d3-e433-4746-b695-2d9d773e5ae7", 
+            "id": "c0bd7547-f008-4e91-a636-8df2790199be", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The indicator \"Children aged 0-17 years living in jobless households\" is calculated as the share of children aged 0-17 who are living in households where no one is working, in the total population of the same age group. The indicator is based on the EU Labour Force Survey.", 
+    "title": "Jobless households - children", 
+    "temporal_coverage_from": "2003", 
+    "tracking_summary": {
+        "total": 6, 
+        "recent": 3
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T08:47:31.517305", 
+    "name": "SnnopD7PYlHQQ6Tgf2tuaA", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tps00181", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tps00181\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1802\"/>\n    <dct:title xml:lang=\"en\">Jobless households - children</dct:title>\n    <dct:title xml:lang=\"fr\">M&#233;nages sans emploi - enfants</dct:title>\n    <dct:title xml:lang=\"de\">Erwerbslose Haushalte - Kinder</dct:title>\n    <ecodp:keyword xml:lang=\"en\">Unemployment</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Social framework</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">Social situation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Ch&#244;mage</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Cadre social</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">Situation sociale</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Arbeitslosigkeit</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Sozialer Rahmen</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Soziale Lage</ecodp:keyword>\n    <dct:identifier>tps00181</dct:identifier>\n    <dct:description xml:lang=\"en\">The indicator \"Children aged 0-17 years living in jobless households\" is calculated as the share of children aged 0-17 who are living in households where no one is working, in the total population of the same age group. The indicator is based on the EU Labour Force Survey.</dct:description>\n    <dct:description xml:lang=\"fr\">L'indicateur &#171;enfants &#226;g&#233;s de 0 &#224; 17 ans vivant dans des m&#233;nages sans emploi&#187; est d&#233;fini comme la proportion de personnes de 0 &#224; 17 ans vivant dans les m&#233;nages dont aucun des membres n'a d'emploi, par rapport &#224; la population totale du m&#234;me groupe d'&#226;ge. L'indicateur est d&#233;riv&#233; de l'enqu&#234;te communautaire sur les forces de travail.</dct:description>\n    <dct:description xml:lang=\"de\">Der Indikator \"Kinder im Alter von 0-17 Jahren in erwerbslosen Haushalten\" wird definiert als der Anteil der Personen im Alter von 0-17 Jahren in Haushalten, in denen kein Mitglied einer Erwerbst&#228;tigkeit nachgeht, zur Gesamtpopulation der gleichen Altersgruppe. Der Indikator basiert aus der Arbeitskr&#228;fteerhebung der Gemeinschaft</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/lfsi_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/lfsi_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tps00181</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00181.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tps00181.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-05-11</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2003</ecodp:periodStart>\n        <ecodp:periodEnd>2014</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/SnnopD7PYlHQQ6Tgf2tuaA\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tps00181</foaf:primaryTopic><dct:modified>2015-07-31T08:30:33.207929</dct:modified><dct:issued>2014-12-22T08:47:31.517305</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "09735e48-c0ea-4154-b340-a13cc656123e", 
+    "identifier": "tps00181"
+}

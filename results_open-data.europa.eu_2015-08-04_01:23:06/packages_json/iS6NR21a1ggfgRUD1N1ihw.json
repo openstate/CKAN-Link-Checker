@@ -1,0 +1,175 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 3, 
+    "geographical_coverage": [], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "69881e33-585b-4578-b8da-225fe82a2a18", 
+    "metadata_created": "2015-03-27T10:20:20.566531", 
+    "modified_date": "2015-07-30", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T11:16:07.257561", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/56", 
+            "name": "http://eurovoc.europa.eu/56", 
+            "revision_timestamp": "2015-03-27T10:20:20.566531", 
+            "state": "active", 
+            "id": "e11c40fd-4749-49a0-934e-4d4f391248e8"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tesem160.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:16:07.343660", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:16:07.256519", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "cd80b792-6da3-45e7-8e0b-309b49838545", 
+            "size": null, 
+            "resource_group_id": "9d17b9d0-856d-4a3a-bb91-a7ef66ff40ac", 
+            "id": "9a0be4c7-29fb-4cf9-ad44-0b2b2e84b16c", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tesem160.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:16:07.343669", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:16:07.256519", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "cd80b792-6da3-45e7-8e0b-309b49838545", 
+            "size": null, 
+            "resource_group_id": "9d17b9d0-856d-4a3a-bb91-a7ef66ff40ac", 
+            "id": "f2080914-dd71-46fa-aea8-ba7d38c07ae8", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tesem160", 
+            "datastore_active": false, 
+            "created": "2015-08-03T13:16:07.343613", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T11:16:07.256519", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "cd80b792-6da3-45e7-8e0b-309b49838545", 
+            "size": null, 
+            "resource_group_id": "9d17b9d0-856d-4a3a-bb91-a7ef66ff40ac", 
+            "id": "47f9658d-96f9-4bdf-bb36-4e09ad2f428e", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 3, 
+    "description": "Gross domestic product (GDP) is a measure for the economic activity. It is defined as the value of all goods and services produced less the value of any goods or services used in their creation. GDP per person employed is intended to give an overall impression of the productivity of national economies expressed in relation to the European Union (EU28) average. If the index of a country is higher than 100, this country's level of GDP per person employed is higher than the EU average and vice versa. Basic figures are expressed in PPS, i.e. a common currency that eliminates the differences in price levels between countries allowing meaningful volume comparisons of GDP between countries. Please note that 'persons employed' does not distinguish between full-time and part-time employment. Labour productivity per hour worked is calculated as real output (deflated GDP measured in chain-linked volumes, reference year 2005) per unit of labour input (measured by the total number of hours worked). Measuring labour productivity per hour worked provides a better picture of productivity developments in the economy than labour productivity per person employed, as it eliminates differences in the full time/part time composition of the workforce across countries and years.", 
+    "title": "Labour productivity per person employed and hour worked (EU28=100)", 
+    "temporal_coverage_from": "2002", 
+    "tracking_summary": {
+        "total": 36, 
+        "recent": 6
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2015-03-27T10:20:20.566531", 
+    "name": "iS6NR21a1ggfgRUD1N1ihw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tesem160", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tesem160\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/56\"/>\n    <dct:title xml:lang=\"en\">Labour productivity per person employed and hour worked (EU28=100)</dct:title>\n    <dct:title xml:lang=\"fr\">Productivit&#233; de la main-d'oeuvre par personne occup&#233;e et heure travaill&#233;e (UE-28=100)</dct:title>\n    <dct:title xml:lang=\"de\">Arbeitsproduktivit&#228;t je Besch&#228;ftigteund und geleistete Arbeitsstunde (EU-28=100)</dct:title>\n    <dct:identifier>tesem160</dct:identifier>\n    <dct:description xml:lang=\"en\">Gross domestic product (GDP) is a measure for the economic activity. It is defined as the value of all goods and services produced less the value of any goods or services used in their creation. GDP per person employed is intended to give an overall impression of the productivity of national economies expressed in relation to the European Union (EU28) average. If the index of a country is higher than 100, this country's level of GDP per person employed is higher than the EU average and vice versa. Basic figures are expressed in PPS, i.e. a common currency that eliminates the differences in price levels between countries allowing meaningful volume comparisons of GDP between countries. Please note that 'persons employed' does not distinguish between full-time and part-time employment. Labour productivity per hour worked is calculated as real output (deflated GDP measured in chain-linked volumes, reference year 2005) per unit of labour input (measured by the total number of hours worked). Measuring labour productivity per hour worked provides a better picture of productivity developments in the economy than labour productivity per person employed, as it eliminates differences in the full time/part time composition of the workforce across countries and years.</dct:description>\n    <dct:description xml:lang=\"fr\">Le produit int&#233;rieur brut (PIB) est une mesure de l'activit&#233; &#233;conomique. Il est d&#233;fini comme la valeur de tous les biens et services produits moins la valeur des biens et services utilis&#233;s dans leur cr&#233;ation. Le PIB par emploi, exprim&#233; par rapport &#224; la moyenne de l'Union europ&#233;enne (UE28), est destin&#233; &#224; donner une impression d'ensemble de la productivit&#233; des &#233;conomies nationales. Si l'indice d'un pays est sup&#233;rieur &#224; 100, le niveau du PIB par personne occup&#233;e pour ce pays est sup&#233;rieur &#224; la moyenne de l'Union europ&#233;enne et vice versa. Les chiffres de base sont exprim&#233;s en SPA, c'est-&#224;-dire dans une monnaie commune qui &#233;limine les diff&#233;rences de niveaux de prix entre les pays, permettant des comparaisons entre pays de leurs PIB en termes r&#233;els. Il est &#224; noter que la notion de personnes ayant un emploi ne fait pas de distinction entre emploi &#224; temps complet et emploi &#224; temps partiel. La productivit&#233; de la main d'oeuvre par heure de travail est calcul&#233;e comme la production r&#233;elle (PIB hors inflation mesur&#233; en indice de volume chain&#233; jusqu'&#224; l'ann&#233;e de r&#233;f&#233;rence 2005) par unit&#233; de main-d'oeuvre (mesur&#233;e par le nombre total d'heures de travail). La mesure de la productivit&#233; de la main d'oeuvre par heure travaill&#233;e fournit une meilleure repr&#233;sentation des d&#233;veloppements de la productivit&#233; dans l'&#233;conomie que la productivit&#233; de la main d'oeuvre par personne employ&#233;e, puisqu'elle &#233;limine les diff&#233;rences entre plein temps et temps partiel dans la composition de la main-d'oeuvre entre les pays et dans le temps.</dct:description>\n    <dct:description xml:lang=\"de\">Das Bruttoinlandsprodukt (BIP) ist ein Ma&#223; f&#252;r die wirtschaftliche T&#228;tigkeit in einer Volkswirtschaft. Es ist definiert als Wert aller neu geschaffenen Waren und Dienstleistungen, abz&#252;glich des Wertes aller dabei als Vorleistungen verbrauchten G&#252;ter und Dienstleistungen. Das BIP in Kaufkraftstandards (KKS) je Besch&#228;ftigten wird relativ zum Durchschnitt der Europ&#228;ischen Union (EU28) ausgedr&#252;ckt. Ist der Indexwert eines Landes gr&#246;&#223;er als 100, so hat dieses Land ein BIP pro Besch&#228;ftigten &#252;ber dem EU-Durchschnitt (und umgekehrt). Die zugrunde liegenden Zahlen sind in KKS ausgedr&#252;ckt, einer einheitlichen W&#228;hrung, die Preisniveauunterschiede zwischen L&#228;ndern ausgleicht und damit aussagekr&#228;ftige BIP-Volumenvergleiche erlaubt. Man beachte, dass die Gr&#246;&#223;e 'Besch&#228;ftigte' nicht zwischen Vollzeit- und Teilzeitbesch&#228;ftigung differenziert. Die Arbeitsproduktivit&#228;t je geleisteter Arbeitsstunde wird berechnet als die tats&#228;chliche Produktionsleistung aus BIB (inflationsbereinigte verkettete Volumen, Referenzjahr 2005) und der Menge der eingesetzten Arbeitseinheiten (gemessen an der Gesamtzahl der Arbeitsstunden). Die gemessene Arbeitsproduktivit&#228;t je geleisteter Arbeitsstunde liefert ein besseres Bild der Produktivit&#228;tsentwicklung in der Wirtschaft als die Arbeitsproduktivit&#228;t je Besch&#228;ftigten, da es Unterschiede von Vollzeit/Teilzeit Erwerbst&#228;tiger &#252;ber L&#228;nder und Jahre beseitigt.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tesem160</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tesem160.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tesem160.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-30</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2002</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/iS6NR21a1ggfgRUD1N1ihw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tesem160</foaf:primaryTopic><dct:modified>2015-07-31T09:59:34.390300</dct:modified><dct:issued>2015-03-27T10:20:20.566531</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "a952d31e-afc9-488e-8a49-bd1db7fe5482", 
+    "identifier": "tesem160"
+}

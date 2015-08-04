@@ -1,0 +1,252 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 9, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "EIMS", 
+            "name": "EIMS", 
+            "revision_timestamp": "2014-06-16T08:09:34.150803", 
+            "state": "active", 
+            "id": "2be3396a-35ba-4504-99df-78d7f4b21ade"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "EIMS2", 
+            "name": "EIMS2", 
+            "revision_timestamp": "2014-06-16T08:09:34.150803", 
+            "state": "active", 
+            "id": "48c9d79b-74b0-47ba-bcfe-273584e3f196"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "European Commission", 
+            "name": "European Commission", 
+            "revision_timestamp": "2014-06-16T08:09:34.150803", 
+            "state": "active", 
+            "id": "582f172f-fa79-42e7-9967-a47a8da76e46"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Evaluation", 
+            "name": "Evaluation", 
+            "revision_timestamp": "2014-06-16T08:09:34.150803", 
+            "state": "active", 
+            "id": "8a6a9fca-ea9d-4298-811a-0f6627648961"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Regulatory Fitness and Performance", 
+            "name": "Regulatory Fitness and Performance", 
+            "revision_timestamp": "2014-06-16T08:09:34.150803", 
+            "state": "active", 
+            "id": "a2793e41-a904-4395-9e0f-284b9b2cb2d9"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Secretariat General", 
+            "name": "Secretariat General", 
+            "revision_timestamp": "2014-06-16T08:09:34.150803", 
+            "state": "active", 
+            "id": "7df1bae6-32b6-4394-8f43-07b5b70d651b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "Smart-regulation", 
+            "name": "Smart-regulation", 
+            "revision_timestamp": "2014-06-16T08:09:34.150803", 
+            "state": "active", 
+            "id": "d377ea53-ec2e-49ee-8b1b-faf5c4c7f437"
+        }
+    ], 
+    "contact_name": "European Commission, Secretariat-General, Unit SG.C.1 Evaluation, Regulatory Fitness and performance", 
+    "id": "1081b294-a71f-4435-94b3-9fa299bc2ec2", 
+    "metadata_created": "2014-06-16T08:09:34.150803", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-30T07:08:19.889944", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2451", 
+            "name": "http://eurovoc.europa.eu/2451", 
+            "revision_timestamp": "2015-02-03T06:45:11.461206", 
+            "state": "active", 
+            "id": "e58aa30b-59f4-4ac2-a295-b929213ed532"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "2d8207c7-49f5-4052-95f4-8b9377509383", 
+            "revision_timestamp": "2015-07-30T07:08:19.887868", 
+            "datastore_active": false, 
+            "id": "a12b44e3-7c67-4de0-95c6-ee1bb6f46cf8", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "A zip file with all CSV. One CSV per language. It can be opended with Excel easily.", 
+            "format": "application/zip", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-07-29T00:00:00", 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "All CSV zipped", 
+            "created": "2015-07-29T00:00:00", 
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-eims/SG-EIMS-csv.zip", 
+            "webstore_url": null, 
+            "mimetype_inner": null, 
+            "position": 3, 
+            "revision_id": "7e1a7e24-2388-49ec-9ceb-1e3d8f996dc0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "2d8207c7-49f5-4052-95f4-8b9377509383", 
+            "revision_timestamp": "2015-07-30T07:08:19.887868", 
+            "datastore_active": false, 
+            "id": "bc9d9892-9088-41b0-9e94-5ac1afb3ac9c", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "A zip file with all RSS. RSS are grouped by language. Small groups can be joined and big broups can be splited.", 
+            "format": "application/zip", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-07-29T00:00:00", 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "All RSS zipped", 
+            "created": "2015-07-29T00:00:00", 
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-eims/SG-EIMS-rss.zip", 
+            "webstore_url": null, 
+            "mimetype_inner": null, 
+            "position": 2, 
+            "revision_id": "7e1a7e24-2388-49ec-9ceb-1e3d8f996dc0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "2d8207c7-49f5-4052-95f4-8b9377509383", 
+            "revision_timestamp": "2015-07-30T07:08:19.887868", 
+            "datastore_active": false, 
+            "id": "8a1621e2-06ff-46bb-a163-e77519b6076d", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "RDF with all links to RSS and CSV of EIMS", 
+            "format": "application/rdf+xml", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-07-29T00:00:00", 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "RDF distribution", 
+            "created": "2015-07-29T00:00:00", 
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-eims/SG-EIMS.rdf", 
+            "webstore_url": null, 
+            "mimetype_inner": null, 
+            "position": 1, 
+            "revision_id": "7e1a7e24-2388-49ec-9ceb-1e3d8f996dc0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }, 
+        {
+            "resource_group_id": "2d8207c7-49f5-4052-95f4-8b9377509383", 
+            "revision_timestamp": "2015-07-30T07:08:19.887868", 
+            "datastore_active": false, 
+            "id": "2086ceb0-4735-43ab-9f8c-628da07979d0", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "1 RSS files and 1 CSV files", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2015-07-29T00:00:00", 
+            "url_type": null, 
+            "mimetype": null, 
+            "cache_url": null, 
+            "name": "RSS feed", 
+            "created": "2015-07-29T00:00:00", 
+            "url": "https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-eims", 
+            "webstore_url": null, 
+            "mimetype_inner": null, 
+            "position": 0, 
+            "revision_id": "7e1a7e24-2388-49ec-9ceb-1e3d8f996dc0", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#WebService"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "accrual_periodicity": "daily", 
+    "num_resources": 4, 
+    "description": "The Commission regularly evaluates EU actions (policies, legislation, trade agreements and financial programmes).Evaluations are an essential part of the decision making process. They are required under the Financial Regulation and carried out according to evaluation standards.From the standards, the Commission derives guidelines for its staff to use during the evaluation process including guidance on fitness checks, which assess whether the regulatory framework for a policy sector is fit for purpose.Evaluation results are fed into the Commission Work Programme and disseminated to the European Parliament, the Council and spending administrative authorities. For legislation specifically, the Commission's REFIT regulatory fitness and performance programme identifies opportunities for simplifying existing legislation and reducing administrative burdens.", 
+    "title": "Smart-regulation, Evaluation", 
+    "tracking_summary": {
+        "total": 288, 
+        "recent": 7
+    }, 
+    "contact_email": "SG-EVALUATION-AND-SIMPLIFICATION@ec.europa.eu", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-06-16T08:09:34.150803", 
+    "name": "sg-eims", 
+    "language": [], 
+    "url": "http://ec.europa.eu/smart-regulation/evaluation", 
+    "owner_org": "e3814f3c-1ebf-4bd3-a74a-9dd94bfc9133", 
+    "contact_address": "Berlaymont 06/391, 200 Rue de la Loi, B-1049 Brussels, Belgium", 
+    "contact_telephone": "+32.229.96561", 
+    "rdf": "<rdf:RDF xmlns=\"http://open-data.europa.eu/ontologies/ec-odp-example#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema#\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:owl=\"http://www.w3.org/2002/07/owl#\" xmlns:skos-xl=\"http://www.w3.org/2008/05/skos-xl#\" xmlns:dcam=\"http://purl.org/dc/dcam/\" xmlns:rdfs=\"http://www.w3.org/2000/01/rdf-schema#\">\n\n\t<dcat:Dataset rdf:about=\"http://ec.europa.eu/smart-regulation/evaluation\">\n\t\t<ecodp:ckan-name>sg-eims</ecodp:ckan-name>\n        <dct:identifier>EIMS</dct:identifier>\n<dct:title xml:lang=\"en\">Smart-regulation, Evaluation</dct:title>\n<dct:description xml:lang=\"en\">The Commission regularly evaluates EU actions (policies, legislation, trade agreements and financial programmes).Evaluations are an essential part of the decision making process. They are required under the Financial Regulation and carried out according to evaluation standards.From the standards, the Commission derives guidelines for its staff to use during the evaluation process including guidance on fitness checks, which assess whether the regulatory framework for a policy sector is fit for purpose.Evaluation results are fed into the Commission Work Programme and disseminated to the European Parliament, the Council and spending administrative authorities. For legislation specifically, the Commission's REFIT regulatory fitness and performance programme identifies opportunities for simplifying existing legislation and reducing administrative burdens.</dct:description>\n<ecodp:keyword xml:lang=\"en\">Smart-regulation</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\"> Evaluation</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\"> European Commission</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\"> Secretariat General</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\"> Regulatory Fitness and Performance</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\"> EIMS</ecodp:keyword>\n<ecodp:keyword xml:lang=\"en\"> EIMS2</ecodp:keyword>\n\n\t\t<dct:publisher rdf:resource=\"http://publications.europa.eu/resource/authority/corporate-body/SG\"/>\n\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t<dct:title xml:lang=\"en\">RSS feed</dct:title>\n\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-eims</dcat:accessURL>\t\n\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#WebService\"/>    \t\n\t\t\t<ecodp:distributionFormat>text/html</ecodp:distributionFormat>\n\t\t\t<dct:description xml:lang=\"en\">1 RSS files and 1 CSV files</dct:description>\n\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#Date\">2015-07-29</dct:modified>\n\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#Date\">2015-07-29</dct:issued>\n\t\t</dcat:distribution>\n\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t<dct:title xml:lang=\"en\">RDF distribution</dct:title>\n\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-eims/SG-EIMS.rdf</dcat:accessURL>\n\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t<ecodp:distributionFormat>application/rdf</ecodp:distributionFormat>\n\t\t\t<dct:description xml:lang=\"en\">RDF with all links to RSS and CSV of EIMS</dct:description>\n\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#Date\">2015-07-29</dct:modified>\n\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#Date\">2015-07-29</dct:issued>\n\t\t</dcat:distribution>\n\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t<dct:title xml:lang=\"en\">All RSS zipped</dct:title>\n\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-eims/SG-EIMS-rss.zip</dcat:accessURL>\n\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t<ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n\t\t\t<dct:description xml:lang=\"en\">A zip file with all RSS. RSS are grouped by language. Small groups can be joined and big broups can be splited.</dct:description>\n\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#Date\">2015-07-29</dct:modified>\n\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#Date\">2015-07-29</dct:issued>\n\t\t</dcat:distribution>\n\t\t<dcat:distribution rdf:parseType=\"Resource\">\n\t\t\t<dct:title xml:lang=\"en\">All CSV zipped</dct:title>\n\t\t\t<dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-eims/SG-EIMS-csv.zip</dcat:accessURL>\n\t\t\t<rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n\t\t\t<ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n\t\t\t<dct:description xml:lang=\"en\">A zip file with all CSV. One CSV per language. It can be opended with Excel easily.</dct:description>\n\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#Date\">2015-07-29</dct:modified>\n\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#Date\">2015-07-29</dct:issued>\n\t\t</dcat:distribution>\n\t\t<dct:license>\n\t\t\t<skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n\t\t</dct:license>\n\t\t<ecodp:datasetStatus rdf:resource=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n\t\t<ecodp:contactPoint>\n\t\t\t<foaf:Agent rdf:about=\"http://ec.europa.eu/smart-regulation/evaluation\">\n\t\t\t\t<foaf:phone>+32.229.96561</foaf:phone>\n\t\t\t\t<foaf:mbox>SG-EVALUATION-AND-SIMPLIFICATION@ec.europa.eu</foaf:mbox>\n\t\t\t\t<foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/smart-regulation/evaluation\"/>\n\t\t\t\t<ecodp:contactAddress xml:lang=\"en\">Berlaymont 06/391, 200 Rue de la Loi, B-1049 Brussels, Belgium</ecodp:contactAddress>\n\t\t\t\t<foaf:name xml:lang=\"en\">European Commission, Secretariat-General, Unit SG.C.1 Evaluation, Regulatory Fitness and performance</foaf:name>\n\t\t\t</foaf:Agent>\n\t\t</ecodp:contactPoint>\n\t\t<ecodp:accrualPeriodicity xml:lang=\"en\">daily</ecodp:accrualPeriodicity>\n\t\t\n\t\t<dct:subject rdf:resource=\"http://eurovoc.europa.eu/100144\"/>\n\t\t\t\n\t\t<dcat:theme rdf:resource=\"http://eurovoc.europa.eu/2451\"/>\n\t\t\t\n\t\t<dcat:record rdf:parseType=\"Resource\">\n\t\t\t\n\t\t\t\t<dct:description xml:lang=\"en\">RSS 1 of 1 containing 1522 items.\n                \tCategory: . \n                \tTotal for category: 1522. \n                    Total for language (en): 1522. \n                    Total general: 1522.</dct:description>\n\t\t\t\t<ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-eims/rss/SG-EIMS-001-EN-rss.xml</ecodp:accessURL>\n\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#Date\">2015-07-29</dct:modified>\n\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#Date\">2015-07-29</dct:issued>\n\t\t\t\n\t\t</dcat:record>\n\t\t\n\t\t<dcat:record rdf:parseType=\"Resource\">\n\t\t\t\n\t\t\t\t<dct:description xml:lang=\"en\">CSV 1 of 1 containing 1522 items (en)</dct:description>\n\t\t\t\t<ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">https://ec.europa.eu/dgs/secretariat_general/tools/opendata/sg-eims/csv/SG-EIMS-EN.csv</ecodp:accessURL>\n\t\t\t\t<dct:modified rdf:datatype=\"http://www.w3.org/2001/XMLSchema#Date\">2015-07-29</dct:modified>\n\t\t\t\t<dct:issued rdf:datatype=\"http://www.w3.org/2001/XMLSchema#Date\">2015-07-29</dct:issued>\n\t\t\t\n\t\t</dcat:record>\n\t\t\n\t</dcat:Dataset>\n   <dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/sg-eims\"><foaf:primaryTopic>http://ec.europa.eu/smart-regulation/evaluation</foaf:primaryTopic><dct:modified>2015-07-27T13:45:17.259686</dct:modified><dct:issued>2014-06-16T08:09:34.150803</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/smart-regulation/evaluation", 
+    "organization": {
+        "description": "", 
+        "title": "Secretariat-General", 
+        "created": "2012-12-12T13:50:56.968694", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:56.943745", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "e08f939d-1cdf-4f44-ad6c-cb2f927e98b7", 
+        "type": "organization", 
+        "id": "e3814f3c-1ebf-4bd3-a74a-9dd94bfc9133", 
+        "name": "sg"
+    }, 
+    "revision_id": "962eb152-d08c-4136-8311-e8b3a7d97463", 
+    "identifier": "EIMS"
+}

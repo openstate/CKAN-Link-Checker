@@ -1,0 +1,178 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013-08-01", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 12, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "Victim", 
+            "name": "Victim", 
+            "revision_timestamp": "2014-09-02T15:18:44.243831", 
+            "state": "active", 
+            "id": "006a97b4-5ec3-4aae-ac39-8b8236c7b2da"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "access to justice", 
+            "name": "access to justice", 
+            "revision_timestamp": "2014-09-03T10:27:26.809022", 
+            "state": "active", 
+            "id": "ddbe0077-ce18-4a30-ab03-2a14319724ad"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "compensation", 
+            "name": "compensation", 
+            "revision_timestamp": "2014-09-03T10:27:26.809022", 
+            "state": "active", 
+            "id": "5d50e7cb-66fa-4daa-8159-838430e87d02"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "crime", 
+            "name": "crime", 
+            "revision_timestamp": "2014-09-03T10:27:26.809022", 
+            "state": "active", 
+            "id": "7adb31da-a0ed-4702-ad69-2b95d938299b"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "indemnification", 
+            "name": "indemnification", 
+            "revision_timestamp": "2014-09-02T15:18:44.243831", 
+            "state": "active", 
+            "id": "07dfe67f-7799-4a55-b260-081682b57520"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "legal aid", 
+            "name": "legal aid", 
+            "revision_timestamp": "2014-09-02T15:18:44.243831", 
+            "state": "active", 
+            "id": "52b04dfa-0a5c-40ce-af29-ebf9c8e86e03"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "legal assistance", 
+            "name": "legal assistance", 
+            "revision_timestamp": "2014-09-03T10:27:26.809022", 
+            "state": "active", 
+            "id": "4cd4634d-b78c-486c-b9cb-58ca6a746cd1"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "legal data processing", 
+            "name": "legal data processing", 
+            "revision_timestamp": "2014-09-02T15:18:44.243831", 
+            "state": "active", 
+            "id": "138f9803-28a9-4440-915b-19d42a303edd"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "legal system", 
+            "name": "legal system", 
+            "revision_timestamp": "2014-09-02T15:18:44.243831", 
+            "state": "active", 
+            "id": "271fa0fc-cf44-4c3b-b2dd-eaf2acc272a3"
+        }
+    ], 
+    "contact_name": "Jonas Grimheden", 
+    "id": "3b6c8e45-4d44-4705-94f9-d5d07af3b40d", 
+    "metadata_created": "2015-07-27T14:19:52.343789", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T14:19:52.345024", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "d1fa31c6-071d-4baf-86f3-8f652a75e1eb", 
+            "revision_timestamp": "2014-09-02T15:24:12.936382", 
+            "datastore_active": false, 
+            "id": "ecb290e2-9796-40e3-85d8-8496b53a01d1", 
+            "size": null, 
+            "state": "active", 
+            "hash": "", 
+            "description": "The data provides an overview of some of the key aspects related to support services for victims of crime.", 
+            "format": "text/html", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2014-07-30T00:00:00", 
+            "url_type": null, 
+            "mimetype": "text/html", 
+            "cache_url": null, 
+            "name": "Mapping victims\u2019 rights and support in the EU", 
+            "created": "2014-09-02T17:24:14.686846", 
+            "url": "http://fra.europa.eu/en/publications-and-resources/data-and-maps/comparative-data/victims-support-services", 
+            "webstore_url": null, 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "bd7ec52a-6944-4799-bf5d-dffd8f713a65", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/UnderDevelopment"
+    ], 
+    "num_resources": 1, 
+    "description": "This data provides an overview of some of the key aspects related to support services for victims of crime.", 
+    "title": "Victim Support Services in the EU: An overview and assessment of victims' rights in practice", 
+    "temporal_coverage_from": "2011-11", 
+    "tracking_summary": {
+        "total": 102, 
+        "recent": 0
+    }, 
+    "contact_email": "access2justice@fra.europa.eu", 
+    "groups": [], 
+    "creator_user_id": "afb2e66b-5a6b-4d87-a48b-ca3ffaac2157", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Semantic"
+    ], 
+    "revision_timestamp": "2015-07-27T14:19:52.343789", 
+    "name": "victim-support-services-eu", 
+    "language": [
+        "http://publications.europa.eu/resource/authority/language/ENG"
+    ], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "release_date": "2014-07-30", 
+    "owner_org": "c254d501-1e16-4fde-a1dd-e015994ea6eb", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://fra.europa.eu/en/project/2012/victim-support-services-eu-overview-and-assessment-victims-rights-practice", 
+    "organization": {
+        "description": "", 
+        "title": "European Union Agency for Fundamental Rights", 
+        "created": "2012-12-12T13:50:53.929902", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:53.905500", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "1f5e333b-2116-4dba-80be-610d0c4cabf3", 
+        "type": "organization", 
+        "id": "c254d501-1e16-4fde-a1dd-e015994ea6eb", 
+        "name": "fra"
+    }, 
+    "revision_id": "e5b5d80a-7b4c-4ed0-bab3-1500ec4c148e", 
+    "identifier": "", 
+    "version_description": ""
+}

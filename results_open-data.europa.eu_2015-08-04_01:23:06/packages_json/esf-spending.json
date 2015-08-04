@@ -1,0 +1,175 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 9, 
+    "geographical_coverage": [], 
+    "metadata_language": "http://publications.europa.eu/resource/authority/language/ENG", 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "ESF projects", 
+            "name": "ESF projects", 
+            "revision_timestamp": "2015-03-26T07:52:29.439800", 
+            "state": "active", 
+            "id": "a610e9f8-298c-4b76-b03b-d866738672cb"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "budget execution", 
+            "name": "budget execution", 
+            "revision_timestamp": "2015-03-26T07:52:29.439800", 
+            "state": "active", 
+            "id": "acf2d5a9-616e-4fcb-9b3b-2c6316815e84"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "co-financed operations", 
+            "name": "co-financed operations", 
+            "revision_timestamp": "2015-03-26T07:52:29.439800", 
+            "state": "active", 
+            "id": "8b092b0e-9c49-4fb2-801f-1c29a5ac9644"
+        }
+    ], 
+    "contact_name": "", 
+    "id": "dae5001f-de1f-4ce0-bfae-678285f42bed", 
+    "metadata_created": "2015-07-27T17:02:57.521888", 
+    "capacity": null, 
+    "metadata_modified": "2015-07-27T17:02:57.522924", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": "", 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/2298", 
+            "name": "http://eurovoc.europa.eu/2298", 
+            "revision_timestamp": "2015-03-26T07:52:29.439800", 
+            "state": "active", 
+            "id": "3ce9e3f5-9765-4a25-aef1-bdc0f53513c8"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1005", 
+            "name": "http://eurovoc.europa.eu/1005", 
+            "revision_timestamp": "2015-03-26T07:52:29.439800", 
+            "state": "active", 
+            "id": "b3a1c968-9077-48fc-95de-50637d54adb7"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/5050", 
+            "name": "http://eurovoc.europa.eu/5050", 
+            "revision_timestamp": "2015-03-26T07:52:29.439800", 
+            "state": "active", 
+            "id": "4a61f94a-aeff-4db0-abd7-9cf2a214bd5f"
+        }, 
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4056", 
+            "name": "http://eurovoc.europa.eu/4056", 
+            "revision_timestamp": "2015-03-26T07:52:29.439800", 
+            "state": "active", 
+            "id": "1f19ed5c-633f-42d3-8376-fea6e924822a"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "resource_group_id": "7a0c38b6-568e-4add-b4d6-504d0c855c89", 
+            "revision_timestamp": "2013-12-17T15:38:24.910265", 
+            "datastore_active": false, 
+            "id": "05c15a9f-ef17-421a-9ecf-58080b53a939", 
+            "size": "46660", 
+            "state": "active", 
+            "hash": "", 
+            "description": "Graphs: ESF spending per country", 
+            "format": "application/pdf", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "last_modified": "2012-09-05T17:06:32.704106", 
+            "url_type": null, 
+            "mimetype": "application/pdf", 
+            "cache_url": null, 
+            "name": "Graphs: ESF spending per country", 
+            "created": "2012-09-05T17:06:30.949944", 
+            "url": "http://ec.europa.eu/esf/BlobServlet?docId=249&langId=en", 
+            "webstore_url": "", 
+            "mimetype_inner": "", 
+            "position": 0, 
+            "revision_id": "c11bb52a-e4a3-496d-86b1-5cfce403a92b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 1, 
+    "description": "European Social Fund - overview of budget execution by country. Spending for the current seven-year progarmming period, broken down into advances and interim payments.", 
+    "title": "ESF spending by country", 
+    "tracking_summary": {
+        "total": 427, 
+        "recent": 8
+    }, 
+    "contact_email": "", 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100144", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100144", 
+            "image_display_url": "", 
+            "id": "9ea8d460-827f-4f46-b5d0-3d16605878d7", 
+            "name": "eurovoc_domain_100144"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": "6901a961-47bd-49ee-a516-317ee26a7aaf", 
+    "interoperability_level": [
+        "http://open-data.europa.eu/kos/interoperability-level/Legal"
+    ], 
+    "revision_timestamp": "2015-07-27T17:02:57.521888", 
+    "name": "esf-spending", 
+    "language": [], 
+    "alternative_title": "", 
+    "accrual_periodicity": "", 
+    "owner_org": "df3ec348-3037-4535-9fb8-5d265ce53e6d", 
+    "contact_address": "", 
+    "contact_telephone": "", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "", 
+    "url": "http://ec.europa.eu/esf/main.jsp?catId=440&langId=en#opt3", 
+    "organization": {
+        "description": "", 
+        "title": "Directorate-General for Employment, Social Affairs and Inclusion", 
+        "created": "2012-12-12T13:50:50.092035", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:50.066096", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "b7fecf11-69cc-4b3d-99bb-d87bc21885bb", 
+        "type": "organization", 
+        "id": "df3ec348-3037-4535-9fb8-5d265ce53e6d", 
+        "name": "empl"
+    }, 
+    "revision_id": "bbcb1e61-a7c6-4053-a888-8e748963c841", 
+    "identifier": "", 
+    "version_description": ""
+}

@@ -1,0 +1,261 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2013", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 7, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "balance of payments", 
+            "name": "balance of payments", 
+            "revision_timestamp": "2014-12-22T09:30:50.035804", 
+            "state": "active", 
+            "id": "57dde1e2-f3f5-4622-bc2b-8cfcbf6e6e2c"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "export", 
+            "name": "export", 
+            "revision_timestamp": "2014-12-22T09:30:50.035804", 
+            "state": "active", 
+            "id": "ec24168f-84a3-4674-8b76-f305e6f23d95"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "international trade", 
+            "name": "international trade", 
+            "revision_timestamp": "2014-12-22T09:30:50.035804", 
+            "state": "active", 
+            "id": "c76b37f3-b1e7-42b8-8a30-1f8c636b8784"
+        }, 
+        {
+            "vocabulary_id": null, 
+            "display_name": "service", 
+            "name": "service", 
+            "revision_timestamp": "2014-12-22T09:30:50.035804", 
+            "state": "active", 
+            "id": "e6cbb8ef-8881-4a6f-a8ee-314de6b906f0"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "118b5567-9443-4423-8e44-8d63029c935d", 
+    "metadata_created": "2014-12-22T09:30:50.035804", 
+    "modified_date": "2014-06-06", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T08:59:51.885977", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/4671", 
+            "name": "http://eurovoc.europa.eu/4671", 
+            "revision_timestamp": "2015-03-03T17:11:21.212455", 
+            "state": "active", 
+            "id": "3afe1f42-9f55-4b7e-8d37-1053df2293ea"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00080.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T10:59:52.040990", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T08:59:51.880606", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "16a956ff-a7cd-4b2a-a1cc-e82f7c843d3d", 
+            "size": null, 
+            "resource_group_id": "ebf457ca-465f-4708-9dbd-285804c0641b", 
+            "id": "7d27c80c-981c-424a-b712-9cc3cb57f590", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00080.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T10:59:52.040997", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T08:59:51.880606", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "16a956ff-a7cd-4b2a-a1cc-e82f7c843d3d", 
+            "size": null, 
+            "resource_group_id": "ebf457ca-465f-4708-9dbd-285804c0641b", 
+            "id": "659e437f-9e9e-4428-b508-5edf9ae0fe8b", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "bop_q_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/bop_q_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T10:59:52.040940", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T08:59:51.880606", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "16a956ff-a7cd-4b2a-a1cc-e82f7c843d3d", 
+            "size": null, 
+            "resource_group_id": "ebf457ca-465f-4708-9dbd-285804c0641b", 
+            "id": "514dfb26-7143-4cff-b1e1-ccee4b87278a", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/bop_q_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T10:59:52.040974", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T08:59:51.880606", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "16a956ff-a7cd-4b2a-a1cc-e82f7c843d3d", 
+            "size": null, 
+            "resource_group_id": "ebf457ca-465f-4708-9dbd-285804c0641b", 
+            "id": "ae6da2e4-f72d-41ba-afdb-74ce0b350a81", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00080", 
+            "datastore_active": false, 
+            "created": "2015-08-03T10:59:52.040982", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T08:59:51.880606", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "16a956ff-a7cd-4b2a-a1cc-e82f7c843d3d", 
+            "size": null, 
+            "resource_group_id": "ebf457ca-465f-4708-9dbd-285804c0641b", 
+            "id": "4435ccf7-78ea-48b7-b191-2eb315ca1aa5", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "The balance of payments is a record of a country's international transactions with the rest of the world. It is composed of the current account and the capital and financial account. The current account is itself subdivided into goods, services, income, and current transfers; it registers the value of exports (credits) and imports (debits). The difference between these two values is the \"balance\". Data are for EU25 until 2003 and for EU27 as from 2004.", 
+    "title": "EU international exports of services", 
+    "temporal_coverage_from": "2003", 
+    "tracking_summary": {
+        "total": 38, 
+        "recent": 1
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100146", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100146", 
+            "image_display_url": "", 
+            "id": "9cfab07a-710c-4c8f-8810-1a45fe188e86", 
+            "name": "eurovoc_domain_100146"
+        }, 
+        {
+            "display_name": "http://eurovoc.europa.eu/100148", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100148", 
+            "image_display_url": "", 
+            "id": "df05c5fd-6a88-4293-a8e5-68c237a6ba5f", 
+            "name": "eurovoc_domain_100148"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T09:30:50.035804", 
+    "name": "2tfsgJlVNS6MxvX2LlZIw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/tec00080", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/tec00080\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100148\"/>\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100146\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/4671\"/>\n    <dct:title xml:lang=\"en\">EU international exports of services</dct:title>\n    <dct:title xml:lang=\"fr\">Exportations internationales de services de l'UE</dct:title>\n    <dct:title xml:lang=\"de\">Internationale Dienstleistungsexporte der EU</dct:title>\n    <ecodp:keyword xml:lang=\"en\">international trade</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">balance of payments</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">export</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"en\">service</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">commerce international</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">balance des paiements</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">exportation</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">service</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">internationaler Handel</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Zahlungsbilanz</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Ausfuhr</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Dienstleistung</ecodp:keyword>\n    <dct:identifier>tec00080</dct:identifier>\n    <dct:description xml:lang=\"en\">The balance of payments is a record of a country's international transactions with the rest of the world. It is composed of the current account and the capital and financial account. The current account is itself subdivided into goods, services, income, and current transfers; it registers the value of exports (credits) and imports (debits). The difference between these two values is the \"balance\". Data are for EU25 until 2003 and for EU27 as from 2004.</dct:description>\n    <dct:description xml:lang=\"fr\">La balance des paiements enregistre toutes les op&#233;rations internationales d'un pays donn&#233; avec le reste du monde. Elle comporte la balance des transactions courantes et la balance des investissements et autres op&#233;rations en capital. La balance des transactions courantes se subdivise elle-m&#234;me en biens, services, revenus et transferts courants; elle enregistre la valeur des exportations (cr&#233;dits) et des importations (d&#233;bits). La diff&#233;rence entre ces deux valeurs est le \"solde\".Les donn&#233;es font r&#233;f&#233;rence &#224; l'UE25 jusqu'en 2003, et &#224; l'UE27 &#224; partir de 2004.</dct:description>\n    <dct:description xml:lang=\"de\">Die Zahlungsbilanz stellt die internationalen Transaktionen eines Landes mit der &#252;brigen Welt dar. Sie setzt sich aus Leistungs-, Verm&#246;gens&#252;bertragungs- und Kapitalbilanz zusammen. Die Leistungsbilanz gliedert sich ihrerseits nach Waren, Dienstleistungen, Einkommen und laufenden &#220;bertragungen; sie misst den Wert der Ausfuhren (Credit) und Einfuhren (Debet). Aus der Differenz der beiden Werte ergibt sich das Saldo. Die Daten beziehen sich bis 2003 auf die EU25, und ab 2004 auf die EU27.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/bop_q_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/bop_q_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/tec00080</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00080.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/tec00080.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2014-06-06</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2003</ecodp:periodStart>\n        <ecodp:periodEnd>2013</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/2tfsgJlVNS6MxvX2LlZIw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/tec00080</foaf:primaryTopic><dct:modified>2015-07-31T07:38:17.874570</dct:modified><dct:issued>2014-12-22T09:30:50.035804</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "f7fe96eb-17e9-4931-9188-5eef62229ce0", 
+    "identifier": "tec00080"
+}

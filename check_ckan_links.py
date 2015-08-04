@@ -183,7 +183,7 @@ with open('packages.csv', 'w') as ALL_OUT:
                     # Try to download the URL and write relevant data to
                     # failed_resources.csv if it fails
                     try:
-                        r = session.get(resource['url'], timeout=20)
+                        r = session.get(resource['url'], timeout=60)
                     except (socket.timeout,
                             requests.exceptions.Timeout,
                             requests.exceptions.InvalidURL,

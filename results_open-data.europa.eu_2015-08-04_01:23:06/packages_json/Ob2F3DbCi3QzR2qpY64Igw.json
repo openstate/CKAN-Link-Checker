@@ -1,0 +1,229 @@
+{
+    "temporal_granularity": [], 
+    "license_title": "Legal Notice", 
+    "maintainer": null, 
+    "relationships_as_object": [], 
+    "temporal_coverage_to": "2015-06", 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": 4, 
+    "geographical_coverage": [], 
+    "keywords": [
+        {
+            "vocabulary_id": null, 
+            "display_name": "harmonised unemployment", 
+            "name": "harmonised unemployment", 
+            "revision_timestamp": "2014-12-22T07:56:28.376263", 
+            "state": "active", 
+            "id": "99c26246-b18e-43c4-906f-6ce55ad6fed6"
+        }
+    ], 
+    "contact_name": "Eurostat, the statistical office of the European Union", 
+    "id": "63cfc085-7360-4f95-a79b-de024a02b3a7", 
+    "metadata_created": "2014-12-22T07:56:28.376263", 
+    "modified_date": "2015-07-31", 
+    "capacity": null, 
+    "metadata_modified": "2015-08-03T10:51:24.348059", 
+    "author": null, 
+    "author_email": null, 
+    "isopen": true, 
+    "type_of_dataset": [
+        "http://open-data.europa.eu/kos/dataset-type/Statistical"
+    ], 
+    "relationships_as_subject": [], 
+    "state": "active", 
+    "version": null, 
+    "concepts_eurovoc": [
+        {
+            "vocabulary_id": "dbfd15ac-a514-4fa0-b3ef-1167c493b831", 
+            "display_name": "http://eurovoc.europa.eu/1802", 
+            "name": "http://eurovoc.europa.eu/1802", 
+            "revision_timestamp": "2015-03-03T16:56:25.371170", 
+            "state": "active", 
+            "id": "01b42e14-0e3e-412b-bbaa-420e17766787"
+        }
+    ], 
+    "license_id": "http://open-data.europa.eu/kos/licence/EuropeanCommission", 
+    "type": "dataset", 
+    "resources": [
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in TSV format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teilm012.tsv.gz", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:51:24.407168", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:51:24.347015", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 3, 
+            "revision_id": "e1fd7e01-ba84-4115-88e5-74e7e1abcde3", 
+            "size": null, 
+            "resource_group_id": "3a5fe0a9-84a7-4e9b-b71e-a383d696b5db", 
+            "id": "e54341b5-cd37-4161-8f40-02e0764b5c5f", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "Download dataset in SDMX-ML format", 
+            "format": "application/zip", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teilm012.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:51:24.407175", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:51:24.347015", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 4, 
+            "revision_id": "e1fd7e01-ba84-4115-88e5-74e7e1abcde3", 
+            "size": null, 
+            "resource_group_id": "3a5fe0a9-84a7-4e9b-b71e-a383d696b5db", 
+            "id": "d937eb91-ed19-47e9-969f-50eb378618dd", 
+            "resource_type": "http://www.w3.org/TR/vocab-dcat#Download", 
+            "name": null
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "une_esms.htm", 
+            "format": "text/html", 
+            "url": "http://ec.europa.eu/eurostat/cache/metadata/en/une_esms.htm", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:51:24.407122", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:51:24.347015", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 0, 
+            "revision_id": "e1fd7e01-ba84-4115-88e5-74e7e1abcde3", 
+            "size": null, 
+            "resource_group_id": "3a5fe0a9-84a7-4e9b-b71e-a383d696b5db", 
+            "id": "e94f9a6e-29b6-425c-a0eb-f613f2d4a6e4", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/MainDocumentation", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) HTML"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/une_esms.sdmx.zip", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:51:24.407152", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:51:24.347015", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 1, 
+            "revision_id": "e1fd7e01-ba84-4115-88e5-74e7e1abcde3", 
+            "size": null, 
+            "resource_group_id": "3a5fe0a9-84a7-4e9b-b71e-a383d696b5db", 
+            "id": "bf4081b6-32e7-484c-8d85-869caf0cb93b", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "ESMS metadata (Euro-SDMX Metadata structure) SDMX"
+        }, 
+        {
+            "mimetype": null, 
+            "cache_url": null, 
+            "hash": "", 
+            "description": "", 
+            "format": "", 
+            "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teilm012", 
+            "datastore_active": false, 
+            "created": "2015-08-03T12:51:24.407161", 
+            "tracking_summary": {
+                "total": 0, 
+                "recent": 0
+            }, 
+            "webstore_url": null, 
+            "revision_timestamp": "2015-08-03T10:51:24.347015", 
+            "state": "active", 
+            "mimetype_inner": null, 
+            "url_type": null, 
+            "position": 2, 
+            "revision_id": "e1fd7e01-ba84-4115-88e5-74e7e1abcde3", 
+            "size": null, 
+            "resource_group_id": "3a5fe0a9-84a7-4e9b-b71e-a383d696b5db", 
+            "id": "c7c6aacc-7e15-4b34-85d3-b2992097f557", 
+            "resource_type": "http://open-data.europa.eu/kos/documentation-type/RelatedWebPage", 
+            "name": "More information on Eurostat Website"
+        }
+    ], 
+    "status": [
+        "http://open-data.europa.eu/kos/dataset-status/Completed"
+    ], 
+    "num_resources": 5, 
+    "description": "Unemployed persons comprise here persons aged 25 to 74 who were without work during the reference week, were currently available for work and were either actively seeking work in the past four weeks or had already found a job to start within the next three months.", 
+    "title": "Harmonised unemployment by sex - age group 25-74", 
+    "temporal_coverage_from": "2014-07", 
+    "tracking_summary": {
+        "total": 15, 
+        "recent": 2
+    }, 
+    "groups": [
+        {
+            "display_name": "http://eurovoc.europa.eu/100153", 
+            "description": "", 
+            "title": "http://eurovoc.europa.eu/100153", 
+            "image_display_url": "", 
+            "id": "b25b08d6-317d-45fa-8cca-f877dd344d8d", 
+            "name": "eurovoc_domain_100153"
+        }
+    ], 
+    "creator_user_id": null, 
+    "interoperability_level": [], 
+    "revision_timestamp": "2014-12-22T07:56:28.376263", 
+    "name": "Ob2F3DbCi3QzR2qpY64Igw", 
+    "language": [], 
+    "url": "http://ec.europa.eu/eurostat/web/products-datasets/-/teilm012", 
+    "owner_org": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+    "contact_address": "Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg", 
+    "contact_telephone": " +352 430136789", 
+    "rdf": "<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\" xmlns:ecodp=\"http://open-data.europa.eu/ontologies/ec-odp#\" xmlns:foaf=\"http://xmlns.com/foaf/0.1/\" xmlns:dct=\"http://purl.org/dc/terms/\" xmlns:skos=\"http://www.w3.org/2004/02/skos/core#\" xmlns:dcat=\"http://www.w3.org/ns/dcat#\">\n  <dcat:Dataset rdf:about=\"http://ec.europa.eu/eurostat/web/products-datasets/-/teilm012\">\n    <dct:subject rdf:resource=\"http://eurovoc.europa.eu/100153\"/>\n    <dcat:theme rdf:resource=\"http://eurovoc.europa.eu/1802\"/>\n    <dct:title xml:lang=\"en\">Harmonised unemployment by sex - age group 25-74</dct:title>\n    <dct:title xml:lang=\"fr\">Ch&#244;mage harmonis&#233; par sexe - classe d'&#226;ge 25-74</dct:title>\n    <dct:title xml:lang=\"de\">Harmonisierte Arbeitslosigkeit nach Geschlecht - Alter 25-74</dct:title>\n    <ecodp:keyword xml:lang=\"en\">harmonised unemployment</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">march&#233; du travail</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">statistique de l'emploi</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"fr\">chomage</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Arbeitsmarkt</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Arbeitsmarktstatistik</ecodp:keyword>\n    <ecodp:keyword xml:lang=\"de\">Arbeitslosigkeit</ecodp:keyword>\n    <dct:identifier>teilm012</dct:identifier>\n    <dct:description xml:lang=\"en\">Unemployed persons comprise here persons aged 25 to 74 who were without work during the reference week, were currently available for work and were either actively seeking work in the past four weeks or had already found a job to start within the next three months.</dct:description>\n    <dct:description xml:lang=\"fr\">Les ch&#244;meurs comprennent ici les personnes &#226;g&#233;s de 25 &#224; 74 ans qui &#233;taient sans travail pendant la semaine de r&#233;f&#233;rence, qui &#233;taient disponibles pour travailler, et qui soit &#233;taient &#224; la recherche active d'un travail pendant les quatre semaines pr&#233;c&#233;dentes, soit qui avaient trouv&#233; un travail &#224; commencer dans les trois mois suivants.</dct:description>\n    <dct:description xml:lang=\"de\">Zu den Arbeitslosen z&#228;hlen hier Personen im Alter zwischen 25 und 74 Jahren, die in der Berichtswoche ohne Arbeit waren, f&#252;r eine Arbeit sofort verf&#252;gbar waren und in den vergangenen vier Wochen aktiv auf Arbeitssuche waren oder eine Arbeit gefunden hatten, die sie innerhalb der n&#228;chsten drei Monate aufnehmen w&#252;rden.</dct:description>\n    <ecodp:datasetType>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-type/Statistical\"/>\n    </ecodp:datasetType>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/MainDocumentation\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) HTML</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/cache/metadata/en/une_esms.htm</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">ESMS metadata (Euro-SDMX Metadata structure) SDMX</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=metadata/en/une_esms.sdmx.zip</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <ecodp:isDocumentedBy rdf:parseType=\"Resource\">\n      <ecodp:documentationType>\n        <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/documentation-type/RelatedWebPage\"/>\n      </ecodp:documentationType>\n      <dct:title xml:lang=\"en\">More information on Eurostat Website</dct:title>\n      <dct:title xml:lang=\"fr\">Plus dinformation sur le site web dEurostat</dct:title>\n      <dct:title xml:lang=\"de\">Mehr Informationen auf der Eurostat Website</dct:title>\n      <ecodp:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/web/products-datasets/-/teilm012</ecodp:accessURL>\n    </ecodp:isDocumentedBy>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teilm012.tsv.gz</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in TSV format</dct:description>\n      <ecodp:distributionFormat>application/x-gzip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dcat:distribution rdf:parseType=\"Resource\">\n      <dcat:accessURL rdf:datatype=\"http://www.w3.org/2001/XMLSchema#anyURI\">http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?file=data/teilm012.sdmx.zip</dcat:accessURL>\n      <rdf:type rdf:resource=\"http://www.w3.org/TR/vocab-dcat#Download\"/>\n      <dct:description xml:lang=\"en\">Download dataset in SDMX-ML format</dct:description>\n      <ecodp:distributionFormat>application/zip</ecodp:distributionFormat>\n    </dcat:distribution>\n    <dct:modified>2015-07-31</dct:modified>\n    <dct:publisher>\n      <skos:Concept rdf:about=\"http://publications.europa.eu/resource/authority/corporate-body/ESTAT\"/>\n    </dct:publisher>\n    <ecodp:contactPoint>\n      <foaf:Agent rdf:about=\"http://ec.europa.eu/dgs/information_society\">\n        <foaf:phone rdf:resource=\"tel: +352 430136789\"/>\n        <foaf:workplaceHomepage rdf:resource=\"http://ec.europa.eu/eurostat/help/support\"/>\n        <ecodp:contactAddress xml:lang=\"en\">Joseph Bech building, 5 Rue Alphonse Weicker, L-2721 Luxembourg</ecodp:contactAddress>\n        <foaf:name xml:lang=\"en\">Eurostat, the statistical office of the European Union</foaf:name>\n      </foaf:Agent>\n    </ecodp:contactPoint>\n    <dct:license>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/licence/EuropeanCommission\"/>\n    </dct:license>\n    <ecodp:datasetStatus>\n      <skos:Concept rdf:about=\"http://open-data.europa.eu/kos/dataset-status/Completed\"/>\n    </ecodp:datasetStatus>\n    <dct:temporal>\n      <dct:PeriodOfTime>\n        <ecodp:periodStart>2014-07</ecodp:periodStart>\n        <ecodp:periodEnd>2015-06</ecodp:periodEnd>\n      </dct:PeriodOfTime>\n    </dct:temporal>\n  </dcat:Dataset>\n<dcat:Catalog xmlns:foaf=\"http://xmlns.com/foaf/0.1/#\" xmlns:dct=\"http://purl.org/dc/terms/#\" rdf:about=\"http://open-data.europa.eu/\"><dcat:record><dcat:CatalogRecord rdf:about=\"http://open-data.europa.eu/data/dataset/Ob2F3DbCi3QzR2qpY64Igw\"><foaf:primaryTopic>http://ec.europa.eu/eurostat/web/products-datasets/-/teilm012</foaf:primaryTopic><dct:modified>2015-07-31T07:55:52.477640</dct:modified><dct:issued>2014-12-22T07:56:28.376263</dct:issued></dcat:CatalogRecord></dcat:record></dcat:Catalog></rdf:RDF>", 
+    "license_url": "http://ec.europa.eu/geninfo/legal_notices_en.htm", 
+    "contact_webpage": "http://ec.europa.eu/eurostat/help/support", 
+    "organization": {
+        "description": "", 
+        "title": "Eurostat", 
+        "created": "2012-12-12T13:50:52.627310", 
+        "approval_status": "approved", 
+        "revision_timestamp": "2012-12-12T12:50:52.601223", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "", 
+        "revision_id": "c9dbca7b-695f-4247-a5b5-0ae1818f9d53", 
+        "type": "organization", 
+        "id": "9c0d04b1-a494-4f70-80b2-54024b6f8b0c", 
+        "name": "estat"
+    }, 
+    "revision_id": "c95ef17f-85ad-4a01-bc0f-d874ad005584", 
+    "identifier": "teilm012"
+}
